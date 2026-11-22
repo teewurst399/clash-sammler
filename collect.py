@@ -59,18 +59,25 @@ def auto_token(email, password):
 
 
 def get(path):
+    """Fehler (Wartungsarbeiten, Zeitüberschreitung …) bringen nie den ganzen Lauf zum Absturz."""
     req = urllib.request.Request(API + path, headers={"Authorization": f"Bearer {TOKEN}"})
     for attempt in range(4):
         try:
             with urllib.request.urlopen(req, timeout=20) as r:
                 return json.load(r)
         except urllib.error.HTTPError as e:
-            if e.code == 429:
-                time.sleep(1 + attempt)
+            if e.code in (429, 500, 502, 503, 504) and attempt < 3:
+                time.sleep(2 + 2 * attempt)
                 continue
-            if e.code in (403, 404):
-                return {"_error": e.code}
-            raise
+            if e.code == 503:
+                print(f"  API antwortet nicht (503 – vermutlich Wartungsarbeiten): {path}")
+            return {"_error": e.code}
+        except Exception as e:                       # Netzwerk, Zeitüberschreitung, kaputtes JSON
+            if attempt < 3:
+                time.sleep(2 + 2 * attempt)
+                continue
+            print(f"  Abfrage fehlgeschlagen ({type(e).__name__}): {path}")
+            return {"_error": "netz"}
     return {"_error": 429}
 
 
@@ -319,7 +326,12 @@ def main():
     email, password = os.environ.get("COC_EMAIL"), os.environ.get("COC_PASSWORD")
     if not email or not password:
         sys.exit("COC_EMAIL / COC_PASSWORD fehlen (GitHub-Secrets).")
-    TOKEN = auto_token(email, password)
+    try:
+        TOKEN = auto_token(email, password)
+    except urllib.error.HTTPError as e:
+        body = e.read().decode("utf-8", "replace")[:300]
+        sys.exit(f"Login/API-Key bei developer.clashofclans.com fehlgeschlagen ({e.code}): {body}\n"
+                 "Häufige Ursache: zu viele API-Keys (max. 10). Auf developer.clashofclans.com alte Keys löschen.")
     with open(os.path.join(HERE, "clans.json"), encoding="utf-8") as f:
         cfg = json.load(f)
     clans = resolve(cfg["clans"])                     # eigene Clans: Mitglieder werden verfolgt
@@ -331,8 +343,12 @@ def main():
     print(f"{len(players)} Spieler verfolgt, {len(away)} Clans mit Auswärts-Spielern.")
 
     def work(clan):
-        war = collect_war(clan)
-        collect_cwl(clan)
+        try:
+            war = collect_war(clan)
+            collect_cwl(clan)
+        except Exception as e:                       # ein kaputter Clan stoppt nicht den ganzen Lauf
+            print(f"  {clan.get('name', clan['tag'])}: Fehler {type(e).__name__}: {e}")
+            return None
         if war and war.get("state") == "inWar":
             left = (parse_time(war["endTime"]) - datetime.now(timezone.utc)).total_seconds()
             if 0 < left < MAX_WAIT:
