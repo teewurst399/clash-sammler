@@ -1,5 +1,5 @@
 {
- "quelle": "ClashSpot Angriffslisten 2026 (alle Clans inkl. auswärts), nur gleiches Rathaus, ohne verpasste Angriffe, Farmhits (0–1 Stern unter 55 %) entfernt, ohne Freundschaftskriege",
+ "quelle": "ClashSpot Angriffslisten 2026 (alle Clans inkl. auswärts), nur gleiches Rathaus (aufgeteilt nach Rathaus), ohne verpasste Angriffe, Farmhits (0–1 Stern unter 55 %) entfernt, ohne Freundschaftskriege",
  "stand": "2026-11-22",
  "spieler": {
   "#20YVJUG0J": {
@@ -8,35 +8,73 @@
    "th": 19,
    "cw30": {
     "th": 19,
-    "triples": 5,
     "hits": 8,
+    "triples": 5,
     "stars": 21,
     "avg_stars": 2.625,
-    "triple_rate": 62.5
+    "triple_rate": 62.5,
+    "by_th": {
+     "18": {
+      "hits": 6,
+      "triples": 4,
+      "stars": 16
+     },
+     "19": {
+      "hits": 2,
+      "triples": 1,
+      "stars": 5
+     }
+    }
    },
    "cw180": {
     "th": 19,
-    "triples": 38,
     "hits": 52,
+    "triples": 38,
     "stars": 140,
     "avg_stars": 2.692,
-    "triple_rate": 73.1
+    "triple_rate": 73.1,
+    "by_th": {
+     "18": {
+      "hits": 50,
+      "triples": 37,
+      "stars": 135
+     },
+     "19": {
+      "hits": 2,
+      "triples": 1,
+      "stars": 5
+     }
+    }
    },
    "cwl60": {
     "th": 19,
-    "triples": 12,
     "hits": 14,
+    "triples": 12,
     "stars": 40,
     "avg_stars": 2.857,
-    "triple_rate": 85.7
+    "triple_rate": 85.7,
+    "by_th": {
+     "18": {
+      "hits": 14,
+      "triples": 12,
+      "stars": 40
+     }
+    }
    },
    "cwl180": {
     "th": 19,
-    "triples": 37,
     "hits": 40,
+    "triples": 37,
     "stars": 117,
     "avg_stars": 2.925,
-    "triple_rate": 92.5
+    "triple_rate": 92.5,
+    "by_th": {
+     "18": {
+      "hits": 40,
+      "triples": 37,
+      "stars": 117
+     }
+    }
    }
   },
   "#22VL22U80": {
@@ -45,35 +83,63 @@
    "th": 18,
    "cw30": {
     "th": 18,
-    "triples": 1,
     "hits": 3,
+    "triples": 1,
     "stars": 7,
     "avg_stars": 2.333,
-    "triple_rate": 33.3
+    "triple_rate": 33.3,
+    "by_th": {
+     "18": {
+      "hits": 3,
+      "triples": 1,
+      "stars": 7
+     }
+    }
    },
    "cw180": {
     "th": 18,
-    "triples": 22,
     "hits": 29,
+    "triples": 22,
     "stars": 77,
     "avg_stars": 2.655,
-    "triple_rate": 75.9
+    "triple_rate": 75.9,
+    "by_th": {
+     "18": {
+      "hits": 29,
+      "triples": 22,
+      "stars": 77
+     }
+    }
    },
    "cwl60": {
     "th": 18,
-    "triples": 8,
     "hits": 10,
+    "triples": 8,
     "stars": 28,
     "avg_stars": 2.8,
-    "triple_rate": 80.0
+    "triple_rate": 80.0,
+    "by_th": {
+     "18": {
+      "hits": 10,
+      "triples": 8,
+      "stars": 28
+     }
+    }
    },
    "cwl180": {
     "th": 18,
-    "triples": 39,
     "hits": 45,
+    "triples": 39,
     "stars": 129,
     "avg_stars": 2.867,
-    "triple_rate": 86.7
+    "triple_rate": 86.7,
+    "by_th": {
+     "18": {
+      "hits": 45,
+      "triples": 39,
+      "stars": 129
+     }
+    }
    }
   },
   "#28CVLRLU": {
@@ -82,35 +148,63 @@
    "th": 18,
    "cw30": {
     "th": 18,
-    "triples": 2,
     "hits": 2,
+    "triples": 2,
     "stars": 6,
     "avg_stars": 3.0,
-    "triple_rate": 100.0
+    "triple_rate": 100.0,
+    "by_th": {
+     "18": {
+      "hits": 2,
+      "triples": 2,
+      "stars": 6
+     }
+    }
    },
    "cw180": {
     "th": 18,
-    "triples": 3,
     "hits": 5,
+    "triples": 3,
     "stars": 13,
     "avg_stars": 2.6,
-    "triple_rate": 60.0
+    "triple_rate": 60.0,
+    "by_th": {
+     "18": {
+      "hits": 5,
+      "triples": 3,
+      "stars": 13
+     }
+    }
    },
    "cwl60": {
     "th": 18,
-    "triples": 12,
     "hits": 13,
+    "triples": 12,
     "stars": 38,
     "avg_stars": 2.923,
-    "triple_rate": 92.3
+    "triple_rate": 92.3,
+    "by_th": {
+     "18": {
+      "hits": 13,
+      "triples": 12,
+      "stars": 38
+     }
+    }
    },
    "cwl180": {
     "th": 18,
-    "triples": 23,
     "hits": 25,
+    "triples": 23,
     "stars": 73,
     "avg_stars": 2.92,
-    "triple_rate": 92.0
+    "triple_rate": 92.0,
+    "by_th": {
+     "18": {
+      "hits": 25,
+      "triples": 23,
+      "stars": 73
+     }
+    }
    }
   },
   "#28PLJ2RVR": {
@@ -119,35 +213,73 @@
    "th": 19,
    "cw30": {
     "th": 19,
-    "triples": 7,
     "hits": 8,
+    "triples": 7,
     "stars": 23,
     "avg_stars": 2.875,
-    "triple_rate": 87.5
+    "triple_rate": 87.5,
+    "by_th": {
+     "18": {
+      "hits": 6,
+      "triples": 6,
+      "stars": 18
+     },
+     "19": {
+      "hits": 2,
+      "triples": 1,
+      "stars": 5
+     }
+    }
    },
    "cw180": {
     "th": 19,
-    "triples": 69,
     "hits": 83,
+    "triples": 69,
     "stars": 234,
     "avg_stars": 2.819,
-    "triple_rate": 83.1
+    "triple_rate": 83.1,
+    "by_th": {
+     "18": {
+      "hits": 81,
+      "triples": 68,
+      "stars": 229
+     },
+     "19": {
+      "hits": 2,
+      "triples": 1,
+      "stars": 5
+     }
+    }
    },
    "cwl60": {
     "th": 19,
-    "triples": 12,
     "hits": 14,
+    "triples": 12,
     "stars": 40,
     "avg_stars": 2.857,
-    "triple_rate": 85.7
+    "triple_rate": 85.7,
+    "by_th": {
+     "18": {
+      "hits": 14,
+      "triples": 12,
+      "stars": 40
+     }
+    }
    },
    "cwl180": {
     "th": 19,
-    "triples": 35,
     "hits": 42,
+    "triples": 35,
     "stars": 118,
     "avg_stars": 2.81,
-    "triple_rate": 83.3
+    "triple_rate": 83.3,
+    "by_th": {
+     "18": {
+      "hits": 42,
+      "triples": 35,
+      "stars": 118
+     }
+    }
    }
   },
   "#28UGG2RY": {
@@ -156,27 +288,48 @@
    "th": 18,
    "cw180": {
     "th": 18,
-    "triples": 33,
     "hits": 35,
+    "triples": 33,
     "stars": 102,
     "avg_stars": 2.914,
-    "triple_rate": 94.3
+    "triple_rate": 94.3,
+    "by_th": {
+     "18": {
+      "hits": 35,
+      "triples": 33,
+      "stars": 102
+     }
+    }
    },
    "cwl60": {
     "th": 18,
-    "triples": 13,
     "hits": 13,
+    "triples": 13,
     "stars": 39,
     "avg_stars": 3.0,
-    "triple_rate": 100.0
+    "triple_rate": 100.0,
+    "by_th": {
+     "18": {
+      "hits": 13,
+      "triples": 13,
+      "stars": 39
+     }
+    }
    },
    "cwl180": {
     "th": 18,
-    "triples": 36,
     "hits": 40,
+    "triples": 36,
     "stars": 116,
     "avg_stars": 2.9,
-    "triple_rate": 90.0
+    "triple_rate": 90.0,
+    "by_th": {
+     "18": {
+      "hits": 40,
+      "triples": 36,
+      "stars": 116
+     }
+    }
    }
   },
   "#29PPYVGQP": {
@@ -185,35 +338,73 @@
    "th": 19,
    "cw30": {
     "th": 19,
-    "triples": 3,
     "hits": 6,
+    "triples": 3,
     "stars": 15,
     "avg_stars": 2.5,
-    "triple_rate": 50.0
+    "triple_rate": 50.0,
+    "by_th": {
+     "18": {
+      "hits": 4,
+      "triples": 2,
+      "stars": 10
+     },
+     "19": {
+      "hits": 2,
+      "triples": 1,
+      "stars": 5
+     }
+    }
    },
    "cw180": {
     "th": 19,
-    "triples": 33,
     "hits": 55,
+    "triples": 33,
     "stars": 140,
     "avg_stars": 2.545,
-    "triple_rate": 60.0
+    "triple_rate": 60.0,
+    "by_th": {
+     "18": {
+      "hits": 53,
+      "triples": 32,
+      "stars": 135
+     },
+     "19": {
+      "hits": 2,
+      "triples": 1,
+      "stars": 5
+     }
+    }
    },
    "cwl60": {
     "th": 19,
-    "triples": 8,
     "hits": 13,
+    "triples": 8,
     "stars": 33,
     "avg_stars": 2.538,
-    "triple_rate": 61.5
+    "triple_rate": 61.5,
+    "by_th": {
+     "18": {
+      "hits": 13,
+      "triples": 8,
+      "stars": 33
+     }
+    }
    },
    "cwl180": {
     "th": 19,
-    "triples": 21,
     "hits": 33,
+    "triples": 21,
     "stars": 86,
     "avg_stars": 2.606,
-    "triple_rate": 63.6
+    "triple_rate": 63.6,
+    "by_th": {
+     "18": {
+      "hits": 33,
+      "triples": 21,
+      "stars": 86
+     }
+    }
    }
   },
   "#2UJ8RRGUP": {
@@ -222,35 +413,63 @@
    "th": 18,
    "cw30": {
     "th": 18,
-    "triples": 4,
     "hits": 8,
+    "triples": 4,
     "stars": 20,
     "avg_stars": 2.5,
-    "triple_rate": 50.0
+    "triple_rate": 50.0,
+    "by_th": {
+     "18": {
+      "hits": 8,
+      "triples": 4,
+      "stars": 20
+     }
+    }
    },
    "cw180": {
     "th": 18,
-    "triples": 44,
     "hits": 61,
+    "triples": 44,
     "stars": 165,
     "avg_stars": 2.705,
-    "triple_rate": 72.1
+    "triple_rate": 72.1,
+    "by_th": {
+     "18": {
+      "hits": 61,
+      "triples": 44,
+      "stars": 165
+     }
+    }
    },
    "cwl60": {
     "th": 18,
-    "triples": 5,
     "hits": 12,
+    "triples": 5,
     "stars": 29,
     "avg_stars": 2.417,
-    "triple_rate": 41.7
+    "triple_rate": 41.7,
+    "by_th": {
+     "18": {
+      "hits": 12,
+      "triples": 5,
+      "stars": 29
+     }
+    }
    },
    "cwl180": {
     "th": 18,
-    "triples": 30,
     "hits": 40,
+    "triples": 30,
     "stars": 109,
     "avg_stars": 2.725,
-    "triple_rate": 75.0
+    "triple_rate": 75.0,
+    "by_th": {
+     "18": {
+      "hits": 40,
+      "triples": 30,
+      "stars": 109
+     }
+    }
    }
   },
   "#2UYG09GU2": {
@@ -259,35 +478,73 @@
    "th": 19,
    "cw30": {
     "th": 19,
-    "triples": 6,
     "hits": 8,
+    "triples": 6,
     "stars": 22,
     "avg_stars": 2.75,
-    "triple_rate": 75.0
+    "triple_rate": 75.0,
+    "by_th": {
+     "18": {
+      "hits": 6,
+      "triples": 5,
+      "stars": 17
+     },
+     "19": {
+      "hits": 2,
+      "triples": 1,
+      "stars": 5
+     }
+    }
    },
    "cw180": {
     "th": 19,
-    "triples": 23,
     "hits": 43,
+    "triples": 23,
     "stars": 106,
     "avg_stars": 2.465,
-    "triple_rate": 53.5
+    "triple_rate": 53.5,
+    "by_th": {
+     "18": {
+      "hits": 41,
+      "triples": 22,
+      "stars": 101
+     },
+     "19": {
+      "hits": 2,
+      "triples": 1,
+      "stars": 5
+     }
+    }
    },
    "cwl60": {
     "th": 19,
-    "triples": 6,
     "hits": 12,
+    "triples": 6,
     "stars": 30,
     "avg_stars": 2.5,
-    "triple_rate": 50.0
+    "triple_rate": 50.0,
+    "by_th": {
+     "18": {
+      "hits": 12,
+      "triples": 6,
+      "stars": 30
+     }
+    }
    },
    "cwl180": {
     "th": 19,
-    "triples": 29,
     "hits": 44,
+    "triples": 29,
     "stars": 114,
     "avg_stars": 2.591,
-    "triple_rate": 65.9
+    "triple_rate": 65.9,
+    "by_th": {
+     "18": {
+      "hits": 44,
+      "triples": 29,
+      "stars": 114
+     }
+    }
    }
   },
   "#8GR0P9UQL": {
@@ -296,35 +553,73 @@
    "th": 19,
    "cw30": {
     "th": 19,
-    "triples": 7,
     "hits": 7,
+    "triples": 7,
     "stars": 21,
     "avg_stars": 3.0,
-    "triple_rate": 100.0
+    "triple_rate": 100.0,
+    "by_th": {
+     "18": {
+      "hits": 5,
+      "triples": 5,
+      "stars": 15
+     },
+     "19": {
+      "hits": 2,
+      "triples": 2,
+      "stars": 6
+     }
+    }
    },
    "cw180": {
     "th": 19,
-    "triples": 48,
     "hits": 61,
+    "triples": 48,
     "stars": 166,
     "avg_stars": 2.721,
-    "triple_rate": 78.7
+    "triple_rate": 78.7,
+    "by_th": {
+     "18": {
+      "hits": 59,
+      "triples": 46,
+      "stars": 160
+     },
+     "19": {
+      "hits": 2,
+      "triples": 2,
+      "stars": 6
+     }
+    }
    },
    "cwl60": {
     "th": 19,
-    "triples": 9,
     "hits": 9,
+    "triples": 9,
     "stars": 27,
     "avg_stars": 3.0,
-    "triple_rate": 100.0
+    "triple_rate": 100.0,
+    "by_th": {
+     "18": {
+      "hits": 9,
+      "triples": 9,
+      "stars": 27
+     }
+    }
    },
    "cwl180": {
     "th": 19,
-    "triples": 33,
     "hits": 37,
+    "triples": 33,
     "stars": 105,
     "avg_stars": 2.838,
-    "triple_rate": 89.2
+    "triple_rate": 89.2,
+    "by_th": {
+     "18": {
+      "hits": 37,
+      "triples": 33,
+      "stars": 105
+     }
+    }
    }
   },
   "#8PCYJLLQ": {
@@ -333,19 +628,33 @@
    "th": 18,
    "cwl60": {
     "th": 18,
-    "triples": 6,
     "hits": 7,
+    "triples": 6,
     "stars": 20,
     "avg_stars": 2.857,
-    "triple_rate": 85.7
+    "triple_rate": 85.7,
+    "by_th": {
+     "18": {
+      "hits": 7,
+      "triples": 6,
+      "stars": 20
+     }
+    }
    },
    "cwl180": {
     "th": 18,
-    "triples": 26,
     "hits": 27,
+    "triples": 26,
     "stars": 80,
     "avg_stars": 2.963,
-    "triple_rate": 96.3
+    "triple_rate": 96.3,
+    "by_th": {
+     "18": {
+      "hits": 27,
+      "triples": 26,
+      "stars": 80
+     }
+    }
    }
   },
   "#90U88CR": {
@@ -354,35 +663,73 @@
    "th": 19,
    "cw30": {
     "th": 19,
-    "triples": 12,
     "hits": 14,
+    "triples": 12,
     "stars": 39,
     "avg_stars": 2.786,
-    "triple_rate": 85.7
+    "triple_rate": 85.7,
+    "by_th": {
+     "18": {
+      "hits": 12,
+      "triples": 11,
+      "stars": 34
+     },
+     "19": {
+      "hits": 2,
+      "triples": 1,
+      "stars": 5
+     }
+    }
    },
    "cw180": {
     "th": 19,
-    "triples": 57,
     "hits": 80,
+    "triples": 57,
     "stars": 206,
     "avg_stars": 2.575,
-    "triple_rate": 71.2
+    "triple_rate": 71.2,
+    "by_th": {
+     "18": {
+      "hits": 78,
+      "triples": 56,
+      "stars": 201
+     },
+     "19": {
+      "hits": 2,
+      "triples": 1,
+      "stars": 5
+     }
+    }
    },
    "cwl60": {
     "th": 19,
-    "triples": 13,
     "hits": 14,
+    "triples": 13,
     "stars": 41,
     "avg_stars": 2.929,
-    "triple_rate": 92.9
+    "triple_rate": 92.9,
+    "by_th": {
+     "18": {
+      "hits": 14,
+      "triples": 13,
+      "stars": 41
+     }
+    }
    },
    "cwl180": {
     "th": 19,
-    "triples": 31,
     "hits": 36,
+    "triples": 31,
     "stars": 102,
     "avg_stars": 2.833,
-    "triple_rate": 86.1
+    "triple_rate": 86.1,
+    "by_th": {
+     "18": {
+      "hits": 36,
+      "triples": 31,
+      "stars": 102
+     }
+    }
    }
   },
   "#98GV90GCV": {
@@ -391,35 +738,73 @@
    "th": 19,
    "cw30": {
     "th": 19,
-    "triples": 6,
     "hits": 6,
+    "triples": 6,
     "stars": 18,
     "avg_stars": 3.0,
-    "triple_rate": 100.0
+    "triple_rate": 100.0,
+    "by_th": {
+     "18": {
+      "hits": 4,
+      "triples": 4,
+      "stars": 12
+     },
+     "19": {
+      "hits": 2,
+      "triples": 2,
+      "stars": 6
+     }
+    }
    },
    "cw180": {
     "th": 19,
-    "triples": 27,
     "hits": 27,
+    "triples": 27,
     "stars": 81,
     "avg_stars": 3.0,
-    "triple_rate": 100.0
+    "triple_rate": 100.0,
+    "by_th": {
+     "18": {
+      "hits": 25,
+      "triples": 25,
+      "stars": 75
+     },
+     "19": {
+      "hits": 2,
+      "triples": 2,
+      "stars": 6
+     }
+    }
    },
    "cwl60": {
     "th": 19,
-    "triples": 13,
     "hits": 14,
+    "triples": 13,
     "stars": 41,
     "avg_stars": 2.929,
-    "triple_rate": 92.9
+    "triple_rate": 92.9,
+    "by_th": {
+     "18": {
+      "hits": 14,
+      "triples": 13,
+      "stars": 41
+     }
+    }
    },
    "cwl180": {
     "th": 19,
-    "triples": 45,
     "hits": 49,
+    "triples": 45,
     "stars": 143,
     "avg_stars": 2.918,
-    "triple_rate": 91.8
+    "triple_rate": 91.8,
+    "by_th": {
+     "18": {
+      "hits": 49,
+      "triples": 45,
+      "stars": 143
+     }
+    }
    }
   },
   "#9L28CPJ29": {
@@ -428,27 +813,48 @@
    "th": 18,
    "cw180": {
     "th": 18,
-    "triples": 6,
     "hits": 10,
+    "triples": 6,
     "stars": 25,
     "avg_stars": 2.5,
-    "triple_rate": 60.0
+    "triple_rate": 60.0,
+    "by_th": {
+     "18": {
+      "hits": 10,
+      "triples": 6,
+      "stars": 25
+     }
+    }
    },
    "cwl60": {
     "th": 18,
-    "triples": 7,
     "hits": 7,
+    "triples": 7,
     "stars": 21,
     "avg_stars": 3.0,
-    "triple_rate": 100.0
+    "triple_rate": 100.0,
+    "by_th": {
+     "18": {
+      "hits": 7,
+      "triples": 7,
+      "stars": 21
+     }
+    }
    },
    "cwl180": {
     "th": 18,
-    "triples": 22,
     "hits": 27,
+    "triples": 22,
     "stars": 75,
     "avg_stars": 2.778,
-    "triple_rate": 81.5
+    "triple_rate": 81.5,
+    "by_th": {
+     "18": {
+      "hits": 27,
+      "triples": 22,
+      "stars": 75
+     }
+    }
    }
   },
   "#9P880J2P": {
@@ -457,35 +863,73 @@
    "th": 19,
    "cw30": {
     "th": 19,
-    "triples": 6,
     "hits": 6,
+    "triples": 6,
     "stars": 18,
     "avg_stars": 3.0,
-    "triple_rate": 100.0
+    "triple_rate": 100.0,
+    "by_th": {
+     "18": {
+      "hits": 4,
+      "triples": 4,
+      "stars": 12
+     },
+     "19": {
+      "hits": 2,
+      "triples": 2,
+      "stars": 6
+     }
+    }
    },
    "cw180": {
     "th": 19,
-    "triples": 42,
     "hits": 44,
+    "triples": 42,
     "stars": 129,
     "avg_stars": 2.932,
-    "triple_rate": 95.5
+    "triple_rate": 95.5,
+    "by_th": {
+     "18": {
+      "hits": 42,
+      "triples": 40,
+      "stars": 123
+     },
+     "19": {
+      "hits": 2,
+      "triples": 2,
+      "stars": 6
+     }
+    }
    },
    "cwl60": {
     "th": 19,
-    "triples": 12,
     "hits": 14,
+    "triples": 12,
     "stars": 40,
     "avg_stars": 2.857,
-    "triple_rate": 85.7
+    "triple_rate": 85.7,
+    "by_th": {
+     "18": {
+      "hits": 14,
+      "triples": 12,
+      "stars": 40
+     }
+    }
    },
    "cwl180": {
     "th": 19,
-    "triples": 39,
     "hits": 49,
+    "triples": 39,
     "stars": 136,
     "avg_stars": 2.776,
-    "triple_rate": 79.6
+    "triple_rate": 79.6,
+    "by_th": {
+     "18": {
+      "hits": 49,
+      "triples": 39,
+      "stars": 136
+     }
+    }
    }
   },
   "#9RU2RLCQ": {
@@ -494,11 +938,18 @@
    "th": 16,
    "cwl180": {
     "th": 16,
-    "triples": 2,
     "hits": 2,
+    "triples": 2,
     "stars": 6,
     "avg_stars": 3.0,
-    "triple_rate": 100.0
+    "triple_rate": 100.0,
+    "by_th": {
+     "16": {
+      "hits": 2,
+      "triples": 2,
+      "stars": 6
+     }
+    }
    }
   },
   "#9U0YUCP9": {
@@ -507,35 +958,73 @@
    "th": 19,
    "cw30": {
     "th": 19,
-    "triples": 8,
     "hits": 8,
+    "triples": 8,
     "stars": 24,
     "avg_stars": 3.0,
-    "triple_rate": 100.0
+    "triple_rate": 100.0,
+    "by_th": {
+     "18": {
+      "hits": 6,
+      "triples": 6,
+      "stars": 18
+     },
+     "19": {
+      "hits": 2,
+      "triples": 2,
+      "stars": 6
+     }
+    }
    },
    "cw180": {
     "th": 19,
-    "triples": 61,
     "hits": 62,
+    "triples": 61,
     "stars": 185,
     "avg_stars": 2.984,
-    "triple_rate": 98.4
+    "triple_rate": 98.4,
+    "by_th": {
+     "18": {
+      "hits": 60,
+      "triples": 59,
+      "stars": 179
+     },
+     "19": {
+      "hits": 2,
+      "triples": 2,
+      "stars": 6
+     }
+    }
    },
    "cwl60": {
     "th": 19,
-    "triples": 11,
     "hits": 13,
+    "triples": 11,
     "stars": 36,
     "avg_stars": 2.769,
-    "triple_rate": 84.6
+    "triple_rate": 84.6,
+    "by_th": {
+     "18": {
+      "hits": 13,
+      "triples": 11,
+      "stars": 36
+     }
+    }
    },
    "cwl180": {
     "th": 19,
-    "triples": 44,
     "hits": 48,
+    "triples": 44,
     "stars": 139,
     "avg_stars": 2.896,
-    "triple_rate": 91.7
+    "triple_rate": 91.7,
+    "by_th": {
+     "18": {
+      "hits": 48,
+      "triples": 44,
+      "stars": 139
+     }
+    }
    }
   },
   "#9V00PRGU": {
@@ -544,35 +1033,63 @@
    "th": 19,
    "cw30": {
     "th": 19,
-    "triples": 5,
     "hits": 6,
+    "triples": 5,
     "stars": 17,
     "avg_stars": 2.833,
-    "triple_rate": 83.3
+    "triple_rate": 83.3,
+    "by_th": {
+     "18": {
+      "hits": 6,
+      "triples": 5,
+      "stars": 17
+     }
+    }
    },
    "cw180": {
     "th": 19,
-    "triples": 35,
     "hits": 38,
+    "triples": 35,
     "stars": 111,
     "avg_stars": 2.921,
-    "triple_rate": 92.1
+    "triple_rate": 92.1,
+    "by_th": {
+     "18": {
+      "hits": 38,
+      "triples": 35,
+      "stars": 111
+     }
+    }
    },
    "cwl60": {
     "th": 19,
-    "triples": 11,
     "hits": 13,
+    "triples": 11,
     "stars": 37,
     "avg_stars": 2.846,
-    "triple_rate": 84.6
+    "triple_rate": 84.6,
+    "by_th": {
+     "18": {
+      "hits": 13,
+      "triples": 11,
+      "stars": 37
+     }
+    }
    },
    "cwl180": {
     "th": 19,
-    "triples": 43,
     "hits": 48,
+    "triples": 43,
     "stars": 139,
     "avg_stars": 2.896,
-    "triple_rate": 89.6
+    "triple_rate": 89.6,
+    "by_th": {
+     "18": {
+      "hits": 48,
+      "triples": 43,
+      "stars": 139
+     }
+    }
    }
   },
   "#9VVPVLVL": {
@@ -581,35 +1098,73 @@
    "th": 19,
    "cw30": {
     "th": 19,
-    "triples": 2,
     "hits": 3,
+    "triples": 2,
     "stars": 8,
     "avg_stars": 2.667,
-    "triple_rate": 66.7
+    "triple_rate": 66.7,
+    "by_th": {
+     "18": {
+      "hits": 1,
+      "triples": 0,
+      "stars": 2
+     },
+     "19": {
+      "hits": 2,
+      "triples": 2,
+      "stars": 6
+     }
+    }
    },
    "cw180": {
     "th": 19,
-    "triples": 7,
     "hits": 9,
+    "triples": 7,
     "stars": 25,
     "avg_stars": 2.778,
-    "triple_rate": 77.8
+    "triple_rate": 77.8,
+    "by_th": {
+     "18": {
+      "hits": 7,
+      "triples": 5,
+      "stars": 19
+     },
+     "19": {
+      "hits": 2,
+      "triples": 2,
+      "stars": 6
+     }
+    }
    },
    "cwl60": {
     "th": 19,
-    "triples": 7,
     "hits": 9,
+    "triples": 7,
     "stars": 25,
     "avg_stars": 2.778,
-    "triple_rate": 77.8
+    "triple_rate": 77.8,
+    "by_th": {
+     "18": {
+      "hits": 9,
+      "triples": 7,
+      "stars": 25
+     }
+    }
    },
    "cwl180": {
     "th": 19,
-    "triples": 11,
     "hits": 15,
+    "triples": 11,
     "stars": 40,
     "avg_stars": 2.667,
-    "triple_rate": 73.3
+    "triple_rate": 73.3,
+    "by_th": {
+     "18": {
+      "hits": 15,
+      "triples": 11,
+      "stars": 40
+     }
+    }
    }
   },
   "#9YU2QR9GV": {
@@ -618,27 +1173,48 @@
    "th": 19,
    "cw30": {
     "th": 19,
-    "triples": 5,
     "hits": 10,
+    "triples": 5,
     "stars": 24,
     "avg_stars": 2.4,
-    "triple_rate": 50.0
+    "triple_rate": 50.0,
+    "by_th": {
+     "18": {
+      "hits": 10,
+      "triples": 5,
+      "stars": 24
+     }
+    }
    },
    "cw180": {
     "th": 19,
-    "triples": 11,
     "hits": 18,
+    "triples": 11,
     "stars": 44,
     "avg_stars": 2.444,
-    "triple_rate": 61.1
+    "triple_rate": 61.1,
+    "by_th": {
+     "18": {
+      "hits": 18,
+      "triples": 11,
+      "stars": 44
+     }
+    }
    },
    "cwl180": {
     "th": 19,
-    "triples": 29,
     "hits": 31,
+    "triples": 29,
     "stars": 91,
     "avg_stars": 2.935,
-    "triple_rate": 93.5
+    "triple_rate": 93.5,
+    "by_th": {
+     "18": {
+      "hits": 31,
+      "triples": 29,
+      "stars": 91
+     }
+    }
    }
   },
   "#C2PYPQLL": {
@@ -647,27 +1223,48 @@
    "th": 18,
    "cw180": {
     "th": 18,
-    "triples": 23,
     "hits": 29,
+    "triples": 23,
     "stars": 78,
     "avg_stars": 2.69,
-    "triple_rate": 79.3
+    "triple_rate": 79.3,
+    "by_th": {
+     "18": {
+      "hits": 29,
+      "triples": 23,
+      "stars": 78
+     }
+    }
    },
    "cwl60": {
     "th": 18,
-    "triples": 12,
     "hits": 13,
+    "triples": 12,
     "stars": 38,
     "avg_stars": 2.923,
-    "triple_rate": 92.3
+    "triple_rate": 92.3,
+    "by_th": {
+     "18": {
+      "hits": 13,
+      "triples": 12,
+      "stars": 38
+     }
+    }
    },
    "cwl180": {
     "th": 18,
-    "triples": 33,
     "hits": 36,
+    "triples": 33,
     "stars": 105,
     "avg_stars": 2.917,
-    "triple_rate": 91.7
+    "triple_rate": 91.7,
+    "by_th": {
+     "18": {
+      "hits": 36,
+      "triples": 33,
+      "stars": 105
+     }
+    }
    }
   },
   "#G00RYCJG": {
@@ -676,35 +1273,73 @@
    "th": 19,
    "cw30": {
     "th": 19,
-    "triples": 8,
     "hits": 12,
+    "triples": 8,
     "stars": 31,
     "avg_stars": 2.583,
-    "triple_rate": 66.7
+    "triple_rate": 66.7,
+    "by_th": {
+     "18": {
+      "hits": 10,
+      "triples": 8,
+      "stars": 27
+     },
+     "19": {
+      "hits": 2,
+      "triples": 0,
+      "stars": 4
+     }
+    }
    },
    "cw180": {
     "th": 19,
-    "triples": 41,
     "hits": 56,
+    "triples": 41,
     "stars": 149,
     "avg_stars": 2.661,
-    "triple_rate": 73.2
+    "triple_rate": 73.2,
+    "by_th": {
+     "18": {
+      "hits": 54,
+      "triples": 41,
+      "stars": 145
+     },
+     "19": {
+      "hits": 2,
+      "triples": 0,
+      "stars": 4
+     }
+    }
    },
    "cwl60": {
     "th": 19,
-    "triples": 5,
     "hits": 6,
+    "triples": 5,
     "stars": 17,
     "avg_stars": 2.833,
-    "triple_rate": 83.3
+    "triple_rate": 83.3,
+    "by_th": {
+     "18": {
+      "hits": 6,
+      "triples": 5,
+      "stars": 17
+     }
+    }
    },
    "cwl180": {
     "th": 19,
-    "triples": 31,
     "hits": 39,
+    "triples": 31,
     "stars": 106,
     "avg_stars": 2.718,
-    "triple_rate": 79.5
+    "triple_rate": 79.5,
+    "by_th": {
+     "18": {
+      "hits": 39,
+      "triples": 31,
+      "stars": 106
+     }
+    }
    }
   },
   "#G0G00Q9VL": {
@@ -713,27 +1348,53 @@
    "th": 19,
    "cw30": {
     "th": 19,
-    "triples": 1,
     "hits": 2,
+    "triples": 1,
     "stars": 5,
     "avg_stars": 2.5,
-    "triple_rate": 50.0
+    "triple_rate": 50.0,
+    "by_th": {
+     "19": {
+      "hits": 2,
+      "triples": 1,
+      "stars": 5
+     }
+    }
    },
    "cw180": {
     "th": 19,
-    "triples": 14,
     "hits": 18,
+    "triples": 14,
     "stars": 50,
     "avg_stars": 2.778,
-    "triple_rate": 77.8
+    "triple_rate": 77.8,
+    "by_th": {
+     "18": {
+      "hits": 16,
+      "triples": 13,
+      "stars": 45
+     },
+     "19": {
+      "hits": 2,
+      "triples": 1,
+      "stars": 5
+     }
+    }
    },
    "cwl180": {
     "th": 19,
-    "triples": 2,
     "hits": 7,
+    "triples": 2,
     "stars": 16,
     "avg_stars": 2.286,
-    "triple_rate": 28.6
+    "triple_rate": 28.6,
+    "by_th": {
+     "18": {
+      "hits": 7,
+      "triples": 2,
+      "stars": 16
+     }
+    }
    }
   },
   "#G0L9Q8P0P": {
@@ -742,35 +1403,63 @@
    "th": 19,
    "cw30": {
     "th": 19,
-    "triples": 5,
     "hits": 10,
+    "triples": 5,
     "stars": 25,
     "avg_stars": 2.5,
-    "triple_rate": 50.0
+    "triple_rate": 50.0,
+    "by_th": {
+     "18": {
+      "hits": 10,
+      "triples": 5,
+      "stars": 25
+     }
+    }
    },
    "cw180": {
     "th": 19,
-    "triples": 48,
     "hits": 67,
+    "triples": 48,
     "stars": 181,
     "avg_stars": 2.701,
-    "triple_rate": 71.6
+    "triple_rate": 71.6,
+    "by_th": {
+     "18": {
+      "hits": 67,
+      "triples": 48,
+      "stars": 181
+     }
+    }
    },
    "cwl60": {
     "th": 19,
-    "triples": 14,
     "hits": 14,
+    "triples": 14,
     "stars": 42,
     "avg_stars": 3.0,
-    "triple_rate": 100.0
+    "triple_rate": 100.0,
+    "by_th": {
+     "18": {
+      "hits": 14,
+      "triples": 14,
+      "stars": 42
+     }
+    }
    },
    "cwl180": {
     "th": 19,
-    "triples": 46,
     "hits": 48,
+    "triples": 46,
     "stars": 142,
     "avg_stars": 2.958,
-    "triple_rate": 95.8
+    "triple_rate": 95.8,
+    "by_th": {
+     "18": {
+      "hits": 48,
+      "triples": 46,
+      "stars": 142
+     }
+    }
    }
   },
   "#G20RYP820": {
@@ -779,35 +1468,73 @@
    "th": 19,
    "cw30": {
     "th": 19,
-    "triples": 6,
     "hits": 6,
+    "triples": 6,
     "stars": 18,
     "avg_stars": 3.0,
-    "triple_rate": 100.0
+    "triple_rate": 100.0,
+    "by_th": {
+     "18": {
+      "hits": 4,
+      "triples": 4,
+      "stars": 12
+     },
+     "19": {
+      "hits": 2,
+      "triples": 2,
+      "stars": 6
+     }
+    }
    },
    "cw180": {
     "th": 19,
-    "triples": 73,
     "hits": 79,
+    "triples": 73,
     "stars": 230,
     "avg_stars": 2.911,
-    "triple_rate": 92.4
+    "triple_rate": 92.4,
+    "by_th": {
+     "18": {
+      "hits": 77,
+      "triples": 71,
+      "stars": 224
+     },
+     "19": {
+      "hits": 2,
+      "triples": 2,
+      "stars": 6
+     }
+    }
    },
    "cwl60": {
     "th": 19,
-    "triples": 14,
     "hits": 14,
+    "triples": 14,
     "stars": 42,
     "avg_stars": 3.0,
-    "triple_rate": 100.0
+    "triple_rate": 100.0,
+    "by_th": {
+     "18": {
+      "hits": 14,
+      "triples": 14,
+      "stars": 42
+     }
+    }
    },
    "cwl180": {
     "th": 19,
-    "triples": 43,
     "hits": 48,
+    "triples": 43,
     "stars": 139,
     "avg_stars": 2.896,
-    "triple_rate": 89.6
+    "triple_rate": 89.6,
+    "by_th": {
+     "18": {
+      "hits": 48,
+      "triples": 43,
+      "stars": 139
+     }
+    }
    }
   },
   "#G2RUYUGC": {
@@ -816,35 +1543,73 @@
    "th": 19,
    "cw30": {
     "th": 19,
-    "triples": 6,
     "hits": 6,
+    "triples": 6,
     "stars": 18,
     "avg_stars": 3.0,
-    "triple_rate": 100.0
+    "triple_rate": 100.0,
+    "by_th": {
+     "18": {
+      "hits": 4,
+      "triples": 4,
+      "stars": 12
+     },
+     "19": {
+      "hits": 2,
+      "triples": 2,
+      "stars": 6
+     }
+    }
    },
    "cw180": {
     "th": 19,
-    "triples": 54,
     "hits": 58,
+    "triples": 54,
     "stars": 168,
     "avg_stars": 2.897,
-    "triple_rate": 93.1
+    "triple_rate": 93.1,
+    "by_th": {
+     "18": {
+      "hits": 56,
+      "triples": 52,
+      "stars": 162
+     },
+     "19": {
+      "hits": 2,
+      "triples": 2,
+      "stars": 6
+     }
+    }
    },
    "cwl60": {
     "th": 19,
-    "triples": 11,
     "hits": 12,
+    "triples": 11,
     "stars": 35,
     "avg_stars": 2.917,
-    "triple_rate": 91.7
+    "triple_rate": 91.7,
+    "by_th": {
+     "18": {
+      "hits": 12,
+      "triples": 11,
+      "stars": 35
+     }
+    }
    },
    "cwl180": {
     "th": 19,
-    "triples": 41,
     "hits": 46,
+    "triples": 41,
     "stars": 131,
     "avg_stars": 2.848,
-    "triple_rate": 89.1
+    "triple_rate": 89.1,
+    "by_th": {
+     "18": {
+      "hits": 46,
+      "triples": 41,
+      "stars": 131
+     }
+    }
    }
   },
   "#G9R980C2U": {
@@ -853,35 +1618,73 @@
    "th": 19,
    "cw30": {
     "th": 19,
-    "triples": 10,
     "hits": 10,
+    "triples": 10,
     "stars": 30,
     "avg_stars": 3.0,
-    "triple_rate": 100.0
+    "triple_rate": 100.0,
+    "by_th": {
+     "18": {
+      "hits": 8,
+      "triples": 8,
+      "stars": 24
+     },
+     "19": {
+      "hits": 2,
+      "triples": 2,
+      "stars": 6
+     }
+    }
    },
    "cw180": {
     "th": 19,
-    "triples": 63,
     "hits": 68,
+    "triples": 63,
     "stars": 198,
     "avg_stars": 2.912,
-    "triple_rate": 92.6
+    "triple_rate": 92.6,
+    "by_th": {
+     "18": {
+      "hits": 66,
+      "triples": 61,
+      "stars": 192
+     },
+     "19": {
+      "hits": 2,
+      "triples": 2,
+      "stars": 6
+     }
+    }
    },
    "cwl60": {
     "th": 19,
-    "triples": 13,
     "hits": 14,
+    "triples": 13,
     "stars": 41,
     "avg_stars": 2.929,
-    "triple_rate": 92.9
+    "triple_rate": 92.9,
+    "by_th": {
+     "18": {
+      "hits": 14,
+      "triples": 13,
+      "stars": 41
+     }
+    }
    },
    "cwl180": {
     "th": 19,
-    "triples": 43,
     "hits": 49,
+    "triples": 43,
     "stars": 141,
     "avg_stars": 2.878,
-    "triple_rate": 87.8
+    "triple_rate": 87.8,
+    "by_th": {
+     "18": {
+      "hits": 49,
+      "triples": 43,
+      "stars": 141
+     }
+    }
    }
   },
   "#G9YGCC228": {
@@ -890,35 +1693,78 @@
    "th": 19,
    "cw30": {
     "th": 19,
-    "triples": 3,
     "hits": 8,
+    "triples": 3,
     "stars": 18,
     "avg_stars": 2.25,
-    "triple_rate": 37.5
+    "triple_rate": 37.5,
+    "by_th": {
+     "18": {
+      "hits": 6,
+      "triples": 2,
+      "stars": 13
+     },
+     "19": {
+      "hits": 2,
+      "triples": 1,
+      "stars": 5
+     }
+    }
    },
    "cw180": {
     "th": 19,
-    "triples": 27,
     "hits": 40,
+    "triples": 27,
     "stars": 105,
     "avg_stars": 2.625,
-    "triple_rate": 67.5
+    "triple_rate": 67.5,
+    "by_th": {
+     "17": {
+      "hits": 4,
+      "triples": 4,
+      "stars": 12
+     },
+     "18": {
+      "hits": 34,
+      "triples": 22,
+      "stars": 88
+     },
+     "19": {
+      "hits": 2,
+      "triples": 1,
+      "stars": 5
+     }
+    }
    },
    "cwl60": {
     "th": 19,
-    "triples": 11,
     "hits": 13,
+    "triples": 11,
     "stars": 37,
     "avg_stars": 2.846,
-    "triple_rate": 84.6
+    "triple_rate": 84.6,
+    "by_th": {
+     "18": {
+      "hits": 13,
+      "triples": 11,
+      "stars": 37
+     }
+    }
    },
    "cwl180": {
     "th": 19,
-    "triples": 11,
     "hits": 13,
+    "triples": 11,
     "stars": 37,
     "avg_stars": 2.846,
-    "triple_rate": 84.6
+    "triple_rate": 84.6,
+    "by_th": {
+     "18": {
+      "hits": 13,
+      "triples": 11,
+      "stars": 37
+     }
+    }
    }
   },
   "#GC9UYCQVY": {
@@ -927,35 +1773,88 @@
    "th": 17,
    "cw30": {
     "th": 17,
-    "triples": 8,
     "hits": 9,
+    "triples": 8,
     "stars": 26,
     "avg_stars": 2.889,
-    "triple_rate": 88.9
+    "triple_rate": 88.9,
+    "by_th": {
+     "16": {
+      "hits": 2,
+      "triples": 1,
+      "stars": 5
+     },
+     "17": {
+      "hits": 7,
+      "triples": 7,
+      "stars": 21
+     }
+    }
    },
    "cw180": {
     "th": 17,
-    "triples": 21,
     "hits": 22,
+    "triples": 21,
     "stars": 65,
     "avg_stars": 2.955,
-    "triple_rate": 95.5
+    "triple_rate": 95.5,
+    "by_th": {
+     "15": {
+      "hits": 7,
+      "triples": 7,
+      "stars": 21
+     },
+     "16": {
+      "hits": 8,
+      "triples": 7,
+      "stars": 23
+     },
+     "17": {
+      "hits": 7,
+      "triples": 7,
+      "stars": 21
+     }
+    }
    },
    "cwl60": {
     "th": 17,
-    "triples": 3,
     "hits": 4,
+    "triples": 3,
     "stars": 11,
     "avg_stars": 2.75,
-    "triple_rate": 75.0
+    "triple_rate": 75.0,
+    "by_th": {
+     "16": {
+      "hits": 2,
+      "triples": 1,
+      "stars": 5
+     },
+     "17": {
+      "hits": 2,
+      "triples": 2,
+      "stars": 6
+     }
+    }
    },
    "cwl180": {
     "th": 17,
-    "triples": 3,
     "hits": 4,
+    "triples": 3,
     "stars": 11,
     "avg_stars": 2.75,
-    "triple_rate": 75.0
+    "triple_rate": 75.0,
+    "by_th": {
+     "16": {
+      "hits": 2,
+      "triples": 1,
+      "stars": 5
+     },
+     "17": {
+      "hits": 2,
+      "triples": 2,
+      "stars": 6
+     }
+    }
    }
   },
   "#GP9R0PUQ8": {
@@ -964,19 +1863,48 @@
    "th": 18,
    "cwl60": {
     "th": 18,
-    "triples": 1,
     "hits": 2,
+    "triples": 1,
     "stars": 4,
     "avg_stars": 2.0,
-    "triple_rate": 50.0
+    "triple_rate": 50.0,
+    "by_th": {
+     "17": {
+      "hits": 1,
+      "triples": 1,
+      "stars": 3
+     },
+     "18": {
+      "hits": 1,
+      "triples": 0,
+      "stars": 1
+     }
+    }
    },
    "cwl180": {
     "th": 18,
-    "triples": 7,
     "hits": 8,
+    "triples": 7,
     "stars": 22,
     "avg_stars": 2.75,
-    "triple_rate": 87.5
+    "triple_rate": 87.5,
+    "by_th": {
+     "16": {
+      "hits": 3,
+      "triples": 3,
+      "stars": 9
+     },
+     "17": {
+      "hits": 4,
+      "triples": 4,
+      "stars": 12
+     },
+     "18": {
+      "hits": 1,
+      "triples": 0,
+      "stars": 1
+     }
+    }
    }
   },
   "#GPCQPUQ0Q": {
@@ -985,27 +1913,48 @@
    "th": 19,
    "cw180": {
     "th": 19,
-    "triples": 10,
     "hits": 14,
+    "triples": 10,
     "stars": 36,
     "avg_stars": 2.571,
-    "triple_rate": 71.4
+    "triple_rate": 71.4,
+    "by_th": {
+     "18": {
+      "hits": 14,
+      "triples": 10,
+      "stars": 36
+     }
+    }
    },
    "cwl60": {
     "th": 19,
-    "triples": 12,
     "hits": 12,
+    "triples": 12,
     "stars": 36,
     "avg_stars": 3.0,
-    "triple_rate": 100.0
+    "triple_rate": 100.0,
+    "by_th": {
+     "18": {
+      "hits": 12,
+      "triples": 12,
+      "stars": 36
+     }
+    }
    },
    "cwl180": {
     "th": 19,
-    "triples": 41,
     "hits": 43,
+    "triples": 41,
     "stars": 127,
     "avg_stars": 2.953,
-    "triple_rate": 95.3
+    "triple_rate": 95.3,
+    "by_th": {
+     "18": {
+      "hits": 43,
+      "triples": 41,
+      "stars": 127
+     }
+    }
    }
   },
   "#GQGQJR2RR": {
@@ -1014,19 +1963,33 @@
    "th": 13,
    "cw30": {
     "th": 13,
-    "triples": 1,
     "hits": 1,
+    "triples": 1,
     "stars": 3,
     "avg_stars": 3.0,
-    "triple_rate": 100.0
+    "triple_rate": 100.0,
+    "by_th": {
+     "13": {
+      "hits": 1,
+      "triples": 1,
+      "stars": 3
+     }
+    }
    },
    "cw180": {
     "th": 13,
-    "triples": 1,
     "hits": 1,
+    "triples": 1,
     "stars": 3,
     "avg_stars": 3.0,
-    "triple_rate": 100.0
+    "triple_rate": 100.0,
+    "by_th": {
+     "13": {
+      "hits": 1,
+      "triples": 1,
+      "stars": 3
+     }
+    }
    }
   },
   "#GURVV2R9L": {
@@ -1035,35 +1998,63 @@
    "th": 19,
    "cw30": {
     "th": 19,
-    "triples": 2,
     "hits": 5,
+    "triples": 2,
     "stars": 12,
     "avg_stars": 2.4,
-    "triple_rate": 40.0
+    "triple_rate": 40.0,
+    "by_th": {
+     "18": {
+      "hits": 5,
+      "triples": 2,
+      "stars": 12
+     }
+    }
    },
    "cw180": {
     "th": 19,
-    "triples": 20,
     "hits": 42,
+    "triples": 20,
     "stars": 104,
     "avg_stars": 2.476,
-    "triple_rate": 47.6
+    "triple_rate": 47.6,
+    "by_th": {
+     "18": {
+      "hits": 42,
+      "triples": 20,
+      "stars": 104
+     }
+    }
    },
    "cwl60": {
     "th": 19,
-    "triples": 14,
     "hits": 14,
+    "triples": 14,
     "stars": 42,
     "avg_stars": 3.0,
-    "triple_rate": 100.0
+    "triple_rate": 100.0,
+    "by_th": {
+     "18": {
+      "hits": 14,
+      "triples": 14,
+      "stars": 42
+     }
+    }
    },
    "cwl180": {
     "th": 19,
-    "triples": 39,
     "hits": 42,
+    "triples": 39,
     "stars": 123,
     "avg_stars": 2.929,
-    "triple_rate": 92.9
+    "triple_rate": 92.9,
+    "by_th": {
+     "18": {
+      "hits": 42,
+      "triples": 39,
+      "stars": 123
+     }
+    }
    }
   },
   "#GYPJPGR00": {
@@ -1072,35 +2063,73 @@
    "th": 19,
    "cw30": {
     "th": 19,
-    "triples": 8,
     "hits": 8,
+    "triples": 8,
     "stars": 24,
     "avg_stars": 3.0,
-    "triple_rate": 100.0
+    "triple_rate": 100.0,
+    "by_th": {
+     "18": {
+      "hits": 6,
+      "triples": 6,
+      "stars": 18
+     },
+     "19": {
+      "hits": 2,
+      "triples": 2,
+      "stars": 6
+     }
+    }
    },
    "cw180": {
     "th": 19,
-    "triples": 50,
     "hits": 59,
+    "triples": 50,
     "stars": 167,
     "avg_stars": 2.831,
-    "triple_rate": 84.7
+    "triple_rate": 84.7,
+    "by_th": {
+     "18": {
+      "hits": 57,
+      "triples": 48,
+      "stars": 161
+     },
+     "19": {
+      "hits": 2,
+      "triples": 2,
+      "stars": 6
+     }
+    }
    },
    "cwl60": {
     "th": 19,
-    "triples": 13,
     "hits": 14,
+    "triples": 13,
     "stars": 41,
     "avg_stars": 2.929,
-    "triple_rate": 92.9
+    "triple_rate": 92.9,
+    "by_th": {
+     "18": {
+      "hits": 14,
+      "triples": 13,
+      "stars": 41
+     }
+    }
    },
    "cwl180": {
     "th": 19,
-    "triples": 42,
     "hits": 48,
+    "triples": 42,
     "stars": 138,
     "avg_stars": 2.875,
-    "triple_rate": 87.5
+    "triple_rate": 87.5,
+    "by_th": {
+     "18": {
+      "hits": 48,
+      "triples": 42,
+      "stars": 138
+     }
+    }
    }
   },
   "#J90CCPC0": {
@@ -1109,35 +2138,73 @@
    "th": 19,
    "cw30": {
     "th": 19,
-    "triples": 1,
     "hits": 5,
+    "triples": 1,
     "stars": 9,
     "avg_stars": 1.8,
-    "triple_rate": 20.0
+    "triple_rate": 20.0,
+    "by_th": {
+     "18": {
+      "hits": 4,
+      "triples": 1,
+      "stars": 8
+     },
+     "19": {
+      "hits": 1,
+      "triples": 0,
+      "stars": 1
+     }
+    }
    },
    "cw180": {
     "th": 19,
-    "triples": 32,
     "hits": 50,
+    "triples": 32,
     "stars": 126,
     "avg_stars": 2.52,
-    "triple_rate": 64.0
+    "triple_rate": 64.0,
+    "by_th": {
+     "18": {
+      "hits": 49,
+      "triples": 32,
+      "stars": 125
+     },
+     "19": {
+      "hits": 1,
+      "triples": 0,
+      "stars": 1
+     }
+    }
    },
    "cwl60": {
     "th": 19,
-    "triples": 12,
     "hits": 14,
+    "triples": 12,
     "stars": 40,
     "avg_stars": 2.857,
-    "triple_rate": 85.7
+    "triple_rate": 85.7,
+    "by_th": {
+     "18": {
+      "hits": 14,
+      "triples": 12,
+      "stars": 40
+     }
+    }
    },
    "cwl180": {
     "th": 19,
-    "triples": 33,
     "hits": 41,
+    "triples": 33,
     "stars": 115,
     "avg_stars": 2.805,
-    "triple_rate": 80.5
+    "triple_rate": 80.5,
+    "by_th": {
+     "18": {
+      "hits": 41,
+      "triples": 33,
+      "stars": 115
+     }
+    }
    }
   },
   "#L02YUGQL": {
@@ -1146,35 +2213,73 @@
    "th": 19,
    "cw30": {
     "th": 19,
-    "triples": 4,
     "hits": 7,
+    "triples": 4,
     "stars": 18,
     "avg_stars": 2.571,
-    "triple_rate": 57.1
+    "triple_rate": 57.1,
+    "by_th": {
+     "18": {
+      "hits": 6,
+      "triples": 3,
+      "stars": 15
+     },
+     "19": {
+      "hits": 1,
+      "triples": 1,
+      "stars": 3
+     }
+    }
    },
    "cw180": {
     "th": 19,
-    "triples": 55,
     "hits": 73,
+    "triples": 55,
     "stars": 200,
     "avg_stars": 2.74,
-    "triple_rate": 75.3
+    "triple_rate": 75.3,
+    "by_th": {
+     "18": {
+      "hits": 72,
+      "triples": 54,
+      "stars": 197
+     },
+     "19": {
+      "hits": 1,
+      "triples": 1,
+      "stars": 3
+     }
+    }
    },
    "cwl60": {
     "th": 19,
-    "triples": 10,
     "hits": 12,
+    "triples": 10,
     "stars": 33,
     "avg_stars": 2.75,
-    "triple_rate": 83.3
+    "triple_rate": 83.3,
+    "by_th": {
+     "18": {
+      "hits": 12,
+      "triples": 10,
+      "stars": 33
+     }
+    }
    },
    "cwl180": {
     "th": 19,
-    "triples": 34,
     "hits": 44,
+    "triples": 34,
     "stars": 120,
     "avg_stars": 2.727,
-    "triple_rate": 77.3
+    "triple_rate": 77.3,
+    "by_th": {
+     "18": {
+      "hits": 44,
+      "triples": 34,
+      "stars": 120
+     }
+    }
    }
   },
   "#LC8890LGJ": {
@@ -1183,35 +2288,63 @@
    "th": 16,
    "cw30": {
     "th": 16,
-    "triples": 3,
     "hits": 3,
+    "triples": 3,
     "stars": 9,
     "avg_stars": 3.0,
-    "triple_rate": 100.0
+    "triple_rate": 100.0,
+    "by_th": {
+     "16": {
+      "hits": 3,
+      "triples": 3,
+      "stars": 9
+     }
+    }
    },
    "cw180": {
     "th": 16,
-    "triples": 14,
     "hits": 18,
+    "triples": 14,
     "stars": 47,
     "avg_stars": 2.611,
-    "triple_rate": 77.8
+    "triple_rate": 77.8,
+    "by_th": {
+     "16": {
+      "hits": 18,
+      "triples": 14,
+      "stars": 47
+     }
+    }
    },
    "cwl60": {
     "th": 16,
-    "triples": 1,
     "hits": 1,
+    "triples": 1,
     "stars": 3,
     "avg_stars": 3.0,
-    "triple_rate": 100.0
+    "triple_rate": 100.0,
+    "by_th": {
+     "16": {
+      "hits": 1,
+      "triples": 1,
+      "stars": 3
+     }
+    }
    },
    "cwl180": {
     "th": 16,
-    "triples": 11,
     "hits": 12,
+    "triples": 11,
     "stars": 34,
     "avg_stars": 2.833,
-    "triple_rate": 91.7
+    "triple_rate": 91.7,
+    "by_th": {
+     "16": {
+      "hits": 12,
+      "triples": 11,
+      "stars": 34
+     }
+    }
    }
   },
   "#LC98P20YY": {
@@ -1220,35 +2353,68 @@
    "th": 18,
    "cw30": {
     "th": 18,
-    "triples": 0,
     "hits": 3,
+    "triples": 0,
     "stars": 5,
     "avg_stars": 1.667,
-    "triple_rate": 0.0
+    "triple_rate": 0.0,
+    "by_th": {
+     "18": {
+      "hits": 3,
+      "triples": 0,
+      "stars": 5
+     }
+    }
    },
    "cw180": {
     "th": 18,
-    "triples": 30,
     "hits": 50,
+    "triples": 30,
     "stars": 124,
     "avg_stars": 2.48,
-    "triple_rate": 60.0
+    "triple_rate": 60.0,
+    "by_th": {
+     "17": {
+      "hits": 1,
+      "triples": 1,
+      "stars": 3
+     },
+     "18": {
+      "hits": 49,
+      "triples": 29,
+      "stars": 121
+     }
+    }
    },
    "cwl60": {
     "th": 18,
-    "triples": 6,
     "hits": 11,
+    "triples": 6,
     "stars": 28,
     "avg_stars": 2.545,
-    "triple_rate": 54.5
+    "triple_rate": 54.5,
+    "by_th": {
+     "18": {
+      "hits": 11,
+      "triples": 6,
+      "stars": 28
+     }
+    }
    },
    "cwl180": {
     "th": 18,
-    "triples": 17,
     "hits": 24,
+    "triples": 17,
     "stars": 65,
     "avg_stars": 2.708,
-    "triple_rate": 70.8
+    "triple_rate": 70.8,
+    "by_th": {
+     "18": {
+      "hits": 24,
+      "triples": 17,
+      "stars": 65
+     }
+    }
    }
   },
   "#LGR90YRVQ": {
@@ -1257,35 +2423,63 @@
    "th": 18,
    "cw30": {
     "th": 18,
-    "triples": 4,
     "hits": 5,
+    "triples": 4,
     "stars": 13,
     "avg_stars": 2.6,
-    "triple_rate": 80.0
+    "triple_rate": 80.0,
+    "by_th": {
+     "18": {
+      "hits": 5,
+      "triples": 4,
+      "stars": 13
+     }
+    }
    },
    "cw180": {
     "th": 18,
-    "triples": 101,
     "hits": 104,
+    "triples": 101,
     "stars": 306,
     "avg_stars": 2.942,
-    "triple_rate": 97.1
+    "triple_rate": 97.1,
+    "by_th": {
+     "18": {
+      "hits": 104,
+      "triples": 101,
+      "stars": 306
+     }
+    }
    },
    "cwl60": {
     "th": 18,
-    "triples": 14,
     "hits": 14,
+    "triples": 14,
     "stars": 42,
     "avg_stars": 3.0,
-    "triple_rate": 100.0
+    "triple_rate": 100.0,
+    "by_th": {
+     "18": {
+      "hits": 14,
+      "triples": 14,
+      "stars": 42
+     }
+    }
    },
    "cwl180": {
     "th": 18,
-    "triples": 14,
     "hits": 14,
+    "triples": 14,
     "stars": 42,
     "avg_stars": 3.0,
-    "triple_rate": 100.0
+    "triple_rate": 100.0,
+    "by_th": {
+     "18": {
+      "hits": 14,
+      "triples": 14,
+      "stars": 42
+     }
+    }
    }
   },
   "#LGUPGVJ8R": {
@@ -1294,35 +2488,78 @@
    "th": 18,
    "cw30": {
     "th": 18,
-    "triples": 3,
     "hits": 4,
+    "triples": 3,
     "stars": 11,
     "avg_stars": 2.75,
-    "triple_rate": 75.0
+    "triple_rate": 75.0,
+    "by_th": {
+     "18": {
+      "hits": 4,
+      "triples": 3,
+      "stars": 11
+     }
+    }
    },
    "cw180": {
     "th": 18,
-    "triples": 24,
     "hits": 26,
+    "triples": 24,
     "stars": 76,
     "avg_stars": 2.923,
-    "triple_rate": 92.3
+    "triple_rate": 92.3,
+    "by_th": {
+     "17": {
+      "hits": 22,
+      "triples": 21,
+      "stars": 65
+     },
+     "18": {
+      "hits": 4,
+      "triples": 3,
+      "stars": 11
+     }
+    }
    },
    "cwl60": {
     "th": 18,
-    "triples": 7,
     "hits": 7,
+    "triples": 7,
     "stars": 21,
     "avg_stars": 3.0,
-    "triple_rate": 100.0
+    "triple_rate": 100.0,
+    "by_th": {
+     "17": {
+      "hits": 1,
+      "triples": 1,
+      "stars": 3
+     },
+     "18": {
+      "hits": 6,
+      "triples": 6,
+      "stars": 18
+     }
+    }
    },
    "cwl180": {
     "th": 18,
-    "triples": 17,
     "hits": 17,
+    "triples": 17,
     "stars": 51,
     "avg_stars": 3.0,
-    "triple_rate": 100.0
+    "triple_rate": 100.0,
+    "by_th": {
+     "17": {
+      "hits": 11,
+      "triples": 11,
+      "stars": 33
+     },
+     "18": {
+      "hits": 6,
+      "triples": 6,
+      "stars": 18
+     }
+    }
    }
   },
   "#LL2UYUVCV": {
@@ -1331,35 +2568,73 @@
    "th": 19,
    "cw30": {
     "th": 19,
-    "triples": 9,
     "hits": 10,
+    "triples": 9,
     "stars": 29,
     "avg_stars": 2.9,
-    "triple_rate": 90.0
+    "triple_rate": 90.0,
+    "by_th": {
+     "18": {
+      "hits": 8,
+      "triples": 7,
+      "stars": 23
+     },
+     "19": {
+      "hits": 2,
+      "triples": 2,
+      "stars": 6
+     }
+    }
    },
    "cw180": {
     "th": 19,
-    "triples": 58,
     "hits": 74,
+    "triples": 58,
     "stars": 204,
     "avg_stars": 2.757,
-    "triple_rate": 78.4
+    "triple_rate": 78.4,
+    "by_th": {
+     "18": {
+      "hits": 72,
+      "triples": 56,
+      "stars": 198
+     },
+     "19": {
+      "hits": 2,
+      "triples": 2,
+      "stars": 6
+     }
+    }
    },
    "cwl60": {
     "th": 19,
-    "triples": 14,
     "hits": 14,
+    "triples": 14,
     "stars": 42,
     "avg_stars": 3.0,
-    "triple_rate": 100.0
+    "triple_rate": 100.0,
+    "by_th": {
+     "18": {
+      "hits": 14,
+      "triples": 14,
+      "stars": 42
+     }
+    }
    },
    "cwl180": {
     "th": 19,
-    "triples": 42,
     "hits": 48,
+    "triples": 42,
     "stars": 138,
     "avg_stars": 2.875,
-    "triple_rate": 87.5
+    "triple_rate": 87.5,
+    "by_th": {
+     "18": {
+      "hits": 48,
+      "triples": 42,
+      "stars": 138
+     }
+    }
    }
   },
   "#LUL9YGJGP": {
@@ -1368,35 +2643,73 @@
    "th": 19,
    "cw30": {
     "th": 19,
-    "triples": 1,
     "hits": 4,
+    "triples": 1,
     "stars": 7,
     "avg_stars": 1.75,
-    "triple_rate": 25.0
+    "triple_rate": 25.0,
+    "by_th": {
+     "18": {
+      "hits": 2,
+      "triples": 1,
+      "stars": 5
+     },
+     "19": {
+      "hits": 2,
+      "triples": 0,
+      "stars": 2
+     }
+    }
    },
    "cw180": {
     "th": 19,
-    "triples": 32,
     "hits": 37,
+    "triples": 32,
     "stars": 104,
     "avg_stars": 2.811,
-    "triple_rate": 86.5
+    "triple_rate": 86.5,
+    "by_th": {
+     "18": {
+      "hits": 35,
+      "triples": 32,
+      "stars": 102
+     },
+     "19": {
+      "hits": 2,
+      "triples": 0,
+      "stars": 2
+     }
+    }
    },
    "cwl60": {
     "th": 19,
-    "triples": 13,
     "hits": 14,
+    "triples": 13,
     "stars": 41,
     "avg_stars": 2.929,
-    "triple_rate": 92.9
+    "triple_rate": 92.9,
+    "by_th": {
+     "18": {
+      "hits": 14,
+      "triples": 13,
+      "stars": 41
+     }
+    }
    },
    "cwl180": {
     "th": 19,
-    "triples": 32,
     "hits": 35,
+    "triples": 32,
     "stars": 101,
     "avg_stars": 2.886,
-    "triple_rate": 91.4
+    "triple_rate": 91.4,
+    "by_th": {
+     "18": {
+      "hits": 35,
+      "triples": 32,
+      "stars": 101
+     }
+    }
    }
   },
   "#PG0JJ9U": {
@@ -1405,35 +2718,63 @@
    "th": 18,
    "cw30": {
     "th": 18,
-    "triples": 0,
     "hits": 1,
+    "triples": 0,
     "stars": 2,
     "avg_stars": 2.0,
-    "triple_rate": 0.0
+    "triple_rate": 0.0,
+    "by_th": {
+     "18": {
+      "hits": 1,
+      "triples": 0,
+      "stars": 2
+     }
+    }
    },
    "cw180": {
     "th": 18,
-    "triples": 17,
     "hits": 28,
+    "triples": 17,
     "stars": 68,
     "avg_stars": 2.429,
-    "triple_rate": 60.7
+    "triple_rate": 60.7,
+    "by_th": {
+     "18": {
+      "hits": 28,
+      "triples": 17,
+      "stars": 68
+     }
+    }
    },
    "cwl60": {
     "th": 18,
-    "triples": 7,
     "hits": 11,
+    "triples": 7,
     "stars": 29,
     "avg_stars": 2.636,
-    "triple_rate": 63.6
+    "triple_rate": 63.6,
+    "by_th": {
+     "18": {
+      "hits": 11,
+      "triples": 7,
+      "stars": 29
+     }
+    }
    },
    "cwl180": {
     "th": 18,
-    "triples": 34,
     "hits": 44,
+    "triples": 34,
     "stars": 121,
     "avg_stars": 2.75,
-    "triple_rate": 77.3
+    "triple_rate": 77.3,
+    "by_th": {
+     "18": {
+      "hits": 44,
+      "triples": 34,
+      "stars": 121
+     }
+    }
    }
   },
   "#PJL2V290P": {
@@ -1442,35 +2783,73 @@
    "th": 19,
    "cw30": {
     "th": 19,
-    "triples": 7,
     "hits": 10,
+    "triples": 7,
     "stars": 26,
     "avg_stars": 2.6,
-    "triple_rate": 70.0
+    "triple_rate": 70.0,
+    "by_th": {
+     "18": {
+      "hits": 8,
+      "triples": 5,
+      "stars": 20
+     },
+     "19": {
+      "hits": 2,
+      "triples": 2,
+      "stars": 6
+     }
+    }
    },
    "cw180": {
     "th": 19,
-    "triples": 49,
     "hits": 55,
+    "triples": 49,
     "stars": 158,
     "avg_stars": 2.873,
-    "triple_rate": 89.1
+    "triple_rate": 89.1,
+    "by_th": {
+     "18": {
+      "hits": 53,
+      "triples": 47,
+      "stars": 152
+     },
+     "19": {
+      "hits": 2,
+      "triples": 2,
+      "stars": 6
+     }
+    }
    },
    "cwl60": {
     "th": 19,
-    "triples": 13,
     "hits": 14,
+    "triples": 13,
     "stars": 41,
     "avg_stars": 2.929,
-    "triple_rate": 92.9
+    "triple_rate": 92.9,
+    "by_th": {
+     "18": {
+      "hits": 14,
+      "triples": 13,
+      "stars": 41
+     }
+    }
    },
    "cwl180": {
     "th": 19,
-    "triples": 30,
     "hits": 35,
+    "triples": 30,
     "stars": 99,
     "avg_stars": 2.829,
-    "triple_rate": 85.7
+    "triple_rate": 85.7,
+    "by_th": {
+     "18": {
+      "hits": 35,
+      "triples": 30,
+      "stars": 99
+     }
+    }
    }
   },
   "#PRUPJL0Q9": {
@@ -1479,35 +2858,73 @@
    "th": 19,
    "cw30": {
     "th": 19,
-    "triples": 5,
     "hits": 8,
+    "triples": 5,
     "stars": 21,
     "avg_stars": 2.625,
-    "triple_rate": 62.5
+    "triple_rate": 62.5,
+    "by_th": {
+     "18": {
+      "hits": 6,
+      "triples": 4,
+      "stars": 16
+     },
+     "19": {
+      "hits": 2,
+      "triples": 1,
+      "stars": 5
+     }
+    }
    },
    "cw180": {
     "th": 19,
-    "triples": 56,
     "hits": 84,
+    "triples": 56,
     "stars": 221,
     "avg_stars": 2.631,
-    "triple_rate": 66.7
+    "triple_rate": 66.7,
+    "by_th": {
+     "18": {
+      "hits": 82,
+      "triples": 55,
+      "stars": 216
+     },
+     "19": {
+      "hits": 2,
+      "triples": 1,
+      "stars": 5
+     }
+    }
    },
    "cwl60": {
     "th": 19,
-    "triples": 13,
     "hits": 14,
+    "triples": 13,
     "stars": 41,
     "avg_stars": 2.929,
-    "triple_rate": 92.9
+    "triple_rate": 92.9,
+    "by_th": {
+     "18": {
+      "hits": 14,
+      "triples": 13,
+      "stars": 41
+     }
+    }
    },
    "cwl180": {
     "th": 19,
-    "triples": 22,
     "hits": 31,
+    "triples": 22,
     "stars": 82,
     "avg_stars": 2.645,
-    "triple_rate": 71.0
+    "triple_rate": 71.0,
+    "by_th": {
+     "18": {
+      "hits": 31,
+      "triples": 22,
+      "stars": 82
+     }
+    }
    }
   },
   "#PVPJ0VUC": {
@@ -1516,35 +2933,63 @@
    "th": 19,
    "cw30": {
     "th": 19,
-    "triples": 1,
     "hits": 2,
+    "triples": 1,
     "stars": 4,
     "avg_stars": 2.0,
-    "triple_rate": 50.0
+    "triple_rate": 50.0,
+    "by_th": {
+     "18": {
+      "hits": 2,
+      "triples": 1,
+      "stars": 4
+     }
+    }
    },
    "cw180": {
     "th": 19,
-    "triples": 27,
     "hits": 43,
+    "triples": 27,
     "stars": 110,
     "avg_stars": 2.558,
-    "triple_rate": 62.8
+    "triple_rate": 62.8,
+    "by_th": {
+     "18": {
+      "hits": 43,
+      "triples": 27,
+      "stars": 110
+     }
+    }
    },
    "cwl60": {
     "th": 19,
-    "triples": 14,
     "hits": 14,
+    "triples": 14,
     "stars": 42,
     "avg_stars": 3.0,
-    "triple_rate": 100.0
+    "triple_rate": 100.0,
+    "by_th": {
+     "18": {
+      "hits": 14,
+      "triples": 14,
+      "stars": 42
+     }
+    }
    },
    "cwl180": {
     "th": 19,
-    "triples": 39,
     "hits": 48,
+    "triples": 39,
     "stars": 134,
     "avg_stars": 2.792,
-    "triple_rate": 81.2
+    "triple_rate": 81.2,
+    "by_th": {
+     "18": {
+      "hits": 48,
+      "triples": 39,
+      "stars": 134
+     }
+    }
    }
   },
   "#Q9G2JL0U": {
@@ -1553,35 +2998,73 @@
    "th": 19,
    "cw30": {
     "th": 19,
-    "triples": 7,
     "hits": 8,
+    "triples": 7,
     "stars": 23,
     "avg_stars": 2.875,
-    "triple_rate": 87.5
+    "triple_rate": 87.5,
+    "by_th": {
+     "18": {
+      "hits": 6,
+      "triples": 6,
+      "stars": 18
+     },
+     "19": {
+      "hits": 2,
+      "triples": 1,
+      "stars": 5
+     }
+    }
    },
    "cw180": {
     "th": 19,
-    "triples": 33,
     "hits": 39,
+    "triples": 33,
     "stars": 111,
     "avg_stars": 2.846,
-    "triple_rate": 84.6
+    "triple_rate": 84.6,
+    "by_th": {
+     "18": {
+      "hits": 37,
+      "triples": 32,
+      "stars": 106
+     },
+     "19": {
+      "hits": 2,
+      "triples": 1,
+      "stars": 5
+     }
+    }
    },
    "cwl60": {
     "th": 19,
-    "triples": 14,
     "hits": 14,
+    "triples": 14,
     "stars": 42,
     "avg_stars": 3.0,
-    "triple_rate": 100.0
+    "triple_rate": 100.0,
+    "by_th": {
+     "18": {
+      "hits": 14,
+      "triples": 14,
+      "stars": 42
+     }
+    }
    },
    "cwl180": {
     "th": 19,
-    "triples": 42,
     "hits": 45,
+    "triples": 42,
     "stars": 131,
     "avg_stars": 2.911,
-    "triple_rate": 93.3
+    "triple_rate": 93.3,
+    "by_th": {
+     "18": {
+      "hits": 45,
+      "triples": 42,
+      "stars": 131
+     }
+    }
    }
   },
   "#QGJ0J8CYR": {
@@ -1590,35 +3073,78 @@
    "th": 18,
    "cw30": {
     "th": 18,
-    "triples": 3,
     "hits": 3,
+    "triples": 3,
     "stars": 9,
     "avg_stars": 3.0,
-    "triple_rate": 100.0
+    "triple_rate": 100.0,
+    "by_th": {
+     "18": {
+      "hits": 3,
+      "triples": 3,
+      "stars": 9
+     }
+    }
    },
    "cw180": {
     "th": 18,
-    "triples": 13,
     "hits": 15,
+    "triples": 13,
     "stars": 43,
     "avg_stars": 2.867,
-    "triple_rate": 86.7
+    "triple_rate": 86.7,
+    "by_th": {
+     "17": {
+      "hits": 12,
+      "triples": 10,
+      "stars": 34
+     },
+     "18": {
+      "hits": 3,
+      "triples": 3,
+      "stars": 9
+     }
+    }
    },
    "cwl60": {
     "th": 18,
-    "triples": 9,
     "hits": 9,
+    "triples": 9,
     "stars": 27,
     "avg_stars": 3.0,
-    "triple_rate": 100.0
+    "triple_rate": 100.0,
+    "by_th": {
+     "17": {
+      "hits": 4,
+      "triples": 4,
+      "stars": 12
+     },
+     "18": {
+      "hits": 5,
+      "triples": 5,
+      "stars": 15
+     }
+    }
    },
    "cwl180": {
     "th": 18,
-    "triples": 17,
     "hits": 17,
+    "triples": 17,
     "stars": 51,
     "avg_stars": 3.0,
-    "triple_rate": 100.0
+    "triple_rate": 100.0,
+    "by_th": {
+     "17": {
+      "hits": 12,
+      "triples": 12,
+      "stars": 36
+     },
+     "18": {
+      "hits": 5,
+      "triples": 5,
+      "stars": 15
+     }
+    }
    }
   },
   "#QJV8UUGRJ": {
@@ -1627,35 +3153,73 @@
    "th": 19,
    "cw30": {
     "th": 19,
-    "triples": 5,
     "hits": 6,
+    "triples": 5,
     "stars": 17,
     "avg_stars": 2.833,
-    "triple_rate": 83.3
+    "triple_rate": 83.3,
+    "by_th": {
+     "18": {
+      "hits": 6,
+      "triples": 5,
+      "stars": 17
+     }
+    }
    },
    "cw180": {
     "th": 19,
-    "triples": 28,
     "hits": 37,
+    "triples": 28,
     "stars": 102,
     "avg_stars": 2.757,
-    "triple_rate": 75.7
+    "triple_rate": 75.7,
+    "by_th": {
+     "17": {
+      "hits": 4,
+      "triples": 3,
+      "stars": 11
+     },
+     "18": {
+      "hits": 33,
+      "triples": 25,
+      "stars": 91
+     }
+    }
    },
    "cwl60": {
     "th": 19,
-    "triples": 10,
     "hits": 14,
+    "triples": 10,
     "stars": 38,
     "avg_stars": 2.714,
-    "triple_rate": 71.4
+    "triple_rate": 71.4,
+    "by_th": {
+     "18": {
+      "hits": 14,
+      "triples": 10,
+      "stars": 38
+     }
+    }
    },
    "cwl180": {
     "th": 19,
-    "triples": 22,
     "hits": 27,
+    "triples": 22,
     "stars": 76,
     "avg_stars": 2.815,
-    "triple_rate": 81.5
+    "triple_rate": 81.5,
+    "by_th": {
+     "17": {
+      "hits": 2,
+      "triples": 2,
+      "stars": 6
+     },
+     "18": {
+      "hits": 25,
+      "triples": 20,
+      "stars": 70
+     }
+    }
    }
   },
   "#QL2LQCGR": {
@@ -1664,35 +3228,73 @@
    "th": 19,
    "cw30": {
     "th": 19,
-    "triples": 6,
     "hits": 7,
+    "triples": 6,
     "stars": 20,
     "avg_stars": 2.857,
-    "triple_rate": 85.7
+    "triple_rate": 85.7,
+    "by_th": {
+     "18": {
+      "hits": 5,
+      "triples": 4,
+      "stars": 14
+     },
+     "19": {
+      "hits": 2,
+      "triples": 2,
+      "stars": 6
+     }
+    }
    },
    "cw180": {
     "th": 19,
-    "triples": 44,
     "hits": 53,
+    "triples": 44,
     "stars": 148,
     "avg_stars": 2.792,
-    "triple_rate": 83.0
+    "triple_rate": 83.0,
+    "by_th": {
+     "18": {
+      "hits": 51,
+      "triples": 42,
+      "stars": 142
+     },
+     "19": {
+      "hits": 2,
+      "triples": 2,
+      "stars": 6
+     }
+    }
    },
    "cwl60": {
     "th": 19,
-    "triples": 3,
     "hits": 4,
+    "triples": 3,
     "stars": 10,
     "avg_stars": 2.5,
-    "triple_rate": 75.0
+    "triple_rate": 75.0,
+    "by_th": {
+     "18": {
+      "hits": 4,
+      "triples": 3,
+      "stars": 10
+     }
+    }
    },
    "cwl180": {
     "th": 19,
-    "triples": 6,
     "hits": 7,
+    "triples": 6,
     "stars": 19,
     "avg_stars": 2.714,
-    "triple_rate": 85.7
+    "triple_rate": 85.7,
+    "by_th": {
+     "18": {
+      "hits": 7,
+      "triples": 6,
+      "stars": 19
+     }
+    }
    }
   },
   "#QRUU9QGU": {
@@ -1701,27 +3303,53 @@
    "th": 19,
    "cw30": {
     "th": 19,
-    "triples": 2,
     "hits": 2,
+    "triples": 2,
     "stars": 6,
     "avg_stars": 3.0,
-    "triple_rate": 100.0
+    "triple_rate": 100.0,
+    "by_th": {
+     "19": {
+      "hits": 2,
+      "triples": 2,
+      "stars": 6
+     }
+    }
    },
    "cw180": {
     "th": 19,
-    "triples": 38,
     "hits": 38,
+    "triples": 38,
     "stars": 114,
     "avg_stars": 3.0,
-    "triple_rate": 100.0
+    "triple_rate": 100.0,
+    "by_th": {
+     "18": {
+      "hits": 36,
+      "triples": 36,
+      "stars": 108
+     },
+     "19": {
+      "hits": 2,
+      "triples": 2,
+      "stars": 6
+     }
+    }
    },
    "cwl180": {
     "th": 19,
-    "triples": 17,
     "hits": 25,
+    "triples": 17,
     "stars": 66,
     "avg_stars": 2.64,
-    "triple_rate": 68.0
+    "triple_rate": 68.0,
+    "by_th": {
+     "18": {
+      "hits": 25,
+      "triples": 17,
+      "stars": 66
+     }
+    }
    }
   },
   "#QVYJ9C0U9": {
@@ -1730,35 +3358,73 @@
    "th": 18,
    "cw30": {
     "th": 18,
-    "triples": 1,
     "hits": 1,
+    "triples": 1,
     "stars": 3,
     "avg_stars": 3.0,
-    "triple_rate": 100.0
+    "triple_rate": 100.0,
+    "by_th": {
+     "18": {
+      "hits": 1,
+      "triples": 1,
+      "stars": 3
+     }
+    }
    },
    "cw180": {
     "th": 18,
-    "triples": 21,
     "hits": 31,
+    "triples": 21,
     "stars": 80,
     "avg_stars": 2.581,
-    "triple_rate": 67.7
+    "triple_rate": 67.7,
+    "by_th": {
+     "17": {
+      "hits": 4,
+      "triples": 3,
+      "stars": 11
+     },
+     "18": {
+      "hits": 27,
+      "triples": 18,
+      "stars": 69
+     }
+    }
    },
    "cwl60": {
     "th": 18,
-    "triples": 10,
     "hits": 11,
+    "triples": 10,
     "stars": 32,
     "avg_stars": 2.909,
-    "triple_rate": 90.9
+    "triple_rate": 90.9,
+    "by_th": {
+     "18": {
+      "hits": 11,
+      "triples": 10,
+      "stars": 32
+     }
+    }
    },
    "cwl180": {
     "th": 18,
-    "triples": 24,
     "hits": 28,
+    "triples": 24,
     "stars": 79,
     "avg_stars": 2.821,
-    "triple_rate": 85.7
+    "triple_rate": 85.7,
+    "by_th": {
+     "17": {
+      "hits": 5,
+      "triples": 4,
+      "stars": 14
+     },
+     "18": {
+      "hits": 23,
+      "triples": 20,
+      "stars": 65
+     }
+    }
    }
   },
   "#R2Q8UU9U": {
@@ -1767,35 +3433,73 @@
    "th": 19,
    "cw30": {
     "th": 19,
-    "triples": 3,
     "hits": 6,
+    "triples": 3,
     "stars": 15,
     "avg_stars": 2.5,
-    "triple_rate": 50.0
+    "triple_rate": 50.0,
+    "by_th": {
+     "18": {
+      "hits": 4,
+      "triples": 2,
+      "stars": 10
+     },
+     "19": {
+      "hits": 2,
+      "triples": 1,
+      "stars": 5
+     }
+    }
    },
    "cw180": {
     "th": 19,
-    "triples": 45,
     "hits": 61,
+    "triples": 45,
     "stars": 167,
     "avg_stars": 2.738,
-    "triple_rate": 73.8
+    "triple_rate": 73.8,
+    "by_th": {
+     "18": {
+      "hits": 59,
+      "triples": 44,
+      "stars": 162
+     },
+     "19": {
+      "hits": 2,
+      "triples": 1,
+      "stars": 5
+     }
+    }
    },
    "cwl60": {
     "th": 19,
-    "triples": 9,
     "hits": 13,
+    "triples": 9,
     "stars": 35,
     "avg_stars": 2.692,
-    "triple_rate": 69.2
+    "triple_rate": 69.2,
+    "by_th": {
+     "18": {
+      "hits": 13,
+      "triples": 9,
+      "stars": 35
+     }
+    }
    },
    "cwl180": {
     "th": 19,
-    "triples": 38,
     "hits": 47,
+    "triples": 38,
     "stars": 131,
     "avg_stars": 2.787,
-    "triple_rate": 80.9
+    "triple_rate": 80.9,
+    "by_th": {
+     "18": {
+      "hits": 47,
+      "triples": 38,
+      "stars": 131
+     }
+    }
    }
   },
   "#RJPGC2JV": {
@@ -1804,35 +3508,73 @@
    "th": 19,
    "cw30": {
     "th": 19,
-    "triples": 5,
     "hits": 5,
+    "triples": 5,
     "stars": 15,
     "avg_stars": 3.0,
-    "triple_rate": 100.0
+    "triple_rate": 100.0,
+    "by_th": {
+     "18": {
+      "hits": 4,
+      "triples": 4,
+      "stars": 12
+     },
+     "19": {
+      "hits": 1,
+      "triples": 1,
+      "stars": 3
+     }
+    }
    },
    "cw180": {
     "th": 19,
-    "triples": 11,
     "hits": 11,
+    "triples": 11,
     "stars": 33,
     "avg_stars": 3.0,
-    "triple_rate": 100.0
+    "triple_rate": 100.0,
+    "by_th": {
+     "18": {
+      "hits": 10,
+      "triples": 10,
+      "stars": 30
+     },
+     "19": {
+      "hits": 1,
+      "triples": 1,
+      "stars": 3
+     }
+    }
    },
    "cwl60": {
     "th": 19,
-    "triples": 6,
     "hits": 10,
+    "triples": 6,
     "stars": 25,
     "avg_stars": 2.5,
-    "triple_rate": 60.0
+    "triple_rate": 60.0,
+    "by_th": {
+     "18": {
+      "hits": 10,
+      "triples": 6,
+      "stars": 25
+     }
+    }
    },
    "cwl180": {
     "th": 19,
-    "triples": 30,
     "hits": 40,
+    "triples": 30,
     "stars": 108,
     "avg_stars": 2.7,
-    "triple_rate": 75.0
+    "triple_rate": 75.0,
+    "by_th": {
+     "18": {
+      "hits": 40,
+      "triples": 30,
+      "stars": 108
+     }
+    }
    }
   },
   "#UR8RL09": {
@@ -1841,35 +3583,63 @@
    "th": 18,
    "cw30": {
     "th": 18,
-    "triples": 1,
     "hits": 2,
+    "triples": 1,
     "stars": 4,
     "avg_stars": 2.0,
-    "triple_rate": 50.0
+    "triple_rate": 50.0,
+    "by_th": {
+     "18": {
+      "hits": 2,
+      "triples": 1,
+      "stars": 4
+     }
+    }
    },
    "cw180": {
     "th": 18,
-    "triples": 22,
     "hits": 25,
+    "triples": 22,
     "stars": 71,
     "avg_stars": 2.84,
-    "triple_rate": 88.0
+    "triple_rate": 88.0,
+    "by_th": {
+     "18": {
+      "hits": 25,
+      "triples": 22,
+      "stars": 71
+     }
+    }
    },
    "cwl60": {
     "th": 18,
-    "triples": 12,
     "hits": 14,
+    "triples": 12,
     "stars": 40,
     "avg_stars": 2.857,
-    "triple_rate": 85.7
+    "triple_rate": 85.7,
+    "by_th": {
+     "18": {
+      "hits": 14,
+      "triples": 12,
+      "stars": 40
+     }
+    }
    },
    "cwl180": {
     "th": 18,
-    "triples": 39,
     "hits": 46,
+    "triples": 39,
     "stars": 131,
     "avg_stars": 2.848,
-    "triple_rate": 84.8
+    "triple_rate": 84.8,
+    "by_th": {
+     "18": {
+      "hits": 46,
+      "triples": 39,
+      "stars": 131
+     }
+    }
    }
   },
   "#UUV2R80": {
@@ -1878,35 +3648,73 @@
    "th": 19,
    "cw30": {
     "th": 19,
-    "triples": 1,
     "hits": 8,
+    "triples": 1,
     "stars": 17,
     "avg_stars": 2.125,
-    "triple_rate": 12.5
+    "triple_rate": 12.5,
+    "by_th": {
+     "18": {
+      "hits": 6,
+      "triples": 1,
+      "stars": 13
+     },
+     "19": {
+      "hits": 2,
+      "triples": 0,
+      "stars": 4
+     }
+    }
    },
    "cw180": {
     "th": 19,
-    "triples": 29,
     "hits": 57,
+    "triples": 29,
     "stars": 142,
     "avg_stars": 2.491,
-    "triple_rate": 50.9
+    "triple_rate": 50.9,
+    "by_th": {
+     "18": {
+      "hits": 55,
+      "triples": 29,
+      "stars": 138
+     },
+     "19": {
+      "hits": 2,
+      "triples": 0,
+      "stars": 4
+     }
+    }
    },
    "cwl60": {
     "th": 19,
-    "triples": 11,
     "hits": 12,
+    "triples": 11,
     "stars": 35,
     "avg_stars": 2.917,
-    "triple_rate": 91.7
+    "triple_rate": 91.7,
+    "by_th": {
+     "18": {
+      "hits": 12,
+      "triples": 11,
+      "stars": 35
+     }
+    }
    },
    "cwl180": {
     "th": 19,
-    "triples": 35,
     "hits": 46,
+    "triples": 35,
     "stars": 125,
     "avg_stars": 2.717,
-    "triple_rate": 76.1
+    "triple_rate": 76.1,
+    "by_th": {
+     "18": {
+      "hits": 46,
+      "triples": 35,
+      "stars": 125
+     }
+    }
    }
   },
   "#V9GQYUCJ": {
@@ -1915,35 +3723,73 @@
    "th": 19,
    "cw30": {
     "th": 19,
-    "triples": 10,
     "hits": 12,
+    "triples": 10,
     "stars": 34,
     "avg_stars": 2.833,
-    "triple_rate": 83.3
+    "triple_rate": 83.3,
+    "by_th": {
+     "18": {
+      "hits": 10,
+      "triples": 9,
+      "stars": 29
+     },
+     "19": {
+      "hits": 2,
+      "triples": 1,
+      "stars": 5
+     }
+    }
    },
    "cw180": {
     "th": 19,
-    "triples": 80,
     "hits": 100,
+    "triples": 80,
     "stars": 276,
     "avg_stars": 2.76,
-    "triple_rate": 80.0
+    "triple_rate": 80.0,
+    "by_th": {
+     "18": {
+      "hits": 98,
+      "triples": 79,
+      "stars": 271
+     },
+     "19": {
+      "hits": 2,
+      "triples": 1,
+      "stars": 5
+     }
+    }
    },
    "cwl60": {
     "th": 19,
-    "triples": 14,
     "hits": 14,
+    "triples": 14,
     "stars": 42,
     "avg_stars": 3.0,
-    "triple_rate": 100.0
+    "triple_rate": 100.0,
+    "by_th": {
+     "18": {
+      "hits": 14,
+      "triples": 14,
+      "stars": 42
+     }
+    }
    },
    "cwl180": {
     "th": 19,
-    "triples": 42,
     "hits": 46,
+    "triples": 42,
     "stars": 133,
     "avg_stars": 2.891,
-    "triple_rate": 91.3
+    "triple_rate": 91.3,
+    "by_th": {
+     "18": {
+      "hits": 46,
+      "triples": 42,
+      "stars": 133
+     }
+    }
    }
   },
   "#Y9UQCC9VQ": {
@@ -1952,35 +3798,73 @@
    "th": 19,
    "cw30": {
     "th": 19,
-    "triples": 6,
     "hits": 8,
+    "triples": 6,
     "stars": 22,
     "avg_stars": 2.75,
-    "triple_rate": 75.0
+    "triple_rate": 75.0,
+    "by_th": {
+     "18": {
+      "hits": 6,
+      "triples": 5,
+      "stars": 17
+     },
+     "19": {
+      "hits": 2,
+      "triples": 1,
+      "stars": 5
+     }
+    }
    },
    "cw180": {
     "th": 19,
-    "triples": 45,
     "hits": 63,
+    "triples": 45,
     "stars": 169,
     "avg_stars": 2.683,
-    "triple_rate": 71.4
+    "triple_rate": 71.4,
+    "by_th": {
+     "18": {
+      "hits": 61,
+      "triples": 44,
+      "stars": 164
+     },
+     "19": {
+      "hits": 2,
+      "triples": 1,
+      "stars": 5
+     }
+    }
    },
    "cwl60": {
     "th": 19,
-    "triples": 10,
     "hits": 11,
+    "triples": 10,
     "stars": 31,
     "avg_stars": 2.818,
-    "triple_rate": 90.9
+    "triple_rate": 90.9,
+    "by_th": {
+     "18": {
+      "hits": 11,
+      "triples": 10,
+      "stars": 31
+     }
+    }
    },
    "cwl180": {
     "th": 19,
-    "triples": 27,
     "hits": 39,
+    "triples": 27,
     "stars": 102,
     "avg_stars": 2.615,
-    "triple_rate": 69.2
+    "triple_rate": 69.2,
+    "by_th": {
+     "18": {
+      "hits": 39,
+      "triples": 27,
+      "stars": 102
+     }
+    }
    }
   },
   "#YC0VCJQPQ": {
@@ -1989,27 +3873,48 @@
    "th": 18,
    "cw180": {
     "th": 18,
-    "triples": 1,
     "hits": 2,
+    "triples": 1,
     "stars": 5,
     "avg_stars": 2.5,
-    "triple_rate": 50.0
+    "triple_rate": 50.0,
+    "by_th": {
+     "18": {
+      "hits": 2,
+      "triples": 1,
+      "stars": 5
+     }
+    }
    },
    "cwl60": {
     "th": 18,
-    "triples": 8,
     "hits": 11,
+    "triples": 8,
     "stars": 30,
     "avg_stars": 2.727,
-    "triple_rate": 72.7
+    "triple_rate": 72.7,
+    "by_th": {
+     "18": {
+      "hits": 11,
+      "triples": 8,
+      "stars": 30
+     }
+    }
    },
    "cwl180": {
     "th": 18,
-    "triples": 16,
     "hits": 24,
+    "triples": 16,
     "stars": 63,
     "avg_stars": 2.625,
-    "triple_rate": 66.7
+    "triple_rate": 66.7,
+    "by_th": {
+     "18": {
+      "hits": 24,
+      "triples": 16,
+      "stars": 63
+     }
+    }
    }
   },
   "#YRRCCQLR8": {
@@ -2018,35 +3923,63 @@
    "th": 18,
    "cw30": {
     "th": 18,
-    "triples": 4,
     "hits": 4,
+    "triples": 4,
     "stars": 12,
     "avg_stars": 3.0,
-    "triple_rate": 100.0
+    "triple_rate": 100.0,
+    "by_th": {
+     "18": {
+      "hits": 4,
+      "triples": 4,
+      "stars": 12
+     }
+    }
    },
    "cw180": {
     "th": 18,
-    "triples": 48,
     "hits": 54,
+    "triples": 48,
     "stars": 155,
     "avg_stars": 2.87,
-    "triple_rate": 88.9
+    "triple_rate": 88.9,
+    "by_th": {
+     "18": {
+      "hits": 54,
+      "triples": 48,
+      "stars": 155
+     }
+    }
    },
    "cwl60": {
     "th": 18,
-    "triples": 13,
     "hits": 14,
+    "triples": 13,
     "stars": 40,
     "avg_stars": 2.857,
-    "triple_rate": 92.9
+    "triple_rate": 92.9,
+    "by_th": {
+     "18": {
+      "hits": 14,
+      "triples": 13,
+      "stars": 40
+     }
+    }
    },
    "cwl180": {
     "th": 18,
-    "triples": 40,
     "hits": 46,
+    "triples": 40,
     "stars": 130,
     "avg_stars": 2.826,
-    "triple_rate": 87.0
+    "triple_rate": 87.0,
+    "by_th": {
+     "18": {
+      "hits": 46,
+      "triples": 40,
+      "stars": 130
+     }
+    }
    }
   },
   "#YVUUVCVG8": {
@@ -2055,35 +3988,73 @@
    "th": 19,
    "cw30": {
     "th": 19,
-    "triples": 5,
     "hits": 8,
+    "triples": 5,
     "stars": 21,
     "avg_stars": 2.625,
-    "triple_rate": 62.5
+    "triple_rate": 62.5,
+    "by_th": {
+     "18": {
+      "hits": 6,
+      "triples": 4,
+      "stars": 16
+     },
+     "19": {
+      "hits": 2,
+      "triples": 1,
+      "stars": 5
+     }
+    }
    },
    "cw180": {
     "th": 19,
-    "triples": 56,
     "hits": 75,
+    "triples": 56,
     "stars": 200,
     "avg_stars": 2.667,
-    "triple_rate": 74.7
+    "triple_rate": 74.7,
+    "by_th": {
+     "18": {
+      "hits": 73,
+      "triples": 55,
+      "stars": 195
+     },
+     "19": {
+      "hits": 2,
+      "triples": 1,
+      "stars": 5
+     }
+    }
    },
    "cwl60": {
     "th": 19,
-    "triples": 12,
     "hits": 13,
+    "triples": 12,
     "stars": 38,
     "avg_stars": 2.923,
-    "triple_rate": 92.3
+    "triple_rate": 92.3,
+    "by_th": {
+     "18": {
+      "hits": 13,
+      "triples": 12,
+      "stars": 38
+     }
+    }
    },
    "cwl180": {
     "th": 19,
-    "triples": 31,
     "hits": 44,
+    "triples": 31,
     "stars": 118,
     "avg_stars": 2.682,
-    "triple_rate": 70.5
+    "triple_rate": 70.5,
+    "by_th": {
+     "18": {
+      "hits": 44,
+      "triples": 31,
+      "stars": 118
+     }
+    }
    }
   }
  }
