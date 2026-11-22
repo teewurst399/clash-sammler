@@ -1,0 +1,262 @@
+{
+ "attacks": [
+  {
+   "a": "#G82R2J9LQ",
+   "ath": 15,
+   "d": "#RJLCQY9U",
+   "dth": 13,
+   "dur": 72,
+   "o": 1,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#G82R2J9LQ",
+   "ath": 15,
+   "d": "#GV2GJLRVG",
+   "dth": 18,
+   "dur": 120,
+   "o": 2,
+   "p": 86,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#G80RV8QRR",
+   "ath": 15,
+   "d": "#G08G0RR98",
+   "dth": 11,
+   "dur": 79,
+   "o": 3,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#G80RV8QRR",
+   "ath": 15,
+   "d": "#GV2GJLRVG",
+   "dth": 18,
+   "dur": 136,
+   "o": 4,
+   "p": 80,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#PJUPQLGU8",
+   "ath": 19,
+   "d": "#28CVLRLU",
+   "dth": 18,
+   "dur": 80,
+   "o": 5,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#GV2GJLRVG",
+   "ath": 18,
+   "d": "#PJUPQLGU8",
+   "dth": 19,
+   "dur": 180,
+   "o": 6,
+   "p": 99,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#GV2GJLRVG",
+   "ath": 18,
+   "d": "#YRV9CJR92",
+   "dth": 18,
+   "dur": 124,
+   "o": 7,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#PJUPQLGU8",
+   "ath": 19,
+   "d": "#GPCQPUQ0Q",
+   "dth": 19,
+   "dur": 88,
+   "o": 8,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#GPCQPUQ0Q",
+   "ath": 19,
+   "d": "#PJUPQLGU8",
+   "dth": 19,
+   "dur": 142,
+   "o": 9,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#GPCQPUQ0Q",
+   "ath": 19,
+   "d": "#8UGJVY082",
+   "dth": 17,
+   "dur": 88,
+   "o": 10,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#28CVLRLU",
+   "ath": 18,
+   "d": "#G82R2J9LQ",
+   "dth": 15,
+   "dur": 87,
+   "o": 11,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#28CVLRLU",
+   "ath": 18,
+   "d": "#G80RV8QRR",
+   "dth": 15,
+   "dur": 96,
+   "o": 12,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#RJLCQY9U",
+   "ath": 13,
+   "d": "#G80RV8QRR",
+   "dth": 15,
+   "dur": 24,
+   "o": 13,
+   "p": 25,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#RJLCQY9U",
+   "ath": 13,
+   "d": "#G82R2J9LQ",
+   "dth": 15,
+   "dur": 40,
+   "o": 14,
+   "p": 36,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#G08G0RR98",
+   "ath": 11,
+   "d": "#G80RV8QRR",
+   "dth": 15,
+   "dur": 42,
+   "o": 15,
+   "p": 33,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#G08G0RR98",
+   "ath": 11,
+   "d": "#G82R2J9LQ",
+   "dth": 15,
+   "dur": 40,
+   "o": 16,
+   "p": 30,
+   "s": 1,
+   "side": "clan"
+  }
+ ],
+ "attacksPerMember": 2,
+ "clan": {
+  "destruction": 100.0,
+  "members": [
+   {
+    "name": "WB Teewurst₆",
+    "pos": 4,
+    "tag": "#RJLCQY9U",
+    "th": 13
+   },
+   {
+    "name": "WB Teewurst₃",
+    "pos": 2,
+    "tag": "#28CVLRLU",
+    "th": 18
+   },
+   {
+    "name": "vFietz",
+    "pos": 5,
+    "tag": "#G08G0RR98",
+    "th": 11
+   },
+   {
+    "name": "WB Teewurst₄",
+    "pos": 1,
+    "tag": "#GPCQPUQ0Q",
+    "th": 19
+   },
+   {
+    "name": "Pr3d4tor:97",
+    "pos": 3,
+    "tag": "#GV2GJLRVG",
+    "th": 18
+   }
+  ],
+  "name": "Würstchenbude",
+  "stars": 15,
+  "tag": "#2JYURYLCL"
+ },
+ "end": "20261122T174155.000Z",
+ "opponent": {
+  "destruction": 97.2,
+  "members": [
+   {
+    "name": "Sagor",
+    "pos": 5,
+    "tag": "#G80RV8QRR",
+    "th": 15
+   },
+   {
+    "name": "Pikachu",
+    "pos": 4,
+    "tag": "#G82R2J9LQ",
+    "th": 15
+   },
+   {
+    "name": "Md Sagor Dewan",
+    "pos": 1,
+    "tag": "#PJUPQLGU8",
+    "th": 19
+   },
+   {
+    "name": "nil",
+    "pos": 3,
+    "tag": "#8UGJVY082",
+    "th": 17
+   },
+   {
+    "name": "Md ridoy .Y",
+    "pos": 2,
+    "tag": "#YRV9CJR92",
+    "th": 18
+   }
+  ],
+  "name": "Black Boys",
+  "stars": 14,
+  "tag": "#2G0U2RJQ8"
+ },
+ "start": "20261121T174155.000Z",
+ "state": "warEnded",
+ "teamSize": 5,
+ "type": "krieg"
+}

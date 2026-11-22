@@ -1,0 +1,359 @@
+{
+ "attacks": [
+  {
+   "a": "#VQR2Q9L",
+   "ath": 15,
+   "d": "#Q8CV92RPR",
+   "dth": 16,
+   "dur": 179,
+   "o": 1,
+   "p": 96,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#P2V920UUU",
+   "ath": 14,
+   "d": "#YYP0VQGC0",
+   "dth": 18,
+   "dur": 55,
+   "o": 2,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#8L2RLYV0V",
+   "ath": 15,
+   "d": "#GUUUVRRJL",
+   "dth": 15,
+   "dur": 172,
+   "o": 3,
+   "p": 94,
+   "s": 2,
+   "side": "gegner"
+  }
+ ],
+ "attacksPerMember": 2,
+ "clan": {
+  "destruction": 3.84,
+  "members": [
+   {
+    "name": "Mega |V",
+    "pos": 23,
+    "tag": "#LPJ2VC9C9",
+    "th": 14
+   },
+   {
+    "name": "CrazySheep",
+    "pos": 10,
+    "tag": "#QUQ0UVV9V",
+    "th": 17
+   },
+   {
+    "name": "BS Dirk2",
+    "pos": 16,
+    "tag": "#GYJJ8C0PR",
+    "th": 16
+   },
+   {
+    "name": "Gorillapo",
+    "pos": 2,
+    "tag": "#8J982QVR8",
+    "th": 19
+   },
+   {
+    "name": "MarGra",
+    "pos": 8,
+    "tag": "#GG8JRRYV",
+    "th": 17
+   },
+   {
+    "name": "Marcone",
+    "pos": 13,
+    "tag": "#200GGYCRV",
+    "th": 16
+   },
+   {
+    "name": "Alter\"RUSHER\" 3",
+    "pos": 21,
+    "tag": "#YYP0VQGC0",
+    "th": 18
+   },
+   {
+    "name": "supersiedel",
+    "pos": 5,
+    "tag": "#YJLV9UU9",
+    "th": 19
+   },
+   {
+    "name": "BS Dirk3",
+    "pos": 19,
+    "tag": "#GLQ0YCP20",
+    "th": 15
+   },
+   {
+    "name": "Sinan |V",
+    "pos": 17,
+    "tag": "#GPQJC209Y",
+    "th": 16
+   },
+   {
+    "name": "ExCore",
+    "pos": 1,
+    "tag": "#2PLPQJQ80",
+    "th": 19
+   },
+   {
+    "name": "Zakko",
+    "pos": 12,
+    "tag": "#2PG9C2P0Q",
+    "th": 16
+   },
+   {
+    "name": "Taubes Nüsschen",
+    "pos": 11,
+    "tag": "#8CPJ8GUU",
+    "th": 16
+   },
+   {
+    "name": "Taha",
+    "pos": 7,
+    "tag": "#CJC9UPCJ",
+    "th": 18
+   },
+   {
+    "name": "Mega V|",
+    "pos": 25,
+    "tag": "#QP8CU9RP2",
+    "th": 12
+   },
+   {
+    "name": "Weedboby",
+    "pos": 6,
+    "tag": "#G9LU9G9G8",
+    "th": 18
+   },
+   {
+    "name": "FoldDaNutz",
+    "pos": 3,
+    "tag": "#GP890LPUJ",
+    "th": 19
+   },
+   {
+    "name": "Lukas",
+    "pos": 20,
+    "tag": "#VQR2Q9L",
+    "th": 15
+   },
+   {
+    "name": "Mega V",
+    "pos": 24,
+    "tag": "#Q0L2GJ8CQ",
+    "th": 13
+   },
+   {
+    "name": "BS Dirk",
+    "pos": 15,
+    "tag": "#GLVP8QU8G",
+    "th": 16
+   },
+   {
+    "name": "BS Dirk4",
+    "pos": 22,
+    "tag": "#GUUUVRRJL",
+    "th": 15
+   },
+   {
+    "name": "Pokspieler",
+    "pos": 4,
+    "tag": "#GQVRJRYVG",
+    "th": 19
+   },
+   {
+    "name": "crazysheep",
+    "pos": 9,
+    "tag": "#G0RQRVQUU",
+    "th": 17
+   },
+   {
+    "name": "Mega |||",
+    "pos": 18,
+    "tag": "#YPL2YPGUP",
+    "th": 15
+   },
+   {
+    "name": "CalvronVX",
+    "pos": 14,
+    "tag": "#YPL298Q02",
+    "th": 16
+   }
+  ],
+  "name": "#Black Stone# 6",
+  "stars": 1,
+  "tag": "#2G8ULRP8R"
+ },
+ "end": "20261123T181644.000Z",
+ "opponent": {
+  "destruction": 7.76,
+  "members": [
+   {
+    "name": "NaGibAtoR",
+    "pos": 10,
+    "tag": "#PR8PYLQRG",
+    "th": 17
+   },
+   {
+    "name": "Чемпион",
+    "pos": 12,
+    "tag": "#UJUURGUL",
+    "th": 16
+   },
+   {
+    "name": "KebыhA",
+    "pos": 17,
+    "tag": "#YCYQQCGUR",
+    "th": 16
+   },
+   {
+    "name": "ConnecT",
+    "pos": 23,
+    "tag": "#GJ8RYLJQ0",
+    "th": 17
+   },
+   {
+    "name": "1усман_018",
+    "pos": 15,
+    "tag": "#P8PLQLV2U",
+    "th": 16
+   },
+   {
+    "name": "belozerka3",
+    "pos": 3,
+    "tag": "#2LU8UUUVR",
+    "th": 19
+   },
+   {
+    "name": "Амирчон",
+    "pos": 8,
+    "tag": "#G2YYJ9G0C",
+    "th": 17
+   },
+   {
+    "name": "| Денька |",
+    "pos": 22,
+    "tag": "#8L2RLYV0V",
+    "th": 15
+   },
+   {
+    "name": "d0see",
+    "pos": 6,
+    "tag": "#QJ0LV8PRU",
+    "th": 19
+   },
+   {
+    "name": "Nick",
+    "pos": 9,
+    "tag": "#G9P2C882Q",
+    "th": 17
+   },
+   {
+    "name": "JTS",
+    "pos": 13,
+    "tag": "#LJ0GPP8GG",
+    "th": 16
+   },
+   {
+    "name": "Кардинал",
+    "pos": 14,
+    "tag": "#Q0CR9GGGP",
+    "th": 18
+   },
+   {
+    "name": "ТараНтАс",
+    "pos": 20,
+    "tag": "#Q8RGPJRJY",
+    "th": 16
+   },
+   {
+    "name": "хасан",
+    "pos": 5,
+    "tag": "#8Y2LCVLRR",
+    "th": 19
+   },
+   {
+    "name": "Пушка",
+    "pos": 18,
+    "tag": "#Q8CV92RPR",
+    "th": 16
+   },
+   {
+    "name": "TARGARIEN",
+    "pos": 24,
+    "tag": "#R2PC9GRPY",
+    "th": 16
+   },
+   {
+    "name": "Чапай Батыр",
+    "pos": 7,
+    "tag": "#L0LV9UGG0",
+    "th": 18
+   },
+   {
+    "name": "TeSaK",
+    "pos": 1,
+    "tag": "#L20Y9QJRP",
+    "th": 19
+   },
+   {
+    "name": "БутильоК",
+    "pos": 19,
+    "tag": "#QPRCURLJR",
+    "th": 16
+   },
+   {
+    "name": "Скиф",
+    "pos": 25,
+    "tag": "#QG0UC9LLQ",
+    "th": 9
+   },
+   {
+    "name": "Солонец",
+    "pos": 4,
+    "tag": "#YUC08V8J2",
+    "th": 19
+   },
+   {
+    "name": "Ананас",
+    "pos": 16,
+    "tag": "#LLUV0RRJQ",
+    "th": 16
+   },
+   {
+    "name": "ЧеКиН",
+    "pos": 11,
+    "tag": "#Q2P2G20V9",
+    "th": 18
+   },
+   {
+    "name": "Parnisha",
+    "pos": 21,
+    "tag": "#P2V920UUU",
+    "th": 14
+   },
+   {
+    "name": "BALERION",
+    "pos": 2,
+    "tag": "#20GCP2RJ",
+    "th": 19
+   }
+  ],
+  "name": "Дике поле",
+  "stars": 5,
+  "tag": "#2L0YCJJ88"
+ },
+ "start": "20261122T181644.000Z",
+ "state": "inWar",
+ "teamSize": 25,
+ "type": "krieg"
+}

@@ -1,0 +1,939 @@
+{
+ "clans": [
+  {
+   "members": [
+    {
+     "name": "Bart.R",
+     "tag": "#CPUUGJ2G",
+     "th": 18
+    },
+    {
+     "name": "the king",
+     "tag": "#98U2VJG8",
+     "th": 18
+    },
+    {
+     "name": "[!DF!] Rudas",
+     "tag": "#VVPJQJGP",
+     "th": 18
+    },
+    {
+     "name": "[!DF!] Esmee",
+     "tag": "#YLJR2RYG",
+     "th": 18
+    },
+    {
+     "name": "niekominiek",
+     "tag": "#9LCLQ29C",
+     "th": 18
+    },
+    {
+     "name": "lex",
+     "tag": "#QLG9G2YU",
+     "th": 17
+    },
+    {
+     "name": "[!DF!] Isa",
+     "tag": "#22VRLJJQY",
+     "th": 18
+    },
+    {
+     "name": "SUIKERSTUIKER",
+     "tag": "#R0YYQCR9V",
+     "th": 11
+    },
+    {
+     "name": "Rups",
+     "tag": "#LUQJJPLRR",
+     "th": 18
+    },
+    {
+     "name": "[!DF!] Mark",
+     "tag": "#8VL2PVU2",
+     "th": 18
+    },
+    {
+     "name": "lol_010",
+     "tag": "#8QCGR9PP9",
+     "th": 18
+    },
+    {
+     "name": "Hit O.P.",
+     "tag": "#PPUU8QUQV",
+     "th": 18
+    },
+    {
+     "name": "TARZAN45",
+     "tag": "#V0UU0Q0",
+     "th": 18
+    },
+    {
+     "name": "The A team",
+     "tag": "#RRLQ92VC",
+     "th": 18
+    },
+    {
+     "name": "LuukLuuk",
+     "tag": "#98JLCRUPU",
+     "th": 17
+    },
+    {
+     "name": "ZA WARUDO",
+     "tag": "#LVC0GYCQ",
+     "th": 18
+    },
+    {
+     "name": "urahara",
+     "tag": "#GUP22GVG",
+     "th": 18
+    },
+    {
+     "name": "Dipeppino",
+     "tag": "#8QRR8GQ2",
+     "th": 18
+    },
+    {
+     "name": "Steff",
+     "tag": "#G2R9R2Q99",
+     "th": 17
+    },
+    {
+     "name": "thijs",
+     "tag": "#9YPVC0Q8J",
+     "th": 18
+    },
+    {
+     "name": "Silverback",
+     "tag": "#2PY8RULY",
+     "th": 18
+    },
+    {
+     "name": "bandz",
+     "tag": "#PCCP0YJP",
+     "th": 18
+    },
+    {
+     "name": "bandzzzzzzz",
+     "tag": "#Q20PR9PJP",
+     "th": 18
+    },
+    {
+     "name": "[!DF!] GreenP",
+     "tag": "#88V2VJPC",
+     "th": 18
+    },
+    {
+     "name": "✨✨Duke Bram✨✨",
+     "tag": "#LP0Y9Y00Y",
+     "th": 18
+    },
+    {
+     "name": "bomba",
+     "tag": "#GRJRYQUUQ",
+     "th": 18
+    },
+    {
+     "name": "✨✨Lord Bram✨✨",
+     "tag": "#UR8J8V2C",
+     "th": 18
+    },
+    {
+     "name": "mc",
+     "tag": "#CG2VGVV",
+     "th": 18
+    }
+   ],
+   "name": "!DutchFriends!",
+   "tag": "#8902V9J2"
+  },
+  {
+   "members": [
+    {
+     "name": "lopo",
+     "tag": "#L290P0PV",
+     "th": 18
+    },
+    {
+     "name": "AMO",
+     "tag": "#9J9G8CVGQ",
+     "th": 18
+    },
+    {
+     "name": "hellfire",
+     "tag": "#P9QRCGRU",
+     "th": 18
+    },
+    {
+     "name": "Bangler",
+     "tag": "#2PCC99PYG",
+     "th": 18
+    },
+    {
+     "name": "Crixus",
+     "tag": "#J9VVL9R2",
+     "th": 18
+    },
+    {
+     "name": "louis",
+     "tag": "#PUCRURG2",
+     "th": 18
+    },
+    {
+     "name": "xTheRealJonas",
+     "tag": "#VPUPQCQL",
+     "th": 18
+    },
+    {
+     "name": "Maxi muxi",
+     "tag": "#88CC9R09J",
+     "th": 18
+    },
+    {
+     "name": "Hupi2000",
+     "tag": "#Q9U88C22R",
+     "th": 18
+    },
+    {
+     "name": "NMK520",
+     "tag": "#QRQRQGQL",
+     "th": 18
+    },
+    {
+     "name": "hhori55",
+     "tag": "#PPLLCQPC",
+     "th": 18
+    },
+    {
+     "name": "Heisenberg",
+     "tag": "#9YJP0V8UC",
+     "th": 18
+    },
+    {
+     "name": "ＢＷＣ⚡️MARTIN",
+     "tag": "#8Q929PJLV",
+     "th": 18
+    },
+    {
+     "name": "Armando",
+     "tag": "#RQ82JQQP",
+     "th": 18
+    },
+    {
+     "name": "Der Z0oker",
+     "tag": "#8LV9UCL09",
+     "th": 18
+    },
+    {
+     "name": "Cleptox",
+     "tag": "#GY0RPCPC2",
+     "th": 18
+    },
+    {
+     "name": "snix",
+     "tag": "#9YY92PY9L",
+     "th": 18
+    },
+    {
+     "name": "Schlappse",
+     "tag": "#UCY09URJ",
+     "th": 18
+    },
+    {
+     "name": "KNELLSE",
+     "tag": "#88UV8QQG",
+     "th": 18
+    },
+    {
+     "name": "Jack",
+     "tag": "#8P9JPQ",
+     "th": 18
+    },
+    {
+     "name": "BR▪︎Swat671",
+     "tag": "#8L992UCVJ",
+     "th": 18
+    },
+    {
+     "name": "Wenkover",
+     "tag": "#2QL9JYYC",
+     "th": 18
+    },
+    {
+     "name": "S M I L E",
+     "tag": "#YVGU9Q2G",
+     "th": 18
+    },
+    {
+     "name": "Johannes",
+     "tag": "#20U2P99JP",
+     "th": 18
+    },
+    {
+     "name": "maxy111",
+     "tag": "#Y9LUR8CPC",
+     "th": 18
+    }
+   ],
+   "name": "BabarienRage",
+   "tag": "#809LJ9C8"
+  },
+  {
+   "members": [
+    {
+     "name": "ahmet",
+     "tag": "#2UL82V2CV",
+     "th": 18
+    },
+    {
+     "name": "#\"MAHOAGA\"",
+     "tag": "#P2URPV8Y",
+     "th": 18
+    },
+    {
+     "name": "Entei",
+     "tag": "#Q2C2RQVRL",
+     "th": 18
+    },
+    {
+     "name": "KATRE",
+     "tag": "#2J9VLU028",
+     "th": 18
+    },
+    {
+     "name": "⏩⏩KARADAYI⏪⏪",
+     "tag": "#Y9PJLL02C",
+     "th": 18
+    },
+    {
+     "name": "waldo269",
+     "tag": "#PCULJQCY8",
+     "th": 18
+    },
+    {
+     "name": "ZZAFERR",
+     "tag": "#GLPRJQC9J",
+     "th": 18
+    },
+    {
+     "name": "pırtûk",
+     "tag": "#YGGQV0G8J",
+     "th": 18
+    },
+    {
+     "name": "MicanALİ",
+     "tag": "#Y0VQVGLRV",
+     "th": 18
+    },
+    {
+     "name": "MR.DEMİRCİ",
+     "tag": "#GG0ULPVQY",
+     "th": 18
+    },
+    {
+     "name": "⚔️Ясин⚔️",
+     "tag": "#82UGUGYGR",
+     "th": 18
+    },
+    {
+     "name": "✨ P!nK ✨",
+     "tag": "#YQL8U9GQ",
+     "th": 18
+    },
+    {
+     "name": "ZAE IS INSANE",
+     "tag": "#CLP2GCGQ",
+     "th": 18
+    },
+    {
+     "name": "♣◆ÕĢEĐĄÝ◇♧",
+     "tag": "#8UCCUVCLR",
+     "th": 18
+    },
+    {
+     "name": "D.E.C.C.A.L:47",
+     "tag": "#Q9UQ0RP0C",
+     "th": 18
+    }
+   ],
+   "name": "CallToVictory",
+   "tag": "#2GQVGPC9Y"
+  },
+  {
+   "members": [
+    {
+     "name": "MuBa",
+     "tag": "#2GGGJ88JQ",
+     "th": 18
+    },
+    {
+     "name": "Vasto Lorde",
+     "tag": "#GQRRYURUQ",
+     "th": 3
+    },
+    {
+     "name": "KaraT^66❤️",
+     "tag": "#Q2QJY2YLU",
+     "th": 15
+    },
+    {
+     "name": "Alexander",
+     "tag": "#P298YRRJY",
+     "th": 18
+    },
+    {
+     "name": "OGUZOK",
+     "tag": "#PCGP00YQR",
+     "th": 18
+    },
+    {
+     "name": "я❤️лучниц",
+     "tag": "#GV88PGVJ9",
+     "th": 10
+    },
+    {
+     "name": "вояка",
+     "tag": "#LVCUYUUL9",
+     "th": 17
+    },
+    {
+     "name": "Mixfunny",
+     "tag": "#U2RUCRCV",
+     "th": 18
+    },
+    {
+     "name": "亗 AZG ☂️",
+     "tag": "#GJCRUGV9G",
+     "th": 11
+    },
+    {
+     "name": "Mifares",
+     "tag": "#P8RVYGUP2",
+     "th": 18
+    },
+    {
+     "name": "Odessit ©",
+     "tag": "#QCULP8PU0",
+     "th": 18
+    },
+    {
+     "name": "..Украинец..",
+     "tag": "#29CJPGJG9",
+     "th": 18
+    },
+    {
+     "name": "⚪ crazy☑",
+     "tag": "#22GLJQRP",
+     "th": 18
+    },
+    {
+     "name": "<-KING_BOSS->",
+     "tag": "#PJJGRC92R",
+     "th": 18
+    },
+    {
+     "name": "Vilgefortz",
+     "tag": "#8CV0V2UVL",
+     "th": 18
+    },
+    {
+     "name": "Сашко 3",
+     "tag": "#GQYQLL0GJ",
+     "th": 8
+    },
+    {
+     "name": "Black Heart",
+     "tag": "#GURJCVQVV",
+     "th": 15
+    },
+    {
+     "name": "MARSHALxMVP",
+     "tag": "#R8JPUYJP",
+     "th": 18
+    },
+    {
+     "name": "пантера",
+     "tag": "#G98PY00YL",
+     "th": 18
+    },
+    {
+     "name": "Chorizo",
+     "tag": "#QV2C20Y28",
+     "th": 18
+    },
+    {
+     "name": "mazepa",
+     "tag": "#R0JLPCRQP",
+     "th": 10
+    },
+    {
+     "name": "NaKoLeNi__OleNi",
+     "tag": "#80PY8PUUJ",
+     "th": 18
+    },
+    {
+     "name": "ｆｉｌｏｓｏｆｆ",
+     "tag": "#9VQL99YUP",
+     "th": 18
+    },
+    {
+     "name": "Lion Khan",
+     "tag": "#922LJ28YP",
+     "th": 18
+    },
+    {
+     "name": "Khorus",
+     "tag": "#2U0U0YLYU",
+     "th": 18
+    },
+    {
+     "name": "Last_Uchiha",
+     "tag": "#920Q90RYL",
+     "th": 16
+    },
+    {
+     "name": "Jesus",
+     "tag": "#2G98QP0GL",
+     "th": 18
+    }
+   ],
+   "name": "FOCUS TEAM",
+   "tag": "#2YUV2900R"
+  },
+  {
+   "members": [
+    {
+     "name": "P.E.K.K.A.:)",
+     "tag": "#QUCVYLYJ0",
+     "th": 18
+    },
+    {
+     "name": "DW’LuCiFeR",
+     "tag": "#PLLC8GQVC",
+     "th": 18
+    },
+    {
+     "name": "─हई╬BÝTURKÓ╬ईह─",
+     "tag": "#PLPJU22V",
+     "th": 18
+    },
+    {
+     "name": "cavanşir",
+     "tag": "#L8GVGPG8C",
+     "th": 18
+    },
+    {
+     "name": "─═हईɴɪ̇ʜᴀᴛईह═─",
+     "tag": "#V20JQQYQ",
+     "th": 18
+    },
+    {
+     "name": "ᕙ(ƤᗛŦƦ✺ℵ)*",
+     "tag": "#QJQVCRL8",
+     "th": 18
+    },
+    {
+     "name": "sinan04",
+     "tag": "#Y8P2YG2JU",
+     "th": 18
+    },
+    {
+     "name": "renomeno",
+     "tag": "#R0GUR22VY",
+     "th": 17
+    },
+    {
+     "name": "mustafa",
+     "tag": "#9VUQUUV80",
+     "th": 18
+    },
+    {
+     "name": "YouLost⚡ Jacop",
+     "tag": "#Y02PYG0Y9",
+     "th": 18
+    },
+    {
+     "name": "(CELAL)(CAMAL)",
+     "tag": "#9Y9VV8PG",
+     "th": 18
+    },
+    {
+     "name": "✌RONÎ✌",
+     "tag": "#8CRRCVPJV",
+     "th": 18
+    },
+    {
+     "name": "OTTO⭐TURKO",
+     "tag": "#PL98LUPJL",
+     "th": 13
+    },
+    {
+     "name": "Kerem",
+     "tag": "#PUVC0C0PG",
+     "th": 18
+    },
+    {
+     "name": "yunusemre",
+     "tag": "#P2J2JQCL8",
+     "th": 18
+    },
+    {
+     "name": "DarkLion",
+     "tag": "#PUCCY8UJ",
+     "th": 18
+    },
+    {
+     "name": "WarKinG",
+     "tag": "#JUULC8V8",
+     "th": 18
+    },
+    {
+     "name": "FeRSaF",
+     "tag": "#20P0RQ0CG",
+     "th": 18
+    },
+    {
+     "name": "Loki",
+     "tag": "#9PQCRCJRC",
+     "th": 16
+    },
+    {
+     "name": "─═हई╬Ｒ❍ＭＡＮ╬ईह═─",
+     "tag": "#82V2YV2Y2",
+     "th": 18
+    }
+   ],
+   "name": "TEWOLF",
+   "tag": "#8C22GVVR"
+  },
+  {
+   "members": [
+    {
+     "name": "Czwanylis",
+     "tag": "#22GV9JUJY",
+     "th": 18
+    },
+    {
+     "name": "[POWEREK]",
+     "tag": "#9CQ0PCUG",
+     "th": 18
+    },
+    {
+     "name": "Nihilus",
+     "tag": "#PP0LG8JP9",
+     "th": 18
+    },
+    {
+     "name": "czarny bocian",
+     "tag": "#QV9J9V0CQ",
+     "th": 18
+    },
+    {
+     "name": "✌ Aro✌",
+     "tag": "#8G0UJJGCP",
+     "th": 18
+    },
+    {
+     "name": "PS Gasper",
+     "tag": "#8C2PQPQ80",
+     "th": 18
+    },
+    {
+     "name": "Kacper ;)",
+     "tag": "#8YPJYPLYP",
+     "th": 18
+    },
+    {
+     "name": "Endrju",
+     "tag": "#GR02CJPU",
+     "th": 18
+    },
+    {
+     "name": "Krupsonn",
+     "tag": "#99P2UJGVQ",
+     "th": 18
+    },
+    {
+     "name": "Damian",
+     "tag": "#9Q2L8CR9P",
+     "th": 18
+    },
+    {
+     "name": "Kairen",
+     "tag": "#LJV890P02",
+     "th": 18
+    },
+    {
+     "name": "TEDIBER",
+     "tag": "#PJYGVC02",
+     "th": 18
+    },
+    {
+     "name": "powerson4",
+     "tag": "#9PP9C8VCP",
+     "th": 18
+    },
+    {
+     "name": "AntMan",
+     "tag": "#9R8GR080C",
+     "th": 18
+    },
+    {
+     "name": "Doktor Joint",
+     "tag": "#YJQY2R89",
+     "th": 18
+    },
+    {
+     "name": "Jonas",
+     "tag": "#8QL9URL8",
+     "th": 18
+    }
+   ],
+   "name": "The Art of War",
+   "tag": "#2J9R0LRQG"
+  },
+  {
+   "members": [
+    {
+     "name": "☠Ed de Hum☠",
+     "tag": "#2CQVPCUPR",
+     "th": 18
+    },
+    {
+     "name": "HG Martín PSM",
+     "tag": "#20LUGUV9",
+     "th": 18
+    },
+    {
+     "name": "jonas",
+     "tag": "#8VY00GUL2",
+     "th": 18
+    },
+    {
+     "name": "『ᴸᴹ』『RIKE』",
+     "tag": "#2CJ8LRGLQ",
+     "th": 18
+    },
+    {
+     "name": "enrique",
+     "tag": "#GU8C0VVQ",
+     "th": 18
+    },
+    {
+     "name": "brunoricE",
+     "tag": "#CRV8V9YJ",
+     "th": 18
+    },
+    {
+     "name": "OvErmInd",
+     "tag": "#2PLUR8JRV",
+     "th": 18
+    },
+    {
+     "name": "GuilleVGX",
+     "tag": "#8R2U8GU8",
+     "th": 18
+    },
+    {
+     "name": "david",
+     "tag": "#2UVQ9Q2UL",
+     "th": 18
+    },
+    {
+     "name": "AGENT 000",
+     "tag": "#L80V9G22J",
+     "th": 18
+    },
+    {
+     "name": "miguel",
+     "tag": "#CPY2QP0R",
+     "th": 18
+    },
+    {
+     "name": "xANGELx",
+     "tag": "#92Q0JYRU2",
+     "th": 18
+    },
+    {
+     "name": "Crisgui",
+     "tag": "#2G9GVQRV8",
+     "th": 18
+    },
+    {
+     "name": "Mini LB",
+     "tag": "#GPGC29V9V",
+     "th": 12
+    },
+    {
+     "name": "ThoRReZnO",
+     "tag": "#292RVJCPY",
+     "th": 18
+    },
+    {
+     "name": "Manlikepage★★",
+     "tag": "#PP9GLPLCL",
+     "th": 18
+    },
+    {
+     "name": "txun",
+     "tag": "#LY9VUY8L",
+     "th": 18
+    },
+    {
+     "name": "Dopstar",
+     "tag": "#8QR2UVPYY",
+     "th": 18
+    },
+    {
+     "name": ".*[Willie75]*.t",
+     "tag": "#CYC2YV2V",
+     "th": 18
+    },
+    {
+     "name": "KratoS ☠️",
+     "tag": "#VVPPVLVU",
+     "th": 18
+    }
+   ],
+   "name": "The ExiLeD Ones",
+   "tag": "#PU0JC92"
+  },
+  {
+   "members": [
+    {
+     "name": "Mehdi Al-Safi",
+     "tag": "#9R29YJ0P",
+     "th": 18
+    },
+    {
+     "name": "henning",
+     "tag": "#9GUJG9QR",
+     "th": 18
+    },
+    {
+     "name": "DZ⚜️︻デ一▸♛⃝Tom",
+     "tag": "#9JP2LJR9",
+     "th": 18
+    },
+    {
+     "name": "G!B Walker",
+     "tag": "#GR8U28YYC",
+     "th": 18
+    },
+    {
+     "name": "Strap",
+     "tag": "#LC29VJLP",
+     "th": 18
+    },
+    {
+     "name": "GAY LORD",
+     "tag": "#LVPVQPY8G",
+     "th": 18
+    },
+    {
+     "name": "ausserkontrolle",
+     "tag": "#22J8YYC2C",
+     "th": 18
+    },
+    {
+     "name": "eve❤️Vinyu✞",
+     "tag": "#QLR22GRG9",
+     "th": 10
+    },
+    {
+     "name": "G!B CYAN",
+     "tag": "#QYPYQRYQC",
+     "th": 18
+    },
+    {
+     "name": "⚡️Virtus⚡️",
+     "tag": "#90R9QUPYU",
+     "th": 18
+    },
+    {
+     "name": "Matthew",
+     "tag": "#8LJ8L8RY8",
+     "th": 18
+    },
+    {
+     "name": "埃馬努埃萊 Manu",
+     "tag": "#209UCLCG2",
+     "th": 18
+    },
+    {
+     "name": "G!B Void",
+     "tag": "#29UG0J90U",
+     "th": 15
+    },
+    {
+     "name": "eve❤️Vinyu꧂",
+     "tag": "#JQLJJ922",
+     "th": 16
+    },
+    {
+     "name": "G!B FreeZe",
+     "tag": "#G0V9PL2P",
+     "th": 18
+    },
+    {
+     "name": "G!B KILLERSHOT",
+     "tag": "#LLLCPPUY",
+     "th": 18
+    },
+    {
+     "name": "Tazira",
+     "tag": "#2UCPPR8Q",
+     "th": 18
+    },
+    {
+     "name": "eve❤️Vinyuꕥ",
+     "tag": "#PPRQJ2RCG",
+     "th": 10
+    },
+    {
+     "name": "I am SPEED",
+     "tag": "#PG9QLYGPV",
+     "th": 18
+    },
+    {
+     "name": "eve❤️Vinyl",
+     "tag": "#GQLJQJCGL",
+     "th": 9
+    },
+    {
+     "name": "⚡⚡MathiaS⚡⚡",
+     "tag": "#U2QYL8GJ",
+     "th": 18
+    },
+    {
+     "name": "flr",
+     "tag": "#2R0CC2RCL",
+     "th": 18
+    },
+    {
+     "name": "G!B Acronix",
+     "tag": "#LQ80U9LJY",
+     "th": 18
+    },
+    {
+     "name": "G!B Megatron",
+     "tag": "#PQ2CLJVQC",
+     "th": 18
+    },
+    {
+     "name": "Mighty #2",
+     "tag": "#QYYGRQJYY",
+     "th": 15
+    },
+    {
+     "name": "eve❤️Vinyu☘︎︎",
+     "tag": "#G9C2P8RGQ",
+     "th": 12
+    }
+   ],
+   "name": "Evolve❤️Gaming",
+   "tag": "#2G0PU9QJU"
+  }
+ ],
+ "season": "2026-11-01",
+ "state": "ended"
+}

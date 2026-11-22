@@ -1,0 +1,539 @@
+{
+ "attacks": [
+  {
+   "a": "#QYUY9PYLY",
+   "ath": 18,
+   "d": "#2Y9VUY02L",
+   "dth": 18,
+   "dur": 134,
+   "o": 1,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#LUJYRC0VR",
+   "ath": 18,
+   "d": "#9CY0P0VYJ",
+   "dth": 18,
+   "dur": 163,
+   "o": 2,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#800P8JRC0",
+   "ath": 18,
+   "d": "#CPUP0L9P",
+   "dth": 18,
+   "dur": 180,
+   "o": 3,
+   "p": 99,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#9CUJ9GJPL",
+   "ath": 18,
+   "d": "#UQ0G82JP",
+   "dth": 18,
+   "dur": 129,
+   "o": 4,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#808UU20V2",
+   "ath": 18,
+   "d": "#20QCY98U2",
+   "dth": 18,
+   "dur": 168,
+   "o": 5,
+   "p": 80,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#80Y822L9",
+   "ath": 18,
+   "d": "#LU0LG82YQ",
+   "dth": 18,
+   "dur": 136,
+   "o": 6,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#2RU99R908",
+   "ath": 18,
+   "d": "#QVJGLGV8U",
+   "dth": 18,
+   "dur": 165,
+   "o": 7,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#LU9C2LYCR",
+   "ath": 18,
+   "d": "#9UY9QRVGQ",
+   "dth": 18,
+   "dur": 107,
+   "o": 8,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#9CY0P0VYJ",
+   "ath": 18,
+   "d": "#LUJYRC0VR",
+   "dth": 18,
+   "dur": 132,
+   "o": 9,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#8GJLG82VY",
+   "ath": 18,
+   "d": "#800P8JRC0",
+   "dth": 18,
+   "dur": 110,
+   "o": 10,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#8VVUY2UVR",
+   "ath": 18,
+   "d": "#QL08QYVR0",
+   "dth": 18,
+   "dur": 179,
+   "o": 11,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#9CCCRP8L9",
+   "ath": 18,
+   "d": "#J2CL99R2",
+   "dth": 18,
+   "dur": 140,
+   "o": 12,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#CCL9RCCY",
+   "ath": 18,
+   "d": "#RCRUV2YR",
+   "dth": 18,
+   "dur": 149,
+   "o": 13,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#9UY9QRVGQ",
+   "ath": 18,
+   "d": "#LU9C2LYCR",
+   "dth": 18,
+   "dur": 134,
+   "o": 14,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#89L8LCV8Y",
+   "ath": 18,
+   "d": "#9CCCRP8L9",
+   "dth": 18,
+   "dur": 156,
+   "o": 15,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#QL08QYVR0",
+   "ath": 18,
+   "d": "#8UVU802GY",
+   "dth": 18,
+   "dur": 100,
+   "o": 16,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#RCRUV2YR",
+   "ath": 18,
+   "d": "#2RU99R908",
+   "dth": 18,
+   "dur": 171,
+   "o": 17,
+   "p": 93,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#2J2LV9UJC",
+   "ath": 18,
+   "d": "#80Y822L9",
+   "dth": 18,
+   "dur": 130,
+   "o": 18,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#LR82YCCVU",
+   "ath": 18,
+   "d": "#8GJLG82VY",
+   "dth": 18,
+   "dur": 180,
+   "o": 19,
+   "p": 93,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#80YUQGRRC",
+   "ath": 18,
+   "d": "#CCL9RCCY",
+   "dth": 18,
+   "dur": 120,
+   "o": 20,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#UQ0G82JP",
+   "ath": 18,
+   "d": "#8VVUY2UVR",
+   "dth": 18,
+   "dur": 133,
+   "o": 21,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#8UVU802GY",
+   "ath": 18,
+   "d": "#80YUQGRRC",
+   "dth": 18,
+   "dur": 180,
+   "o": 22,
+   "p": 89,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#PCRYR0RUV",
+   "ath": 18,
+   "d": "#Y2GGYPC8J",
+   "dth": 18,
+   "dur": 175,
+   "o": 23,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#20QCY98U2",
+   "ath": 18,
+   "d": "#808UU20V2",
+   "dth": 18,
+   "dur": 138,
+   "o": 24,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#2Y9VUY02L",
+   "ath": 18,
+   "d": "#9CUJ9GJPL",
+   "dth": 18,
+   "dur": 138,
+   "o": 25,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#LU0LG82YQ",
+   "ath": 18,
+   "d": "#89L8LCV8Y",
+   "dth": 18,
+   "dur": 180,
+   "o": 26,
+   "p": 98,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#Y2GGYPC8J",
+   "ath": 18,
+   "d": "#PCRYR0RUV",
+   "dth": 18,
+   "dur": 135,
+   "o": 27,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#QVJGLGV8U",
+   "ath": 18,
+   "d": "#LR82YCCVU",
+   "dth": 18,
+   "dur": 180,
+   "o": 28,
+   "p": 98,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#CPUP0L9P",
+   "ath": 18,
+   "d": "#2J2LV9UJC",
+   "dth": 18,
+   "dur": 180,
+   "o": 29,
+   "p": 87,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#J2CL99R2",
+   "ath": 18,
+   "d": "#QYUY9PYLY",
+   "dth": 18,
+   "dur": 139,
+   "o": 30,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  }
+ ],
+ "attacksPerMember": null,
+ "clan": {
+  "destruction": 98.53333333333333,
+  "members": [
+   {
+    "name": "FilipTheSlayer",
+    "pos": 1,
+    "tag": "#UQ0G82JP",
+    "th": 18
+   },
+   {
+    "name": "Papa",
+    "pos": 2,
+    "tag": "#CPUP0L9P",
+    "th": 18
+   },
+   {
+    "name": "jannis",
+    "pos": 10,
+    "tag": "#20QCY98U2",
+    "th": 18
+   },
+   {
+    "name": "G!B Betzzz",
+    "pos": 3,
+    "tag": "#2Y9VUY02L",
+    "th": 18
+   },
+   {
+    "name": "帝Nyx",
+    "pos": 15,
+    "tag": "#89L8LCV8Y",
+    "th": 18
+   },
+   {
+    "name": "G!B 「KimKong」",
+    "pos": 11,
+    "tag": "#8GJLG82VY",
+    "th": 18
+   },
+   {
+    "name": "G!B Lindenfeld",
+    "pos": 6,
+    "tag": "#J2CL99R2",
+    "th": 18
+   },
+   {
+    "name": "Farin Urlaub",
+    "pos": 14,
+    "tag": "#LU9C2LYCR",
+    "th": 18
+   },
+   {
+    "name": "G!B Erfolglos",
+    "pos": 9,
+    "tag": "#QL08QYVR0",
+    "th": 18
+   },
+   {
+    "name": "G!B Roelli",
+    "pos": 18,
+    "tag": "#QVJGLGV8U",
+    "th": 18
+   },
+   {
+    "name": "Podrick_Payn",
+    "pos": 12,
+    "tag": "#Y2GGYPC8J",
+    "th": 18
+   },
+   {
+    "name": "G!B ApøstlX",
+    "pos": 13,
+    "tag": "#9CY0P0VYJ",
+    "th": 18
+   },
+   {
+    "name": "G!B⚡️Knut⚡️",
+    "pos": 8,
+    "tag": "#RCRUV2YR",
+    "th": 18
+   },
+   {
+    "name": "G!B M4H1R",
+    "pos": 19,
+    "tag": "#80Y822L9",
+    "th": 18
+   },
+   {
+    "name": "Makroツ",
+    "pos": 16,
+    "tag": "#80YUQGRRC",
+    "th": 18
+   }
+  ],
+  "name": "ButteredRecruit",
+  "stars": 41,
+  "tag": "#2RCQG0RQV"
+ },
+ "end": "20261108T170819.000Z",
+ "opponent": {
+  "destruction": 97.26666666666667,
+  "members": [
+   {
+    "name": "mohammed ah",
+    "pos": 17,
+    "tag": "#2RU99R908",
+    "th": 18
+   },
+   {
+    "name": "44✌️DARK_KING",
+    "pos": 2,
+    "tag": "#9CUJ9GJPL",
+    "th": 18
+   },
+   {
+    "name": "\"ENG\"<YASSER>",
+    "pos": 4,
+    "tag": "#LUJYRC0VR",
+    "th": 18
+   },
+   {
+    "name": "عسكري",
+    "pos": 21,
+    "tag": "#8UVU802GY",
+    "th": 18
+   },
+   {
+    "name": "LORD",
+    "pos": 10,
+    "tag": "#QYUY9PYLY",
+    "th": 18
+   },
+   {
+    "name": "Rami",
+    "pos": 8,
+    "tag": "#808UU20V2",
+    "th": 18
+   },
+   {
+    "name": "RUDI",
+    "pos": 9,
+    "tag": "#9CCCRP8L9",
+    "th": 18
+   },
+   {
+    "name": "Ｓａｍａｙｅｌ",
+    "pos": 19,
+    "tag": "#CCL9RCCY",
+    "th": 18
+   },
+   {
+    "name": "DROGO",
+    "pos": 16,
+    "tag": "#9UY9QRVGQ",
+    "th": 18
+   },
+   {
+    "name": "✌المهيب✌",
+    "pos": 6,
+    "tag": "#8VVUY2UVR",
+    "th": 18
+   },
+   {
+    "name": "الملك",
+    "pos": 20,
+    "tag": "#2J2LV9UJC",
+    "th": 18
+   },
+   {
+    "name": "﷽✨️الجنيرال ﷽✨️",
+    "pos": 7,
+    "tag": "#LU0LG82YQ",
+    "th": 18
+   },
+   {
+    "name": "البياتي @17",
+    "pos": 5,
+    "tag": "#LR82YCCVU",
+    "th": 18
+   },
+   {
+    "name": "(nour)",
+    "pos": 13,
+    "tag": "#PCRYR0RUV",
+    "th": 18
+   },
+   {
+    "name": "❤️ابو سحاق❤️",
+    "pos": 3,
+    "tag": "#800P8JRC0",
+    "th": 18
+   }
+  ],
+  "name": "اســياد الحــرب",
+  "stars": 40,
+  "tag": "#URPRGCVC"
+ },
+ "round": 6,
+ "season": "2026-11-01",
+ "start": "20261107T170819.000Z",
+ "state": "warEnded",
+ "teamSize": 15,
+ "type": "cwl",
+ "warTag": "#8R9V2U8L0"
+}
