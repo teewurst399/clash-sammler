@@ -65,11 +65,66 @@
    "p": 80,
    "s": 2,
    "side": "gegner"
+  },
+  {
+   "a": "#R0U9JJUGU",
+   "ath": 15,
+   "d": "#8RRG02GC2",
+   "dth": 15,
+   "dur": 167,
+   "o": 7,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#R0U9JJUGU",
+   "ath": 15,
+   "d": "#29GGQC09U",
+   "dth": 15,
+   "dur": 142,
+   "o": 8,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#GGV90Q8UJ",
+   "ath": 17,
+   "d": "#LGRJ9JQQU",
+   "dth": 17,
+   "dur": 148,
+   "o": 9,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#8Y8C2QPQP",
+   "ath": 18,
+   "d": "#GYVGJ980Y",
+   "dth": 18,
+   "dur": 157,
+   "o": 10,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#8Y8C2QPQP",
+   "ath": 18,
+   "d": "#QQVJ2VLCL",
+   "dth": 19,
+   "dur": 162,
+   "o": 11,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 0.0,
+  "destruction": 20.0,
   "members": [
    {
     "name": "Doxos_NM",
@@ -223,7 +278,7 @@
    }
   ],
   "name": "Alphazone",
-  "stars": 0,
+  "stars": 15,
   "tag": "#2YCUCPCC0"
  },
  "end": "20261123T203544.000Z",

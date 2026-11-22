@@ -362,6 +362,61 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#U9JGVY00",
+   "ath": 19,
+   "d": "#QCL0GJVV0",
+   "dth": 19,
+   "dur": 176,
+   "o": 34,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#YVVCCGU8C",
+   "ath": 19,
+   "d": "#88GGJYJY0",
+   "dth": 19,
+   "dur": 123,
+   "o": 35,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#P8RJPJQRU",
+   "ath": 19,
+   "d": "#L882UPRQG",
+   "dth": 18,
+   "dur": 123,
+   "o": 36,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#28QJQP2RC",
+   "ath": 19,
+   "d": "#P2P0UL0UU",
+   "dth": 18,
+   "dur": 180,
+   "o": 37,
+   "p": 70,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#28QJQP2RC",
+   "ath": 19,
+   "d": "#LGJ9P9VRJ",
+   "dth": 19,
+   "dur": 180,
+   "o": 38,
+   "p": 79,
+   "s": 2,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -585,7 +640,7 @@
  },
  "end": "20261123T195721.000Z",
  "opponent": {
-  "destruction": 73.71429,
+  "destruction": 84.14286,
   "members": [
    {
     "name": "trmavrma",
@@ -799,7 +854,7 @@
    }
   ],
   "name": "RONIN-CZ",
-  "stars": 75,
+  "stars": 86,
   "tag": "#PJ2JRLPL"
  },
  "start": "20261122T195721.000Z",

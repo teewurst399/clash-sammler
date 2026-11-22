@@ -219,11 +219,22 @@
    "p": 86,
    "s": 2,
    "side": "clan"
+  },
+  {
+   "a": "#G2JULVQUJ",
+   "ath": 19,
+   "d": "#GUG0VLLRP",
+   "dth": 19,
+   "dur": 180,
+   "o": 21,
+   "p": 99,
+   "s": 2,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 19.65,
+  "destruction": 22.125,
   "members": [
    {
     "name": "LOST☆stefan",
@@ -467,7 +478,7 @@
    }
   ],
   "name": "LOST 3",
-  "stars": 23,
+  "stars": 25,
   "tag": "#2YUPV0UYC"
  },
  "end": "20261123T210615.000Z",

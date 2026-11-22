@@ -615,11 +615,88 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#GJ90JP8RJ",
+   "ath": 19,
+   "d": "#JU9YGUYC",
+   "dth": 19,
+   "dur": 114,
+   "o": 57,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#QPJY29QC2",
+   "ath": 19,
+   "d": "#28Q8GUPLJ",
+   "dth": 19,
+   "dur": 88,
+   "o": 58,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#GJ90JP8RJ",
+   "ath": 19,
+   "d": "#L0JLPRJ8Y",
+   "dth": 19,
+   "dur": 166,
+   "o": 59,
+   "p": 82,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#QPJY29QC2",
+   "ath": 19,
+   "d": "#GC8JP0PV",
+   "dth": 19,
+   "dur": 108,
+   "o": 60,
+   "p": 94,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#22UG8UYPQ",
+   "ath": 19,
+   "d": "#L9J800989",
+   "dth": 19,
+   "dur": 156,
+   "o": 61,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#8UQURP98U",
+   "ath": 19,
+   "d": "#Q0PCL22U9",
+   "dth": 19,
+   "dur": 116,
+   "o": 62,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#8UQURP98U",
+   "ath": 19,
+   "d": "#8VJ2VGJ02",
+   "dth": 19,
+   "dur": 106,
+   "o": 63,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 50.0,
+  "destruction": 54.85,
   "members": [
    {
     "name": "FL • Kaiser",
@@ -863,12 +940,12 @@
    }
   ],
   "name": "Obstgarten",
-  "stars": 60,
+  "stars": 65,
   "tag": "#2U08QGR9U"
  },
  "end": "20261123T175734.000Z",
  "opponent": {
-  "destruction": 65.0,
+  "destruction": 77.05,
   "members": [
    {
     "name": "Evade™️",
@@ -1112,7 +1189,7 @@
    }
   ],
   "name": "No Names",
-  "stars": 78,
+  "stars": 91,
   "tag": "#2JPLYRCCJ"
  },
  "start": "20261122T175734.000Z",

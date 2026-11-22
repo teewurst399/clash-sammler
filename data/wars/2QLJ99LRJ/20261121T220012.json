@@ -32,6 +32,61 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#GQU9098L0",
+   "ath": 19,
+   "d": "#9CCJGGL9J",
+   "dth": 19,
+   "dur": 115,
+   "o": 4,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#GQU9098L0",
+   "ath": 19,
+   "d": "#C9VP88Y8",
+   "dth": 19,
+   "dur": 87,
+   "o": 5,
+   "p": 88,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#2L0PUPYP8",
+   "ath": 18,
+   "d": "#C9VP88Y8",
+   "dth": 19,
+   "dur": 110,
+   "o": 6,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#9C2CLP2J",
+   "ath": 18,
+   "d": "#8QYV8VULV",
+   "dth": 18,
+   "dur": 131,
+   "o": 7,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#2L0PUPYP8",
+   "ath": 18,
+   "d": "#8JRLUPCGC",
+   "dth": 18,
+   "dur": 145,
+   "o": 8,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -225,7 +280,7 @@
  },
  "end": "20261123T210012.000Z",
  "opponent": {
-  "destruction": 0.0,
+  "destruction": 13.333333,
   "members": [
    {
     "name": "iwan.rewa 100rb",
@@ -409,7 +464,7 @@
    }
   ],
   "name": "KUCING ANGGORA",
-  "stars": 0,
+  "stars": 12,
   "tag": "#2GYUVYJL0"
  },
  "start": "20261122T210012.000Z",

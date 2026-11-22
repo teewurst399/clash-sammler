@@ -318,6 +318,94 @@
    "p": 90,
    "s": 2,
    "side": "clan"
+  },
+  {
+   "a": "#LGVYLQ02Y",
+   "ath": 19,
+   "d": "#9L0CQ9JY0",
+   "dth": 19,
+   "dur": 175,
+   "o": 30,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#92QCY8GRY",
+   "ath": 19,
+   "d": "#QGPCJV2UV",
+   "dth": 19,
+   "dur": 160,
+   "o": 31,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#LUR29RJCL",
+   "ath": 19,
+   "d": "#2YC0U2RQU",
+   "dth": 19,
+   "dur": 152,
+   "o": 32,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#LGVYLQ02Y",
+   "ath": 19,
+   "d": "#8R2P8CUUU",
+   "dth": 19,
+   "dur": 180,
+   "o": 33,
+   "p": 94,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#92QCY8GRY",
+   "ath": 19,
+   "d": "#L928QC8UV",
+   "dth": 19,
+   "dur": 180,
+   "o": 34,
+   "p": 78,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#LUR29RJCL",
+   "ath": 19,
+   "d": "#G8Y8V92YP",
+   "dth": 19,
+   "dur": 166,
+   "o": 35,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#QV2LY8GYY",
+   "ath": 19,
+   "d": "#LPYU9J00C",
+   "dth": 19,
+   "dur": 147,
+   "o": 36,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#QV2LY8GYY",
+   "ath": 19,
+   "d": "#28QLYUJG9",
+   "dth": 19,
+   "dur": 162,
+   "o": 37,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -541,7 +629,7 @@
  },
  "end": "20261123T190831.000Z",
  "opponent": {
-  "destruction": 25.114286,
+  "destruction": 44.714287,
   "members": [
    {
     "name": "Code Skarex",
@@ -755,7 +843,7 @@
    }
   ],
   "name": "1 Double 1",
-  "stars": 24,
+  "stars": 44,
   "tag": "#20VJU0C09"
  },
  "start": "20261122T190831.000Z",

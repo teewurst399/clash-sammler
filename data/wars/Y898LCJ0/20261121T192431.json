@@ -769,11 +769,55 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#2RL08CP08",
+   "ath": 19,
+   "d": "#82RJ282C",
+   "dth": 19,
+   "dur": 120,
+   "o": 71,
+   "p": 93,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#2U2QC928U",
+   "ath": 19,
+   "d": "#VR0CR90U",
+   "dth": 19,
+   "dur": 143,
+   "o": 72,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#P9YRQG0QR",
+   "ath": 19,
+   "d": "#L8G0JPL9",
+   "dth": 19,
+   "dur": 124,
+   "o": 73,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#P9YRQG0QR",
+   "ath": 19,
+   "d": "#UCPPUR0R",
+   "dth": 19,
+   "dur": 109,
+   "o": 74,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 26.311111,
+  "destruction": 30.6,
   "members": [
    {
     "name": "Fighter",
@@ -1047,12 +1091,12 @@
    }
   ],
   "name": "#Black Stone#",
-  "stars": 32,
+  "stars": 37,
   "tag": "#Y898LCJ0"
  },
  "end": "20261123T182431.000Z",
  "opponent": {
-  "destruction": 88.844444,
+  "destruction": 93.28889,
   "members": [
    {
     "name": "kaancskn",
@@ -1326,7 +1370,7 @@
    }
   ],
   "name": "TurkisH ArmY",
-  "stars": 119,
+  "stars": 125,
   "tag": "#PG9QRVUL"
  },
  "start": "20261122T182431.000Z",

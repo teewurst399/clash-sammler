@@ -714,11 +714,165 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#QYY09PPLY",
+   "ath": 19,
+   "d": "#290G8VLRP",
+   "dth": 19,
+   "dur": 155,
+   "o": 66,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#290G8VLRP",
+   "ath": 19,
+   "d": "#9U0J89P9",
+   "dth": 19,
+   "dur": 134,
+   "o": 67,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#82JC2J2JP",
+   "ath": 19,
+   "d": "#Q9RPVRRY",
+   "dth": 19,
+   "dur": 180,
+   "o": 68,
+   "p": 85,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#290G8VLRP",
+   "ath": 19,
+   "d": "#2008CQVV9",
+   "dth": 19,
+   "dur": 147,
+   "o": 69,
+   "p": 80,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#J2YPY9J9",
+   "ath": 19,
+   "d": "#Y8UUY2QY",
+   "dth": 19,
+   "dur": 129,
+   "o": 70,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#J2YPY9J9",
+   "ath": 19,
+   "d": "#Q9RPVRRY",
+   "dth": 19,
+   "dur": 119,
+   "o": 71,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#PQRYCYG",
+   "ath": 19,
+   "d": "#2008CQVV9",
+   "dth": 19,
+   "dur": 128,
+   "o": 72,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#2CUR80VVY",
+   "ath": 19,
+   "d": "#22QQVVQP",
+   "dth": 19,
+   "dur": 161,
+   "o": 73,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#229GG8LLG",
+   "ath": 19,
+   "d": "#82JC2J2JP",
+   "dth": 19,
+   "dur": 151,
+   "o": 74,
+   "p": 91,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#229GG8LLG",
+   "ath": 19,
+   "d": "#9Q8Q0UPP9",
+   "dth": 19,
+   "dur": 143,
+   "o": 75,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#9GP0GJJVY",
+   "ath": 19,
+   "d": "#QC0CPVRJ9",
+   "dth": 19,
+   "dur": 108,
+   "o": 76,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#2CUR80VVY",
+   "ath": 19,
+   "d": "#9U8P002R2",
+   "dth": 19,
+   "dur": 177,
+   "o": 77,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#LRGGGVQLV",
+   "ath": 19,
+   "d": "#2VLP89P8U",
+   "dth": 19,
+   "dur": 119,
+   "o": 78,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#LRGGGVQLV",
+   "ath": 19,
+   "d": "#9QRCJP29",
+   "dth": 19,
+   "dur": 121,
+   "o": 79,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 33.34,
+  "destruction": 37.42,
   "members": [
    {
     "name": "PaPaPatrick",
@@ -1022,12 +1176,12 @@
    }
   ],
   "name": "Confusion II",
-  "stars": 46,
+  "stars": 53,
   "tag": "#2J2RY0GRL"
  },
  "end": "20261123T200242.000Z",
  "opponent": {
-  "destruction": 59.44,
+  "destruction": 73.46,
   "members": [
    {
     "name": "『HK』Tʜᴇ LEGEND",
@@ -1331,7 +1485,7 @@
    }
   ],
   "name": "الهاترك",
-  "stars": 88,
+  "stars": 110,
   "tag": "#Q8GCQ98Y"
  },
  "start": "20261122T200242.000Z",

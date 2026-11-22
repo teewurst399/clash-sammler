@@ -703,11 +703,110 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#RJ800GLP",
+   "ath": 19,
+   "d": "#2RY2L88U",
+   "dth": 19,
+   "dur": 138,
+   "o": 65,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#9LRQUY0C8",
+   "ath": 19,
+   "d": "#YC9UJU0L",
+   "dth": 19,
+   "dur": 177,
+   "o": 66,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#RJ800GLP",
+   "ath": 19,
+   "d": "#LC00RQR9V",
+   "dth": 19,
+   "dur": 143,
+   "o": 67,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#Q00VGR9QY",
+   "ath": 19,
+   "d": "#LLRUPPGYP",
+   "dth": 19,
+   "dur": 143,
+   "o": 68,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#9LRQUY0C8",
+   "ath": 19,
+   "d": "#2P8U2JPVC",
+   "dth": 19,
+   "dur": 167,
+   "o": 69,
+   "p": 70,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#G0VRYC8YY",
+   "ath": 19,
+   "d": "#QUQ9LGVC",
+   "dth": 19,
+   "dur": 153,
+   "o": 70,
+   "p": 88,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#Q00VGR9QY",
+   "ath": 19,
+   "d": "#LGYUYVG0",
+   "dth": 19,
+   "dur": 137,
+   "o": 71,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#G0VRYC8YY",
+   "ath": 19,
+   "d": "#LGJ2LLJY9",
+   "dth": 19,
+   "dur": 115,
+   "o": 72,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#GLUL2CCV",
+   "ath": 19,
+   "d": "#Q008U09QL",
+   "dth": 19,
+   "dur": 113,
+   "o": 73,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 59.22222,
+  "destruction": 72.155556,
   "members": [
    {
     "name": "Chiko",
@@ -981,12 +1080,12 @@
    }
   ],
   "name": "GermanGladiator",
-  "stars": 78,
+  "stars": 95,
   "tag": "#2Y2L0J20V"
  },
  "end": "20261123T184031.000Z",
  "opponent": {
-  "destruction": 58.422222,
+  "destruction": 59.177776,
   "members": [
    {
     "name": "The Recktifier",
@@ -1260,7 +1359,7 @@
    }
   ],
   "name": "300 club",
-  "stars": 74,
+  "stars": 76,
   "tag": "#QY9RQ2G2"
  },
  "start": "20261122T184031.000Z",

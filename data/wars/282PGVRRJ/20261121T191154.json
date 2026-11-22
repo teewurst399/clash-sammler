@@ -626,6 +626,116 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#GCGQ829R9",
+   "ath": 18,
+   "d": "#2VYJ82QR0",
+   "dth": 18,
+   "dur": 178,
+   "o": 58,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#2L228V98Q",
+   "ath": 19,
+   "d": "#QGCGRPYPY",
+   "dth": 19,
+   "dur": 168,
+   "o": 59,
+   "p": 93,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#PCQCV2LYY",
+   "ath": 19,
+   "d": "#PVPJLVLV",
+   "dth": 19,
+   "dur": 147,
+   "o": 60,
+   "p": 66,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#PCQCV2LYY",
+   "ath": 19,
+   "d": "#QGCGRPYPY",
+   "dth": 19,
+   "dur": 130,
+   "o": 61,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#8UPYCCR98",
+   "ath": 19,
+   "d": "#PVPJLVLV",
+   "dth": 19,
+   "dur": 145,
+   "o": 62,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#8UPYCCR98",
+   "ath": 19,
+   "d": "#J9LCJ8J",
+   "dth": 19,
+   "dur": 150,
+   "o": 63,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#20CVJQCG",
+   "ath": 19,
+   "d": "#PJ8YGPLQ8",
+   "dth": 17,
+   "dur": 117,
+   "o": 64,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#LLG2V20V0",
+   "ath": 18,
+   "d": "#LP8R9LJJY",
+   "dth": 19,
+   "dur": 145,
+   "o": 65,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#20CVJQCG",
+   "ath": 19,
+   "d": "#9Q89JJ0UV",
+   "dth": 18,
+   "dur": 120,
+   "o": 66,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#LLG2V20V0",
+   "ath": 18,
+   "d": "#PCYLUQJQ",
+   "dth": 19,
+   "dur": 151,
+   "o": 67,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -879,7 +989,7 @@
  },
  "end": "20261123T181154.000Z",
  "opponent": {
-  "destruction": 76.55,
+  "destruction": 92.35,
   "members": [
    {
     "name": "TÜRKİYE⚡️NOTCH2",
@@ -1123,7 +1233,7 @@
    }
   ],
   "name": "TÜRKİYE",
-  "stars": 90,
+  "stars": 110,
   "tag": "#20U2L8QY0"
  },
  "start": "20261122T181154.000Z",

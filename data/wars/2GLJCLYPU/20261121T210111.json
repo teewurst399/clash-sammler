@@ -516,11 +516,77 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#90QY8VUJ",
+   "ath": 19,
+   "d": "#PVURR2CC",
+   "dth": 19,
+   "dur": 162,
+   "o": 48,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#PYQU08UVR",
+   "ath": 19,
+   "d": "#8VUCQ0V2",
+   "dth": 19,
+   "dur": 115,
+   "o": 49,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#VLJQLPJR",
+   "ath": 19,
+   "d": "#RPUGV8VV",
+   "dth": 19,
+   "dur": 139,
+   "o": 50,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#VLJQLPJR",
+   "ath": 19,
+   "d": "#PYQU08UVR",
+   "dth": 19,
+   "dur": 141,
+   "o": 51,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#8UY882YU2",
+   "ath": 19,
+   "d": "#Q2L0RLYLR",
+   "dth": 19,
+   "dur": 173,
+   "o": 52,
+   "p": 89,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#LL0JQ2JJU",
+   "ath": 19,
+   "d": "#9GY98LQLQ",
+   "dth": 19,
+   "dur": 144,
+   "o": 53,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 45.622223,
+  "destruction": 49.822224,
   "members": [
    {
     "name": "Nils^_^",
@@ -794,12 +860,12 @@
    }
   ],
   "name": "Northfront",
-  "stars": 59,
+  "stars": 64,
   "tag": "#2GLJCLYPU"
  },
  "end": "20261123T200111.000Z",
  "opponent": {
-  "destruction": 35.288887,
+  "destruction": 40.0,
   "members": [
    {
     "name": "BOOTSSE",
@@ -1073,7 +1139,7 @@
    }
   ],
   "name": "LokiFamilia",
-  "stars": 46,
+  "stars": 54,
   "tag": "#22P288GY0"
  },
  "start": "20261122T200111.000Z",

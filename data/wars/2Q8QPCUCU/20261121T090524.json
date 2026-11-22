@@ -1253,6 +1253,39 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#2Q8P8P9J0",
+   "ath": 19,
+   "d": "#LGVCJR0L",
+   "dth": 19,
+   "dur": 90,
+   "o": 115,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#2Q8P8P9J0",
+   "ath": 19,
+   "d": "#GVYLPYGPL",
+   "dth": 19,
+   "dur": 110,
+   "o": 116,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#80999QJ0C",
+   "ath": 19,
+   "d": "#2Q8P8P9J0",
+   "dth": 19,
+   "dur": 180,
+   "o": 117,
+   "p": 95,
+   "s": 2,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -1506,7 +1539,7 @@
  },
  "end": "20261123T080524.000Z",
  "opponent": {
-  "destruction": 98.925,
+  "destruction": 98.95,
   "members": [
    {
     "name": "凉宫春日的忧郁",
