@@ -1,0 +1,370 @@
+{
+ "attacks": [
+  {
+   "a": "#9CUPVGRC",
+   "ath": 19,
+   "d": "#20PP2GGCU",
+   "dth": 19,
+   "dur": 136,
+   "o": 1,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#9CUPVGRC",
+   "ath": 19,
+   "d": "#PGYYJ89Y9",
+   "dth": 19,
+   "dur": 160,
+   "o": 2,
+   "p": 96,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#8RRG02GC2",
+   "ath": 15,
+   "d": "#R0U9JJUGU",
+   "dth": 15,
+   "dur": 112,
+   "o": 3,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#200Q2800",
+   "ath": 18,
+   "d": "#G8RPVG9QU",
+   "dth": 18,
+   "dur": 138,
+   "o": 4,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  }
+ ],
+ "attacksPerMember": 2,
+ "clan": {
+  "destruction": 0.0,
+  "members": [
+   {
+    "name": "Doxos_NM",
+    "pos": 17,
+    "tag": "#G9YJ2LG02",
+    "th": 17
+   },
+   {
+    "name": "DT ✨️ Fabi",
+    "pos": 21,
+    "tag": "#2QLUPY88J",
+    "th": 19
+   },
+   {
+    "name": "Luke Skywalker",
+    "pos": 18,
+    "tag": "#L88J28P9V",
+    "th": 17
+   },
+   {
+    "name": "EZ⚡️Pharao⚡️",
+    "pos": 11,
+    "tag": "#G8RPVG9QU",
+    "th": 18
+   },
+   {
+    "name": "dudu XD",
+    "pos": 5,
+    "tag": "#20PP2GGCU",
+    "th": 19
+   },
+   {
+    "name": "Chiga",
+    "pos": 22,
+    "tag": "#GVLCRRVGV",
+    "th": 15
+   },
+   {
+    "name": "EZ⚡Morpheus⚡",
+    "pos": 15,
+    "tag": "#LVJJPQJQR",
+    "th": 17
+   },
+   {
+    "name": "duDu DX",
+    "pos": 13,
+    "tag": "#2PJJ2ULJG",
+    "th": 18
+   },
+   {
+    "name": "Garchomp",
+    "pos": 24,
+    "tag": "#R0U9JJUGU",
+    "th": 15
+   },
+   {
+    "name": "The Hunter",
+    "pos": 25,
+    "tag": "#R2RP9V90J",
+    "th": 11
+   },
+   {
+    "name": "Razoer",
+    "pos": 20,
+    "tag": "#GGV90Q8UJ",
+    "th": 17
+   },
+   {
+    "name": "k4mpfk4sten",
+    "pos": 4,
+    "tag": "#9VYLRCVR",
+    "th": 19
+   },
+   {
+    "name": "JustAMondi",
+    "pos": 7,
+    "tag": "#YUQCCRPJ2",
+    "th": 19
+   },
+   {
+    "name": "Fabian",
+    "pos": 2,
+    "tag": "#QLRVJYG9",
+    "th": 19
+   },
+   {
+    "name": "DT✨Mondi",
+    "pos": 23,
+    "tag": "#LRRLVGC92",
+    "th": 18
+   },
+   {
+    "name": "MonsterRazoer",
+    "pos": 10,
+    "tag": "#8Y8C2QPQP",
+    "th": 18
+   },
+   {
+    "name": "duDu DD",
+    "pos": 19,
+    "tag": "#QRG0P2J20",
+    "th": 17
+   },
+   {
+    "name": "『M k』影の支配者kr△m亗",
+    "pos": 8,
+    "tag": "#8QC8VJG2U",
+    "th": 19
+   },
+   {
+    "name": "Fabi 3",
+    "pos": 1,
+    "tag": "#9PRPRP2Y",
+    "th": 19
+   },
+   {
+    "name": "EZ⚡David.JR⚡",
+    "pos": 14,
+    "tag": "#LR0CQPJ8C",
+    "th": 17
+   },
+   {
+    "name": "EZ⚡Erebus⚡",
+    "pos": 16,
+    "tag": "#Q82JVYLPR",
+    "th": 17
+   },
+   {
+    "name": "Marek3607",
+    "pos": 6,
+    "tag": "#PGYYJ89Y9",
+    "th": 19
+   },
+   {
+    "name": "sasuke",
+    "pos": 9,
+    "tag": "#Q88JJ00G0",
+    "th": 18
+   },
+   {
+    "name": "EZ Packard",
+    "pos": 3,
+    "tag": "#GGQ8UL9GY",
+    "th": 19
+   },
+   {
+    "name": "Sophiaa",
+    "pos": 12,
+    "tag": "#GG8CU0UY8",
+    "th": 18
+   }
+  ],
+  "name": "Alphazone",
+  "stars": 0,
+  "tag": "#2YCUCPCC0"
+ },
+ "end": "20261123T203544.000Z",
+ "opponent": {
+  "destruction": 15.84,
+  "members": [
+   {
+    "name": "MR_98JAY",
+    "pos": 5,
+    "tag": "#PV8LPVG0G",
+    "th": 19
+   },
+   {
+    "name": "GOAT MONEY FORD",
+    "pos": 2,
+    "tag": "#9CUPVGRC",
+    "th": 19
+   },
+   {
+    "name": "wyatt",
+    "pos": 1,
+    "tag": "#L0RCR9UU",
+    "th": 19
+   },
+   {
+    "name": "911devo",
+    "pos": 7,
+    "tag": "#PP9PJ8GP",
+    "th": 19
+   },
+   {
+    "name": "XxWIZARDxX",
+    "pos": 23,
+    "tag": "#29GGQC09U",
+    "th": 15
+   },
+   {
+    "name": "xXArcangelXx",
+    "pos": 12,
+    "tag": "#PYPQVG282",
+    "th": 18
+   },
+   {
+    "name": "I.P.U.N.G.3....",
+    "pos": 21,
+    "tag": "#PL8CJ8QRG",
+    "th": 17
+   },
+   {
+    "name": "deiz",
+    "pos": 10,
+    "tag": "#GYVGJ980Y",
+    "th": 18
+   },
+   {
+    "name": "Jared",
+    "pos": 15,
+    "tag": "#LUVJLYJGQ",
+    "th": 18
+   },
+   {
+    "name": "Mark766",
+    "pos": 19,
+    "tag": "#90022220",
+    "th": 17
+   },
+   {
+    "name": "Mitchello",
+    "pos": 4,
+    "tag": "#8G209CU0",
+    "th": 19
+   },
+   {
+    "name": "jake",
+    "pos": 9,
+    "tag": "#QQVJ2VLCL",
+    "th": 19
+   },
+   {
+    "name": "Mark866",
+    "pos": 22,
+    "tag": "#YJL2LG9LL",
+    "th": 16
+   },
+   {
+    "name": "benthie",
+    "pos": 20,
+    "tag": "#LGRJ9JQQU",
+    "th": 17
+   },
+   {
+    "name": "S.KALKAN",
+    "pos": 3,
+    "tag": "#LCLP8VRJ",
+    "th": 19
+   },
+   {
+    "name": "LoL Guy",
+    "pos": 13,
+    "tag": "#LY8LUP900",
+    "th": 18
+   },
+   {
+    "name": "Akashiiii",
+    "pos": 14,
+    "tag": "#2Q92JJ0PQ",
+    "th": 18
+   },
+   {
+    "name": "KilowattHr",
+    "pos": 11,
+    "tag": "#200Q2800",
+    "th": 18
+   },
+   {
+    "name": "Jeff",
+    "pos": 18,
+    "tag": "#LQVG8JJGR",
+    "th": 17
+   },
+   {
+    "name": "Acc. Ahmed",
+    "pos": 24,
+    "tag": "#8RRG02GC2",
+    "th": 15
+   },
+   {
+    "name": "Limitless",
+    "pos": 25,
+    "tag": "#GUQUJJ2Q8",
+    "th": 14
+   },
+   {
+    "name": "Wyatt smurf",
+    "pos": 16,
+    "tag": "#YLYQV08RL",
+    "th": 19
+   },
+   {
+    "name": ".com",
+    "pos": 6,
+    "tag": "#PLR9Q8VRU",
+    "th": 19
+   },
+   {
+    "name": "DI4M0ND",
+    "pos": 8,
+    "tag": "#22UPVGURL",
+    "th": 19
+   },
+   {
+    "name": "mohit",
+    "pos": 17,
+    "tag": "#CLJPQ8V0",
+    "th": 17
+   }
+  ],
+  "name": "Crusher Clan!!",
+  "stars": 10,
+  "tag": "#2CPQ8LU"
+ },
+ "start": "20261122T203544.000Z",
+ "state": "inWar",
+ "teamSize": 25,
+ "type": "krieg"
+}

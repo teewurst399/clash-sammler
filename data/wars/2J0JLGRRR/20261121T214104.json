@@ -1,0 +1,436 @@
+{
+ "attacks": [
+  {
+   "a": "#QY0CUGGYR",
+   "ath": 14,
+   "d": "#G29LQG9YQ",
+   "dth": 14,
+   "dur": 95,
+   "o": 1,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#QY0CUGGYR",
+   "ath": 14,
+   "d": "#G9RVR92CU",
+   "dth": 14,
+   "dur": 108,
+   "o": 2,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#YC0P89CGJ",
+   "ath": 17,
+   "d": "#QYY88QYJJ",
+   "dth": 15,
+   "dur": 101,
+   "o": 3,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#YC0P89CGJ",
+   "ath": 17,
+   "d": "#GCL9CPJQU",
+   "dth": 16,
+   "dur": 67,
+   "o": 4,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#98VQ90GQJ",
+   "ath": 17,
+   "d": "#G8URV080L",
+   "dth": 15,
+   "dur": 91,
+   "o": 5,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#8PYVUY00R",
+   "ath": 17,
+   "d": "#GQLU99U2C",
+   "dth": 18,
+   "dur": 131,
+   "o": 6,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#98VQ90GQJ",
+   "ath": 17,
+   "d": "#QPQ2PVLRU",
+   "dth": 16,
+   "dur": 105,
+   "o": 7,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#R82G2YU8L",
+   "ath": 10,
+   "d": "#GP8LURPPY",
+   "dth": 11,
+   "dur": 101,
+   "o": 8,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#R82G2YU8L",
+   "ath": 10,
+   "d": "#QUCGJYJRC",
+   "dth": 11,
+   "dur": 98,
+   "o": 9,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#8PYVUY00R",
+   "ath": 17,
+   "d": "#QJYCY0CJC",
+   "dth": 17,
+   "dur": 180,
+   "o": 10,
+   "p": 99,
+   "s": 2,
+   "side": "gegner"
+  }
+ ],
+ "attacksPerMember": 2,
+ "clan": {
+  "destruction": 32.0,
+  "members": [
+   {
+    "name": "Frost",
+    "pos": 5,
+    "tag": "#G8L0PCLVV",
+    "th": 17
+   },
+   {
+    "name": "G!B Badoomi",
+    "pos": 24,
+    "tag": "#GUR0UCJGJ",
+    "th": 3
+   },
+   {
+    "name": "mobe2",
+    "pos": 13,
+    "tag": "#YC08Q0CV",
+    "th": 16
+   },
+   {
+    "name": "G!B Badoom 2.0",
+    "pos": 18,
+    "tag": "#QY0CUGGYR",
+    "th": 14
+   },
+   {
+    "name": "Sintai",
+    "pos": 4,
+    "tag": "#GC9UYCQVY",
+    "th": 17
+   },
+   {
+    "name": "Cheeseburger",
+    "pos": 14,
+    "tag": "#CRG2JP0Y",
+    "th": 16
+   },
+   {
+    "name": "DETROX lll",
+    "pos": 8,
+    "tag": "#89299QPG0",
+    "th": 15
+   },
+   {
+    "name": "G!B Badoooom",
+    "pos": 23,
+    "tag": "#R2CLJ2P9L",
+    "th": 4
+   },
+   {
+    "name": "Tainis",
+    "pos": 15,
+    "tag": "#GUQRRUVL2",
+    "th": 15
+   },
+   {
+    "name": "FeaR‘s Empire",
+    "pos": 6,
+    "tag": "#98VQ90GQJ",
+    "th": 17
+   },
+   {
+    "name": "King Devil",
+    "pos": 10,
+    "tag": "#8JL0VV0GL",
+    "th": 15
+   },
+   {
+    "name": "M.S.M1",
+    "pos": 11,
+    "tag": "#GQLU99U2C",
+    "th": 18
+   },
+   {
+    "name": "Neymar Jr 10",
+    "pos": 1,
+    "tag": "#LGUPGVJ8R",
+    "th": 18
+   },
+   {
+    "name": "ANTIOPE",
+    "pos": 21,
+    "tag": "#GVR82GCQU",
+    "th": 12
+   },
+   {
+    "name": "⚡️FeaR‘sReign⚡️",
+    "pos": 16,
+    "tag": "#YC0P89CGJ",
+    "th": 17
+   },
+   {
+    "name": "G!B Fenta",
+    "pos": 19,
+    "tag": "#GV2YPJQPC",
+    "th": 13
+   },
+   {
+    "name": "Annie 2.0",
+    "pos": 9,
+    "tag": "#LRRRJ0QJG",
+    "th": 16
+   },
+   {
+    "name": "⚔️Simon ⚔️",
+    "pos": 3,
+    "tag": "#QJYCY0CJC",
+    "th": 17
+   },
+   {
+    "name": "Paul☃️3",
+    "pos": 17,
+    "tag": "#R9CP02GCY",
+    "th": 17
+   },
+   {
+    "name": "FeaRedNighTmare",
+    "pos": 22,
+    "tag": "#R82G2YU8L",
+    "th": 10
+   },
+   {
+    "name": "Yanick",
+    "pos": 7,
+    "tag": "#GV9LV9QQL",
+    "th": 16
+   },
+   {
+    "name": "Meta",
+    "pos": 12,
+    "tag": "#R08VJLYCL",
+    "th": 15
+   },
+   {
+    "name": "G!B Reshiram",
+    "pos": 2,
+    "tag": "#GPLRJ0G9Q",
+    "th": 18
+   },
+   {
+    "name": "G!B MiniBadoom",
+    "pos": 25,
+    "tag": "#GUUV9Y09Y",
+    "th": 3
+   },
+   {
+    "name": "DiaVándy",
+    "pos": 20,
+    "tag": "#GUQJP2282",
+    "th": 13
+   }
+  ],
+  "name": "Get Smurfed!",
+  "stars": 24,
+  "tag": "#2J0JLGRRR"
+ },
+ "end": "20261123T204104.000Z",
+ "opponent": {
+  "destruction": 7.96,
+  "members": [
+   {
+    "name": "❤رولا❤",
+    "pos": 19,
+    "tag": "#LVLPRRGLP",
+    "th": 14
+   },
+   {
+    "name": "ℬrακ✨",
+    "pos": 11,
+    "tag": "#8PYVUY00R",
+    "th": 17
+   },
+   {
+    "name": "✴Rula✴",
+    "pos": 6,
+    "tag": "#LCCQPQGPU",
+    "th": 18
+   },
+   {
+    "name": "❤️rula❤️",
+    "pos": 17,
+    "tag": "#QYY88QYJJ",
+    "th": 15
+   },
+   {
+    "name": "❤♕♡rula♡♕❤",
+    "pos": 9,
+    "tag": "#Q0VVGQLYV",
+    "th": 17
+   },
+   {
+    "name": "سلطانه❤️ R❤️",
+    "pos": 2,
+    "tag": "#PGRRYUCC8",
+    "th": 18
+   },
+   {
+    "name": "❤♕♡rula♡♕❤",
+    "pos": 4,
+    "tag": "#9VRQURR8G",
+    "th": 17
+   },
+   {
+    "name": "سلطان بلحب",
+    "pos": 5,
+    "tag": "#PLRCLGCVY",
+    "th": 17
+   },
+   {
+    "name": "✨rula✨",
+    "pos": 24,
+    "tag": "#QUCGJYJRC",
+    "th": 11
+   },
+   {
+    "name": "عامر",
+    "pos": 3,
+    "tag": "#2C9QGCU9G",
+    "th": 18
+   },
+   {
+    "name": "Achilles l 艾哈迈德",
+    "pos": 1,
+    "tag": "#8UR8PVL9",
+    "th": 19
+   },
+   {
+    "name": "Malak",
+    "pos": 10,
+    "tag": "#PPGQQCPCC",
+    "th": 17
+   },
+   {
+    "name": "❤رولا❤",
+    "pos": 23,
+    "tag": "#GPLV8PYGU",
+    "th": 12
+   },
+   {
+    "name": "❤رولا❤",
+    "pos": 12,
+    "tag": "#QYJPYYCLR",
+    "th": 16
+   },
+   {
+    "name": "❤رولا❤",
+    "pos": 13,
+    "tag": "#QQ2VGQUQ0",
+    "th": 16
+   },
+   {
+    "name": "❤ rula ❤",
+    "pos": 16,
+    "tag": "#G8URV080L",
+    "th": 15
+   },
+   {
+    "name": "روح",
+    "pos": 21,
+    "tag": "#G9RVR92CU",
+    "th": 14
+   },
+   {
+    "name": "العنقاء",
+    "pos": 25,
+    "tag": "#GP8LURPPY",
+    "th": 11
+   },
+   {
+    "name": "فراشـة",
+    "pos": 18,
+    "tag": "#GCL9CPJQU",
+    "th": 16
+   },
+   {
+    "name": "☀️RULA☀️",
+    "pos": 22,
+    "tag": "#G29LQG9YQ",
+    "th": 14
+   },
+   {
+    "name": "⚡✨rula✨⚡",
+    "pos": 7,
+    "tag": "#PRJPQYUC8",
+    "th": 17
+   },
+   {
+    "name": "❤رولا❤",
+    "pos": 20,
+    "tag": "#LCLY8JPJR",
+    "th": 14
+   },
+   {
+    "name": "﷼♕♡رولا♡♕﷼",
+    "pos": 14,
+    "tag": "#LP8C0PJUG",
+    "th": 15
+   },
+   {
+    "name": "♕﷼rula﷼♕",
+    "pos": 15,
+    "tag": "#QPQ2PVLRU",
+    "th": 16
+   },
+   {
+    "name": "❤﷼rula﷼❤",
+    "pos": 8,
+    "tag": "#LP8G0GLRQ",
+    "th": 18
+   }
+  ],
+  "name": "مبارزان بی مرز",
+  "stars": 5,
+  "tag": "#YUCL9QPY"
+ },
+ "start": "20261122T204104.000Z",
+ "state": "inWar",
+ "teamSize": 25,
+ "type": "krieg"
+}

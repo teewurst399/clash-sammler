@@ -1,0 +1,397 @@
+{
+ "attacks": [
+  {
+   "a": "#982RQ9L8",
+   "ath": 17,
+   "d": "#20PYUYVUL",
+   "dth": 18,
+   "dur": 152,
+   "o": 1,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  }
+ ],
+ "attacksPerMember": 2,
+ "clan": {
+  "destruction": 3.3333333,
+  "members": [
+   {
+    "name": "Raugraf Hugo",
+    "pos": 15,
+    "tag": "#QU0VUUVYG",
+    "th": 17
+   },
+   {
+    "name": "Lil'slo",
+    "pos": 10,
+    "tag": "#Y0QUJRJL",
+    "th": 17
+   },
+   {
+    "name": "死 *Relativity*",
+    "pos": 17,
+    "tag": "#Q808CUJYG",
+    "th": 15
+   },
+   {
+    "name": "LegitSmiley☺",
+    "pos": 6,
+    "tag": "#8JRLUPCGC",
+    "th": 18
+   },
+   {
+    "name": "ImperadoIf",
+    "pos": 27,
+    "tag": "#QP9Y8V98R",
+    "th": 9
+   },
+   {
+    "name": "FreeTwoPlay",
+    "pos": 21,
+    "tag": "#GYY8CV2VQ",
+    "th": 13
+   },
+   {
+    "name": "CKNebu",
+    "pos": 5,
+    "tag": "#9CCJGGL9J",
+    "th": 19
+   },
+   {
+    "name": "Burggraf Hugo",
+    "pos": 30,
+    "tag": "#QCJ090QRJ",
+    "th": 7
+   },
+   {
+    "name": "Schnablo٩(^‿^)۶",
+    "pos": 26,
+    "tag": "#GCJV0PY09",
+    "th": 10
+   },
+   {
+    "name": "sloburn",
+    "pos": 7,
+    "tag": "#L8GCGYJ",
+    "th": 18
+   },
+   {
+    "name": "canyener94",
+    "pos": 11,
+    "tag": "#982RQ9L8",
+    "th": 17
+   },
+   {
+    "name": "Imperator Hugo",
+    "pos": 3,
+    "tag": "#PJRVY9LQC",
+    "th": 19
+   },
+   {
+    "name": "F2P} I Dome I",
+    "pos": 13,
+    "tag": "#QRCPPU0R0",
+    "th": 16
+   },
+   {
+    "name": "#SE# Paule",
+    "pos": 4,
+    "tag": "#C9VP88Y8",
+    "th": 19
+   },
+   {
+    "name": "Pro65656",
+    "pos": 16,
+    "tag": "#QVLQ8P2PY",
+    "th": 16
+   },
+   {
+    "name": "König Hugo",
+    "pos": 1,
+    "tag": "#U9890RJQ",
+    "th": 19
+   },
+   {
+    "name": "LOKESH",
+    "pos": 9,
+    "tag": "#G90QC2RP9",
+    "th": 18
+   },
+   {
+    "name": "Let‘s play Lalo",
+    "pos": 8,
+    "tag": "#8QYV8VULV",
+    "th": 18
+   },
+   {
+    "name": "Landgraf Hugo",
+    "pos": 29,
+    "tag": "#QJV8QQ0UC",
+    "th": 8
+   },
+   {
+    "name": "Ranmaru",
+    "pos": 12,
+    "tag": "#8U8GL2PRL",
+    "th": 17
+   },
+   {
+    "name": "Fürst Hugo",
+    "pos": 19,
+    "tag": "#QC82UYQCY",
+    "th": 17
+   },
+   {
+    "name": "DerWahreErlöser",
+    "pos": 14,
+    "tag": "#LRJJQU0Q9",
+    "th": 19
+   },
+   {
+    "name": "Kurfürst Hugo",
+    "pos": 28,
+    "tag": "#QUQGLPG2J",
+    "th": 9
+   },
+   {
+    "name": "Herzog Hugo",
+    "pos": 18,
+    "tag": "#QUQGLVJ2J",
+    "th": 17
+   },
+   {
+    "name": "Böhser onkel",
+    "pos": 25,
+    "tag": "#YJCL88UR0",
+    "th": 11
+   },
+   {
+    "name": "FalscherErlöser",
+    "pos": 2,
+    "tag": "#LJPCRGPPG",
+    "th": 19
+   },
+   {
+    "name": "●⃝ ⛧ᴰǟᚱᴋ❀ÐȺнŁɪ₳",
+    "pos": 22,
+    "tag": "#GJ98VJQQR",
+    "th": 12
+   },
+   {
+    "name": "Magic2001",
+    "pos": 20,
+    "tag": "#22V9U90U",
+    "th": 13
+   },
+   {
+    "name": "Екатерина Велик",
+    "pos": 23,
+    "tag": "#LG29U0GJP",
+    "th": 12
+   },
+   {
+    "name": "Magic2001",
+    "pos": 24,
+    "tag": "#802PR80C8",
+    "th": 12
+   }
+  ],
+  "name": "Betazone",
+  "stars": 3,
+  "tag": "#2QLJ99LRJ"
+ },
+ "end": "20261123T210012.000Z",
+ "opponent": {
+  "destruction": 0.0,
+  "members": [
+   {
+    "name": "iwan.rewa 100rb",
+    "pos": 19,
+    "tag": "#2Q99Q8P9R",
+    "th": 17
+   },
+   {
+    "name": "DWI.IRWAN.D",
+    "pos": 18,
+    "tag": "#8VR88VJQ9",
+    "th": 17
+   },
+   {
+    "name": "IRWAN,D.1978",
+    "pos": 22,
+    "tag": "#PJ0G0CQVC",
+    "th": 16
+   },
+   {
+    "name": "Kuburan",
+    "pos": 9,
+    "tag": "#9YRJ0PRVU",
+    "th": 18
+   },
+   {
+    "name": "BlueBird",
+    "pos": 1,
+    "tag": "#Q8UPCQJ8C",
+    "th": 19
+   },
+   {
+    "name": "Maestro!",
+    "pos": 23,
+    "tag": "#22C8PYJJ0",
+    "th": 16
+   },
+   {
+    "name": "bayao.rarokeng",
+    "pos": 27,
+    "tag": "#QJU2P2YQ9",
+    "th": 16
+   },
+   {
+    "name": "joker",
+    "pos": 29,
+    "tag": "#Q0V0VPV9Y",
+    "th": 13
+   },
+   {
+    "name": "lu bu",
+    "pos": 5,
+    "tag": "#QJ0J09JRY",
+    "th": 19
+   },
+   {
+    "name": "Peluncur",
+    "pos": 14,
+    "tag": "#GRP98208G",
+    "th": 16
+   },
+   {
+    "name": "PSM.MAKASSAR/01",
+    "pos": 16,
+    "tag": "#YVG8JVY2Q",
+    "th": 17
+   },
+   {
+    "name": "RIYAN HIDAYAT",
+    "pos": 15,
+    "tag": "#Q08QQ2RGL",
+    "th": 15
+   },
+   {
+    "name": "Ecaldi",
+    "pos": 6,
+    "tag": "#GQU9098L0",
+    "th": 19
+   },
+   {
+    "name": "bams24",
+    "pos": 30,
+    "tag": "#R2Y29R22U",
+    "th": 12
+   },
+   {
+    "name": "Luluk Mega",
+    "pos": 2,
+    "tag": "#8LYVYCVLG",
+    "th": 19
+   },
+   {
+    "name": "LePope",
+    "pos": 26,
+    "tag": "#GR2UVYRCL",
+    "th": 15
+   },
+   {
+    "name": "taqwa dgtawalla",
+    "pos": 8,
+    "tag": "#2L0PUPYP8",
+    "th": 18
+   },
+   {
+    "name": "nugi.irwan.d",
+    "pos": 11,
+    "tag": "#2UUV9ULQP",
+    "th": 18
+   },
+   {
+    "name": "NUR ALIF",
+    "pos": 4,
+    "tag": "#2PUPGGUPR",
+    "th": 19
+   },
+   {
+    "name": "irwan. d mksr",
+    "pos": 12,
+    "tag": "#8Y29LQQ2J",
+    "th": 17
+   },
+   {
+    "name": "irwan.coc,1978",
+    "pos": 17,
+    "tag": "#9U2RYQ209",
+    "th": 17
+   },
+   {
+    "name": "irwan.dm.mksr",
+    "pos": 20,
+    "tag": "#808L9VR2Q",
+    "th": 17
+   },
+   {
+    "name": "IRWAN D",
+    "pos": 7,
+    "tag": "#9C2CLP2J",
+    "th": 18
+   },
+   {
+    "name": "iwan barlop 1",
+    "pos": 13,
+    "tag": "#9YPYYRCP0",
+    "th": 17
+   },
+   {
+    "name": "BLEDEK DEWO",
+    "pos": 25,
+    "tag": "#R0Q2G0YLG",
+    "th": 15
+   },
+   {
+    "name": "#Rilexx",
+    "pos": 21,
+    "tag": "#GLVCL8UG8",
+    "th": 15
+   },
+   {
+    "name": "irwan.nugi.1978",
+    "pos": 24,
+    "tag": "#LGRQ02P99",
+    "th": 16
+   },
+   {
+    "name": "rony",
+    "pos": 28,
+    "tag": "#88C98R0LC",
+    "th": 13
+   },
+   {
+    "name": "Leader Sakti",
+    "pos": 3,
+    "tag": "#LUY2RQGR9",
+    "th": 19
+   },
+   {
+    "name": ",so lempu,",
+    "pos": 10,
+    "tag": "#20PYUYVUL",
+    "th": 18
+   }
+  ],
+  "name": "KUCING ANGGORA",
+  "stars": 0,
+  "tag": "#2GYUVYJL0"
+ },
+ "start": "20261122T210012.000Z",
+ "state": "inWar",
+ "teamSize": 30,
+ "type": "krieg"
+}

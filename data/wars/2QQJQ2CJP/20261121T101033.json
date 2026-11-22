@@ -483,11 +483,187 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#PYJPLVR29",
+   "ath": 19,
+   "d": "#PGJYRY2RP",
+   "dth": 18,
+   "dur": 180,
+   "o": 45,
+   "p": 91,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#JY2C20JQ",
+   "ath": 18,
+   "d": "#LC82P9PU",
+   "dth": 18,
+   "dur": 146,
+   "o": 46,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#PYQLVV02",
+   "ath": 18,
+   "d": "#JY2C20JQ",
+   "dth": 18,
+   "dur": 108,
+   "o": 47,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#QUQJUVP9",
+   "ath": 19,
+   "d": "#GPJGVGLV",
+   "dth": 19,
+   "dur": 5,
+   "o": 48,
+   "p": 6,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#QUQJUVP9",
+   "ath": 19,
+   "d": "#Y2U2G2PQ",
+   "dth": 19,
+   "dur": 13,
+   "o": 49,
+   "p": 23,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#PYQLVV02",
+   "ath": 18,
+   "d": "#Q0CLPRPL0",
+   "dth": 18,
+   "dur": 109,
+   "o": 50,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#JY2C20JQ",
+   "ath": 18,
+   "d": "#PYQLVV02",
+   "dth": 18,
+   "dur": 180,
+   "o": 51,
+   "p": 94,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#CP9LVRQV",
+   "ath": 18,
+   "d": "#G8YYG2RYV",
+   "dth": 18,
+   "dur": 100,
+   "o": 52,
+   "p": 82,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#CP9LVRQV",
+   "ath": 18,
+   "d": "#R089G2CJR",
+   "dth": 3,
+   "dur": 93,
+   "o": 53,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#G8YYG2RYV",
+   "ath": 18,
+   "d": "#9QQRPRQ9",
+   "dth": 19,
+   "dur": 165,
+   "o": 54,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#G8YYG2RYV",
+   "ath": 18,
+   "d": "#PL2J9LUCV",
+   "dth": 19,
+   "dur": 143,
+   "o": 55,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#88RJJLG9J",
+   "ath": 19,
+   "d": "#YCJ9L0G8Y",
+   "dth": 19,
+   "dur": 102,
+   "o": 56,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#88RJJLG9J",
+   "ath": 19,
+   "d": "#YPP9UPQVL",
+   "dth": 19,
+   "dur": 88,
+   "o": 57,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#YL2QCR828",
+   "ath": 19,
+   "d": "#L2CQPQGG",
+   "dth": 19,
+   "dur": 120,
+   "o": 58,
+   "p": 57,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#YL2QCR828",
+   "ath": 19,
+   "d": "#PC0UQLVGP",
+   "dth": 18,
+   "dur": 180,
+   "o": 59,
+   "p": 98,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#LC82P9PU",
+   "ath": 18,
+   "d": "#CP9LVRQV",
+   "dth": 18,
+   "dur": 134,
+   "o": 60,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 67.32,
+  "destruction": 97.84,
   "members": [
    {
     "name": "Bozz⚡️Bandit",
@@ -641,12 +817,12 @@
    }
   ],
   "name": "Infructus",
-  "stars": 48,
+  "stars": 71,
   "tag": "#2QQJQ2CJP"
  },
  "end": "20261123T091033.000Z",
  "opponent": {
-  "destruction": 71.16,
+  "destruction": 86.2,
   "members": [
    {
     "name": "Smbat",
@@ -800,7 +976,7 @@
    }
   ],
   "name": "ARMENIA",
-  "stars": 52,
+  "stars": 62,
   "tag": "#P2VYUU2"
  },
  "start": "20261122T091033.000Z",

@@ -362,11 +362,275 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#QV98PU0LG",
+   "ath": 16,
+   "d": "#YVYR82URC",
+   "dth": 17,
+   "dur": 166,
+   "o": 34,
+   "p": 88,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#2GCYJUPCU",
+   "ath": 17,
+   "d": "#G0QUJLUU8",
+   "dth": 17,
+   "dur": 125,
+   "o": 35,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#Y9UU29R8R",
+   "ath": 19,
+   "d": "#8PLVR82QC",
+   "dth": 19,
+   "dur": 167,
+   "o": 36,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#2GCYJUPCU",
+   "ath": 17,
+   "d": "#2RG90QVP0",
+   "dth": 19,
+   "dur": 121,
+   "o": 37,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#Y9UU29R8R",
+   "ath": 19,
+   "d": "#QY0QVYCJY",
+   "dth": 19,
+   "dur": 154,
+   "o": 38,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#LC89JQJ9R",
+   "ath": 17,
+   "d": "#909LUC88U",
+   "dth": 16,
+   "dur": 136,
+   "o": 39,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#LC89JQJ9R",
+   "ath": 17,
+   "d": "#9UPPVGYP",
+   "dth": 17,
+   "dur": 80,
+   "o": 40,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#2C0LJVQ9",
+   "ath": 19,
+   "d": "#Y88CPVC9R",
+   "dth": 19,
+   "dur": 132,
+   "o": 41,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#2C0LJVQ9",
+   "ath": 19,
+   "d": "#G29UJG9V2",
+   "dth": 19,
+   "dur": 145,
+   "o": 42,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#9LL0L0JC",
+   "ath": 19,
+   "d": "#YYVPRG9Q9",
+   "dth": 19,
+   "dur": 124,
+   "o": 43,
+   "p": 98,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#9UGGUQ0C",
+   "ath": 19,
+   "d": "#9RCUGCCJ8",
+   "dth": 19,
+   "dur": 129,
+   "o": 44,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#9UGGUQ0C",
+   "ath": 19,
+   "d": "#LRLR08JP0",
+   "dth": 19,
+   "dur": 153,
+   "o": 45,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#YU92LVVC",
+   "ath": 19,
+   "d": "#UJQ000G",
+   "dth": 19,
+   "dur": 105,
+   "o": 46,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#YU92LVVC",
+   "ath": 19,
+   "d": "#99GRRPUYP",
+   "dth": 19,
+   "dur": 116,
+   "o": 47,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#8PLVR82QC",
+   "ath": 19,
+   "d": "#9YPLYYLVJ",
+   "dth": 19,
+   "dur": 88,
+   "o": 48,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#8PLVR82QC",
+   "ath": 19,
+   "d": "#Q8V9J8VL2",
+   "dth": 19,
+   "dur": 88,
+   "o": 49,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#YLQJJ9UU8",
+   "ath": 19,
+   "d": "#8LVLR29PQ",
+   "dth": 19,
+   "dur": 126,
+   "o": 50,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#YLQJJ9UU8",
+   "ath": 19,
+   "d": "#LGJ29JYUG",
+   "dth": 19,
+   "dur": 119,
+   "o": 51,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#RQYGYC0P",
+   "ath": 19,
+   "d": "#9LL0L0JC",
+   "dth": 19,
+   "dur": 118,
+   "o": 52,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#RQYGYC0P",
+   "ath": 19,
+   "d": "#QP2UCLU80",
+   "dth": 19,
+   "dur": 4,
+   "o": 53,
+   "p": 10,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#P8URCGU9",
+   "ath": 19,
+   "d": "#QP2UCLU80",
+   "dth": 19,
+   "dur": 4,
+   "o": 54,
+   "p": 12,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#9VRQ9L9J",
+   "ath": 19,
+   "d": "#8U0UPUV0R",
+   "dth": 17,
+   "dur": 110,
+   "o": 55,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#P8URCGU9",
+   "ath": 19,
+   "d": "#UJYQ0QL0",
+   "dth": 19,
+   "dur": 13,
+   "o": 56,
+   "p": 57,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#9VRQ9L9J",
+   "ath": 19,
+   "d": "#LC89JQJ9R",
+   "dth": 17,
+   "dur": 104,
+   "o": 57,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 50.914288,
+  "destruction": 85.71429,
   "members": [
    {
     "name": "vllo",
@@ -580,12 +844,12 @@
    }
   ],
   "name": "Rising Phoenix",
-  "stars": 50,
+  "stars": 90,
   "tag": "#Y9VU09JL"
  },
  "end": "20261123T115820.000Z",
  "opponent": {
-  "destruction": 35.857143,
+  "destruction": 49.857143,
   "members": [
    {
     "name": "federal",
@@ -799,7 +1063,7 @@
    }
   ],
   "name": "DM Lite",
-  "stars": 34,
+  "stars": 49,
   "tag": "#RQJ29JL9"
  },
  "start": "20261122T115820.000Z",

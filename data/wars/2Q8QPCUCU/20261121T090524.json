@@ -1011,11 +1011,165 @@
    "p": 63,
    "s": 2,
    "side": "clan"
+  },
+  {
+   "a": "#GGV0VVL0C",
+   "ath": 19,
+   "d": "#QVJLLG9CP",
+   "dth": 19,
+   "dur": 171,
+   "o": 93,
+   "p": 88,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#GGV0VVL0C",
+   "ath": 19,
+   "d": "#2889GLYYV",
+   "dth": 18,
+   "dur": 93,
+   "o": 94,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#JP09UVPL",
+   "ath": 19,
+   "d": "#9VJ89RGJ",
+   "dth": 19,
+   "dur": 116,
+   "o": 95,
+   "p": 64,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#2RYYJV2GJ",
+   "ath": 19,
+   "d": "#YJQ2RUPPR",
+   "dth": 19,
+   "dur": 147,
+   "o": 96,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#2RYYJV2GJ",
+   "ath": 19,
+   "d": "#9UGPGYCYR",
+   "dth": 19,
+   "dur": 148,
+   "o": 97,
+   "p": 84,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#R89R2VLG",
+   "ath": 19,
+   "d": "#Q9CY8VU2L",
+   "dth": 19,
+   "dur": 156,
+   "o": 98,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#Q9RLCUJ2J",
+   "ath": 19,
+   "d": "#2CLV9UR00",
+   "dth": 19,
+   "dur": 21,
+   "o": 99,
+   "p": 11,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#Q9RLCUJ2J",
+   "ath": 19,
+   "d": "#Q9CY8VU2L",
+   "dth": 19,
+   "dur": 10,
+   "o": 100,
+   "p": 13,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#PRJ2UQQY9",
+   "ath": 19,
+   "d": "#GVYLPYGPL",
+   "dth": 19,
+   "dur": 94,
+   "o": 101,
+   "p": 75,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#JP09UVPL",
+   "ath": 19,
+   "d": "#GRRQJ8JUU",
+   "dth": 19,
+   "dur": 134,
+   "o": 102,
+   "p": 62,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#YG8CPV2V2",
+   "ath": 18,
+   "d": "#YRQUYQCJL",
+   "dth": 19,
+   "dur": 180,
+   "o": 103,
+   "p": 92,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#YG8CPV2V2",
+   "ath": 18,
+   "d": "#LUYYU0UU9",
+   "dth": 18,
+   "dur": 125,
+   "o": 104,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#9V82VJ8UL",
+   "ath": 18,
+   "d": "#YRQUYQCJL",
+   "dth": 19,
+   "dur": 143,
+   "o": 105,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#22PJ0PLYR",
+   "ath": 19,
+   "d": "#LGVCJR0L",
+   "dth": 19,
+   "dur": 89,
+   "o": 106,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 90.65,
+  "destruction": 96.775,
   "members": [
    {
     "name": "Travel327",
@@ -1259,7 +1413,7 @@
    }
   ],
   "name": "Der Obstorden",
-  "stars": 101,
+  "stars": 113,
   "tag": "#2Q8QPCUCU"
  },
  "end": "20261123T080524.000Z",
