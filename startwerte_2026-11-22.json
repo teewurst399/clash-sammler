@@ -1,5 +1,5 @@
 {
- "quelle": "ClashPerk /stats attacks, Wurstbude, Equal TH, Farmhits gefiltert, clan_only False",
+ "quelle": "ClashPerk /stats attacks (Wurstbude, Equal TH, ohne Farmhits, clan_only False); für Spieler ohne ClashPerk-Werte: Attack-Log aller 5 Clans (CW) und CWL-Export November (CWL)",
  "stand": "2026-11-22",
  "spieler": {
   "#G9R980C2U": {
@@ -1716,6 +1716,876 @@
     "stars": 105,
     "avg_stars": 2.917,
     "triple_rate": 91.7
+   }
+  },
+  "#28CVLRLU": {
+   "name": "WB Teewurst₃",
+   "clan": "Wurstbude",
+   "discord": "teewurst5765",
+   "th": 18,
+   "cw30": {
+    "th": 18,
+    "triples": 3,
+    "hits": 4,
+    "stars": 11,
+    "avg_stars": 2.75,
+    "triple_rate": 75.0
+   },
+   "cw180": {
+    "th": 18,
+    "triples": 4,
+    "hits": 7,
+    "stars": 18,
+    "avg_stars": 2.571,
+    "triple_rate": 57.1
+   },
+   "cwl60": {
+    "th": 18,
+    "triples": 12,
+    "hits": 13,
+    "stars": 38,
+    "avg_stars": 2.923,
+    "triple_rate": 92.3
+   },
+   "cwl180": {
+    "th": 18,
+    "triples": 23,
+    "hits": 25,
+    "stars": 73,
+    "avg_stars": 2.92,
+    "triple_rate": 92.0
+   }
+  },
+  "#PL292QGG": {
+   "name": "Hattori",
+   "clan": "Wurstbude",
+   "discord": null,
+   "th": 19,
+   "quelle": "Attack Log",
+   "cw30": {
+    "th": 19,
+    "triples": 2,
+    "hits": 2,
+    "stars": 6,
+    "avg_stars": 3.0,
+    "triple_rate": 100.0
+   },
+   "cw180": {
+    "th": 19,
+    "triples": 2,
+    "hits": 2,
+    "stars": 6,
+    "avg_stars": 3.0,
+    "triple_rate": 100.0
+   }
+  },
+  "#UR8RL09": {
+   "name": "三 ★★★ 三",
+   "clan": "Wurstbude",
+   "discord": null,
+   "th": 18,
+   "quelle": "Attack Log",
+   "cw30": {
+    "th": 18,
+    "triples": 3,
+    "hits": 6,
+    "stars": 14,
+    "avg_stars": 2.333,
+    "triple_rate": 50.0
+   },
+   "cw180": {
+    "th": 18,
+    "triples": 19,
+    "hits": 24,
+    "stars": 66,
+    "avg_stars": 2.75,
+    "triple_rate": 79.2
+   },
+   "cwl60": {
+    "th": 18,
+    "triples": 7,
+    "hits": 7,
+    "stars": 21,
+    "avg_stars": 3.0,
+    "triple_rate": 100.0
+   },
+   "cwl180": {
+    "th": 18,
+    "triples": 7,
+    "hits": 7,
+    "stars": 21,
+    "avg_stars": 3.0,
+    "triple_rate": 100.0
+   }
+  },
+  "#9QQCLYLCL": {
+   "name": "⛈️Dr.LeX⛈️",
+   "clan": "Wurstbude",
+   "discord": null,
+   "th": 18,
+   "quelle": "Attack Log",
+   "cw30": {
+    "th": 18,
+    "triples": 5,
+    "hits": 8,
+    "stars": 20,
+    "avg_stars": 2.5,
+    "triple_rate": 62.5
+   },
+   "cw180": {
+    "th": 18,
+    "triples": 19,
+    "hits": 26,
+    "stars": 69,
+    "avg_stars": 2.654,
+    "triple_rate": 73.1
+   }
+  },
+  "#GPCQPUQ0Q": {
+   "name": "WB Teewurst₄",
+   "clan": "Würstchenbude",
+   "discord": null,
+   "th": 19,
+   "quelle": "Attack Log",
+   "cw30": {
+    "th": 19,
+    "triples": 2,
+    "hits": 3,
+    "stars": 8,
+    "avg_stars": 2.667,
+    "triple_rate": 66.7
+   },
+   "cw180": {
+    "th": 19,
+    "triples": 11,
+    "hits": 16,
+    "stars": 40,
+    "avg_stars": 2.5,
+    "triple_rate": 68.8
+   },
+   "cwl60": {
+    "th": 18,
+    "triples": 5,
+    "hits": 5,
+    "stars": 15,
+    "avg_stars": 3.0,
+    "triple_rate": 100.0
+   },
+   "cwl180": {
+    "th": 18,
+    "triples": 5,
+    "hits": 5,
+    "stars": 15,
+    "avg_stars": 3.0,
+    "triple_rate": 100.0
+   }
+  },
+  "#28QYY08Q": {
+   "name": "Qtas",
+   "clan": "Wurstbude",
+   "discord": null,
+   "th": 18,
+   "quelle": "Attack Log",
+   "cw30": {
+    "th": 18,
+    "triples": 2,
+    "hits": 2,
+    "stars": 6,
+    "avg_stars": 3.0,
+    "triple_rate": 100.0
+   },
+   "cw180": {
+    "th": 18,
+    "triples": 4,
+    "hits": 4,
+    "stars": 12,
+    "avg_stars": 3.0,
+    "triple_rate": 100.0
+   }
+  },
+  "#LLYJ0L9JU": {
+   "name": "Sug",
+   "clan": "Wurstbude",
+   "discord": null,
+   "th": 18,
+   "quelle": "Attack Log",
+   "cw30": {
+    "th": 18,
+    "triples": 2,
+    "hits": 2,
+    "stars": 6,
+    "avg_stars": 3.0,
+    "triple_rate": 100.0
+   },
+   "cw180": {
+    "th": 18,
+    "triples": 4,
+    "hits": 4,
+    "stars": 12,
+    "avg_stars": 3.0,
+    "triple_rate": 100.0
+   }
+  },
+  "#YYPYPLPJ": {
+   "name": "Achilles",
+   "clan": "Wurstbude",
+   "discord": null,
+   "th": 18,
+   "quelle": "Attack Log",
+   "cw180": {
+    "th": 18,
+    "triples": 4,
+    "hits": 5,
+    "stars": 14,
+    "avg_stars": 2.8,
+    "triple_rate": 80.0
+   }
+  },
+  "#20YY8CJ": {
+   "name": "Achilles 2.0",
+   "clan": "Wurstbude",
+   "discord": null,
+   "th": 18,
+   "quelle": "Attack Log",
+   "cw180": {
+    "th": 18,
+    "triples": 1,
+    "hits": 2,
+    "stars": 5,
+    "avg_stars": 2.5,
+    "triple_rate": 50.0
+   }
+  },
+  "#Q8V0LQGQJ": {
+   "name": "ROYALE",
+   "clan": "Wurstbude",
+   "discord": null,
+   "th": 18,
+   "quelle": "Attack Log",
+   "cw180": {
+    "th": 18,
+    "triples": 21,
+    "hits": 24,
+    "stars": 69,
+    "avg_stars": 2.875,
+    "triple_rate": 87.5
+   }
+  },
+  "#9L28CPJ29": {
+   "name": "WB Henrik",
+   "clan": "Wurstbude",
+   "discord": null,
+   "th": 18,
+   "quelle": "Attack Log",
+   "cw180": {
+    "th": 18,
+    "triples": 10,
+    "hits": 14,
+    "stars": 36,
+    "avg_stars": 2.571,
+    "triple_rate": 71.4
+   }
+  },
+  "#28UVJJY0V": {
+   "name": "⛈️Dr.LeX⛈️",
+   "clan": "Wurstbude",
+   "discord": null,
+   "th": 18,
+   "quelle": "Attack Log",
+   "cw180": {
+    "th": 18,
+    "triples": 6,
+    "hits": 6,
+    "stars": 18,
+    "avg_stars": 3.0,
+    "triple_rate": 100.0
+   }
+  },
+  "#LCRQ09P8L": {
+   "name": "⛈️Dr.LeX⛈️",
+   "clan": "Wurstbude",
+   "discord": null,
+   "th": 18,
+   "quelle": "Attack Log",
+   "cw180": {
+    "th": 18,
+    "triples": 4,
+    "hits": 7,
+    "stars": 17,
+    "avg_stars": 2.429,
+    "triple_rate": 57.1
+   }
+  },
+  "#9229JGPG2": {
+   "name": "WB Tru3_Pa1N-_-",
+   "clan": "Wurstbude",
+   "discord": null,
+   "th": 18,
+   "quelle": "Attack Log",
+   "cw180": {
+    "th": 18,
+    "triples": 40,
+    "hits": 43,
+    "stars": 126,
+    "avg_stars": 2.93,
+    "triple_rate": 93.0
+   }
+  },
+  "#Y89U200V0": {
+   "name": "WB Choso^^",
+   "clan": "Wurstbude",
+   "discord": null,
+   "th": 18,
+   "quelle": "Attack Log",
+   "cw180": {
+    "th": 18,
+    "triples": 36,
+    "hits": 42,
+    "stars": 118,
+    "avg_stars": 2.81,
+    "triple_rate": 85.7
+   }
+  },
+  "#98CUQ9YV": {
+   "name": "⚡⚡MOSISIM⚡⚡",
+   "clan": "Wurstbude",
+   "discord": null,
+   "th": 18,
+   "quelle": "Attack Log",
+   "cw180": {
+    "th": 18,
+    "triples": 14,
+    "hits": 15,
+    "stars": 44,
+    "avg_stars": 2.933,
+    "triple_rate": 93.3
+   }
+  },
+  "#QQJL0QJ2J": {
+   "name": "999Mads",
+   "clan": "Wurstbude",
+   "discord": null,
+   "th": 18,
+   "quelle": "Attack Log",
+   "cw180": {
+    "th": 18,
+    "triples": 0,
+    "hits": 1,
+    "stars": 2,
+    "avg_stars": 2.0,
+    "triple_rate": 0.0
+   }
+  },
+  "#RP8RRYP2": {
+   "name": "LasseLP",
+   "clan": "Wurstbude",
+   "discord": null,
+   "th": 18,
+   "quelle": "Attack Log",
+   "cw180": {
+    "th": 18,
+    "triples": 2,
+    "hits": 2,
+    "stars": 6,
+    "avg_stars": 3.0,
+    "triple_rate": 100.0
+   }
+  },
+  "#9YYGP0J9": {
+   "name": "Wxndu",
+   "clan": "Wurstbude",
+   "discord": null,
+   "th": 18,
+   "quelle": "Attack Log",
+   "cw180": {
+    "th": 18,
+    "triples": 2,
+    "hits": 2,
+    "stars": 6,
+    "avg_stars": 3.0,
+    "triple_rate": 100.0
+   }
+  },
+  "#YC0VCJQPQ": {
+   "name": "WB Fabse",
+   "clan": "Wurstbude",
+   "discord": null,
+   "th": 18,
+   "quelle": "Attack Log",
+   "cw180": {
+    "th": 18,
+    "triples": 1,
+    "hits": 2,
+    "stars": 5,
+    "avg_stars": 2.5,
+    "triple_rate": 50.0
+   },
+   "cwl60": {
+    "th": 18,
+    "triples": 10,
+    "hits": 14,
+    "stars": 38,
+    "avg_stars": 2.714,
+    "triple_rate": 71.4
+   },
+   "cwl180": {
+    "th": 18,
+    "triples": 10,
+    "hits": 14,
+    "stars": 38,
+    "avg_stars": 2.714,
+    "triple_rate": 71.4
+   }
+  },
+  "#PPV2Q2QUV": {
+   "name": "ALFA",
+   "clan": "Wurstbude",
+   "discord": null,
+   "th": 18,
+   "quelle": "Attack Log",
+   "cw180": {
+    "th": 18,
+    "triples": 1,
+    "hits": 2,
+    "stars": 5,
+    "avg_stars": 2.5,
+    "triple_rate": 50.0
+   }
+  },
+  "#RVUJCRQG": {
+   "name": "Jule",
+   "clan": "Wurstbude",
+   "discord": null,
+   "th": 18,
+   "quelle": "Attack Log",
+   "cw180": {
+    "th": 18,
+    "triples": 0,
+    "hits": 2,
+    "stars": 4,
+    "avg_stars": 2.0,
+    "triple_rate": 0.0
+   }
+  },
+  "#2GYJGVG8Q": {
+   "name": "187",
+   "clan": "Wurstbude",
+   "discord": null,
+   "th": 18,
+   "quelle": "Attack Log",
+   "cw180": {
+    "th": 18,
+    "triples": 2,
+    "hits": 2,
+    "stars": 6,
+    "avg_stars": 3.0,
+    "triple_rate": 100.0
+   }
+  },
+  "#8LUC0GJ2G": {
+   "name": "WB Paul",
+   "clan": "Wurstbude",
+   "discord": null,
+   "th": 18,
+   "quelle": "Attack Log",
+   "cw180": {
+    "th": 18,
+    "triples": 1,
+    "hits": 3,
+    "stars": 7,
+    "avg_stars": 2.333,
+    "triple_rate": 33.3
+   }
+  },
+  "#GV2GJLRVG": {
+   "name": "Pr3d4tor:97",
+   "clan": "Würstchenbude",
+   "discord": null,
+   "th": 18,
+   "quelle": "Attack Log",
+   "cw30": {
+    "th": 18,
+    "triples": 4,
+    "hits": 4,
+    "stars": 12,
+    "avg_stars": 3.0,
+    "triple_rate": 100.0
+   },
+   "cw180": {
+    "th": 18,
+    "triples": 4,
+    "hits": 4,
+    "stars": 12,
+    "avg_stars": 3.0,
+    "triple_rate": 100.0
+   }
+  },
+  "#RJLCQY9U": {
+   "name": "WB Teewurst₆",
+   "clan": "Würstchenbude",
+   "discord": null,
+   "th": 13,
+   "quelle": "Attack Log",
+   "cw30": {
+    "th": 13,
+    "triples": 1,
+    "hits": 2,
+    "stars": 5,
+    "avg_stars": 2.5,
+    "triple_rate": 50.0
+   },
+   "cw180": {
+    "th": 13,
+    "triples": 1,
+    "hits": 2,
+    "stars": 5,
+    "avg_stars": 2.5,
+    "triple_rate": 50.0
+   }
+  },
+  "#GJ8GJY809": {
+   "name": "WB Teewurst₇",
+   "clan": "Würstchenbude",
+   "discord": null,
+   "th": 12,
+   "quelle": "Attack Log",
+   "cw30": {
+    "th": 12,
+    "triples": 2,
+    "hits": 2,
+    "stars": 6,
+    "avg_stars": 3.0,
+    "triple_rate": 100.0
+   },
+   "cw180": {
+    "th": 12,
+    "triples": 2,
+    "hits": 2,
+    "stars": 6,
+    "avg_stars": 3.0,
+    "triple_rate": 100.0
+   }
+  },
+  "#G08G0RR98": {
+   "name": "vFietz",
+   "clan": "Würstchenbude",
+   "discord": null,
+   "th": 11,
+   "quelle": "Attack Log",
+   "cw30": {
+    "th": 10,
+    "triples": 2,
+    "hits": 2,
+    "stars": 6,
+    "avg_stars": 3.0,
+    "triple_rate": 100.0
+   },
+   "cw180": {
+    "th": 10,
+    "triples": 2,
+    "hits": 2,
+    "stars": 6,
+    "avg_stars": 3.0,
+    "triple_rate": 100.0
+   }
+  },
+  "#28UGG2RY": {
+   "name": "G!B$ascha",
+   "clan": "Wurstbude",
+   "discord": null,
+   "th": 18,
+   "quelle": "CWL-Export November",
+   "cwl60": {
+    "th": 18,
+    "triples": 6,
+    "hits": 6,
+    "stars": 18,
+    "avg_stars": 3.0,
+    "triple_rate": 100.0
+   },
+   "cwl180": {
+    "th": 18,
+    "triples": 6,
+    "hits": 6,
+    "stars": 18,
+    "avg_stars": 3.0,
+    "triple_rate": 100.0
+   }
+  },
+  "#9RU2RLCQ": {
+   "name": "WB AJI",
+   "clan": "Wurststand",
+   "discord": null,
+   "th": 16,
+   "quelle": "CWL-Export November",
+   "cwl60": {
+    "th": 16,
+    "triples": 2,
+    "hits": 2,
+    "stars": 6,
+    "avg_stars": 3.0,
+    "triple_rate": 100.0
+   },
+   "cwl180": {
+    "th": 16,
+    "triples": 2,
+    "hits": 2,
+    "stars": 6,
+    "avg_stars": 3.0,
+    "triple_rate": 100.0
+   }
+  },
+  "#PL90UGPY": {
+   "name": "Raga",
+   "clan": "Wurststand",
+   "discord": null,
+   "th": 18,
+   "quelle": "CWL-Export November",
+   "cwl60": {
+    "th": 18,
+    "triples": 4,
+    "hits": 4,
+    "stars": 12,
+    "avg_stars": 3.0,
+    "triple_rate": 100.0
+   },
+   "cwl180": {
+    "th": 18,
+    "triples": 4,
+    "hits": 4,
+    "stars": 12,
+    "avg_stars": 3.0,
+    "triple_rate": 100.0
+   }
+  },
+  "#YGRV88V8U": {
+   "name": "Hasan_47",
+   "clan": "Wurststand",
+   "discord": null,
+   "th": 17,
+   "quelle": "CWL-Export November",
+   "cwl60": {
+    "th": 17,
+    "triples": 1,
+    "hits": 3,
+    "stars": 7,
+    "avg_stars": 2.333,
+    "triple_rate": 33.3
+   },
+   "cwl180": {
+    "th": 17,
+    "triples": 1,
+    "hits": 3,
+    "stars": 7,
+    "avg_stars": 2.333,
+    "triple_rate": 33.3
+   }
+  },
+  "#GP9R0PUQ8": {
+   "name": "domi2",
+   "clan": "Wursttheke",
+   "discord": null,
+   "th": 18,
+   "quelle": "CWL-Export November",
+   "cwl60": {
+    "th": 18,
+    "triples": 3,
+    "hits": 4,
+    "stars": 10,
+    "avg_stars": 2.5,
+    "triple_rate": 75.0
+   },
+   "cwl180": {
+    "th": 18,
+    "triples": 3,
+    "hits": 4,
+    "stars": 10,
+    "avg_stars": 2.5,
+    "triple_rate": 75.0
+   }
+  },
+  "#GV9LV9QQL": {
+   "name": "Yanick",
+   "clan": "Wursttheke",
+   "discord": null,
+   "th": 16,
+   "quelle": "CWL-Export November",
+   "cwl60": {
+    "th": 16,
+    "triples": 2,
+    "hits": 2,
+    "stars": 6,
+    "avg_stars": 3.0,
+    "triple_rate": 100.0
+   },
+   "cwl180": {
+    "th": 16,
+    "triples": 2,
+    "hits": 2,
+    "stars": 6,
+    "avg_stars": 3.0,
+    "triple_rate": 100.0
+   }
+  },
+  "#98VPCLC9Q": {
+   "name": "Damian III",
+   "clan": "Wurststand",
+   "discord": null,
+   "th": 13,
+   "quelle": "CWL-Export November",
+   "cwl60": {
+    "th": 13,
+    "triples": 1,
+    "hits": 1,
+    "stars": 3,
+    "avg_stars": 3.0,
+    "triple_rate": 100.0
+   },
+   "cwl180": {
+    "th": 13,
+    "triples": 1,
+    "hits": 1,
+    "stars": 3,
+    "avg_stars": 3.0,
+    "triple_rate": 100.0
+   }
+  },
+  "#GURY28LQY": {
+   "name": "G!B Kitty Cat",
+   "clan": "Wurststand",
+   "discord": null,
+   "th": 11,
+   "quelle": "CWL-Export November",
+   "cwl60": {
+    "th": 11,
+    "triples": 1,
+    "hits": 1,
+    "stars": 3,
+    "avg_stars": 3.0,
+    "triple_rate": 100.0
+   },
+   "cwl180": {
+    "th": 11,
+    "triples": 1,
+    "hits": 1,
+    "stars": 3,
+    "avg_stars": 3.0,
+    "triple_rate": 100.0
+   }
+  },
+  "#LL8VVR08C": {
+   "name": "Зелёный",
+   "clan": "Wursttheke",
+   "discord": null,
+   "th": 17,
+   "quelle": "CWL-Export November",
+   "cwl60": {
+    "th": 17,
+    "triples": 2,
+    "hits": 2,
+    "stars": 6,
+    "avg_stars": 3.0,
+    "triple_rate": 100.0
+   },
+   "cwl180": {
+    "th": 17,
+    "triples": 2,
+    "hits": 2,
+    "stars": 6,
+    "avg_stars": 3.0,
+    "triple_rate": 100.0
+   }
+  },
+  "#GC9UYCQVY": {
+   "name": "Sintai",
+   "clan": "Wursttheke",
+   "discord": null,
+   "th": 17,
+   "quelle": "CWL-Export November",
+   "cwl60": {
+    "th": 17,
+    "triples": 2,
+    "hits": 2,
+    "stars": 6,
+    "avg_stars": 3.0,
+    "triple_rate": 100.0
+   },
+   "cwl180": {
+    "th": 17,
+    "triples": 2,
+    "hits": 2,
+    "stars": 6,
+    "avg_stars": 3.0,
+    "triple_rate": 100.0
+   }
+  },
+  "#LGUPGVJ8R": {
+   "name": "Neymar Jr 10",
+   "clan": "Wursttheke",
+   "discord": null,
+   "th": 18,
+   "quelle": "CWL-Export November",
+   "cwl60": {
+    "th": 18,
+    "triples": 6,
+    "hits": 6,
+    "stars": 18,
+    "avg_stars": 3.0,
+    "triple_rate": 100.0
+   },
+   "cwl180": {
+    "th": 18,
+    "triples": 6,
+    "hits": 6,
+    "stars": 18,
+    "avg_stars": 3.0,
+    "triple_rate": 100.0
+   }
+  },
+  "#LC8890LGJ": {
+   "name": "「BTR」TIMOLINO",
+   "clan": "Wursttheke",
+   "discord": null,
+   "th": 16,
+   "quelle": "CWL-Export November",
+   "cwl60": {
+    "th": 16,
+    "triples": 1,
+    "hits": 1,
+    "stars": 3,
+    "avg_stars": 3.0,
+    "triple_rate": 100.0
+   },
+   "cwl180": {
+    "th": 16,
+    "triples": 1,
+    "hits": 1,
+    "stars": 3,
+    "avg_stars": 3.0,
+    "triple_rate": 100.0
+   }
+  },
+  "#QGJ0J8CYR": {
+   "name": "G!B Rivella",
+   "clan": "Wursttheke",
+   "discord": null,
+   "th": 18,
+   "quelle": "CWL-Export November",
+   "cwl60": {
+    "th": 18,
+    "triples": 5,
+    "hits": 5,
+    "stars": 15,
+    "avg_stars": 3.0,
+    "triple_rate": 100.0
+   },
+   "cwl180": {
+    "th": 18,
+    "triples": 5,
+    "hits": 5,
+    "stars": 15,
+    "avg_stars": 3.0,
+    "triple_rate": 100.0
    }
   }
  }
