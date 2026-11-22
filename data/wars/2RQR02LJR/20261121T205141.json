@@ -516,6 +516,50 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#2QV82JC0J",
+   "ath": 18,
+   "d": "#898Q82VP9",
+   "dth": 19,
+   "dur": 122,
+   "o": 48,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#2QV82JC0J",
+   "ath": 18,
+   "d": "#YL8VC0CG",
+   "dth": 19,
+   "dur": 172,
+   "o": 49,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#PUY09VRR",
+   "ath": 19,
+   "d": "#QGVY9QVQC",
+   "dth": 19,
+   "dur": 117,
+   "o": 50,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#PUY09VRR",
+   "ath": 19,
+   "d": "#RU9QJUL8",
+   "dth": 19,
+   "dur": 180,
+   "o": 51,
+   "p": 98,
+   "s": 2,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -799,7 +843,7 @@
  },
  "end": "20261123T195141.000Z",
  "opponent": {
-  "destruction": 45.97778,
+  "destruction": 54.822224,
   "members": [
    {
     "name": "SA: ⭐️Slider⭐️",
@@ -1073,7 +1117,7 @@
    }
   ],
   "name": "Silent army",
-  "stars": 59,
+  "stars": 70,
   "tag": "#2LCLLP9UJ"
  },
  "start": "20261122T195141.000Z",

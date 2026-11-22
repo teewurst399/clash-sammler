@@ -241,11 +241,132 @@
    "p": 97,
    "s": 2,
    "side": "gegner"
+  },
+  {
+   "a": "#GCVR9CVG",
+   "ath": 19,
+   "d": "#8Q8Y2PVJ",
+   "dth": 19,
+   "dur": 139,
+   "o": 23,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#99RPV9GVV",
+   "ath": 19,
+   "d": "#28CUYC9GU",
+   "dth": 19,
+   "dur": 89,
+   "o": 24,
+   "p": 61,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#GCVR9CVG",
+   "ath": 19,
+   "d": "#QCL0GJVV0",
+   "dth": 19,
+   "dur": 129,
+   "o": 25,
+   "p": 84,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#YJC99UCVR",
+   "ath": 19,
+   "d": "#28CUYC9GU",
+   "dth": 19,
+   "dur": 105,
+   "o": 26,
+   "p": 86,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#LRQPUCCQ0",
+   "ath": 19,
+   "d": "#8QR882Y8",
+   "dth": 19,
+   "dur": 104,
+   "o": 27,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#GCL2YVL80",
+   "ath": 19,
+   "d": "#YCJ9UUJRG",
+   "dth": 19,
+   "dur": 140,
+   "o": 28,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#8JU2QJG2",
+   "ath": 19,
+   "d": "#V9YPURVY",
+   "dth": 19,
+   "dur": 130,
+   "o": 29,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#GCL2YVL80",
+   "ath": 19,
+   "d": "#YU9CP9JU0",
+   "dth": 19,
+   "dur": 140,
+   "o": 30,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#8V0RPJUG",
+   "ath": 19,
+   "d": "#YULUCPPRY",
+   "dth": 19,
+   "dur": 168,
+   "o": 31,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#8JU2QJG2",
+   "ath": 19,
+   "d": "#9QC9PJQQ",
+   "dth": 19,
+   "dur": 176,
+   "o": 32,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#8V0RPJUG",
+   "ath": 19,
+   "d": "#LU90RRRQV",
+   "dth": 18,
+   "dur": 158,
+   "o": 33,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 5.4,
+  "destruction": 7.857143,
   "members": [
    {
     "name": "DΔツLion",
@@ -459,12 +580,12 @@
    }
   ],
   "name": "Dark Angel",
-  "stars": 3,
+  "stars": 5,
   "tag": "#2JJG9RLY8"
  },
  "end": "20261123T195721.000Z",
  "opponent": {
-  "destruction": 54.057144,
+  "destruction": 73.71429,
   "members": [
    {
     "name": "trmavrma",
@@ -678,7 +799,7 @@
    }
   ],
   "name": "RONIN-CZ",
-  "stars": 53,
+  "stars": 75,
   "tag": "#PJ2JRLPL"
  },
  "start": "20261122T195721.000Z",

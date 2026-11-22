@@ -241,11 +241,242 @@
    "p": 96,
    "s": 2,
    "side": "clan"
+  },
+  {
+   "a": "#GGRQGLQJY",
+   "ath": 19,
+   "d": "#PPPRL80Q8",
+   "dth": 19,
+   "dur": 116,
+   "o": 23,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#QJLL9JLYU",
+   "ath": 19,
+   "d": "#YQQLCC9L",
+   "dth": 19,
+   "dur": 169,
+   "o": 24,
+   "p": 80,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#QCJRULJG9",
+   "ath": 19,
+   "d": "#QVY92JPR8",
+   "dth": 19,
+   "dur": 139,
+   "o": 25,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#QJLL9JLYU",
+   "ath": 19,
+   "d": "#JYU8PRLG",
+   "dth": 19,
+   "dur": 99,
+   "o": 26,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#GGRQGLQJY",
+   "ath": 19,
+   "d": "#QRVP00JPY",
+   "dth": 19,
+   "dur": 161,
+   "o": 27,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#LGQCC8VC",
+   "ath": 19,
+   "d": "#LLLCPPUY",
+   "dth": 19,
+   "dur": 168,
+   "o": 28,
+   "p": 90,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#PPQVUL0Y",
+   "ath": 19,
+   "d": "#YQQLCC9L",
+   "dth": 19,
+   "dur": 170,
+   "o": 29,
+   "p": 91,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#G2PG2GLPL",
+   "ath": 19,
+   "d": "#P9LP9QYGJ",
+   "dth": 19,
+   "dur": 101,
+   "o": 30,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#8PCPJ828P",
+   "ath": 19,
+   "d": "#LLLCPPUY",
+   "dth": 19,
+   "dur": 146,
+   "o": 31,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#PPQVUL0Y",
+   "ath": 19,
+   "d": "#Q0GQQQPJR",
+   "dth": 19,
+   "dur": 180,
+   "o": 32,
+   "p": 98,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#G2PG2GLPL",
+   "ath": 19,
+   "d": "#L22PJP8VQ",
+   "dth": 19,
+   "dur": 150,
+   "o": 33,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#R8CQG902",
+   "ath": 19,
+   "d": "#8QCGC29PJ",
+   "dth": 19,
+   "dur": 101,
+   "o": 34,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#LGQCC8VC",
+   "ath": 19,
+   "d": "#QJLL9JLYU",
+   "dth": 19,
+   "dur": 180,
+   "o": 35,
+   "p": 99,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#PRRPP82GR",
+   "ath": 19,
+   "d": "#QUCRQRCP0",
+   "dth": 19,
+   "dur": 135,
+   "o": 36,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#PRRPP82GR",
+   "ath": 19,
+   "d": "#Y8LP8LQRY",
+   "dth": 19,
+   "dur": 144,
+   "o": 37,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#Y8LP8LQRY",
+   "ath": 19,
+   "d": "#QJLL9JLYU",
+   "dth": 19,
+   "dur": 119,
+   "o": 38,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#Y8LP8LQRY",
+   "ath": 19,
+   "d": "#2R80CYY2G",
+   "dth": 19,
+   "dur": 119,
+   "o": 39,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#8PCPJ828P",
+   "ath": 19,
+   "d": "#9JPGGJC0Y",
+   "dth": 19,
+   "dur": 160,
+   "o": 40,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#LP0L29L9L",
+   "ath": 19,
+   "d": "#GY2VQCU8",
+   "dth": 19,
+   "dur": 135,
+   "o": 41,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#LP0L29L9L",
+   "ath": 19,
+   "d": "#RJRV20CC",
+   "dth": 19,
+   "dur": 104,
+   "o": 42,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#PPPRL80Q8",
+   "ath": 19,
+   "d": "#G80CV9CPU",
+   "dth": 19,
+   "dur": 145,
+   "o": 43,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 43.97778,
+  "destruction": 61.711113,
   "members": [
    {
     "name": "EG⚡️KING",
@@ -519,12 +750,12 @@
    }
   ],
   "name": "Get Cooked!",
-  "stars": 57,
+  "stars": 80,
   "tag": "#2J922VYQ0"
  },
  "end": "20261123T192031.000Z",
  "opponent": {
-  "destruction": 0.0,
+  "destruction": 20.0,
   "members": [
    {
     "name": "Hồng Trung",
@@ -798,7 +1029,7 @@
    }
   ],
   "name": "việt nam no1",
-  "stars": 0,
+  "stars": 27,
   "tag": "#2J980GJPC"
  },
  "start": "20261122T192031.000Z",

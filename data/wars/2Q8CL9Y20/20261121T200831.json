@@ -230,11 +230,99 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#YC0C09Y90",
+   "ath": 19,
+   "d": "#LG8L920L",
+   "dth": 19,
+   "dur": 155,
+   "o": 22,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#YC0C09Y90",
+   "ath": 19,
+   "d": "#2YC0U2RQU",
+   "dth": 19,
+   "dur": 180,
+   "o": 23,
+   "p": 86,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#P2JR88QQG",
+   "ath": 19,
+   "d": "#CGLQ8YJG",
+   "dth": 19,
+   "dur": 157,
+   "o": 24,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#P2JR88QQG",
+   "ath": 19,
+   "d": "#8VLYCVLP",
+   "dth": 19,
+   "dur": 152,
+   "o": 25,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#2V8YQJYL8",
+   "ath": 19,
+   "d": "#890LGJJY",
+   "dth": 19,
+   "dur": 167,
+   "o": 26,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#2V8YQJYL8",
+   "ath": 19,
+   "d": "#9PJY80U2V",
+   "dth": 19,
+   "dur": 163,
+   "o": 27,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#9L0CQ9JY0",
+   "ath": 19,
+   "d": "#28UYJVCQR",
+   "dth": 19,
+   "dur": 127,
+   "o": 28,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#9L0CQ9JY0",
+   "ath": 19,
+   "d": "#20JGCGG8U",
+   "dth": 19,
+   "dur": 180,
+   "o": 29,
+   "p": 90,
+   "s": 2,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 33.42857,
+  "destruction": 50.285713,
   "members": [
    {
     "name": "tojamane",
@@ -448,12 +536,12 @@
    }
   ],
   "name": "Obstsalat",
-  "stars": 34,
+  "stars": 51,
   "tag": "#2Q8CL9Y20"
  },
  "end": "20261123T190831.000Z",
  "opponent": {
-  "destruction": 19.8,
+  "destruction": 25.114286,
   "members": [
    {
     "name": "Code Skarex",
@@ -667,7 +755,7 @@
    }
   ],
   "name": "1 Double 1",
-  "stars": 19,
+  "stars": 24,
   "tag": "#20VJU0C09"
  },
  "start": "20261122T190831.000Z",

@@ -285,11 +285,44 @@
    "p": 94,
    "s": 2,
    "side": "gegner"
+  },
+  {
+   "a": "#2209LYYY0",
+   "ath": 19,
+   "d": "#P0L8LC828",
+   "dth": 19,
+   "dur": 153,
+   "o": 27,
+   "p": 80,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#YJPUQVUJL",
+   "ath": 19,
+   "d": "#PUJ89GQUJ",
+   "dth": 19,
+   "dur": 112,
+   "o": 28,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#YJPUQVUJL",
+   "ath": 19,
+   "d": "#2QGLR8LV",
+   "dth": 19,
+   "dur": 120,
+   "o": 29,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 51.8,
+  "destruction": 59.8,
   "members": [
    {
     "name": "Herold",
@@ -443,12 +476,12 @@
    }
   ],
   "name": "German⚡️Elite™️",
-  "stars": 38,
+  "stars": 44,
   "tag": "#29RCYPYVU"
  },
  "end": "20261123T192344.000Z",
  "opponent": {
-  "destruction": 40.16,
+  "destruction": 43.36,
   "members": [
    {
     "name": "jeppe k",
@@ -602,7 +635,7 @@
    }
   ],
   "name": "iWar Chillers",
-  "stars": 25,
+  "stars": 27,
   "tag": "#2QVP9CV0"
  },
  "start": "20261122T192344.000Z",

@@ -615,11 +615,110 @@
    "p": 86,
    "s": 1,
    "side": "clan"
+  },
+  {
+   "a": "#Y8UUY2QY",
+   "ath": 19,
+   "d": "#92V29CGYR",
+   "dth": 19,
+   "dur": 90,
+   "o": 57,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#Y8UUY2QY",
+   "ath": 19,
+   "d": "#YPRYQ9Y9C",
+   "dth": 19,
+   "dur": 85,
+   "o": 58,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#QRJVQVV0",
+   "ath": 19,
+   "d": "#PV02QUUU",
+   "dth": 19,
+   "dur": 174,
+   "o": 59,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#QRJVQVV0",
+   "ath": 19,
+   "d": "#LJQ8V8C98",
+   "dth": 19,
+   "dur": 163,
+   "o": 60,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#L8PJVRG0P",
+   "ath": 19,
+   "d": "#8QJUVLUYU",
+   "dth": 19,
+   "dur": 140,
+   "o": 61,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#QPU80QJU",
+   "ath": 19,
+   "d": "#LL8CC9QV8",
+   "dth": 19,
+   "dur": 155,
+   "o": 62,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#QPU80QJU",
+   "ath": 19,
+   "d": "#2808Y8QY0",
+   "dth": 19,
+   "dur": 149,
+   "o": 63,
+   "p": 74,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#L8PJVRG0P",
+   "ath": 19,
+   "d": "#Y8UUY2QY",
+   "dth": 19,
+   "dur": 180,
+   "o": 64,
+   "p": 97,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#QYY09PPLY",
+   "ath": 19,
+   "d": "#2808Y8QY0",
+   "dth": 19,
+   "dur": 100,
+   "o": 65,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 25.34,
+  "destruction": 33.34,
   "members": [
    {
     "name": "PaPaPatrick",
@@ -923,12 +1022,12 @@
    }
   ],
   "name": "Confusion II",
-  "stars": 34,
+  "stars": 46,
   "tag": "#2J2RY0GRL"
  },
  "end": "20261123T200242.000Z",
  "opponent": {
-  "destruction": 57.28,
+  "destruction": 59.44,
   "members": [
    {
     "name": "『HK』Tʜᴇ LEGEND",
@@ -1232,7 +1331,7 @@
    }
   ],
   "name": "الهاترك",
-  "stars": 83,
+  "stars": 88,
   "tag": "#Q8GCQ98Y"
  },
  "start": "20261122T200242.000Z",

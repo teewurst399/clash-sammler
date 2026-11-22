@@ -945,11 +945,55 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#YCQLPYCLV",
+   "ath": 19,
+   "d": "#LR8PPC2VR",
+   "dth": 19,
+   "dur": 122,
+   "o": 87,
+   "p": 64,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#QRJ89Y9P8",
+   "ath": 19,
+   "d": "#8PVLPRGUR",
+   "dth": 19,
+   "dur": 102,
+   "o": 88,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#QRJ89Y9P8",
+   "ath": 19,
+   "d": "#YYPU0QLV0",
+   "dth": 19,
+   "dur": 119,
+   "o": 89,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#2QR9VC8Q",
+   "ath": 19,
+   "d": "#LR8PPC2VR",
+   "dth": 19,
+   "dur": 137,
+   "o": 90,
+   "p": 86,
+   "s": 2,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 44.55,
+  "destruction": 49.55,
   "members": [
    {
     "name": "BB •Nico•",
@@ -1193,7 +1237,7 @@
    }
   ],
   "name": "BrawlerBaller",
-  "stars": 52,
+  "stars": 58,
   "tag": "#2GCRL8L8L"
  },
  "end": "20261123T181554.000Z",

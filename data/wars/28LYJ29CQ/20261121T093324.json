@@ -1275,6 +1275,17 @@
    "p": 8,
    "s": 1,
    "side": "clan"
+  },
+  {
+   "a": "#RYUUPP88",
+   "ath": 19,
+   "d": "#PPJ8QL8C9",
+   "dth": 19,
+   "dur": 130,
+   "o": 117,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,

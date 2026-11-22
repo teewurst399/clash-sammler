@@ -164,11 +164,66 @@
    "p": 99,
    "s": 2,
    "side": "gegner"
+  },
+  {
+   "a": "#JG892C8",
+   "ath": 19,
+   "d": "#PG02UC2G",
+   "dth": 19,
+   "dur": 70,
+   "o": 16,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#Q9020QQPQ",
+   "ath": 19,
+   "d": "#8RVRJJ0J",
+   "dth": 19,
+   "dur": 147,
+   "o": 17,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#8YJ2VLCU0",
+   "ath": 19,
+   "d": "#9VU9LJG",
+   "dth": 19,
+   "dur": 180,
+   "o": 18,
+   "p": 91,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#809LY0PCG",
+   "ath": 19,
+   "d": "#PC0LGJRL",
+   "dth": 19,
+   "dur": 138,
+   "o": 19,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#JRPYP2GG",
+   "ath": 19,
+   "d": "#920YYRYVL",
+   "dth": 19,
+   "dur": 180,
+   "o": 20,
+   "p": 86,
+   "s": 2,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 15.0,
+  "destruction": 19.65,
   "members": [
    {
     "name": "LOST☆stefan",
@@ -412,12 +467,12 @@
    }
   ],
   "name": "LOST 3",
-  "stars": 18,
+  "stars": 23,
   "tag": "#2YUPV0UYC"
  },
  "end": "20261123T210615.000Z",
  "opponent": {
-  "destruction": 22.475,
+  "destruction": 29.75,
   "members": [
    {
     "name": "Warlock",
@@ -661,7 +716,7 @@
    }
   ],
   "name": "CLB Unity",
-  "stars": 26,
+  "stars": 34,
   "tag": "#2CQVJ9GCG"
  },
  "start": "20261122T210615.000Z",

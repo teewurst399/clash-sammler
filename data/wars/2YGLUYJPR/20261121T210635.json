@@ -351,11 +351,121 @@
    "p": 92,
    "s": 2,
    "side": "gegner"
+  },
+  {
+   "a": "#LRCLRV9CP",
+   "ath": 19,
+   "d": "#88C82JRJC",
+   "dth": 19,
+   "dur": 92,
+   "o": 33,
+   "p": 80,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#L9RGGY8VV",
+   "ath": 19,
+   "d": "#8YYG2U0JC",
+   "dth": 19,
+   "dur": 143,
+   "o": 34,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#LRCLRV9CP",
+   "ath": 19,
+   "d": "#L0YL98UV",
+   "dth": 19,
+   "dur": 120,
+   "o": 35,
+   "p": 98,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#LJ99C2UYY",
+   "ath": 19,
+   "d": "#LRCLRV9CP",
+   "dth": 19,
+   "dur": 96,
+   "o": 36,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#LJ99C2UYY",
+   "ath": 19,
+   "d": "#YUGPPJ92R",
+   "dth": 19,
+   "dur": 98,
+   "o": 37,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#9VUGLUGGJ",
+   "ath": 19,
+   "d": "#RYYCU889",
+   "dth": 19,
+   "dur": 82,
+   "o": 38,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#L9RGGY8VV",
+   "ath": 19,
+   "d": "#2RCLC0LL",
+   "dth": 19,
+   "dur": 137,
+   "o": 39,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#9VUGLUGGJ",
+   "ath": 19,
+   "d": "#L9GYJ8RQ9",
+   "dth": 19,
+   "dur": 167,
+   "o": 40,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#2092U80PR",
+   "ath": 19,
+   "d": "#909C2PCQG",
+   "dth": 19,
+   "dur": 175,
+   "o": 41,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#2092U80PR",
+   "ath": 19,
+   "d": "#9GYVGLVUC",
+   "dth": 19,
+   "dur": 141,
+   "o": 42,
+   "p": 94,
+   "s": 2,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 36.75,
+  "destruction": 41.6,
   "members": [
    {
     "name": "DTA Insomniac",
@@ -599,12 +709,12 @@
    }
   ],
   "name": "Beerenbrüder",
-  "stars": 40,
+  "stars": 46,
   "tag": "#2YGLUYJPR"
  },
  "end": "20261123T200635.000Z",
  "opponent": {
-  "destruction": 26.975,
+  "destruction": 39.65,
   "members": [
    {
     "name": "FL • ZΞЯБΞЯЦS³",
@@ -848,7 +958,7 @@
    }
   ],
   "name": "FruchtLabörchen",
-  "stars": 30,
+  "stars": 46,
   "tag": "#2RYP8PQRG"
  },
  "start": "20261122T200635.000Z",
