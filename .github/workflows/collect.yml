@@ -17,8 +17,8 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 40
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
+      - uses: actions/checkout@v5
+      - uses: actions/setup-python@v6
         with:
           python-version: "3.12"
       - name: Daten sammeln
@@ -34,5 +34,10 @@ jobs:
           git diff --cached --quiet && exit 0
           git commit -m "Daten $(date -u +'%Y-%m-%d %H:%M')"
           # falls inzwischen etwas anderes hochgeladen wurde: erst neuesten Stand holen, dann speichern
-          for i in 1 2 3; do git pull --rebase && git push && exit 0; sleep 5; done
+          # Bei Überschneidung mit einem anderen Lauf gewinnen die Daten dieses (neueren) Laufs
+          for i in 1 2 3; do
+            git pull --rebase -X theirs && git push && exit 0
+            git rebase --abort 2>/dev/null
+            sleep 5
+          done
           exit 1
