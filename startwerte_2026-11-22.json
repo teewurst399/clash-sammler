@@ -1,5 +1,5 @@
 {
- "quelle": "ClashSpot Angriffslisten 2026 (alle Clans inkl. auswärts), nur gleiches Rathaus (aufgeteilt nach Rathaus), ohne verpasste Angriffe, Farmhits (0–1 Stern unter 55 %) entfernt, ohne Freundschaftskriege",
+ "quelle": "ClashSpot Angriffslisten 2026 (alle Clans inkl. auswärts), nur gleiches Rathaus (aufgeteilt nach Rathaus), ohne verpasste Angriffe, Farmhits (0–1 Stern unter 55 %) entfernt, ohne Freundschaftskriege; letzte_cwl = CWL November 2026 laut ClashSpot inkl. Liga",
  "stand": "2026-11-22",
  "spieler": {
   "#20YVJUG0J": {
@@ -75,6 +75,16 @@
       "stars": 117
      }
     }
+   },
+   "letzte_cwl": {
+    "saison": "2026-11",
+    "clan": "alpha plan",
+    "clantag": "#Y2JR2U0G",
+    "liga": "Master League I",
+    "kriege": 7,
+    "angriffe": 7,
+    "sterne": 20,
+    "dreier": 6
    }
   },
   "#22VL22U80": {
@@ -140,6 +150,16 @@
       "stars": 129
      }
     }
+   },
+   "letzte_cwl": {
+    "saison": "2026-11",
+    "clan": "Würstchenbude",
+    "clantag": "#2JYURYLCL",
+    "liga": "Champion League III",
+    "kriege": 4,
+    "angriffe": 4,
+    "sterne": 10,
+    "dreier": 2
    }
   },
   "#28CVLRLU": {
@@ -205,6 +225,16 @@
       "stars": 73
      }
     }
+   },
+   "letzte_cwl": {
+    "saison": "2026-11",
+    "clan": "Würstchenbude",
+    "clantag": "#2JYURYLCL",
+    "liga": "Champion League III",
+    "kriege": 7,
+    "angriffe": 7,
+    "sterne": 20,
+    "dreier": 6
    }
   },
   "#28PLJ2RVR": {
@@ -280,6 +310,16 @@
       "stars": 118
      }
     }
+   },
+   "letzte_cwl": {
+    "saison": "2026-11",
+    "clan": "Würstchenbude",
+    "clantag": "#2JYURYLCL",
+    "liga": "Champion League III",
+    "kriege": 7,
+    "angriffe": 7,
+    "sterne": 21,
+    "dreier": 7
    }
   },
   "#28UGG2RY": {
@@ -330,6 +370,16 @@
       "stars": 116
      }
     }
+   },
+   "letzte_cwl": {
+    "saison": "2026-11",
+    "clan": "Wurstbude",
+    "clantag": "#2LCGGC22L",
+    "liga": "Champion League I",
+    "kriege": 6,
+    "angriffe": 6,
+    "sterne": 18,
+    "dreier": 6
    }
   },
   "#29PPYVGQP": {
@@ -405,6 +455,16 @@
       "stars": 86
      }
     }
+   },
+   "letzte_cwl": {
+    "saison": "2026-11",
+    "clan": "Würstchenbude",
+    "clantag": "#2JYURYLCL",
+    "liga": "Champion League III",
+    "kriege": 6,
+    "angriffe": 6,
+    "sterne": 15,
+    "dreier": 4
    }
   },
   "#2UJ8RRGUP": {
@@ -470,6 +530,16 @@
       "stars": 109
      }
     }
+   },
+   "letzte_cwl": {
+    "saison": "2026-11",
+    "clan": "Würstchenbude",
+    "clantag": "#2JYURYLCL",
+    "liga": "Champion League III",
+    "kriege": 5,
+    "angriffe": 5,
+    "sterne": 11,
+    "dreier": 1
    }
   },
   "#2UYG09GU2": {
@@ -545,6 +615,16 @@
       "stars": 114
      }
     }
+   },
+   "letzte_cwl": {
+    "saison": "2026-11",
+    "clan": "Würstchenbude",
+    "clantag": "#2JYURYLCL",
+    "liga": "Champion League III",
+    "kriege": 6,
+    "angriffe": 6,
+    "sterne": 15,
+    "dreier": 3
    }
   },
   "#8GR0P9UQL": {
@@ -620,6 +700,16 @@
       "stars": 105
      }
     }
+   },
+   "letzte_cwl": {
+    "saison": "2026-11",
+    "clan": "Wursttheke",
+    "clantag": "#2C09CPYU8",
+    "liga": "Master League I",
+    "kriege": 7,
+    "angriffe": 7,
+    "sterne": 21,
+    "dreier": 7
    }
   },
   "#8PCYJLLQ": {
@@ -730,6 +820,16 @@
       "stars": 102
      }
     }
+   },
+   "letzte_cwl": {
+    "saison": "2026-11",
+    "clan": "Wursttheke",
+    "clantag": "#2C09CPYU8",
+    "liga": "Master League I",
+    "kriege": 7,
+    "angriffe": 7,
+    "sterne": 21,
+    "dreier": 7
    }
   },
   "#98GV90GCV": {
@@ -805,6 +905,16 @@
       "stars": 143
      }
     }
+   },
+   "letzte_cwl": {
+    "saison": "2026-11",
+    "clan": "Wurstbude",
+    "clantag": "#2LCGGC22L",
+    "liga": "Champion League I",
+    "kriege": 7,
+    "angriffe": 7,
+    "sterne": 21,
+    "dreier": 7
    }
   },
   "#9L28CPJ29": {
@@ -930,6 +1040,16 @@
       "stars": 136
      }
     }
+   },
+   "letzte_cwl": {
+    "saison": "2026-11",
+    "clan": "Wurstbude",
+    "clantag": "#2LCGGC22L",
+    "liga": "Champion League I",
+    "kriege": 7,
+    "angriffe": 7,
+    "sterne": 21,
+    "dreier": 7
    }
   },
   "#9RU2RLCQ": {
@@ -1025,6 +1145,16 @@
       "stars": 139
      }
     }
+   },
+   "letzte_cwl": {
+    "saison": "2026-11",
+    "clan": "Wurstbude",
+    "clantag": "#2LCGGC22L",
+    "liga": "Champion League I",
+    "kriege": 6,
+    "angriffe": 6,
+    "sterne": 16,
+    "dreier": 5
    }
   },
   "#9V00PRGU": {
@@ -1090,6 +1220,16 @@
       "stars": 139
      }
     }
+   },
+   "letzte_cwl": {
+    "saison": "2026-11",
+    "clan": "Get Cooked!",
+    "clantag": "#2J922VYQ0",
+    "liga": "Titan League I",
+    "kriege": 6,
+    "angriffe": 6,
+    "sterne": 16,
+    "dreier": 4
    }
   },
   "#9VVPVLVL": {
@@ -1165,6 +1305,16 @@
       "stars": 40
      }
     }
+   },
+   "letzte_cwl": {
+    "saison": "2026-11",
+    "clan": "Wursttheke",
+    "clantag": "#2C09CPYU8",
+    "liga": "Master League I",
+    "kriege": 6,
+    "angriffe": 5,
+    "sterne": 14,
+    "dreier": 4
    }
   },
   "#9YU2QR9GV": {
@@ -1265,6 +1415,16 @@
       "stars": 105
      }
     }
+   },
+   "letzte_cwl": {
+    "saison": "2026-11",
+    "clan": "Würstchenbude",
+    "clantag": "#2JYURYLCL",
+    "liga": "Champion League III",
+    "kriege": 7,
+    "angriffe": 7,
+    "sterne": 20,
+    "dreier": 6
    }
   },
   "#G00RYCJG": {
@@ -1340,6 +1500,16 @@
       "stars": 106
      }
     }
+   },
+   "letzte_cwl": {
+    "saison": "2026-11",
+    "clan": "Würstchenbude",
+    "clantag": "#2JYURYLCL",
+    "liga": "Champion League III",
+    "kriege": 7,
+    "angriffe": 7,
+    "sterne": 20,
+    "dreier": 6
    }
   },
   "#G0G00Q9VL": {
@@ -1460,6 +1630,16 @@
       "stars": 142
      }
     }
+   },
+   "letzte_cwl": {
+    "saison": "2026-11",
+    "clan": "Wurstbude",
+    "clantag": "#2LCGGC22L",
+    "liga": "Champion League I",
+    "kriege": 7,
+    "angriffe": 7,
+    "sterne": 21,
+    "dreier": 7
    }
   },
   "#G20RYP820": {
@@ -1535,6 +1715,16 @@
       "stars": 139
      }
     }
+   },
+   "letzte_cwl": {
+    "saison": "2026-11",
+    "clan": "Wurstbude",
+    "clantag": "#2LCGGC22L",
+    "liga": "Champion League I",
+    "kriege": 7,
+    "angriffe": 7,
+    "sterne": 21,
+    "dreier": 7
    }
   },
   "#G2RUYUGC": {
@@ -1610,6 +1800,16 @@
       "stars": 131
      }
     }
+   },
+   "letzte_cwl": {
+    "saison": "2026-11",
+    "clan": "Wurstbude",
+    "clantag": "#2LCGGC22L",
+    "liga": "Champion League I",
+    "kriege": 5,
+    "angriffe": 5,
+    "sterne": 14,
+    "dreier": 4
    }
   },
   "#G9R980C2U": {
@@ -1685,6 +1885,16 @@
       "stars": 141
      }
     }
+   },
+   "letzte_cwl": {
+    "saison": "2026-11",
+    "clan": "Wurstbude",
+    "clantag": "#2LCGGC22L",
+    "liga": "Champion League I",
+    "kriege": 7,
+    "angriffe": 7,
+    "sterne": 21,
+    "dreier": 7
    }
   },
   "#G9YGCC228": {
@@ -1765,6 +1975,16 @@
       "stars": 37
      }
     }
+   },
+   "letzte_cwl": {
+    "saison": "2026-11",
+    "clan": "Würstchenbude",
+    "clantag": "#2JYURYLCL",
+    "liga": "Champion League III",
+    "kriege": 6,
+    "angriffe": 6,
+    "sterne": 16,
+    "dreier": 4
    }
   },
   "#GC9UYCQVY": {
@@ -1855,6 +2075,16 @@
       "stars": 6
      }
     }
+   },
+   "letzte_cwl": {
+    "saison": "2026-11",
+    "clan": "Wursttheke",
+    "clantag": "#2C09CPYU8",
+    "liga": "Master League I",
+    "kriege": 6,
+    "angriffe": 6,
+    "sterne": 18,
+    "dreier": 6
    }
   },
   "#GP9R0PUQ8": {
@@ -1905,6 +2135,16 @@
       "stars": 1
      }
     }
+   },
+   "letzte_cwl": {
+    "saison": "2026-11",
+    "clan": "Wursttheke",
+    "clantag": "#2C09CPYU8",
+    "liga": "Master League I",
+    "kriege": 5,
+    "angriffe": 5,
+    "sterne": 11,
+    "dreier": 3
    }
   },
   "#GPCQPUQ0Q": {
@@ -1955,6 +2195,16 @@
       "stars": 127
      }
     }
+   },
+   "letzte_cwl": {
+    "saison": "2026-11",
+    "clan": "Wurstbude",
+    "clantag": "#2LCGGC22L",
+    "liga": "Champion League I",
+    "kriege": 5,
+    "angriffe": 5,
+    "sterne": 15,
+    "dreier": 5
    }
   },
   "#GQGQJR2RR": {
@@ -2055,6 +2305,16 @@
       "stars": 123
      }
     }
+   },
+   "letzte_cwl": {
+    "saison": "2026-11",
+    "clan": "Würstchenbude",
+    "clantag": "#2JYURYLCL",
+    "liga": "Champion League III",
+    "kriege": 7,
+    "angriffe": 7,
+    "sterne": 21,
+    "dreier": 7
    }
   },
   "#GYPJPGR00": {
@@ -2130,6 +2390,16 @@
       "stars": 138
      }
     }
+   },
+   "letzte_cwl": {
+    "saison": "2026-11",
+    "clan": "Wurstbude",
+    "clantag": "#2LCGGC22L",
+    "liga": "Champion League I",
+    "kriege": 7,
+    "angriffe": 7,
+    "sterne": 21,
+    "dreier": 7
    }
   },
   "#J90CCPC0": {
@@ -2205,6 +2475,16 @@
       "stars": 115
      }
     }
+   },
+   "letzte_cwl": {
+    "saison": "2026-11",
+    "clan": "Würstchenbude",
+    "clantag": "#2JYURYLCL",
+    "liga": "Champion League III",
+    "kriege": 7,
+    "angriffe": 7,
+    "sterne": 20,
+    "dreier": 6
    }
   },
   "#L02YUGQL": {
@@ -2280,6 +2560,16 @@
       "stars": 120
      }
     }
+   },
+   "letzte_cwl": {
+    "saison": "2026-11",
+    "clan": "Würstchenbude",
+    "clantag": "#2JYURYLCL",
+    "liga": "Champion League III",
+    "kriege": 5,
+    "angriffe": 5,
+    "sterne": 14,
+    "dreier": 4
    }
   },
   "#LC8890LGJ": {
@@ -2345,6 +2635,16 @@
       "stars": 34
      }
     }
+   },
+   "letzte_cwl": {
+    "saison": "2026-11",
+    "clan": "Wursttheke",
+    "clantag": "#2C09CPYU8",
+    "liga": "Master League I",
+    "kriege": 4,
+    "angriffe": 4,
+    "sterne": 9,
+    "dreier": 1
    }
   },
   "#LC98P20YY": {
@@ -2415,6 +2715,16 @@
       "stars": 65
      }
     }
+   },
+   "letzte_cwl": {
+    "saison": "2026-11",
+    "clan": "Wursttheke",
+    "clantag": "#2C09CPYU8",
+    "liga": "Master League I",
+    "kriege": 6,
+    "angriffe": 6,
+    "sterne": 16,
+    "dreier": 4
    }
   },
   "#LGR90YRVQ": {
@@ -2480,6 +2790,16 @@
       "stars": 42
      }
     }
+   },
+   "letzte_cwl": {
+    "saison": "2026-11",
+    "clan": "Wurstbude",
+    "clantag": "#2LCGGC22L",
+    "liga": "Champion League I",
+    "kriege": 7,
+    "angriffe": 7,
+    "sterne": 21,
+    "dreier": 7
    }
   },
   "#LGUPGVJ8R": {
@@ -2560,6 +2880,16 @@
       "stars": 18
      }
     }
+   },
+   "letzte_cwl": {
+    "saison": "2026-11",
+    "clan": "Wursttheke",
+    "clantag": "#2C09CPYU8",
+    "liga": "Master League I",
+    "kriege": 7,
+    "angriffe": 7,
+    "sterne": 21,
+    "dreier": 7
    }
   },
   "#LL2UYUVCV": {
@@ -2635,6 +2965,16 @@
       "stars": 138
      }
     }
+   },
+   "letzte_cwl": {
+    "saison": "2026-11",
+    "clan": "Wurstbude",
+    "clantag": "#2LCGGC22L",
+    "liga": "Champion League I",
+    "kriege": 7,
+    "angriffe": 7,
+    "sterne": 21,
+    "dreier": 7
    }
   },
   "#LUL9YGJGP": {
@@ -2710,6 +3050,16 @@
       "stars": 101
      }
     }
+   },
+   "letzte_cwl": {
+    "saison": "2026-11",
+    "clan": "Würstchenbude",
+    "clantag": "#2JYURYLCL",
+    "liga": "Champion League III",
+    "kriege": 7,
+    "angriffe": 7,
+    "sterne": 21,
+    "dreier": 7
    }
   },
   "#PG0JJ9U": {
@@ -2775,6 +3125,16 @@
       "stars": 121
      }
     }
+   },
+   "letzte_cwl": {
+    "saison": "2026-11",
+    "clan": "Würstchenbude",
+    "clantag": "#2JYURYLCL",
+    "liga": "Champion League III",
+    "kriege": 5,
+    "angriffe": 5,
+    "sterne": 13,
+    "dreier": 3
    }
   },
   "#PJL2V290P": {
@@ -2850,6 +3210,16 @@
       "stars": 99
      }
     }
+   },
+   "letzte_cwl": {
+    "saison": "2026-11",
+    "clan": "Wurstbude",
+    "clantag": "#2LCGGC22L",
+    "liga": "Champion League I",
+    "kriege": 7,
+    "angriffe": 7,
+    "sterne": 21,
+    "dreier": 7
    }
   },
   "#PRUPJL0Q9": {
@@ -2925,6 +3295,16 @@
       "stars": 82
      }
     }
+   },
+   "letzte_cwl": {
+    "saison": "2026-11",
+    "clan": "Würstchenbude",
+    "clantag": "#2JYURYLCL",
+    "liga": "Champion League III",
+    "kriege": 7,
+    "angriffe": 7,
+    "sterne": 20,
+    "dreier": 6
    }
   },
   "#PVPJ0VUC": {
@@ -2990,6 +3370,16 @@
       "stars": 134
      }
     }
+   },
+   "letzte_cwl": {
+    "saison": "2026-11",
+    "clan": "Wurstbude",
+    "clantag": "#2LCGGC22L",
+    "liga": "Champion League I",
+    "kriege": 7,
+    "angriffe": 7,
+    "sterne": 21,
+    "dreier": 7
    }
   },
   "#Q9G2JL0U": {
@@ -3065,6 +3455,16 @@
       "stars": 131
      }
     }
+   },
+   "letzte_cwl": {
+    "saison": "2026-11",
+    "clan": "! ELITE !",
+    "clantag": "#2QCVU28QV",
+    "liga": "Champion League II",
+    "kriege": 7,
+    "angriffe": 7,
+    "sterne": 21,
+    "dreier": 7
    }
   },
   "#QGJ0J8CYR": {
@@ -3145,6 +3545,16 @@
       "stars": 15
      }
     }
+   },
+   "letzte_cwl": {
+    "saison": "2026-11",
+    "clan": "Wursttheke",
+    "clantag": "#2C09CPYU8",
+    "liga": "Master League I",
+    "kriege": 7,
+    "angriffe": 7,
+    "sterne": 21,
+    "dreier": 7
    }
   },
   "#QJV8UUGRJ": {
@@ -3220,6 +3630,16 @@
       "stars": 70
      }
     }
+   },
+   "letzte_cwl": {
+    "saison": "2026-11",
+    "clan": "Wursttheke",
+    "clantag": "#2C09CPYU8",
+    "liga": "Master League I",
+    "kriege": 7,
+    "angriffe": 7,
+    "sterne": 20,
+    "dreier": 6
    }
   },
   "#QL2LQCGR": {
@@ -3425,6 +3845,16 @@
       "stars": 65
      }
     }
+   },
+   "letzte_cwl": {
+    "saison": "2026-11",
+    "clan": "Wursttheke",
+    "clantag": "#2C09CPYU8",
+    "liga": "Master League I",
+    "kriege": 7,
+    "angriffe": 7,
+    "sterne": 20,
+    "dreier": 6
    }
   },
   "#R2Q8UU9U": {
@@ -3500,6 +3930,16 @@
       "stars": 131
      }
     }
+   },
+   "letzte_cwl": {
+    "saison": "2026-11",
+    "clan": "Wurstbude",
+    "clantag": "#2LCGGC22L",
+    "liga": "Champion League I",
+    "kriege": 6,
+    "angriffe": 6,
+    "sterne": 16,
+    "dreier": 4
    }
   },
   "#RJPGC2JV": {
@@ -3575,6 +4015,16 @@
       "stars": 108
      }
     }
+   },
+   "letzte_cwl": {
+    "saison": "2026-11",
+    "clan": "Würstchenbude",
+    "clantag": "#2JYURYLCL",
+    "liga": "Champion League III",
+    "kriege": 6,
+    "angriffe": 6,
+    "sterne": 15,
+    "dreier": 4
    }
   },
   "#UR8RL09": {
@@ -3640,6 +4090,16 @@
       "stars": 131
      }
     }
+   },
+   "letzte_cwl": {
+    "saison": "2026-11",
+    "clan": "Wurstbude",
+    "clantag": "#2LCGGC22L",
+    "liga": "Champion League I",
+    "kriege": 7,
+    "angriffe": 7,
+    "sterne": 21,
+    "dreier": 7
    }
   },
   "#UUV2R80": {
@@ -3715,6 +4175,16 @@
       "stars": 125
      }
     }
+   },
+   "letzte_cwl": {
+    "saison": "2026-11",
+    "clan": "Würstchenbude",
+    "clantag": "#2JYURYLCL",
+    "liga": "Champion League III",
+    "kriege": 6,
+    "angriffe": 6,
+    "sterne": 17,
+    "dreier": 5
    }
   },
   "#V9GQYUCJ": {
@@ -3790,6 +4260,16 @@
       "stars": 133
      }
     }
+   },
+   "letzte_cwl": {
+    "saison": "2026-11",
+    "clan": "Ruthless",
+    "clantag": "#2CJQYQGRL",
+    "liga": "Master League III",
+    "kriege": 7,
+    "angriffe": 7,
+    "sterne": 21,
+    "dreier": 7
    }
   },
   "#Y9UQCC9VQ": {
@@ -3865,6 +4345,16 @@
       "stars": 102
      }
     }
+   },
+   "letzte_cwl": {
+    "saison": "2026-11",
+    "clan": "Wursttheke",
+    "clantag": "#2C09CPYU8",
+    "liga": "Master League I",
+    "kriege": 6,
+    "angriffe": 6,
+    "sterne": 16,
+    "dreier": 5
    }
   },
   "#YC0VCJQPQ": {
@@ -3915,6 +4405,16 @@
       "stars": 63
      }
     }
+   },
+   "letzte_cwl": {
+    "saison": "2026-11",
+    "clan": "Wursttheke",
+    "clantag": "#2C09CPYU8",
+    "liga": "Master League I",
+    "kriege": 7,
+    "angriffe": 7,
+    "sterne": 19,
+    "dreier": 5
    }
   },
   "#YRRCCQLR8": {
@@ -3980,6 +4480,16 @@
       "stars": 130
      }
     }
+   },
+   "letzte_cwl": {
+    "saison": "2026-11",
+    "clan": "RAMMBOCK",
+    "clantag": "#2JU0YJUQP",
+    "liga": "Champion League III",
+    "kriege": 7,
+    "angriffe": 7,
+    "sterne": 21,
+    "dreier": 7
    }
   },
   "#YVUUVCVG8": {
@@ -4055,6 +4565,16 @@
       "stars": 118
      }
     }
+   },
+   "letzte_cwl": {
+    "saison": "2026-11",
+    "clan": "Wursttheke",
+    "clantag": "#2C09CPYU8",
+    "liga": "Master League I",
+    "kriege": 7,
+    "angriffe": 7,
+    "sterne": 20,
+    "dreier": 6
    }
   }
  }
