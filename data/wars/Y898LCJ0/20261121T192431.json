@@ -681,6 +681,17 @@
    "p": 97,
    "s": 2,
    "side": "clan"
+  },
+  {
+   "a": "#GLLPQ9YUV",
+   "ath": 19,
+   "d": "#PQ9YL90R",
+   "dth": 19,
+   "dur": 131,
+   "o": 63,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -964,7 +975,7 @@
  },
  "end": "20261123T182431.000Z",
  "opponent": {
-  "destruction": 76.977776,
+  "destruction": 79.2,
   "members": [
    {
     "name": "kaancskn",
@@ -1238,7 +1249,7 @@
    }
   ],
   "name": "TurkisH ArmY",
-  "stars": 104,
+  "stars": 107,
   "tag": "#PG9QRVUL"
  },
  "start": "20261122T182431.000Z",

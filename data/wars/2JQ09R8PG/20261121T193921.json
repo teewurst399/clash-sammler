@@ -703,11 +703,33 @@
    "p": 87,
    "s": 2,
    "side": "clan"
+  },
+  {
+   "a": "#2P0P9JRL8",
+   "ath": 19,
+   "d": "#2QRYPCV8P",
+   "dth": 19,
+   "dur": 167,
+   "o": 65,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#2R0CC2RCL",
+   "ath": 19,
+   "d": "#JQY2UPJ",
+   "dth": 19,
+   "dur": 180,
+   "o": 66,
+   "p": 96,
+   "s": 2,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 57.266666,
+  "destruction": 57.466667,
   "members": [
    {
     "name": "G!B Mighty",
@@ -986,7 +1008,7 @@
  },
  "end": "20261123T183921.000Z",
  "opponent": {
-  "destruction": 73.333336,
+  "destruction": 75.55556,
   "members": [
    {
     "name": "F͛a͛i͛s͛a͛l͛",
@@ -1260,7 +1282,7 @@
    }
   ],
   "name": "KSA",
-  "stars": 99,
+  "stars": 102,
   "tag": "#29QPVJJUY"
  },
  "start": "20261122T183921.000Z",
