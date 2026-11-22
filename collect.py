@@ -167,8 +167,17 @@ def collect_cwl(clan):
     if "_error" in group or group.get("state") not in ("preparation", "inWar", "ended"):
         return
     season = group.get("season", "unbekannt")
-    save(f"cwl/{season}/{clean(clan['tag'])}/gruppe.json", {
-        "season": season, "state": group.get("state"),
+    gpath = f"cwl/{season}/{clean(clan['tag'])}/gruppe.json"
+    liga = None
+    if os.path.exists(os.path.join(DATA, gpath)):
+        with open(os.path.join(DATA, gpath), encoding="utf-8") as f:
+            liga = json.load(f).get("liga")
+    if not liga and group.get("state") in ("preparation", "inWar"):
+        # Liga dieser CWL merken (nach Saisonende zeigt die API schon die neue Liga nach Auf-/Abstieg)
+        info = get(f"/clans/{q(clan['tag'])}")
+        liga = (info.get("warLeague") or {}).get("name") if "_error" not in info else None
+    save(gpath, {
+        "season": season, "state": group.get("state"), "liga": liga,
         "clans": [{"tag": c["tag"], "name": c.get("name"),
                    "members": [{"tag": m["tag"], "name": m.get("name"), "th": m.get("townHallLevel")}
                                for m in c.get("members", [])]} for c in group.get("clans", [])]})
