@@ -1,0 +1,2090 @@
+{
+ "quelle": "ClashSpot Angriffslisten 2026 (alle Clans inkl. auswärts), nur gleiches Rathaus, ohne verpasste Angriffe, Farmhits (0–1 Stern unter 55 %) entfernt, ohne Freundschaftskriege",
+ "stand": "2026-11-22",
+ "spieler": {
+  "#20YVJUG0J": {
+   "name": "Markus ;)",
+   "clan": "Wurstbude",
+   "th": 19,
+   "cw30": {
+    "th": 19,
+    "triples": 5,
+    "hits": 8,
+    "stars": 21,
+    "avg_stars": 2.625,
+    "triple_rate": 62.5
+   },
+   "cw180": {
+    "th": 19,
+    "triples": 38,
+    "hits": 52,
+    "stars": 140,
+    "avg_stars": 2.692,
+    "triple_rate": 73.1
+   },
+   "cwl60": {
+    "th": 19,
+    "triples": 12,
+    "hits": 14,
+    "stars": 40,
+    "avg_stars": 2.857,
+    "triple_rate": 85.7
+   },
+   "cwl180": {
+    "th": 19,
+    "triples": 37,
+    "hits": 40,
+    "stars": 117,
+    "avg_stars": 2.925,
+    "triple_rate": 92.5
+   }
+  },
+  "#22VL22U80": {
+   "name": "domi",
+   "clan": "Wurstbude",
+   "th": 18,
+   "cw30": {
+    "th": 18,
+    "triples": 1,
+    "hits": 3,
+    "stars": 7,
+    "avg_stars": 2.333,
+    "triple_rate": 33.3
+   },
+   "cw180": {
+    "th": 18,
+    "triples": 22,
+    "hits": 29,
+    "stars": 77,
+    "avg_stars": 2.655,
+    "triple_rate": 75.9
+   },
+   "cwl60": {
+    "th": 18,
+    "triples": 8,
+    "hits": 10,
+    "stars": 28,
+    "avg_stars": 2.8,
+    "triple_rate": 80.0
+   },
+   "cwl180": {
+    "th": 18,
+    "triples": 39,
+    "hits": 45,
+    "stars": 129,
+    "avg_stars": 2.867,
+    "triple_rate": 86.7
+   }
+  },
+  "#28CVLRLU": {
+   "name": "WB Teewurst₃",
+   "clan": "Wurstbude",
+   "th": 18,
+   "cw30": {
+    "th": 18,
+    "triples": 2,
+    "hits": 2,
+    "stars": 6,
+    "avg_stars": 3.0,
+    "triple_rate": 100.0
+   },
+   "cw180": {
+    "th": 18,
+    "triples": 3,
+    "hits": 5,
+    "stars": 13,
+    "avg_stars": 2.6,
+    "triple_rate": 60.0
+   },
+   "cwl60": {
+    "th": 18,
+    "triples": 12,
+    "hits": 13,
+    "stars": 38,
+    "avg_stars": 2.923,
+    "triple_rate": 92.3
+   },
+   "cwl180": {
+    "th": 18,
+    "triples": 23,
+    "hits": 25,
+    "stars": 73,
+    "avg_stars": 2.92,
+    "triple_rate": 92.0
+   }
+  },
+  "#28PLJ2RVR": {
+   "name": "✘✞тšυиαмı✞✘ツ",
+   "clan": "Wurstbude",
+   "th": 19,
+   "cw30": {
+    "th": 19,
+    "triples": 7,
+    "hits": 8,
+    "stars": 23,
+    "avg_stars": 2.875,
+    "triple_rate": 87.5
+   },
+   "cw180": {
+    "th": 19,
+    "triples": 69,
+    "hits": 83,
+    "stars": 234,
+    "avg_stars": 2.819,
+    "triple_rate": 83.1
+   },
+   "cwl60": {
+    "th": 19,
+    "triples": 12,
+    "hits": 14,
+    "stars": 40,
+    "avg_stars": 2.857,
+    "triple_rate": 85.7
+   },
+   "cwl180": {
+    "th": 19,
+    "triples": 35,
+    "hits": 42,
+    "stars": 118,
+    "avg_stars": 2.81,
+    "triple_rate": 83.3
+   }
+  },
+  "#28UGG2RY": {
+   "name": "G!B$ascha",
+   "clan": "Wurstbude",
+   "th": 18,
+   "cw180": {
+    "th": 18,
+    "triples": 33,
+    "hits": 35,
+    "stars": 102,
+    "avg_stars": 2.914,
+    "triple_rate": 94.3
+   },
+   "cwl60": {
+    "th": 18,
+    "triples": 13,
+    "hits": 13,
+    "stars": 39,
+    "avg_stars": 3.0,
+    "triple_rate": 100.0
+   },
+   "cwl180": {
+    "th": 18,
+    "triples": 36,
+    "hits": 40,
+    "stars": 116,
+    "avg_stars": 2.9,
+    "triple_rate": 90.0
+   }
+  },
+  "#29PPYVGQP": {
+   "name": "WB™ NikolaySa✨️",
+   "clan": "Wurstbude",
+   "th": 19,
+   "cw30": {
+    "th": 19,
+    "triples": 3,
+    "hits": 6,
+    "stars": 15,
+    "avg_stars": 2.5,
+    "triple_rate": 50.0
+   },
+   "cw180": {
+    "th": 19,
+    "triples": 33,
+    "hits": 55,
+    "stars": 140,
+    "avg_stars": 2.545,
+    "triple_rate": 60.0
+   },
+   "cwl60": {
+    "th": 19,
+    "triples": 8,
+    "hits": 13,
+    "stars": 33,
+    "avg_stars": 2.538,
+    "triple_rate": 61.5
+   },
+   "cwl180": {
+    "th": 19,
+    "triples": 21,
+    "hits": 33,
+    "stars": 86,
+    "avg_stars": 2.606,
+    "triple_rate": 63.6
+   }
+  },
+  "#2UJ8RRGUP": {
+   "name": "american",
+   "clan": "Wurstbude",
+   "th": 18,
+   "cw30": {
+    "th": 18,
+    "triples": 4,
+    "hits": 8,
+    "stars": 20,
+    "avg_stars": 2.5,
+    "triple_rate": 50.0
+   },
+   "cw180": {
+    "th": 18,
+    "triples": 44,
+    "hits": 61,
+    "stars": 165,
+    "avg_stars": 2.705,
+    "triple_rate": 72.1
+   },
+   "cwl60": {
+    "th": 18,
+    "triples": 5,
+    "hits": 12,
+    "stars": 29,
+    "avg_stars": 2.417,
+    "triple_rate": 41.7
+   },
+   "cwl180": {
+    "th": 18,
+    "triples": 30,
+    "hits": 40,
+    "stars": 109,
+    "avg_stars": 2.725,
+    "triple_rate": 75.0
+   }
+  },
+  "#2UYG09GU2": {
+   "name": "Yence",
+   "clan": "Wurstbude",
+   "th": 19,
+   "cw30": {
+    "th": 19,
+    "triples": 6,
+    "hits": 8,
+    "stars": 22,
+    "avg_stars": 2.75,
+    "triple_rate": 75.0
+   },
+   "cw180": {
+    "th": 19,
+    "triples": 23,
+    "hits": 43,
+    "stars": 106,
+    "avg_stars": 2.465,
+    "triple_rate": 53.5
+   },
+   "cwl60": {
+    "th": 19,
+    "triples": 6,
+    "hits": 12,
+    "stars": 30,
+    "avg_stars": 2.5,
+    "triple_rate": 50.0
+   },
+   "cwl180": {
+    "th": 19,
+    "triples": 29,
+    "hits": 44,
+    "stars": 114,
+    "avg_stars": 2.591,
+    "triple_rate": 65.9
+   }
+  },
+  "#8GR0P9UQL": {
+   "name": "Imker Thorsten",
+   "clan": "Wurstbude",
+   "th": 19,
+   "cw30": {
+    "th": 19,
+    "triples": 7,
+    "hits": 7,
+    "stars": 21,
+    "avg_stars": 3.0,
+    "triple_rate": 100.0
+   },
+   "cw180": {
+    "th": 19,
+    "triples": 48,
+    "hits": 61,
+    "stars": 166,
+    "avg_stars": 2.721,
+    "triple_rate": 78.7
+   },
+   "cwl60": {
+    "th": 19,
+    "triples": 9,
+    "hits": 9,
+    "stars": 27,
+    "avg_stars": 3.0,
+    "triple_rate": 100.0
+   },
+   "cwl180": {
+    "th": 19,
+    "triples": 33,
+    "hits": 37,
+    "stars": 105,
+    "avg_stars": 2.838,
+    "triple_rate": 89.2
+   }
+  },
+  "#8PCYJLLQ": {
+   "name": "El Mundo",
+   "clan": "Wursttheke",
+   "th": 18,
+   "cwl60": {
+    "th": 18,
+    "triples": 6,
+    "hits": 7,
+    "stars": 20,
+    "avg_stars": 2.857,
+    "triple_rate": 85.7
+   },
+   "cwl180": {
+    "th": 18,
+    "triples": 26,
+    "hits": 27,
+    "stars": 80,
+    "avg_stars": 2.963,
+    "triple_rate": 96.3
+   }
+  },
+  "#90U88CR": {
+   "name": "⚡️Ｊｕｌｉａｎ⚡️",
+   "clan": "Wursttheke",
+   "th": 19,
+   "cw30": {
+    "th": 19,
+    "triples": 12,
+    "hits": 14,
+    "stars": 39,
+    "avg_stars": 2.786,
+    "triple_rate": 85.7
+   },
+   "cw180": {
+    "th": 19,
+    "triples": 57,
+    "hits": 80,
+    "stars": 206,
+    "avg_stars": 2.575,
+    "triple_rate": 71.2
+   },
+   "cwl60": {
+    "th": 19,
+    "triples": 13,
+    "hits": 14,
+    "stars": 41,
+    "avg_stars": 2.929,
+    "triple_rate": 92.9
+   },
+   "cwl180": {
+    "th": 19,
+    "triples": 31,
+    "hits": 36,
+    "stars": 102,
+    "avg_stars": 2.833,
+    "triple_rate": 86.1
+   }
+  },
+  "#98GV90GCV": {
+   "name": "WB Teewurst₂",
+   "clan": "Wurstbude",
+   "th": 19,
+   "cw30": {
+    "th": 19,
+    "triples": 6,
+    "hits": 6,
+    "stars": 18,
+    "avg_stars": 3.0,
+    "triple_rate": 100.0
+   },
+   "cw180": {
+    "th": 19,
+    "triples": 27,
+    "hits": 27,
+    "stars": 81,
+    "avg_stars": 3.0,
+    "triple_rate": 100.0
+   },
+   "cwl60": {
+    "th": 19,
+    "triples": 13,
+    "hits": 14,
+    "stars": 41,
+    "avg_stars": 2.929,
+    "triple_rate": 92.9
+   },
+   "cwl180": {
+    "th": 19,
+    "triples": 45,
+    "hits": 49,
+    "stars": 143,
+    "avg_stars": 2.918,
+    "triple_rate": 91.8
+   }
+  },
+  "#9L28CPJ29": {
+   "name": "WB Henrik",
+   "clan": "Wurstbude",
+   "th": 18,
+   "cw180": {
+    "th": 18,
+    "triples": 6,
+    "hits": 10,
+    "stars": 25,
+    "avg_stars": 2.5,
+    "triple_rate": 60.0
+   },
+   "cwl60": {
+    "th": 18,
+    "triples": 7,
+    "hits": 7,
+    "stars": 21,
+    "avg_stars": 3.0,
+    "triple_rate": 100.0
+   },
+   "cwl180": {
+    "th": 18,
+    "triples": 22,
+    "hits": 27,
+    "stars": 75,
+    "avg_stars": 2.778,
+    "triple_rate": 81.5
+   }
+  },
+  "#9P880J2P": {
+   "name": "〤Ğeronimoooジ",
+   "clan": "Wurstbude",
+   "th": 19,
+   "cw30": {
+    "th": 19,
+    "triples": 6,
+    "hits": 6,
+    "stars": 18,
+    "avg_stars": 3.0,
+    "triple_rate": 100.0
+   },
+   "cw180": {
+    "th": 19,
+    "triples": 42,
+    "hits": 44,
+    "stars": 129,
+    "avg_stars": 2.932,
+    "triple_rate": 95.5
+   },
+   "cwl60": {
+    "th": 19,
+    "triples": 12,
+    "hits": 14,
+    "stars": 40,
+    "avg_stars": 2.857,
+    "triple_rate": 85.7
+   },
+   "cwl180": {
+    "th": 19,
+    "triples": 39,
+    "hits": 49,
+    "stars": 136,
+    "avg_stars": 2.776,
+    "triple_rate": 79.6
+   }
+  },
+  "#9RU2RLCQ": {
+   "name": "WB AJI",
+   "clan": "Wurstbude",
+   "th": 16,
+   "cwl180": {
+    "th": 16,
+    "triples": 2,
+    "hits": 2,
+    "stars": 6,
+    "avg_stars": 3.0,
+    "triple_rate": 100.0
+   }
+  },
+  "#9U0YUCP9": {
+   "name": "Zeppelinwurst",
+   "clan": "Wurstbude",
+   "th": 19,
+   "cw30": {
+    "th": 19,
+    "triples": 8,
+    "hits": 8,
+    "stars": 24,
+    "avg_stars": 3.0,
+    "triple_rate": 100.0
+   },
+   "cw180": {
+    "th": 19,
+    "triples": 61,
+    "hits": 62,
+    "stars": 185,
+    "avg_stars": 2.984,
+    "triple_rate": 98.4
+   },
+   "cwl60": {
+    "th": 19,
+    "triples": 11,
+    "hits": 13,
+    "stars": 36,
+    "avg_stars": 2.769,
+    "triple_rate": 84.6
+   },
+   "cwl180": {
+    "th": 19,
+    "triples": 44,
+    "hits": 48,
+    "stars": 139,
+    "avg_stars": 2.896,
+    "triple_rate": 91.7
+   }
+  },
+  "#9V00PRGU": {
+   "name": "WB Teewurst",
+   "clan": "Wurstbude",
+   "th": 19,
+   "cw30": {
+    "th": 19,
+    "triples": 5,
+    "hits": 6,
+    "stars": 17,
+    "avg_stars": 2.833,
+    "triple_rate": 83.3
+   },
+   "cw180": {
+    "th": 19,
+    "triples": 35,
+    "hits": 38,
+    "stars": 111,
+    "avg_stars": 2.921,
+    "triple_rate": 92.1
+   },
+   "cwl60": {
+    "th": 19,
+    "triples": 11,
+    "hits": 13,
+    "stars": 37,
+    "avg_stars": 2.846,
+    "triple_rate": 84.6
+   },
+   "cwl180": {
+    "th": 19,
+    "triples": 43,
+    "hits": 48,
+    "stars": 139,
+    "avg_stars": 2.896,
+    "triple_rate": 89.6
+   }
+  },
+  "#9VVPVLVL": {
+   "name": "JoloPizzabäcker",
+   "clan": "Wurstbude",
+   "th": 19,
+   "cw30": {
+    "th": 19,
+    "triples": 2,
+    "hits": 3,
+    "stars": 8,
+    "avg_stars": 2.667,
+    "triple_rate": 66.7
+   },
+   "cw180": {
+    "th": 19,
+    "triples": 7,
+    "hits": 9,
+    "stars": 25,
+    "avg_stars": 2.778,
+    "triple_rate": 77.8
+   },
+   "cwl60": {
+    "th": 19,
+    "triples": 7,
+    "hits": 9,
+    "stars": 25,
+    "avg_stars": 2.778,
+    "triple_rate": 77.8
+   },
+   "cwl180": {
+    "th": 19,
+    "triples": 11,
+    "hits": 15,
+    "stars": 40,
+    "avg_stars": 2.667,
+    "triple_rate": 73.3
+   }
+  },
+  "#9YU2QR9GV": {
+   "name": "Admiral Mudoo",
+   "clan": "Wurstbude",
+   "th": 19,
+   "cw30": {
+    "th": 19,
+    "triples": 5,
+    "hits": 10,
+    "stars": 24,
+    "avg_stars": 2.4,
+    "triple_rate": 50.0
+   },
+   "cw180": {
+    "th": 19,
+    "triples": 11,
+    "hits": 18,
+    "stars": 44,
+    "avg_stars": 2.444,
+    "triple_rate": 61.1
+   },
+   "cwl180": {
+    "th": 19,
+    "triples": 29,
+    "hits": 31,
+    "stars": 91,
+    "avg_stars": 2.935,
+    "triple_rate": 93.5
+   }
+  },
+  "#C2PYPQLL": {
+   "name": "WB Fabio",
+   "clan": "Wurstbude",
+   "th": 18,
+   "cw180": {
+    "th": 18,
+    "triples": 23,
+    "hits": 29,
+    "stars": 78,
+    "avg_stars": 2.69,
+    "triple_rate": 79.3
+   },
+   "cwl60": {
+    "th": 18,
+    "triples": 12,
+    "hits": 13,
+    "stars": 38,
+    "avg_stars": 2.923,
+    "triple_rate": 92.3
+   },
+   "cwl180": {
+    "th": 18,
+    "triples": 33,
+    "hits": 36,
+    "stars": 105,
+    "avg_stars": 2.917,
+    "triple_rate": 91.7
+   }
+  },
+  "#G00RYCJG": {
+   "name": "BChvT23",
+   "clan": "Wurstbude",
+   "th": 19,
+   "cw30": {
+    "th": 19,
+    "triples": 8,
+    "hits": 12,
+    "stars": 31,
+    "avg_stars": 2.583,
+    "triple_rate": 66.7
+   },
+   "cw180": {
+    "th": 19,
+    "triples": 41,
+    "hits": 56,
+    "stars": 149,
+    "avg_stars": 2.661,
+    "triple_rate": 73.2
+   },
+   "cwl60": {
+    "th": 19,
+    "triples": 5,
+    "hits": 6,
+    "stars": 17,
+    "avg_stars": 2.833,
+    "triple_rate": 83.3
+   },
+   "cwl180": {
+    "th": 19,
+    "triples": 31,
+    "hits": 39,
+    "stars": 106,
+    "avg_stars": 2.718,
+    "triple_rate": 79.5
+   }
+  },
+  "#G0G00Q9VL": {
+   "name": "Höhny",
+   "clan": "Wurstbude",
+   "th": 19,
+   "cw30": {
+    "th": 19,
+    "triples": 1,
+    "hits": 2,
+    "stars": 5,
+    "avg_stars": 2.5,
+    "triple_rate": 50.0
+   },
+   "cw180": {
+    "th": 19,
+    "triples": 14,
+    "hits": 18,
+    "stars": 50,
+    "avg_stars": 2.778,
+    "triple_rate": 77.8
+   },
+   "cwl180": {
+    "th": 19,
+    "triples": 2,
+    "hits": 7,
+    "stars": 16,
+    "avg_stars": 2.286,
+    "triple_rate": 28.6
+   }
+  },
+  "#G0L9Q8P0P": {
+   "name": "ApexFlex",
+   "clan": "Wurstbude",
+   "th": 19,
+   "cw30": {
+    "th": 19,
+    "triples": 5,
+    "hits": 10,
+    "stars": 25,
+    "avg_stars": 2.5,
+    "triple_rate": 50.0
+   },
+   "cw180": {
+    "th": 19,
+    "triples": 48,
+    "hits": 67,
+    "stars": 181,
+    "avg_stars": 2.701,
+    "triple_rate": 71.6
+   },
+   "cwl60": {
+    "th": 19,
+    "triples": 14,
+    "hits": 14,
+    "stars": 42,
+    "avg_stars": 3.0,
+    "triple_rate": 100.0
+   },
+   "cwl180": {
+    "th": 19,
+    "triples": 46,
+    "hits": 48,
+    "stars": 142,
+    "avg_stars": 2.958,
+    "triple_rate": 95.8
+   }
+  },
+  "#G20RYP820": {
+   "name": "Frank",
+   "clan": "Wurstbude",
+   "th": 19,
+   "cw30": {
+    "th": 19,
+    "triples": 6,
+    "hits": 6,
+    "stars": 18,
+    "avg_stars": 3.0,
+    "triple_rate": 100.0
+   },
+   "cw180": {
+    "th": 19,
+    "triples": 73,
+    "hits": 79,
+    "stars": 230,
+    "avg_stars": 2.911,
+    "triple_rate": 92.4
+   },
+   "cwl60": {
+    "th": 19,
+    "triples": 14,
+    "hits": 14,
+    "stars": 42,
+    "avg_stars": 3.0,
+    "triple_rate": 100.0
+   },
+   "cwl180": {
+    "th": 19,
+    "triples": 43,
+    "hits": 48,
+    "stars": 139,
+    "avg_stars": 2.896,
+    "triple_rate": 89.6
+   }
+  },
+  "#G2RUYUGC": {
+   "name": "Fietz",
+   "clan": "Wurstbude",
+   "th": 19,
+   "cw30": {
+    "th": 19,
+    "triples": 6,
+    "hits": 6,
+    "stars": 18,
+    "avg_stars": 3.0,
+    "triple_rate": 100.0
+   },
+   "cw180": {
+    "th": 19,
+    "triples": 54,
+    "hits": 58,
+    "stars": 168,
+    "avg_stars": 2.897,
+    "triple_rate": 93.1
+   },
+   "cwl60": {
+    "th": 19,
+    "triples": 11,
+    "hits": 12,
+    "stars": 35,
+    "avg_stars": 2.917,
+    "triple_rate": 91.7
+   },
+   "cwl180": {
+    "th": 19,
+    "triples": 41,
+    "hits": 46,
+    "stars": 131,
+    "avg_stars": 2.848,
+    "triple_rate": 89.1
+   }
+  },
+  "#G9R980C2U": {
+   "name": "Cartman9001",
+   "clan": "Wurstbude",
+   "th": 19,
+   "cw30": {
+    "th": 19,
+    "triples": 10,
+    "hits": 10,
+    "stars": 30,
+    "avg_stars": 3.0,
+    "triple_rate": 100.0
+   },
+   "cw180": {
+    "th": 19,
+    "triples": 63,
+    "hits": 68,
+    "stars": 198,
+    "avg_stars": 2.912,
+    "triple_rate": 92.6
+   },
+   "cwl60": {
+    "th": 19,
+    "triples": 13,
+    "hits": 14,
+    "stars": 41,
+    "avg_stars": 2.929,
+    "triple_rate": 92.9
+   },
+   "cwl180": {
+    "th": 19,
+    "triples": 43,
+    "hits": 49,
+    "stars": 141,
+    "avg_stars": 2.878,
+    "triple_rate": 87.8
+   }
+  },
+  "#G9YGCC228": {
+   "name": "Frischgezapftes",
+   "clan": "Wurstbude",
+   "th": 19,
+   "cw30": {
+    "th": 19,
+    "triples": 3,
+    "hits": 8,
+    "stars": 18,
+    "avg_stars": 2.25,
+    "triple_rate": 37.5
+   },
+   "cw180": {
+    "th": 19,
+    "triples": 27,
+    "hits": 40,
+    "stars": 105,
+    "avg_stars": 2.625,
+    "triple_rate": 67.5
+   },
+   "cwl60": {
+    "th": 19,
+    "triples": 11,
+    "hits": 13,
+    "stars": 37,
+    "avg_stars": 2.846,
+    "triple_rate": 84.6
+   },
+   "cwl180": {
+    "th": 19,
+    "triples": 11,
+    "hits": 13,
+    "stars": 37,
+    "avg_stars": 2.846,
+    "triple_rate": 84.6
+   }
+  },
+  "#GC9UYCQVY": {
+   "name": "Sintai",
+   "clan": "Wursttheke",
+   "th": 17,
+   "cw30": {
+    "th": 17,
+    "triples": 8,
+    "hits": 9,
+    "stars": 26,
+    "avg_stars": 2.889,
+    "triple_rate": 88.9
+   },
+   "cw180": {
+    "th": 17,
+    "triples": 21,
+    "hits": 22,
+    "stars": 65,
+    "avg_stars": 2.955,
+    "triple_rate": 95.5
+   },
+   "cwl60": {
+    "th": 17,
+    "triples": 3,
+    "hits": 4,
+    "stars": 11,
+    "avg_stars": 2.75,
+    "triple_rate": 75.0
+   },
+   "cwl180": {
+    "th": 17,
+    "triples": 3,
+    "hits": 4,
+    "stars": 11,
+    "avg_stars": 2.75,
+    "triple_rate": 75.0
+   }
+  },
+  "#GP9R0PUQ8": {
+   "name": "domi2",
+   "clan": "Wurstbude",
+   "th": 18,
+   "cwl60": {
+    "th": 18,
+    "triples": 1,
+    "hits": 2,
+    "stars": 4,
+    "avg_stars": 2.0,
+    "triple_rate": 50.0
+   },
+   "cwl180": {
+    "th": 18,
+    "triples": 7,
+    "hits": 8,
+    "stars": 22,
+    "avg_stars": 2.75,
+    "triple_rate": 87.5
+   }
+  },
+  "#GPCQPUQ0Q": {
+   "name": "WB Teewurst₄",
+   "clan": "Wurstbude",
+   "th": 19,
+   "cw180": {
+    "th": 19,
+    "triples": 10,
+    "hits": 14,
+    "stars": 36,
+    "avg_stars": 2.571,
+    "triple_rate": 71.4
+   },
+   "cwl60": {
+    "th": 19,
+    "triples": 12,
+    "hits": 12,
+    "stars": 36,
+    "avg_stars": 3.0,
+    "triple_rate": 100.0
+   },
+   "cwl180": {
+    "th": 19,
+    "triples": 41,
+    "hits": 43,
+    "stars": 127,
+    "avg_stars": 2.953,
+    "triple_rate": 95.3
+   }
+  },
+  "#GQGQJR2RR": {
+   "name": "e-gamer 427",
+   "clan": "Wursttheke",
+   "th": 13,
+   "cw30": {
+    "th": 13,
+    "triples": 1,
+    "hits": 1,
+    "stars": 3,
+    "avg_stars": 3.0,
+    "triple_rate": 100.0
+   },
+   "cw180": {
+    "th": 13,
+    "triples": 1,
+    "hits": 1,
+    "stars": 3,
+    "avg_stars": 3.0,
+    "triple_rate": 100.0
+   }
+  },
+  "#GURVV2R9L": {
+   "name": "OmegaFlex",
+   "clan": "Wurstbude",
+   "th": 19,
+   "cw30": {
+    "th": 19,
+    "triples": 2,
+    "hits": 5,
+    "stars": 12,
+    "avg_stars": 2.4,
+    "triple_rate": 40.0
+   },
+   "cw180": {
+    "th": 19,
+    "triples": 20,
+    "hits": 42,
+    "stars": 104,
+    "avg_stars": 2.476,
+    "triple_rate": 47.6
+   },
+   "cwl60": {
+    "th": 19,
+    "triples": 14,
+    "hits": 14,
+    "stars": 42,
+    "avg_stars": 3.0,
+    "triple_rate": 100.0
+   },
+   "cwl180": {
+    "th": 19,
+    "triples": 39,
+    "hits": 42,
+    "stars": 123,
+    "avg_stars": 2.929,
+    "triple_rate": 92.9
+   }
+  },
+  "#GYPJPGR00": {
+   "name": "Braynar",
+   "clan": "Wurstbude",
+   "th": 19,
+   "cw30": {
+    "th": 19,
+    "triples": 8,
+    "hits": 8,
+    "stars": 24,
+    "avg_stars": 3.0,
+    "triple_rate": 100.0
+   },
+   "cw180": {
+    "th": 19,
+    "triples": 50,
+    "hits": 59,
+    "stars": 167,
+    "avg_stars": 2.831,
+    "triple_rate": 84.7
+   },
+   "cwl60": {
+    "th": 19,
+    "triples": 13,
+    "hits": 14,
+    "stars": 41,
+    "avg_stars": 2.929,
+    "triple_rate": 92.9
+   },
+   "cwl180": {
+    "th": 19,
+    "triples": 42,
+    "hits": 48,
+    "stars": 138,
+    "avg_stars": 2.875,
+    "triple_rate": 87.5
+   }
+  },
+  "#J90CCPC0": {
+   "name": "WB Lukas",
+   "clan": "Wurstbude",
+   "th": 19,
+   "cw30": {
+    "th": 19,
+    "triples": 1,
+    "hits": 5,
+    "stars": 9,
+    "avg_stars": 1.8,
+    "triple_rate": 20.0
+   },
+   "cw180": {
+    "th": 19,
+    "triples": 32,
+    "hits": 50,
+    "stars": 126,
+    "avg_stars": 2.52,
+    "triple_rate": 64.0
+   },
+   "cwl60": {
+    "th": 19,
+    "triples": 12,
+    "hits": 14,
+    "stars": 40,
+    "avg_stars": 2.857,
+    "triple_rate": 85.7
+   },
+   "cwl180": {
+    "th": 19,
+    "triples": 33,
+    "hits": 41,
+    "stars": 115,
+    "avg_stars": 2.805,
+    "triple_rate": 80.5
+   }
+  },
+  "#L02YUGQL": {
+   "name": "ッмεмεптσ мσяıッ",
+   "clan": "Wurstbude",
+   "th": 19,
+   "cw30": {
+    "th": 19,
+    "triples": 4,
+    "hits": 7,
+    "stars": 18,
+    "avg_stars": 2.571,
+    "triple_rate": 57.1
+   },
+   "cw180": {
+    "th": 19,
+    "triples": 55,
+    "hits": 73,
+    "stars": 200,
+    "avg_stars": 2.74,
+    "triple_rate": 75.3
+   },
+   "cwl60": {
+    "th": 19,
+    "triples": 10,
+    "hits": 12,
+    "stars": 33,
+    "avg_stars": 2.75,
+    "triple_rate": 83.3
+   },
+   "cwl180": {
+    "th": 19,
+    "triples": 34,
+    "hits": 44,
+    "stars": 120,
+    "avg_stars": 2.727,
+    "triple_rate": 77.3
+   }
+  },
+  "#LC8890LGJ": {
+   "name": "「BTR」TIMOLINO",
+   "clan": "Wursttheke",
+   "th": 16,
+   "cw30": {
+    "th": 16,
+    "triples": 3,
+    "hits": 3,
+    "stars": 9,
+    "avg_stars": 3.0,
+    "triple_rate": 100.0
+   },
+   "cw180": {
+    "th": 16,
+    "triples": 14,
+    "hits": 18,
+    "stars": 47,
+    "avg_stars": 2.611,
+    "triple_rate": 77.8
+   },
+   "cwl60": {
+    "th": 16,
+    "triples": 1,
+    "hits": 1,
+    "stars": 3,
+    "avg_stars": 3.0,
+    "triple_rate": 100.0
+   },
+   "cwl180": {
+    "th": 16,
+    "triples": 11,
+    "hits": 12,
+    "stars": 34,
+    "avg_stars": 2.833,
+    "triple_rate": 91.7
+   }
+  },
+  "#LC98P20YY": {
+   "name": "WB™ NikolaySa❄️",
+   "clan": "Wurstbude",
+   "th": 18,
+   "cw30": {
+    "th": 18,
+    "triples": 0,
+    "hits": 3,
+    "stars": 5,
+    "avg_stars": 1.667,
+    "triple_rate": 0.0
+   },
+   "cw180": {
+    "th": 18,
+    "triples": 30,
+    "hits": 50,
+    "stars": 124,
+    "avg_stars": 2.48,
+    "triple_rate": 60.0
+   },
+   "cwl60": {
+    "th": 18,
+    "triples": 6,
+    "hits": 11,
+    "stars": 28,
+    "avg_stars": 2.545,
+    "triple_rate": 54.5
+   },
+   "cwl180": {
+    "th": 18,
+    "triples": 17,
+    "hits": 24,
+    "stars": 65,
+    "avg_stars": 2.708,
+    "triple_rate": 70.8
+   }
+  },
+  "#LGR90YRVQ": {
+   "name": "Dragoran",
+   "clan": "Wurstbude",
+   "th": 18,
+   "cw30": {
+    "th": 18,
+    "triples": 4,
+    "hits": 5,
+    "stars": 13,
+    "avg_stars": 2.6,
+    "triple_rate": 80.0
+   },
+   "cw180": {
+    "th": 18,
+    "triples": 101,
+    "hits": 104,
+    "stars": 306,
+    "avg_stars": 2.942,
+    "triple_rate": 97.1
+   },
+   "cwl60": {
+    "th": 18,
+    "triples": 14,
+    "hits": 14,
+    "stars": 42,
+    "avg_stars": 3.0,
+    "triple_rate": 100.0
+   },
+   "cwl180": {
+    "th": 18,
+    "triples": 14,
+    "hits": 14,
+    "stars": 42,
+    "avg_stars": 3.0,
+    "triple_rate": 100.0
+   }
+  },
+  "#LGUPGVJ8R": {
+   "name": "Neymar Jr 10",
+   "clan": "Wursttheke",
+   "th": 18,
+   "cw30": {
+    "th": 18,
+    "triples": 3,
+    "hits": 4,
+    "stars": 11,
+    "avg_stars": 2.75,
+    "triple_rate": 75.0
+   },
+   "cw180": {
+    "th": 18,
+    "triples": 24,
+    "hits": 26,
+    "stars": 76,
+    "avg_stars": 2.923,
+    "triple_rate": 92.3
+   },
+   "cwl60": {
+    "th": 18,
+    "triples": 7,
+    "hits": 7,
+    "stars": 21,
+    "avg_stars": 3.0,
+    "triple_rate": 100.0
+   },
+   "cwl180": {
+    "th": 18,
+    "triples": 17,
+    "hits": 17,
+    "stars": 51,
+    "avg_stars": 3.0,
+    "triple_rate": 100.0
+   }
+  },
+  "#LL2UYUVCV": {
+   "name": "WB Hähnchendino",
+   "clan": "Wurstbude",
+   "th": 19,
+   "cw30": {
+    "th": 19,
+    "triples": 9,
+    "hits": 10,
+    "stars": 29,
+    "avg_stars": 2.9,
+    "triple_rate": 90.0
+   },
+   "cw180": {
+    "th": 19,
+    "triples": 58,
+    "hits": 74,
+    "stars": 204,
+    "avg_stars": 2.757,
+    "triple_rate": 78.4
+   },
+   "cwl60": {
+    "th": 19,
+    "triples": 14,
+    "hits": 14,
+    "stars": 42,
+    "avg_stars": 3.0,
+    "triple_rate": 100.0
+   },
+   "cwl180": {
+    "th": 19,
+    "triples": 42,
+    "hits": 48,
+    "stars": 138,
+    "avg_stars": 2.875,
+    "triple_rate": 87.5
+   }
+  },
+  "#LUL9YGJGP": {
+   "name": "『VØID』",
+   "clan": "Wurstbude",
+   "th": 19,
+   "cw30": {
+    "th": 19,
+    "triples": 1,
+    "hits": 4,
+    "stars": 7,
+    "avg_stars": 1.75,
+    "triple_rate": 25.0
+   },
+   "cw180": {
+    "th": 19,
+    "triples": 32,
+    "hits": 37,
+    "stars": 104,
+    "avg_stars": 2.811,
+    "triple_rate": 86.5
+   },
+   "cwl60": {
+    "th": 19,
+    "triples": 13,
+    "hits": 14,
+    "stars": 41,
+    "avg_stars": 2.929,
+    "triple_rate": 92.9
+   },
+   "cwl180": {
+    "th": 19,
+    "triples": 32,
+    "hits": 35,
+    "stars": 101,
+    "avg_stars": 2.886,
+    "triple_rate": 91.4
+   }
+  },
+  "#PG0JJ9U": {
+   "name": "Alex",
+   "clan": "Wurstbude",
+   "th": 18,
+   "cw30": {
+    "th": 18,
+    "triples": 0,
+    "hits": 1,
+    "stars": 2,
+    "avg_stars": 2.0,
+    "triple_rate": 0.0
+   },
+   "cw180": {
+    "th": 18,
+    "triples": 17,
+    "hits": 28,
+    "stars": 68,
+    "avg_stars": 2.429,
+    "triple_rate": 60.7
+   },
+   "cwl60": {
+    "th": 18,
+    "triples": 7,
+    "hits": 11,
+    "stars": 29,
+    "avg_stars": 2.636,
+    "triple_rate": 63.6
+   },
+   "cwl180": {
+    "th": 18,
+    "triples": 34,
+    "hits": 44,
+    "stars": 121,
+    "avg_stars": 2.75,
+    "triple_rate": 77.3
+   }
+  },
+  "#PJL2V290P": {
+   "name": "Nasenelf",
+   "clan": "Wurstbude",
+   "th": 19,
+   "cw30": {
+    "th": 19,
+    "triples": 7,
+    "hits": 10,
+    "stars": 26,
+    "avg_stars": 2.6,
+    "triple_rate": 70.0
+   },
+   "cw180": {
+    "th": 19,
+    "triples": 49,
+    "hits": 55,
+    "stars": 158,
+    "avg_stars": 2.873,
+    "triple_rate": 89.1
+   },
+   "cwl60": {
+    "th": 19,
+    "triples": 13,
+    "hits": 14,
+    "stars": 41,
+    "avg_stars": 2.929,
+    "triple_rate": 92.9
+   },
+   "cwl180": {
+    "th": 19,
+    "triples": 30,
+    "hits": 35,
+    "stars": 99,
+    "avg_stars": 2.829,
+    "triple_rate": 85.7
+   }
+  },
+  "#PRUPJL0Q9": {
+   "name": "⛥ɱσʂƚɯαɳƚȥ⛥ッ",
+   "clan": "Würstchenbude",
+   "th": 19,
+   "cw30": {
+    "th": 19,
+    "triples": 5,
+    "hits": 8,
+    "stars": 21,
+    "avg_stars": 2.625,
+    "triple_rate": 62.5
+   },
+   "cw180": {
+    "th": 19,
+    "triples": 56,
+    "hits": 84,
+    "stars": 221,
+    "avg_stars": 2.631,
+    "triple_rate": 66.7
+   },
+   "cwl60": {
+    "th": 19,
+    "triples": 13,
+    "hits": 14,
+    "stars": 41,
+    "avg_stars": 2.929,
+    "triple_rate": 92.9
+   },
+   "cwl180": {
+    "th": 19,
+    "triples": 22,
+    "hits": 31,
+    "stars": 82,
+    "avg_stars": 2.645,
+    "triple_rate": 71.0
+   }
+  },
+  "#PVPJ0VUC": {
+   "name": "WB Freddy",
+   "clan": "Wurstbude",
+   "th": 19,
+   "cw30": {
+    "th": 19,
+    "triples": 1,
+    "hits": 2,
+    "stars": 4,
+    "avg_stars": 2.0,
+    "triple_rate": 50.0
+   },
+   "cw180": {
+    "th": 19,
+    "triples": 27,
+    "hits": 43,
+    "stars": 110,
+    "avg_stars": 2.558,
+    "triple_rate": 62.8
+   },
+   "cwl60": {
+    "th": 19,
+    "triples": 14,
+    "hits": 14,
+    "stars": 42,
+    "avg_stars": 3.0,
+    "triple_rate": 100.0
+   },
+   "cwl180": {
+    "th": 19,
+    "triples": 39,
+    "hits": 48,
+    "stars": 134,
+    "avg_stars": 2.792,
+    "triple_rate": 81.2
+   }
+  },
+  "#Q9G2JL0U": {
+   "name": "Flashbang",
+   "clan": "Wurstbude",
+   "th": 19,
+   "cw30": {
+    "th": 19,
+    "triples": 7,
+    "hits": 8,
+    "stars": 23,
+    "avg_stars": 2.875,
+    "triple_rate": 87.5
+   },
+   "cw180": {
+    "th": 19,
+    "triples": 33,
+    "hits": 39,
+    "stars": 111,
+    "avg_stars": 2.846,
+    "triple_rate": 84.6
+   },
+   "cwl60": {
+    "th": 19,
+    "triples": 14,
+    "hits": 14,
+    "stars": 42,
+    "avg_stars": 3.0,
+    "triple_rate": 100.0
+   },
+   "cwl180": {
+    "th": 19,
+    "triples": 42,
+    "hits": 45,
+    "stars": 131,
+    "avg_stars": 2.911,
+    "triple_rate": 93.3
+   }
+  },
+  "#QGJ0J8CYR": {
+   "name": "G!B Rivella",
+   "clan": "Wursttheke",
+   "th": 18,
+   "cw30": {
+    "th": 18,
+    "triples": 3,
+    "hits": 3,
+    "stars": 9,
+    "avg_stars": 3.0,
+    "triple_rate": 100.0
+   },
+   "cw180": {
+    "th": 18,
+    "triples": 13,
+    "hits": 15,
+    "stars": 43,
+    "avg_stars": 2.867,
+    "triple_rate": 86.7
+   },
+   "cwl60": {
+    "th": 18,
+    "triples": 9,
+    "hits": 9,
+    "stars": 27,
+    "avg_stars": 3.0,
+    "triple_rate": 100.0
+   },
+   "cwl180": {
+    "th": 18,
+    "triples": 17,
+    "hits": 17,
+    "stars": 51,
+    "avg_stars": 3.0,
+    "triple_rate": 100.0
+   }
+  },
+  "#QJV8UUGRJ": {
+   "name": "aaadd",
+   "clan": "Wursttheke",
+   "th": 19,
+   "cw30": {
+    "th": 19,
+    "triples": 5,
+    "hits": 6,
+    "stars": 17,
+    "avg_stars": 2.833,
+    "triple_rate": 83.3
+   },
+   "cw180": {
+    "th": 19,
+    "triples": 28,
+    "hits": 37,
+    "stars": 102,
+    "avg_stars": 2.757,
+    "triple_rate": 75.7
+   },
+   "cwl60": {
+    "th": 19,
+    "triples": 10,
+    "hits": 14,
+    "stars": 38,
+    "avg_stars": 2.714,
+    "triple_rate": 71.4
+   },
+   "cwl180": {
+    "th": 19,
+    "triples": 22,
+    "hits": 27,
+    "stars": 76,
+    "avg_stars": 2.815,
+    "triple_rate": 81.5
+   }
+  },
+  "#QL2LQCGR": {
+   "name": "Daniel",
+   "clan": "Wurstbude",
+   "th": 19,
+   "cw30": {
+    "th": 19,
+    "triples": 6,
+    "hits": 7,
+    "stars": 20,
+    "avg_stars": 2.857,
+    "triple_rate": 85.7
+   },
+   "cw180": {
+    "th": 19,
+    "triples": 44,
+    "hits": 53,
+    "stars": 148,
+    "avg_stars": 2.792,
+    "triple_rate": 83.0
+   },
+   "cwl60": {
+    "th": 19,
+    "triples": 3,
+    "hits": 4,
+    "stars": 10,
+    "avg_stars": 2.5,
+    "triple_rate": 75.0
+   },
+   "cwl180": {
+    "th": 19,
+    "triples": 6,
+    "hits": 7,
+    "stars": 19,
+    "avg_stars": 2.714,
+    "triple_rate": 85.7
+   }
+  },
+  "#QRUU9QGU": {
+   "name": "Philipp",
+   "clan": "Wurstbude",
+   "th": 19,
+   "cw30": {
+    "th": 19,
+    "triples": 2,
+    "hits": 2,
+    "stars": 6,
+    "avg_stars": 3.0,
+    "triple_rate": 100.0
+   },
+   "cw180": {
+    "th": 19,
+    "triples": 38,
+    "hits": 38,
+    "stars": 114,
+    "avg_stars": 3.0,
+    "triple_rate": 100.0
+   },
+   "cwl180": {
+    "th": 19,
+    "triples": 17,
+    "hits": 25,
+    "stars": 66,
+    "avg_stars": 2.64,
+    "triple_rate": 68.0
+   }
+  },
+  "#QVYJ9C0U9": {
+   "name": "big boi ben",
+   "clan": "Wursttheke",
+   "th": 18,
+   "cw30": {
+    "th": 18,
+    "triples": 1,
+    "hits": 1,
+    "stars": 3,
+    "avg_stars": 3.0,
+    "triple_rate": 100.0
+   },
+   "cw180": {
+    "th": 18,
+    "triples": 21,
+    "hits": 31,
+    "stars": 80,
+    "avg_stars": 2.581,
+    "triple_rate": 67.7
+   },
+   "cwl60": {
+    "th": 18,
+    "triples": 10,
+    "hits": 11,
+    "stars": 32,
+    "avg_stars": 2.909,
+    "triple_rate": 90.9
+   },
+   "cwl180": {
+    "th": 18,
+    "triples": 24,
+    "hits": 28,
+    "stars": 79,
+    "avg_stars": 2.821,
+    "triple_rate": 85.7
+   }
+  },
+  "#R2Q8UU9U": {
+   "name": "WB Timm",
+   "clan": "Wurstbude",
+   "th": 19,
+   "cw30": {
+    "th": 19,
+    "triples": 3,
+    "hits": 6,
+    "stars": 15,
+    "avg_stars": 2.5,
+    "triple_rate": 50.0
+   },
+   "cw180": {
+    "th": 19,
+    "triples": 45,
+    "hits": 61,
+    "stars": 167,
+    "avg_stars": 2.738,
+    "triple_rate": 73.8
+   },
+   "cwl60": {
+    "th": 19,
+    "triples": 9,
+    "hits": 13,
+    "stars": 35,
+    "avg_stars": 2.692,
+    "triple_rate": 69.2
+   },
+   "cwl180": {
+    "th": 19,
+    "triples": 38,
+    "hits": 47,
+    "stars": 131,
+    "avg_stars": 2.787,
+    "triple_rate": 80.9
+   }
+  },
+  "#RJPGC2JV": {
+   "name": "メĐagobert Đuckジ",
+   "clan": "Wurstbude",
+   "th": 19,
+   "cw30": {
+    "th": 19,
+    "triples": 5,
+    "hits": 5,
+    "stars": 15,
+    "avg_stars": 3.0,
+    "triple_rate": 100.0
+   },
+   "cw180": {
+    "th": 19,
+    "triples": 11,
+    "hits": 11,
+    "stars": 33,
+    "avg_stars": 3.0,
+    "triple_rate": 100.0
+   },
+   "cwl60": {
+    "th": 19,
+    "triples": 6,
+    "hits": 10,
+    "stars": 25,
+    "avg_stars": 2.5,
+    "triple_rate": 60.0
+   },
+   "cwl180": {
+    "th": 19,
+    "triples": 30,
+    "hits": 40,
+    "stars": 108,
+    "avg_stars": 2.7,
+    "triple_rate": 75.0
+   }
+  },
+  "#UR8RL09": {
+   "name": "三 ★★★ 三",
+   "clan": "Wurstbude",
+   "th": 18,
+   "cw30": {
+    "th": 18,
+    "triples": 1,
+    "hits": 2,
+    "stars": 4,
+    "avg_stars": 2.0,
+    "triple_rate": 50.0
+   },
+   "cw180": {
+    "th": 18,
+    "triples": 22,
+    "hits": 25,
+    "stars": 71,
+    "avg_stars": 2.84,
+    "triple_rate": 88.0
+   },
+   "cwl60": {
+    "th": 18,
+    "triples": 12,
+    "hits": 14,
+    "stars": 40,
+    "avg_stars": 2.857,
+    "triple_rate": 85.7
+   },
+   "cwl180": {
+    "th": 18,
+    "triples": 39,
+    "hits": 46,
+    "stars": 131,
+    "avg_stars": 2.848,
+    "triple_rate": 84.8
+   }
+  },
+  "#UUV2R80": {
+   "name": "Zerbrösler",
+   "clan": "Wurstbude",
+   "th": 19,
+   "cw30": {
+    "th": 19,
+    "triples": 1,
+    "hits": 8,
+    "stars": 17,
+    "avg_stars": 2.125,
+    "triple_rate": 12.5
+   },
+   "cw180": {
+    "th": 19,
+    "triples": 29,
+    "hits": 57,
+    "stars": 142,
+    "avg_stars": 2.491,
+    "triple_rate": 50.9
+   },
+   "cwl60": {
+    "th": 19,
+    "triples": 11,
+    "hits": 12,
+    "stars": 35,
+    "avg_stars": 2.917,
+    "triple_rate": 91.7
+   },
+   "cwl180": {
+    "th": 19,
+    "triples": 35,
+    "hits": 46,
+    "stars": 125,
+    "avg_stars": 2.717,
+    "triple_rate": 76.1
+   }
+  },
+  "#V9GQYUCJ": {
+   "name": "Ｇｙｕｕｋｉッ",
+   "clan": "Wurstbude",
+   "th": 19,
+   "cw30": {
+    "th": 19,
+    "triples": 10,
+    "hits": 12,
+    "stars": 34,
+    "avg_stars": 2.833,
+    "triple_rate": 83.3
+   },
+   "cw180": {
+    "th": 19,
+    "triples": 80,
+    "hits": 100,
+    "stars": 276,
+    "avg_stars": 2.76,
+    "triple_rate": 80.0
+   },
+   "cwl60": {
+    "th": 19,
+    "triples": 14,
+    "hits": 14,
+    "stars": 42,
+    "avg_stars": 3.0,
+    "triple_rate": 100.0
+   },
+   "cwl180": {
+    "th": 19,
+    "triples": 42,
+    "hits": 46,
+    "stars": 133,
+    "avg_stars": 2.891,
+    "triple_rate": 91.3
+   }
+  },
+  "#Y9UQCC9VQ": {
+   "name": "GetOnMy23kGGbag",
+   "clan": "Wurstbude",
+   "th": 19,
+   "cw30": {
+    "th": 19,
+    "triples": 6,
+    "hits": 8,
+    "stars": 22,
+    "avg_stars": 2.75,
+    "triple_rate": 75.0
+   },
+   "cw180": {
+    "th": 19,
+    "triples": 45,
+    "hits": 63,
+    "stars": 169,
+    "avg_stars": 2.683,
+    "triple_rate": 71.4
+   },
+   "cwl60": {
+    "th": 19,
+    "triples": 10,
+    "hits": 11,
+    "stars": 31,
+    "avg_stars": 2.818,
+    "triple_rate": 90.9
+   },
+   "cwl180": {
+    "th": 19,
+    "triples": 27,
+    "hits": 39,
+    "stars": 102,
+    "avg_stars": 2.615,
+    "triple_rate": 69.2
+   }
+  },
+  "#YC0VCJQPQ": {
+   "name": "WB Fabse",
+   "clan": "Würstchenbude",
+   "th": 18,
+   "cw180": {
+    "th": 18,
+    "triples": 1,
+    "hits": 2,
+    "stars": 5,
+    "avg_stars": 2.5,
+    "triple_rate": 50.0
+   },
+   "cwl60": {
+    "th": 18,
+    "triples": 8,
+    "hits": 11,
+    "stars": 30,
+    "avg_stars": 2.727,
+    "triple_rate": 72.7
+   },
+   "cwl180": {
+    "th": 18,
+    "triples": 16,
+    "hits": 24,
+    "stars": 63,
+    "avg_stars": 2.625,
+    "triple_rate": 66.7
+   }
+  },
+  "#YRRCCQLR8": {
+   "name": "KillerBunny",
+   "clan": "Wurstbude",
+   "th": 18,
+   "cw30": {
+    "th": 18,
+    "triples": 4,
+    "hits": 4,
+    "stars": 12,
+    "avg_stars": 3.0,
+    "triple_rate": 100.0
+   },
+   "cw180": {
+    "th": 18,
+    "triples": 48,
+    "hits": 54,
+    "stars": 155,
+    "avg_stars": 2.87,
+    "triple_rate": 88.9
+   },
+   "cwl60": {
+    "th": 18,
+    "triples": 13,
+    "hits": 14,
+    "stars": 40,
+    "avg_stars": 2.857,
+    "triple_rate": 92.9
+   },
+   "cwl180": {
+    "th": 18,
+    "triples": 40,
+    "hits": 46,
+    "stars": 130,
+    "avg_stars": 2.826,
+    "triple_rate": 87.0
+   }
+  },
+  "#YVUUVCVG8": {
+   "name": "Joker",
+   "clan": "Wursttheke",
+   "th": 19,
+   "cw30": {
+    "th": 19,
+    "triples": 5,
+    "hits": 8,
+    "stars": 21,
+    "avg_stars": 2.625,
+    "triple_rate": 62.5
+   },
+   "cw180": {
+    "th": 19,
+    "triples": 56,
+    "hits": 75,
+    "stars": 200,
+    "avg_stars": 2.667,
+    "triple_rate": 74.7
+   },
+   "cwl60": {
+    "th": 19,
+    "triples": 12,
+    "hits": 13,
+    "stars": 38,
+    "avg_stars": 2.923,
+    "triple_rate": 92.3
+   },
+   "cwl180": {
+    "th": 19,
+    "triples": 31,
+    "hits": 44,
+    "stars": 118,
+    "avg_stars": 2.682,
+    "triple_rate": 70.5
+   }
+  }
+ }
+}
