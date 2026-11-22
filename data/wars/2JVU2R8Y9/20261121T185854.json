@@ -527,11 +527,22 @@
    "p": 74,
    "s": 2,
    "side": "clan"
+  },
+  {
+   "a": "#80Q9UP2QP",
+   "ath": 19,
+   "d": "#UP2VUGU2",
+   "dth": 19,
+   "dur": 153,
+   "o": 49,
+   "p": 83,
+   "s": 1,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 65.6,
+  "destruction": 68.92,
   "members": [
    {
     "name": "R A B B I",
@@ -685,7 +696,7 @@
    }
   ],
   "name": "HolzFrucht",
-  "stars": 46,
+  "stars": 47,
   "tag": "#2JVU2R8Y9"
  },
  "end": "20261123T175854.000Z",

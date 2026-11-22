@@ -230,11 +230,22 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#GRYRPV2Y8",
+   "ath": 19,
+   "d": "#QV8QYGYYG",
+   "dth": 19,
+   "dur": 180,
+   "o": 22,
+   "p": 96,
+   "s": 2,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 41.844444,
+  "destruction": 43.97778,
   "members": [
    {
     "name": "EG⚡️KING",
@@ -508,7 +519,7 @@
    }
   ],
   "name": "Get Cooked!",
-  "stars": 55,
+  "stars": 57,
   "tag": "#2J922VYQ0"
  },
  "end": "20261123T192031.000Z",
