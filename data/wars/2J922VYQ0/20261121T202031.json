@@ -725,11 +725,77 @@
    "p": 80,
    "s": 1,
    "side": "gegner"
+  },
+  {
+   "a": "#QG2L0JC8",
+   "ath": 19,
+   "d": "#YQQLCC9L",
+   "dth": 19,
+   "dur": 162,
+   "o": 67,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#QG2L0JC8",
+   "ath": 19,
+   "d": "#Q0GQQQPJR",
+   "dth": 19,
+   "dur": 121,
+   "o": 68,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#L2C9GGJPJ",
+   "ath": 19,
+   "d": "#Q8UUP8RJ",
+   "dth": 19,
+   "dur": 144,
+   "o": 69,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#L2C9GGJPJ",
+   "ath": 19,
+   "d": "#LYJ2LYJJL",
+   "dth": 18,
+   "dur": 164,
+   "o": 70,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#PRJYRLJQR",
+   "ath": 19,
+   "d": "#U2JPGRL",
+   "dth": 19,
+   "dur": 138,
+   "o": 71,
+   "p": 79,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#PRJYRLJQR",
+   "ath": 19,
+   "d": "#9JP2LJR9",
+   "dth": 19,
+   "dur": 162,
+   "o": 72,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 70.22222,
+  "destruction": 74.755554,
   "members": [
    {
     "name": "EG⚡️KING",
@@ -1003,12 +1069,12 @@
    }
   ],
   "name": "Get Cooked!",
-  "stars": 91,
+  "stars": 99,
   "tag": "#2J922VYQ0"
  },
  "end": "20261123T192031.000Z",
  "opponent": {
-  "destruction": 50.177776,
+  "destruction": 54.155556,
   "members": [
    {
     "name": "Hồng Trung",
@@ -1282,7 +1348,7 @@
    }
   ],
   "name": "việt nam no1",
-  "stars": 64,
+  "stars": 68,
   "tag": "#2J980GJPC"
  },
  "start": "20261122T192031.000Z",

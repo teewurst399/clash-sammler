@@ -142,11 +142,154 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#GUVJ2JV0V",
+   "ath": 19,
+   "d": "#82CLLQJVL",
+   "dth": 19,
+   "dur": 130,
+   "o": 14,
+   "p": 74,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#GUVJ2JV0V",
+   "ath": 19,
+   "d": "#LU2YVQ8P0",
+   "dth": 19,
+   "dur": 144,
+   "o": 15,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#82CLLQJVL",
+   "ath": 19,
+   "d": "#8YVPGPYUC",
+   "dth": 19,
+   "dur": 131,
+   "o": 16,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#2JRPCRRP0",
+   "ath": 19,
+   "d": "#8QU98PCRG",
+   "dth": 19,
+   "dur": 154,
+   "o": 17,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#2JRPCRRP0",
+   "ath": 19,
+   "d": "#28220L22C",
+   "dth": 19,
+   "dur": 115,
+   "o": 18,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#G002092YC",
+   "ath": 19,
+   "d": "#28JY0L2P2",
+   "dth": 19,
+   "dur": 130,
+   "o": 19,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#G002092YC",
+   "ath": 19,
+   "d": "#UUV9LLJ9",
+   "dth": 19,
+   "dur": 130,
+   "o": 20,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#YL8JP29Q",
+   "ath": 18,
+   "d": "#8YYC90CL",
+   "dth": 19,
+   "dur": 100,
+   "o": 21,
+   "p": 85,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#LJ0RU2QC9",
+   "ath": 19,
+   "d": "#GLVU89UP",
+   "dth": 19,
+   "dur": 129,
+   "o": 22,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#YL8JP29Q",
+   "ath": 18,
+   "d": "#LVLRC02UY",
+   "dth": 19,
+   "dur": 97,
+   "o": 23,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#LJ0RU2QC9",
+   "ath": 19,
+   "d": "#PRPQR99R",
+   "dth": 19,
+   "dur": 171,
+   "o": 24,
+   "p": 89,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#9L2YCR80G",
+   "ath": 19,
+   "d": "#QYQYC09RJ",
+   "dth": 19,
+   "dur": 103,
+   "o": 25,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#9L2YCR80G",
+   "ath": 19,
+   "d": "#PRPQR99R",
+   "dth": 19,
+   "dur": 145,
+   "o": 26,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 14.955556,
+  "destruction": 15.244445,
   "members": [
    {
     "name": "Saheb",
@@ -420,12 +563,12 @@
    }
   ],
   "name": "Secondzone",
-  "stars": 19,
+  "stars": 20,
   "tag": "#2QQPYRRCU"
  },
  "end": "20261123T223932.000Z",
  "opponent": {
-  "destruction": 12.2,
+  "destruction": 30.777779,
   "members": [
    {
     "name": "ミ★QuốcĐịɴн★彡",
@@ -699,7 +842,7 @@
    }
   ],
   "name": "VIỆT NAM TITAN❤",
-  "stars": 15,
+  "stars": 41,
   "tag": "#2J9UPVVLV"
  },
  "start": "20261122T223932.000Z",

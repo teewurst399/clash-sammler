@@ -813,11 +813,44 @@
    "p": 9,
    "s": 1,
    "side": "gegner"
+  },
+  {
+   "a": "#2RLYVYVQQ",
+   "ath": 19,
+   "d": "#PJ8YGPLQ8",
+   "dth": 17,
+   "dur": 42,
+   "o": 75,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#V9JLRYU",
+   "ath": 18,
+   "d": "#20CVJQCG",
+   "dth": 19,
+   "dur": 162,
+   "o": 76,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#2RLYVYVQQ",
+   "ath": 19,
+   "d": "#9Q89JJ0UV",
+   "dth": 18,
+   "dur": 95,
+   "o": 77,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 46.975,
+  "destruction": 49.475,
   "members": [
    {
     "name": "Sinan |",
@@ -1061,7 +1094,7 @@
    }
   ],
   "name": "#Black Stone# 2",
-  "stars": 53,
+  "stars": 56,
   "tag": "#282PGVRRJ"
  },
  "end": "20261123T181154.000Z",

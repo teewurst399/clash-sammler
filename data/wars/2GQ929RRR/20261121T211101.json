@@ -736,11 +736,88 @@
    "p": 95,
    "s": 2,
    "side": "clan"
+  },
+  {
+   "a": "#GQJRVV2GR",
+   "ath": 19,
+   "d": "#292LYULJ8",
+   "dth": 18,
+   "dur": 147,
+   "o": 68,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#9C990JRG",
+   "ath": 19,
+   "d": "#8RPRURGQ2",
+   "dth": 19,
+   "dur": 91,
+   "o": 69,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#9C990JRG",
+   "ath": 19,
+   "d": "#YP8YPVPUV",
+   "dth": 19,
+   "dur": 110,
+   "o": 70,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#JLPCQVQC",
+   "ath": 19,
+   "d": "#YGL0V8QU",
+   "dth": 19,
+   "dur": 114,
+   "o": 71,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#JLPCQVQC",
+   "ath": 19,
+   "d": "#RUVCJU9R",
+   "dth": 19,
+   "dur": 108,
+   "o": 72,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#LJCY0QV2C",
+   "ath": 18,
+   "d": "#JLPCQVQC",
+   "dth": 19,
+   "dur": 180,
+   "o": 73,
+   "p": 97,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#LJCY0QV2C",
+   "ath": 18,
+   "d": "#YQL8UJQP0",
+   "dth": 19,
+   "dur": 113,
+   "o": 74,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 74.933334,
+  "destruction": 83.977776,
   "members": [
    {
     "name": "Agent Hulk",
@@ -1014,12 +1091,12 @@
    }
   ],
   "name": "FruchtLabor II",
-  "stars": 96,
+  "stars": 109,
   "tag": "#2GQ929RRR"
  },
  "end": "20261123T201101.000Z",
  "opponent": {
-  "destruction": 52.02222,
+  "destruction": 56.4,
   "members": [
    {
     "name": "£°ºROUEº°¥",
@@ -1293,7 +1370,7 @@
    }
   ],
   "name": "PREDATOR LIGUE",
-  "stars": 66,
+  "stars": 71,
   "tag": "#2LL9UY9LQ"
  },
  "start": "20261122T201101.000Z",

@@ -835,11 +835,121 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#P0P8CGGJ",
+   "ath": 19,
+   "d": "#2P8U2JPVC",
+   "dth": 19,
+   "dur": 142,
+   "o": 77,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#P0P8CGGJ",
+   "ath": 19,
+   "d": "#QUQ9LGVC",
+   "dth": 19,
+   "dur": 103,
+   "o": 78,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#R8R2J8QL",
+   "ath": 19,
+   "d": "#GP9RYGVRR",
+   "dth": 19,
+   "dur": 175,
+   "o": 79,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#2L98CQCJR",
+   "ath": 19,
+   "d": "#YJGVVRGYP",
+   "dth": 19,
+   "dur": 154,
+   "o": 80,
+   "p": 90,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#92LR0GGQ9",
+   "ath": 19,
+   "d": "#29PQRJRVR",
+   "dth": 19,
+   "dur": 180,
+   "o": 81,
+   "p": 87,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#92LR0GGQ9",
+   "ath": 19,
+   "d": "#2GQ0QJ9GJ",
+   "dth": 19,
+   "dur": 131,
+   "o": 82,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#JGLRV22U",
+   "ath": 19,
+   "d": "#2Y9YU0CQR",
+   "dth": 19,
+   "dur": 146,
+   "o": 83,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#VVVR2QQG",
+   "ath": 19,
+   "d": "#9229JGPG2",
+   "dth": 19,
+   "dur": 180,
+   "o": 84,
+   "p": 90,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#R8R2J8QL",
+   "ath": 19,
+   "d": "#YLGLU8GG",
+   "dth": 19,
+   "dur": 156,
+   "o": 85,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#VVVR2QQG",
+   "ath": 19,
+   "d": "#9Q0QLV9Q9",
+   "dth": 19,
+   "dur": 136,
+   "o": 86,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 78.82222,
+  "destruction": 79.755554,
   "members": [
    {
     "name": "Chiko",
@@ -1113,12 +1223,12 @@
    }
   ],
   "name": "GermanGladiator",
-  "stars": 104,
+  "stars": 106,
   "tag": "#2Y2L0J20V"
  },
  "end": "20261123T184031.000Z",
  "opponent": {
-  "destruction": 59.177776,
+  "destruction": 70.08889,
   "members": [
    {
     "name": "The Recktifier",
@@ -1392,7 +1502,7 @@
    }
   ],
   "name": "300 club",
-  "stars": 76,
+  "stars": 92,
   "tag": "#QY9RQ2G2"
  },
  "start": "20261122T184031.000Z",

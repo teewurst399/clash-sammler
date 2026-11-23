@@ -1011,11 +1011,44 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#982GLQ90",
+   "ath": 19,
+   "d": "#PQQY80RLC",
+   "dth": 19,
+   "dur": 176,
+   "o": 93,
+   "p": 96,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#982GLQ90",
+   "ath": 19,
+   "d": "#P2UGGUU9L",
+   "dth": 19,
+   "dur": 165,
+   "o": 94,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#28PL0QLYL",
+   "ath": 19,
+   "d": "#YGCGL2JL",
+   "dth": 19,
+   "dur": 95,
+   "o": 95,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 91.76,
+  "destruction": 92.0,
   "members": [
    {
     "name": "Hunga Munga",
@@ -1319,12 +1352,12 @@
    }
   ],
   "name": "Get Buttered!",
-  "stars": 137,
+  "stars": 138,
   "tag": "#2R98Y8YUJ"
  },
  "end": "20261123T190942.000Z",
  "opponent": {
-  "destruction": 69.74,
+  "destruction": 73.66,
   "members": [
    {
     "name": "⚡️IR.H⚡️ALI⚡️",
@@ -1628,7 +1661,7 @@
    }
   ],
   "name": "iranian heroes",
-  "stars": 103,
+  "stars": 108,
   "tag": "#PGPYYQY9"
  },
  "start": "20261122T190942.000Z",

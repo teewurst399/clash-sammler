@@ -296,11 +296,154 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#L09LC9JRQ",
+   "ath": 19,
+   "d": "#G2JULVQUJ",
+   "dth": 19,
+   "dur": 178,
+   "o": 28,
+   "p": 81,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#L09LC9JRQ",
+   "ath": 19,
+   "d": "#RLCRVL0G",
+   "dth": 19,
+   "dur": 155,
+   "o": 29,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#PC0LGJRL",
+   "ath": 19,
+   "d": "#LRGULYG8G",
+   "dth": 19,
+   "dur": 146,
+   "o": 30,
+   "p": 98,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#9C8QJV8JV",
+   "ath": 19,
+   "d": "#RLLUCYC0",
+   "dth": 19,
+   "dur": 133,
+   "o": 31,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#9C8QJV8JV",
+   "ath": 19,
+   "d": "#LCGJQVCC0",
+   "dth": 19,
+   "dur": 100,
+   "o": 32,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#VVG9CVYL",
+   "ath": 19,
+   "d": "#8J928YJ8",
+   "dth": 19,
+   "dur": 115,
+   "o": 33,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#VVG9CVYL",
+   "ath": 19,
+   "d": "#809LY0PCG",
+   "dth": 19,
+   "dur": 135,
+   "o": 34,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#8JLY2JRP0",
+   "ath": 19,
+   "d": "#29U2C9CJY",
+   "dth": 19,
+   "dur": 134,
+   "o": 35,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#8JLY2JRP0",
+   "ath": 19,
+   "d": "#Q9P802089",
+   "dth": 19,
+   "dur": 137,
+   "o": 36,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#QRQUPU0LU",
+   "ath": 19,
+   "d": "#9PJ0JRVUV",
+   "dth": 19,
+   "dur": 130,
+   "o": 37,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#L8RUP2ULR",
+   "ath": 19,
+   "d": "#JG892C8",
+   "dth": 19,
+   "dur": 72,
+   "o": 38,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#L8RUP2ULR",
+   "ath": 19,
+   "d": "#229UV20VJ",
+   "dth": 19,
+   "dur": 100,
+   "o": 39,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#QRQUPU0LU",
+   "ath": 19,
+   "d": "#LCPC8GJLY",
+   "dth": 19,
+   "dur": 131,
+   "o": 40,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 22.125,
+  "destruction": 32.125,
   "members": [
    {
     "name": "LOST☆stefan",
@@ -544,12 +687,12 @@
    }
   ],
   "name": "LOST 3",
-  "stars": 25,
+  "stars": 37,
   "tag": "#2YUPV0UYC"
  },
  "end": "20261123T210615.000Z",
  "opponent": {
-  "destruction": 44.75,
+  "destruction": 66.725,
   "members": [
    {
     "name": "Warlock",
@@ -793,7 +936,7 @@
    }
   ],
   "name": "CLB Unity",
-  "stars": 52,
+  "stars": 77,
   "tag": "#2CQVJ9GCG"
  },
  "start": "20261122T210615.000Z",

@@ -725,11 +725,143 @@
    "p": 80,
    "s": 2,
    "side": "gegner"
+  },
+  {
+   "a": "#GR9G00Y28",
+   "ath": 19,
+   "d": "#9UJRVYRCV",
+   "dth": 19,
+   "dur": 94,
+   "o": 67,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#GR9G00Y28",
+   "ath": 19,
+   "d": "#8J0VUYPR9",
+   "dth": 19,
+   "dur": 105,
+   "o": 68,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#V09PQY2L",
+   "ath": 19,
+   "d": "#QP8CRC9L",
+   "dth": 19,
+   "dur": 106,
+   "o": 69,
+   "p": 74,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#V09PQY2L",
+   "ath": 19,
+   "d": "#L0JLPRJ8Y",
+   "dth": 19,
+   "dur": 128,
+   "o": 70,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#889J008P0",
+   "ath": 19,
+   "d": "#9J2JURQGJ",
+   "dth": 19,
+   "dur": 74,
+   "o": 71,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#YVCVCLGLG",
+   "ath": 19,
+   "d": "#2U9PPU2P9",
+   "dth": 19,
+   "dur": 112,
+   "o": 72,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#889J008P0",
+   "ath": 19,
+   "d": "#QQRJCVVY",
+   "dth": 19,
+   "dur": 109,
+   "o": 73,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#282JCL2RJ",
+   "ath": 19,
+   "d": "#LUCCRG0JY",
+   "dth": 19,
+   "dur": 89,
+   "o": 74,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#YVCVCLGLG",
+   "ath": 19,
+   "d": "#QP8CRC9L",
+   "dth": 19,
+   "dur": 107,
+   "o": 75,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#282JCL2RJ",
+   "ath": 19,
+   "d": "#8GRVQVVCJ",
+   "dth": 18,
+   "dur": 107,
+   "o": 76,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#GYPJLVLJL",
+   "ath": 19,
+   "d": "#QPVU09VYG",
+   "dth": 19,
+   "dur": 75,
+   "o": 77,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#GYPJLVLJL",
+   "ath": 19,
+   "d": "#QVR008R08",
+   "dth": 17,
+   "dur": 44,
+   "o": 78,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 54.85,
+  "destruction": 59.85,
   "members": [
    {
     "name": "FL • Kaiser",
@@ -973,12 +1105,12 @@
    }
   ],
   "name": "Obstgarten",
-  "stars": 65,
+  "stars": 71,
   "tag": "#2U08QGR9U"
  },
  "end": "20261123T175734.000Z",
  "opponent": {
-  "destruction": 81.55,
+  "destruction": 100.0,
   "members": [
    {
     "name": "Evade™️",
@@ -1222,7 +1354,7 @@
    }
   ],
   "name": "No Names",
-  "stars": 96,
+  "stars": 120,
   "tag": "#2JPLYRCCJ"
  },
  "start": "20261122T175734.000Z",

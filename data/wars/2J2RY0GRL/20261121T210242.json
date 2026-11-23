@@ -934,6 +934,39 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#Q0J9GPC2V",
+   "ath": 19,
+   "d": "#Y92YQ9UG0",
+   "dth": 19,
+   "dur": 146,
+   "o": 86,
+   "p": 84,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#9Q8Q0UPP9",
+   "ath": 19,
+   "d": "#QQPC2JCPP",
+   "dth": 19,
+   "dur": 144,
+   "o": 87,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#9Q8Q0UPP9",
+   "ath": 19,
+   "d": "#QU0Q2GP9R",
+   "dth": 19,
+   "dur": 156,
+   "o": 88,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -1247,7 +1280,7 @@
  },
  "end": "20261123T200242.000Z",
  "opponent": {
-  "destruction": 77.46,
+  "destruction": 83.14,
   "members": [
    {
     "name": "『HK』Tʜᴇ LEGEND",
@@ -1551,7 +1584,7 @@
    }
   ],
   "name": "الهاترك",
-  "stars": 116,
+  "stars": 123,
   "tag": "#Q8GCQ98Y"
  },
  "start": "20261122T200242.000Z",
