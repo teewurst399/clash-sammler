@@ -527,6 +527,50 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#PQJ92PQ90",
+   "ath": 19,
+   "d": "#YG8YC2GVQ",
+   "dth": 19,
+   "dur": 169,
+   "o": 49,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#G2VGCV8Y",
+   "ath": 17,
+   "d": "#GYRYJQYQQ",
+   "dth": 17,
+   "dur": 136,
+   "o": 50,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#G2VGCV8Y",
+   "ath": 17,
+   "d": "#CR9LC0GL",
+   "dth": 17,
+   "dur": 153,
+   "o": 51,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#PQJ92PQ90",
+   "ath": 19,
+   "d": "#QVVPY0VVP",
+   "dth": 19,
+   "dur": 180,
+   "o": 52,
+   "p": 98,
+   "s": 2,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -720,7 +764,7 @@
  },
  "end": "20261124T001303.000Z",
  "opponent": {
-  "destruction": 72.066666,
+  "destruction": 82.03333,
   "members": [
    {
     "name": "JOTAPRO",
@@ -904,7 +948,7 @@
    }
   ],
   "name": "REVOLUTION",
-  "stars": 61,
+  "stars": 70,
   "tag": "#2C9GLRR9Y"
  },
  "start": "20261123T001303.000Z",

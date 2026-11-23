@@ -1165,11 +1165,132 @@
    "p": 96,
    "s": 2,
    "side": "clan"
+  },
+  {
+   "a": "#LCPG2L99Y",
+   "ath": 19,
+   "d": "#GR9QCPVC",
+   "dth": 19,
+   "dur": 12,
+   "o": 107,
+   "p": 51,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#LCPG2L99Y",
+   "ath": 19,
+   "d": "#2RRV98GYC",
+   "dth": 19,
+   "dur": 14,
+   "o": 108,
+   "p": 51,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#Y8C82CPGV",
+   "ath": 19,
+   "d": "#GR9QCPVC",
+   "dth": 19,
+   "dur": 13,
+   "o": 109,
+   "p": 51,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#Y8C82CPGV",
+   "ath": 19,
+   "d": "#2RRV98GYC",
+   "dth": 19,
+   "dur": 16,
+   "o": 110,
+   "p": 50,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#2Y8L8PJ80",
+   "ath": 19,
+   "d": "#9Y89CQ9Q2",
+   "dth": 19,
+   "dur": 120,
+   "o": 111,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#2Y8L8PJ80",
+   "ath": 19,
+   "d": "#GC8JP0PV",
+   "dth": 19,
+   "dur": 137,
+   "o": 112,
+   "p": 97,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#QPVU09VYG",
+   "ath": 19,
+   "d": "#GC8JP0PV",
+   "dth": 19,
+   "dur": 96,
+   "o": 113,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#YQ8QGLPC",
+   "ath": 19,
+   "d": "#GJ90JP8RJ",
+   "dth": 19,
+   "dur": 129,
+   "o": 114,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#QPVU09VYG",
+   "ath": 19,
+   "d": "#YY20UPUGJ",
+   "dth": 19,
+   "dur": 124,
+   "o": 115,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#YQ8QGLPC",
+   "ath": 19,
+   "d": "#2UG08J8QY",
+   "dth": 19,
+   "dur": 142,
+   "o": 116,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#9J2JURQGJ",
+   "ath": 19,
+   "d": "#GR9QCPVC",
+   "dth": 19,
+   "dur": 131,
+   "o": 117,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 96.55,
+  "destruction": 99.75,
   "members": [
    {
     "name": "FL • Kaiser",
@@ -1413,7 +1534,7 @@
    }
   ],
   "name": "Obstgarten",
-  "stars": 111,
+  "stars": 119,
   "tag": "#2U08QGR9U"
  },
  "end": "20261123T175734.000Z",

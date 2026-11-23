@@ -1154,6 +1154,72 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#YR9G8RVRV",
+   "ath": 19,
+   "d": "#8U2RLLYJL",
+   "dth": 19,
+   "dur": 162,
+   "o": 106,
+   "p": 77,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#YR9G8RVRV",
+   "ath": 19,
+   "d": "#LRCLRV9CP",
+   "dth": 19,
+   "dur": 161,
+   "o": 107,
+   "p": 82,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#RYYCU889",
+   "ath": 19,
+   "d": "#LJ99C2UYY",
+   "dth": 19,
+   "dur": 154,
+   "o": 108,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#RYYCU889",
+   "ath": 19,
+   "d": "#8LYJLUP8",
+   "dth": 19,
+   "dur": 180,
+   "o": 109,
+   "p": 97,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#8YYG2U0JC",
+   "ath": 19,
+   "d": "#LRCLRV9CP",
+   "dth": 19,
+   "dur": 8,
+   "o": 110,
+   "p": 3,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#8YYG2U0JC",
+   "ath": 19,
+   "d": "#QV8YG2UL",
+   "dth": 19,
+   "dur": 7,
+   "o": 111,
+   "p": 2,
+   "s": 1,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
@@ -1407,7 +1473,7 @@
  },
  "end": "20261123T200635.000Z",
  "opponent": {
-  "destruction": 85.95,
+  "destruction": 90.875,
   "members": [
    {
     "name": "DTA Insomniac",
@@ -1651,7 +1717,7 @@
    }
   ],
   "name": "Beerenbrüder",
-  "stars": 100,
+  "stars": 105,
   "tag": "#2YGLUYJPR"
  },
  "start": "20261122T200635.000Z",

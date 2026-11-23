@@ -1352,11 +1352,154 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#P2LPV0LPG",
+   "ath": 19,
+   "d": "#J8QUP22Y",
+   "dth": 19,
+   "dur": 153,
+   "o": 124,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#2P8U2JPVC",
+   "ath": 19,
+   "d": "#Y0QLJL0LY",
+   "dth": 19,
+   "dur": 28,
+   "o": 125,
+   "p": 56,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#2P8U2JPVC",
+   "ath": 19,
+   "d": "#P0P8CGGJ",
+   "dth": 19,
+   "dur": 20,
+   "o": 126,
+   "p": 55,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#882L9CVRP",
+   "ath": 19,
+   "d": "#2P9C9222P",
+   "dth": 19,
+   "dur": 32,
+   "o": 127,
+   "p": 71,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#882L9CVRP",
+   "ath": 19,
+   "d": "#LGYUYVG0",
+   "dth": 19,
+   "dur": 22,
+   "o": 128,
+   "p": 55,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#LJJQ89U8",
+   "ath": 19,
+   "d": "#9LRQUY0C8",
+   "dth": 19,
+   "dur": 37,
+   "o": 129,
+   "p": 52,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#LJJQ89U8",
+   "ath": 19,
+   "d": "#29P0YJV8C",
+   "dth": 19,
+   "dur": 29,
+   "o": 130,
+   "p": 39,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#PPCYCJJ2",
+   "ath": 19,
+   "d": "#LURVUPJ2C",
+   "dth": 19,
+   "dur": 116,
+   "o": 131,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#VPQC2R8U",
+   "ath": 18,
+   "d": "#LLRUPPGYP",
+   "dth": 19,
+   "dur": 15,
+   "o": 132,
+   "p": 8,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#VPQC2R8U",
+   "ath": 18,
+   "d": "#LGYUYVG0",
+   "dth": 19,
+   "dur": 6,
+   "o": 133,
+   "p": 5,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#PPCYCJJ2",
+   "ath": 19,
+   "d": "#9LRQUY0C8",
+   "dth": 19,
+   "dur": 129,
+   "o": 134,
+   "p": 92,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#2L98CQCJR",
+   "ath": 19,
+   "d": "#29P0YJV8C",
+   "dth": 19,
+   "dur": 180,
+   "o": 135,
+   "p": 90,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#C09PG9P",
+   "ath": 19,
+   "d": "#RC299UCC",
+   "dth": 19,
+   "dur": 143,
+   "o": 136,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 98.68889,
+  "destruction": 98.77778,
   "members": [
    {
     "name": "Chiko",
@@ -1630,7 +1773,7 @@
    }
   ],
   "name": "GermanGladiator",
-  "stars": 131,
+  "stars": 132,
   "tag": "#2Y2L0J20V"
  },
  "end": "20261123T184031.000Z",

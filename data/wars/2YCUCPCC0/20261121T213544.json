@@ -758,6 +758,17 @@
    "p": 75,
    "s": 2,
    "side": "clan"
+  },
+  {
+   "a": "#20PP2GGCU",
+   "ath": 19,
+   "d": "#8G209CU0",
+   "dth": 19,
+   "dur": 18,
+   "o": 70,
+   "p": 10,
+   "s": 1,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,

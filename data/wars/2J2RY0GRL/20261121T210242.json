@@ -1517,6 +1517,83 @@
    "p": 90,
    "s": 2,
    "side": "gegner"
+  },
+  {
+   "a": "#8CQVUJQQ9",
+   "ath": 19,
+   "d": "#LRVJGG902",
+   "dth": 19,
+   "dur": 16,
+   "o": 139,
+   "p": 3,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#8CQVUJQQ9",
+   "ath": 19,
+   "d": "#RG00VYLJ",
+   "dth": 19,
+   "dur": 33,
+   "o": 140,
+   "p": 26,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#2PULLPCYV",
+   "ath": 19,
+   "d": "#LRVJGG902",
+   "dth": 19,
+   "dur": 31,
+   "o": 141,
+   "p": 24,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#2PULLPCYV",
+   "ath": 19,
+   "d": "#RG00VYLJ",
+   "dth": 19,
+   "dur": 27,
+   "o": 142,
+   "p": 33,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#P9UUVG99P",
+   "ath": 19,
+   "d": "#LRVJGG902",
+   "dth": 19,
+   "dur": 36,
+   "o": 143,
+   "p": 22,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#P9UUVG99P",
+   "ath": 19,
+   "d": "#RG00VYLJ",
+   "dth": 19,
+   "dur": 23,
+   "o": 144,
+   "p": 28,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#QQ0Y2VLLJ",
+   "ath": 19,
+   "d": "#LRVJGG902",
+   "dth": 19,
+   "dur": 25,
+   "o": 145,
+   "p": 13,
+   "s": 1,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,

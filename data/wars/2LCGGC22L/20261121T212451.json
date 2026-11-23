@@ -1110,11 +1110,165 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#GRJ022YRG",
+   "ath": 18,
+   "d": "#QJV8UUGRJ",
+   "dth": 19,
+   "dur": 149,
+   "o": 102,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#YGLV0PVJV",
+   "ath": 19,
+   "d": "#LC98P20YY",
+   "dth": 18,
+   "dur": 146,
+   "o": 103,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#GRJ022YRG",
+   "ath": 18,
+   "d": "#2UJ8RRGUP",
+   "dth": 18,
+   "dur": 129,
+   "o": 104,
+   "p": 81,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#29PPYVGQP",
+   "ath": 19,
+   "d": "#PCPYQUYPP",
+   "dth": 19,
+   "dur": 177,
+   "o": 105,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#YGLV0PVJV",
+   "ath": 19,
+   "d": "#QVYJ9C0U9",
+   "dth": 19,
+   "dur": 145,
+   "o": 106,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#QJV8UUGRJ",
+   "ath": 19,
+   "d": "#LQURU8CLG",
+   "dth": 19,
+   "dur": 156,
+   "o": 107,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#9V00PRGU",
+   "ath": 19,
+   "d": "#P8GY0L0LJ",
+   "dth": 19,
+   "dur": 142,
+   "o": 108,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#8U2PCL2VY",
+   "ath": 19,
+   "d": "#2UJ8RRGUP",
+   "dth": 18,
+   "dur": 104,
+   "o": 109,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#9V00PRGU",
+   "ath": 19,
+   "d": "#PCURY8QCU",
+   "dth": 19,
+   "dur": 160,
+   "o": 110,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#98GV90GCV",
+   "ath": 19,
+   "d": "#2CRQJQURC",
+   "dth": 19,
+   "dur": 171,
+   "o": 111,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#98GV90GCV",
+   "ath": 19,
+   "d": "#LYY22YLYQ",
+   "dth": 19,
+   "dur": 155,
+   "o": 112,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#GURVV2R9L",
+   "ath": 19,
+   "d": "#LYGPVPRGP",
+   "dth": 19,
+   "dur": 112,
+   "o": 113,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#GURVV2R9L",
+   "ath": 19,
+   "d": "#PCPPYCCUU",
+   "dth": 19,
+   "dur": 144,
+   "o": 114,
+   "p": 97,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#V9GQYUCJ",
+   "ath": 19,
+   "d": "#RV00UJ0P",
+   "dth": 19,
+   "dur": 180,
+   "o": 115,
+   "p": 99,
+   "s": 2,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 87.55556,
+  "destruction": 99.53333,
   "members": [
    {
     "name": "WB Teewurst",
@@ -1388,12 +1542,12 @@
    }
   ],
   "name": "Wurstbude",
-  "stars": 113,
+  "stars": 130,
   "tag": "#2LCGGC22L"
  },
  "end": "20261123T202451.000Z",
  "opponent": {
-  "destruction": 91.111115,
+  "destruction": 100.0,
   "members": [
    {
     "name": "S A N J A Y",
@@ -1667,7 +1821,7 @@
    }
   ],
   "name": "Lights End",
-  "stars": 123,
+  "stars": 135,
   "tag": "#2RYCGLV92"
  },
  "start": "20261122T202451.000Z",

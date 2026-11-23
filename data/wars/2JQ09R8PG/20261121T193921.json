@@ -1517,6 +1517,61 @@
    "p": 52,
    "s": 1,
    "side": "clan"
+  },
+  {
+   "a": "#VYGQV9P8",
+   "ath": 19,
+   "d": "#PLG9R82V2",
+   "dth": 19,
+   "dur": 43,
+   "o": 139,
+   "p": 24,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#VYGQV9P8",
+   "ath": 19,
+   "d": "#JPPGLJPC",
+   "dth": 19,
+   "dur": 61,
+   "o": 140,
+   "p": 70,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#2GQUULRL",
+   "ath": 19,
+   "d": "#GQ9CGCUVV",
+   "dth": 19,
+   "dur": 28,
+   "o": 141,
+   "p": 9,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#2GQUULRL",
+   "ath": 19,
+   "d": "#8VRPGQCL",
+   "dth": 19,
+   "dur": 30,
+   "o": 142,
+   "p": 21,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#GU2QGY9Y",
+   "ath": 19,
+   "d": "#90R9QUPYU",
+   "dth": 19,
+   "dur": 150,
+   "o": 143,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,

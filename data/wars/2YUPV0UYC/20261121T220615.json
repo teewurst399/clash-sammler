@@ -934,11 +934,99 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#229UV20VJ",
+   "ath": 19,
+   "d": "#QRQUPU0LU",
+   "dth": 19,
+   "dur": 168,
+   "o": 86,
+   "p": 85,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#229UV20VJ",
+   "ath": 19,
+   "d": "#LRQ0Q8LQC",
+   "dth": 19,
+   "dur": 174,
+   "o": 87,
+   "p": 97,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#2CGQ0QGYC",
+   "ath": 19,
+   "d": "#U22GJGL2",
+   "dth": 19,
+   "dur": 85,
+   "o": 88,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#8VP9YV8VC",
+   "ath": 19,
+   "d": "#YYLRCU2Y9",
+   "dth": 19,
+   "dur": 104,
+   "o": 89,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#8VP9YV8VC",
+   "ath": 19,
+   "d": "#8Q0GUP9P",
+   "dth": 19,
+   "dur": 83,
+   "o": 90,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#9PUGQGUCV",
+   "ath": 19,
+   "d": "#LRQ0Q8LQC",
+   "dth": 19,
+   "dur": 179,
+   "o": 91,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#9PUGQGUCV",
+   "ath": 19,
+   "d": "#G2JULVQUJ",
+   "dth": 19,
+   "dur": 155,
+   "o": 92,
+   "p": 93,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#2JY0JCJCR",
+   "ath": 19,
+   "d": "#QRQUPU0LU",
+   "dth": 19,
+   "dur": 164,
+   "o": 93,
+   "p": 82,
+   "s": 2,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 76.7,
+  "destruction": 79.65,
   "members": [
    {
     "name": "LOST☆stefan",
@@ -1182,12 +1270,12 @@
    }
   ],
   "name": "LOST 3",
-  "stars": 90,
+  "stars": 95,
   "tag": "#2YUPV0UYC"
  },
  "end": "20261123T210615.000Z",
  "opponent": {
-  "destruction": 99.15,
+  "destruction": 99.8,
   "members": [
    {
     "name": "Warlock",
@@ -1431,7 +1519,7 @@
    }
   ],
   "name": "CLB Unity",
-  "stars": 117,
+  "stars": 118,
   "tag": "#2CQVJ9GCG"
  },
  "start": "20261122T210615.000Z",

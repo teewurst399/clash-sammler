@@ -362,11 +362,33 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#CRG2JP0Y",
+   "ath": 16,
+   "d": "#Q0VVGQLYV",
+   "dth": 17,
+   "dur": 115,
+   "o": 34,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#CRG2JP0Y",
+   "ath": 16,
+   "d": "#PPGQQCPCC",
+   "dth": 17,
+   "dur": 119,
+   "o": 35,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 83.72,
+  "destruction": 91.72,
   "members": [
    {
     "name": "Frost",
@@ -520,7 +542,7 @@
    }
   ],
   "name": "Get Smurfed!",
-  "stars": 62,
+  "stars": 68,
   "tag": "#2J0JLGRRR"
  },
  "end": "20261123T204104.000Z",
