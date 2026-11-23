@@ -2993,18 +2993,42 @@
    "name": "WB Teewurst₄",
    "clan": "Würstchenbude",
    "th": 19,
+   "cs_kriege": [
+    "#2JYURYLCL|#2G0U2RJQ8",
+    "#2JYURYLCL|#2J02CC209"
+   ],
+   "cw30": {
+    "th": 19,
+    "hits": 1,
+    "triples": 1,
+    "stars": 3,
+    "avg_stars": 3,
+    "triple_rate": 100,
+    "by_th": {
+     "19": {
+      "hits": 1,
+      "triples": 1,
+      "stars": 3
+     }
+    }
+   },
    "cw180": {
     "th": 19,
-    "hits": 14,
-    "triples": 10,
-    "stars": 36,
-    "avg_stars": 2.571,
-    "triple_rate": 71.4,
+    "hits": 15,
+    "triples": 11,
+    "stars": 39,
+    "avg_stars": 2.6,
+    "triple_rate": 73.3,
     "by_th": {
      "18": {
       "hits": 14,
       "triples": 10,
       "stars": 36
+     },
+     "19": {
+      "hits": 1,
+      "triples": 1,
+      "stars": 3
      }
     }
    },
@@ -3077,7 +3101,7 @@
      "dreier": 3
     }
    ],
-   "stand_zeit": "2026-11-23T11:32:53Z"
+   "stand_zeit": "2026-11-23T11:51:14Z"
   },
   "#GQGQJR2RR": {
    "name": "e-gamer 427",
