@@ -85,7 +85,36 @@
     "angriffe": 7,
     "sterne": 20,
     "dreier": 6
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-11",
+     "clan": "alpha plan",
+     "clantag": "#Y2JR2U0G",
+     "liga": "Meister 1",
+     "angriffe": 7,
+     "sterne": 20,
+     "dreier": 6
+    },
+    {
+     "saison": "2026-10",
+     "clan": "WAR IMPERIUM",
+     "clantag": "#2QG2RVUCL",
+     "liga": "Champion 1",
+     "angriffe": 7,
+     "sterne": 20,
+     "dreier": 6
+    },
+    {
+     "saison": "2026-09",
+     "clan": "WAR IMPERIUM",
+     "clantag": "#2QG2RVUCL",
+     "liga": "Champion 2",
+     "angriffe": 7,
+     "sterne": 20,
+     "dreier": 6
+    }
+   ]
   },
   "#22VL22U80": {
    "name": "domi",
@@ -160,7 +189,36 @@
     "angriffe": 4,
     "sterne": 10,
     "dreier": 2
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-11",
+     "clan": "Würstchenbude",
+     "clantag": "#2JYURYLCL",
+     "liga": "Champion 3",
+     "angriffe": 4,
+     "sterne": 10,
+     "dreier": 2
+    },
+    {
+     "saison": "2026-10",
+     "clan": "Wurstbude",
+     "clantag": "#2LCGGC22L",
+     "liga": "Champion 1",
+     "angriffe": 7,
+     "sterne": 21,
+     "dreier": 7
+    },
+    {
+     "saison": "2026-09",
+     "clan": "Wurstbude",
+     "clantag": "#2LCGGC22L",
+     "liga": "Champion 1",
+     "angriffe": 7,
+     "sterne": 20,
+     "dreier": 6
+    }
+   ]
   },
   "#28CVLRLU": {
    "name": "WB Teewurst₃",
@@ -235,7 +293,36 @@
     "angriffe": 7,
     "sterne": 20,
     "dreier": 6
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-11",
+     "clan": "Würstchenbude",
+     "clantag": "#2JYURYLCL",
+     "liga": "Champion 3",
+     "angriffe": 7,
+     "sterne": 20,
+     "dreier": 6
+    },
+    {
+     "saison": "2026-10",
+     "clan": "Würstchenbude",
+     "clantag": "#2JYURYLCL",
+     "liga": "Champion 3",
+     "angriffe": 7,
+     "sterne": 21,
+     "dreier": 7
+    },
+    {
+     "saison": "2026-09",
+     "clan": "Würstchenbude",
+     "clantag": "#2JYURYLCL",
+     "liga": "Meister 1",
+     "angriffe": 7,
+     "sterne": 21,
+     "dreier": 7
+    }
+   ]
   },
   "#28PLJ2RVR": {
    "name": "✘✞тšυиαмı✞✘ツ",
@@ -320,7 +407,36 @@
     "angriffe": 7,
     "sterne": 21,
     "dreier": 7
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-11",
+     "clan": "Würstchenbude",
+     "clantag": "#2JYURYLCL",
+     "liga": "Champion 3",
+     "angriffe": 7,
+     "sterne": 21,
+     "dreier": 7
+    },
+    {
+     "saison": "2026-10",
+     "clan": "German Monkeys",
+     "clantag": "#2GQJJ0RYQ",
+     "liga": "Champion 2",
+     "angriffe": 7,
+     "sterne": 19,
+     "dreier": 5
+    },
+    {
+     "saison": "2026-09",
+     "clan": "German Monkeys",
+     "clantag": "#2GQJJ0RYQ",
+     "liga": "Champion 2",
+     "angriffe": 7,
+     "sterne": 18,
+     "dreier": 5
+    }
+   ]
   },
   "#28UGG2RY": {
    "name": "G!B$ascha",
@@ -380,7 +496,36 @@
     "angriffe": 6,
     "sterne": 18,
     "dreier": 6
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-11",
+     "clan": "Wurstbude",
+     "clantag": "#2LCGGC22L",
+     "liga": "Champion 1",
+     "angriffe": 6,
+     "sterne": 18,
+     "dreier": 6
+    },
+    {
+     "saison": "2026-10",
+     "clan": "Drachenkult",
+     "clantag": "#8G8U9RRL",
+     "liga": "Champion 2",
+     "angriffe": 7,
+     "sterne": 21,
+     "dreier": 7
+    },
+    {
+     "saison": "2026-09",
+     "clan": "Get Cooked!",
+     "clantag": "#2J922VYQ0",
+     "liga": "Titan 1",
+     "angriffe": 7,
+     "sterne": 20,
+     "dreier": 6
+    }
+   ]
   },
   "#29PPYVGQP": {
    "name": "WB™ NikolaySa✨️",
@@ -465,7 +610,36 @@
     "angriffe": 6,
     "sterne": 15,
     "dreier": 4
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-11",
+     "clan": "Würstchenbude",
+     "clantag": "#2JYURYLCL",
+     "liga": "Champion 3",
+     "angriffe": 6,
+     "sterne": 15,
+     "dreier": 4
+    },
+    {
+     "saison": "2026-10",
+     "clan": "Würstchenbude",
+     "clantag": "#2JYURYLCL",
+     "liga": "Champion 3",
+     "angriffe": 7,
+     "sterne": 18,
+     "dreier": 4
+    },
+    {
+     "saison": "2026-09",
+     "clan": "Würstchenbude",
+     "clantag": "#2JYURYLCL",
+     "liga": "Meister 1",
+     "angriffe": 7,
+     "sterne": 20,
+     "dreier": 6
+    }
+   ]
   },
   "#2UJ8RRGUP": {
    "name": "american",
@@ -540,7 +714,36 @@
     "angriffe": 5,
     "sterne": 11,
     "dreier": 1
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-11",
+     "clan": "Würstchenbude",
+     "clantag": "#2JYURYLCL",
+     "liga": "Champion 3",
+     "angriffe": 5,
+     "sterne": 11,
+     "dreier": 1
+    },
+    {
+     "saison": "2026-10",
+     "clan": "Würstchenbude",
+     "clantag": "#2JYURYLCL",
+     "liga": "Champion 3",
+     "angriffe": 7,
+     "sterne": 18,
+     "dreier": 4
+    },
+    {
+     "saison": "2026-09",
+     "clan": "Würstchenbude",
+     "clantag": "#2JYURYLCL",
+     "liga": "Meister 1",
+     "angriffe": 7,
+     "sterne": 21,
+     "dreier": 7
+    }
+   ]
   },
   "#2UYG09GU2": {
    "name": "Yence",
@@ -625,7 +828,36 @@
     "angriffe": 6,
     "sterne": 15,
     "dreier": 3
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-11",
+     "clan": "Würstchenbude",
+     "clantag": "#2JYURYLCL",
+     "liga": "Champion 3",
+     "angriffe": 6,
+     "sterne": 15,
+     "dreier": 3
+    },
+    {
+     "saison": "2026-10",
+     "clan": "Würstchenbude",
+     "clantag": "#2JYURYLCL",
+     "liga": "Champion 3",
+     "angriffe": 7,
+     "sterne": 18,
+     "dreier": 4
+    },
+    {
+     "saison": "2026-09",
+     "clan": "Würstchenbude",
+     "clantag": "#2JYURYLCL",
+     "liga": "Meister 1",
+     "angriffe": 6,
+     "sterne": 18,
+     "dreier": 6
+    }
+   ]
   },
   "#8GR0P9UQL": {
    "name": "Imker Thorsten",
@@ -710,7 +942,36 @@
     "angriffe": 7,
     "sterne": 21,
     "dreier": 7
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-11",
+     "clan": "Wursttheke",
+     "clantag": "#2C09CPYU8",
+     "liga": "Meister 2",
+     "angriffe": 7,
+     "sterne": 21,
+     "dreier": 7
+    },
+    {
+     "saison": "2026-10",
+     "clan": "Wursttheke",
+     "clantag": "#2C09CPYU8",
+     "liga": "Meister 3",
+     "angriffe": 7,
+     "sterne": 21,
+     "dreier": 7
+    },
+    {
+     "saison": "2026-09",
+     "clan": "Würstchenbude",
+     "clantag": "#2JYURYLCL",
+     "liga": "Meister 1",
+     "angriffe": 7,
+     "sterne": 20,
+     "dreier": 6
+    }
+   ]
   },
   "#8PCYJLLQ": {
    "name": "El Mundo",
@@ -745,7 +1006,36 @@
       "stars": 80
      }
     }
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-10",
+     "clan": "Würstchenbude",
+     "clantag": "#2JYURYLCL",
+     "liga": "Champion 3",
+     "angriffe": 7,
+     "sterne": 20,
+     "dreier": 6
+    },
+    {
+     "saison": "2026-09",
+     "clan": "Drachenkult",
+     "clantag": "#8G8U9RRL",
+     "liga": "Champion 3",
+     "angriffe": 7,
+     "sterne": 21,
+     "dreier": 7
+    },
+    {
+     "saison": "2026-08",
+     "clan": "CYBORGS ACADEMY",
+     "clantag": "#2CL2020GR",
+     "liga": "Champion 2",
+     "angriffe": 7,
+     "sterne": 21,
+     "dreier": 7
+    }
+   ]
   },
   "#90U88CR": {
    "name": "⚡️Ｊｕｌｉａｎ⚡️",
@@ -830,7 +1120,36 @@
     "angriffe": 7,
     "sterne": 21,
     "dreier": 7
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-11",
+     "clan": "Wursttheke",
+     "clantag": "#2C09CPYU8",
+     "liga": "Meister 2",
+     "angriffe": 7,
+     "sterne": 21,
+     "dreier": 7
+    },
+    {
+     "saison": "2026-10",
+     "clan": "⚡️KRAFTWERK⚡️",
+     "clantag": "#GPQYGLQ8",
+     "liga": "Meister 1",
+     "angriffe": 7,
+     "sterne": 20,
+     "dreier": 6
+    },
+    {
+     "saison": "2026-09",
+     "clan": "⚡️KRAFTWERK⚡️",
+     "clantag": "#GPQYGLQ8",
+     "liga": "Meister 1",
+     "angriffe": 7,
+     "sterne": 20,
+     "dreier": 6
+    }
+   ]
   },
   "#98GV90GCV": {
    "name": "WB Teewurst₂",
@@ -915,7 +1234,36 @@
     "angriffe": 7,
     "sterne": 21,
     "dreier": 7
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-11",
+     "clan": "Wurstbude",
+     "clantag": "#2LCGGC22L",
+     "liga": "Champion 1",
+     "angriffe": 7,
+     "sterne": 21,
+     "dreier": 7
+    },
+    {
+     "saison": "2026-10",
+     "clan": "Wurstbude",
+     "clantag": "#2LCGGC22L",
+     "liga": "Champion 1",
+     "angriffe": 7,
+     "sterne": 20,
+     "dreier": 6
+    },
+    {
+     "saison": "2026-09",
+     "clan": "Wurstbude",
+     "clantag": "#2LCGGC22L",
+     "liga": "Champion 1",
+     "angriffe": 7,
+     "sterne": 21,
+     "dreier": 7
+    }
+   ]
   },
   "#9L28CPJ29": {
    "name": "WB Henrik",
@@ -965,7 +1313,36 @@
       "stars": 75
      }
     }
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-10",
+     "clan": "Wursttheke",
+     "clantag": "#2C09CPYU8",
+     "liga": "Meister 3",
+     "angriffe": 7,
+     "sterne": 21,
+     "dreier": 7
+    },
+    {
+     "saison": "2026-07",
+     "clan": "Würstchenbude",
+     "clantag": "#2JYURYLCL",
+     "liga": "Champion 3",
+     "angriffe": 7,
+     "sterne": 19,
+     "dreier": 5
+    },
+    {
+     "saison": "2026-06",
+     "clan": "Wurstbude",
+     "clantag": "#2LCGGC22L",
+     "liga": "Champion 2",
+     "angriffe": 6,
+     "sterne": 15,
+     "dreier": 4
+    }
+   ]
   },
   "#9P880J2P": {
    "name": "〤Ğeronimoooジ",
@@ -1050,7 +1427,36 @@
     "angriffe": 7,
     "sterne": 21,
     "dreier": 7
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-11",
+     "clan": "Wurstbude",
+     "clantag": "#2LCGGC22L",
+     "liga": "Champion 1",
+     "angriffe": 7,
+     "sterne": 21,
+     "dreier": 7
+    },
+    {
+     "saison": "2026-10",
+     "clan": "German Monkeys",
+     "clantag": "#2GQJJ0RYQ",
+     "liga": "Champion 2",
+     "angriffe": 7,
+     "sterne": 19,
+     "dreier": 5
+    },
+    {
+     "saison": "2026-09",
+     "clan": "German Monkeys",
+     "clantag": "#2GQJJ0RYQ",
+     "liga": "Champion 2",
+     "angriffe": 7,
+     "sterne": 20,
+     "dreier": 6
+    }
+   ]
   },
   "#9RU2RLCQ": {
    "name": "WB AJI",
@@ -1070,7 +1476,18 @@
       "stars": 6
      }
     }
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-09",
+     "clan": "Wurststand",
+     "clantag": "#2GGQ29000",
+     "liga": "Kristall 3",
+     "angriffe": 7,
+     "sterne": 17,
+     "dreier": 5
+    }
+   ]
   },
   "#9U0YUCP9": {
    "name": "Zeppelinwurst",
@@ -1155,7 +1572,36 @@
     "angriffe": 6,
     "sterne": 16,
     "dreier": 5
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-11",
+     "clan": "Wurstbude",
+     "clantag": "#2LCGGC22L",
+     "liga": "Champion 1",
+     "angriffe": 6,
+     "sterne": 16,
+     "dreier": 5
+    },
+    {
+     "saison": "2026-10",
+     "clan": "Wurstbude",
+     "clantag": "#2LCGGC22L",
+     "liga": "Champion 1",
+     "angriffe": 7,
+     "sterne": 20,
+     "dreier": 6
+    },
+    {
+     "saison": "2026-09",
+     "clan": "Wurstbude",
+     "clantag": "#2LCGGC22L",
+     "liga": "Champion 1",
+     "angriffe": 7,
+     "sterne": 19,
+     "dreier": 5
+    }
+   ]
   },
   "#9V00PRGU": {
    "name": "WB Teewurst",
@@ -1230,7 +1676,36 @@
     "angriffe": 6,
     "sterne": 16,
     "dreier": 4
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-11",
+     "clan": "Get Cooked!",
+     "clantag": "#2J922VYQ0",
+     "liga": "Titan 1",
+     "angriffe": 6,
+     "sterne": 16,
+     "dreier": 4
+    },
+    {
+     "saison": "2026-10",
+     "clan": "Get Buttered!",
+     "clantag": "#2R98Y8YUJ",
+     "liga": "Legende",
+     "angriffe": 7,
+     "sterne": 21,
+     "dreier": 7
+    },
+    {
+     "saison": "2026-09",
+     "clan": "Wurstbude",
+     "clantag": "#2LCGGC22L",
+     "liga": "Champion 1",
+     "angriffe": 7,
+     "sterne": 21,
+     "dreier": 7
+    }
+   ]
   },
   "#9VVPVLVL": {
    "name": "JoloPizzabäcker",
@@ -1315,7 +1790,36 @@
     "angriffe": 5,
     "sterne": 14,
     "dreier": 4
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-11",
+     "clan": "Wursttheke",
+     "clantag": "#2C09CPYU8",
+     "liga": "Meister 2",
+     "angriffe": 5,
+     "sterne": 14,
+     "dreier": 4
+    },
+    {
+     "saison": "2026-10",
+     "clan": "Wursttheke",
+     "clantag": "#2C09CPYU8",
+     "liga": "Meister 3",
+     "angriffe": 7,
+     "sterne": 20,
+     "dreier": 6
+    },
+    {
+     "saison": "2026-09",
+     "clan": "Wurststand",
+     "clantag": "#2GGQ29000",
+     "liga": "Kristall 3",
+     "angriffe": 7,
+     "sterne": 18,
+     "dreier": 5
+    }
+   ]
   },
   "#9YU2QR9GV": {
    "name": "Admiral Mudoo",
@@ -1365,7 +1869,36 @@
       "stars": 91
      }
     }
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-09",
+     "clan": "Würstchenbude",
+     "clantag": "#2JYURYLCL",
+     "liga": "Meister 1",
+     "angriffe": 4,
+     "sterne": 12,
+     "dreier": 4
+    },
+    {
+     "saison": "2026-08",
+     "clan": "Würstchenbude",
+     "clantag": "#2JYURYLCL",
+     "liga": "Meister 1",
+     "angriffe": 7,
+     "sterne": 21,
+     "dreier": 7
+    },
+    {
+     "saison": "2026-07",
+     "clan": "Würstchenbude",
+     "clantag": "#2JYURYLCL",
+     "liga": "Champion 3",
+     "angriffe": 7,
+     "sterne": 21,
+     "dreier": 7
+    }
+   ]
   },
   "#C2PYPQLL": {
    "name": "WB Fabio",
@@ -1425,7 +1958,36 @@
     "angriffe": 7,
     "sterne": 20,
     "dreier": 6
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-11",
+     "clan": "Würstchenbude",
+     "clantag": "#2JYURYLCL",
+     "liga": "Champion 3",
+     "angriffe": 7,
+     "sterne": 20,
+     "dreier": 6
+    },
+    {
+     "saison": "2026-10",
+     "clan": "Wurstbude",
+     "clantag": "#2LCGGC22L",
+     "liga": "Champion 1",
+     "angriffe": 7,
+     "sterne": 21,
+     "dreier": 7
+    },
+    {
+     "saison": "2026-09",
+     "clan": "Wurstbude",
+     "clantag": "#2LCGGC22L",
+     "liga": "Champion 1",
+     "angriffe": 7,
+     "sterne": 20,
+     "dreier": 6
+    }
+   ]
   },
   "#G00RYCJG": {
    "name": "BChvT23",
@@ -1510,7 +2072,36 @@
     "angriffe": 7,
     "sterne": 20,
     "dreier": 6
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-11",
+     "clan": "Würstchenbude",
+     "clantag": "#2JYURYLCL",
+     "liga": "Champion 3",
+     "angriffe": 7,
+     "sterne": 20,
+     "dreier": 6
+    },
+    {
+     "saison": "2026-09",
+     "clan": "Wurstbude",
+     "clantag": "#2LCGGC22L",
+     "liga": "Champion 1",
+     "angriffe": 6,
+     "sterne": 16,
+     "dreier": 5
+    },
+    {
+     "saison": "2026-08",
+     "clan": "Wurstbude",
+     "clantag": "#2LCGGC22L",
+     "liga": "Champion 2",
+     "angriffe": 7,
+     "sterne": 20,
+     "dreier": 6
+    }
+   ]
   },
   "#G0G00Q9VL": {
    "name": "Höhny",
@@ -1565,7 +2156,36 @@
       "stars": 16
      }
     }
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-08",
+     "clan": "Bergdrachen",
+     "clantag": "#29ULU2LPJ",
+     "liga": "Titan 3",
+     "angriffe": 7,
+     "sterne": 16,
+     "dreier": 2
+    },
+    {
+     "saison": "2026-05",
+     "clan": "Schatzkammer",
+     "clantag": "#20YU8CJUU",
+     "liga": "Champion 2",
+     "angriffe": 7,
+     "sterne": 20,
+     "dreier": 6
+    },
+    {
+     "saison": "2026-04",
+     "clan": "Atrium™",
+     "clantag": "#2RC2LPCPV",
+     "liga": "Champion 3",
+     "angriffe": 6,
+     "sterne": 12,
+     "dreier": 2
+    }
+   ]
   },
   "#G0L9Q8P0P": {
    "name": "ApexFlex",
@@ -1640,7 +2260,36 @@
     "angriffe": 7,
     "sterne": 21,
     "dreier": 7
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-11",
+     "clan": "Wurstbude",
+     "clantag": "#2LCGGC22L",
+     "liga": "Champion 1",
+     "angriffe": 7,
+     "sterne": 21,
+     "dreier": 7
+    },
+    {
+     "saison": "2026-10",
+     "clan": "Wurstbude",
+     "clantag": "#2LCGGC22L",
+     "liga": "Champion 1",
+     "angriffe": 7,
+     "sterne": 21,
+     "dreier": 7
+    },
+    {
+     "saison": "2026-09",
+     "clan": "Wurstbude",
+     "clantag": "#2LCGGC22L",
+     "liga": "Champion 1",
+     "angriffe": 6,
+     "sterne": 17,
+     "dreier": 5
+    }
+   ]
   },
   "#G20RYP820": {
    "name": "Frank",
@@ -1725,7 +2374,36 @@
     "angriffe": 7,
     "sterne": 21,
     "dreier": 7
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-11",
+     "clan": "Wurstbude",
+     "clantag": "#2LCGGC22L",
+     "liga": "Champion 1",
+     "angriffe": 7,
+     "sterne": 21,
+     "dreier": 7
+    },
+    {
+     "saison": "2026-10",
+     "clan": "Wurstbude",
+     "clantag": "#2LCGGC22L",
+     "liga": "Champion 1",
+     "angriffe": 7,
+     "sterne": 21,
+     "dreier": 7
+    },
+    {
+     "saison": "2026-09",
+     "clan": "Wurstbude",
+     "clantag": "#2LCGGC22L",
+     "liga": "Champion 1",
+     "angriffe": 7,
+     "sterne": 20,
+     "dreier": 6
+    }
+   ]
   },
   "#G2RUYUGC": {
    "name": "Fietz",
@@ -1810,7 +2488,36 @@
     "angriffe": 5,
     "sterne": 14,
     "dreier": 4
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-11",
+     "clan": "Wurstbude",
+     "clantag": "#2LCGGC22L",
+     "liga": "Champion 1",
+     "angriffe": 5,
+     "sterne": 14,
+     "dreier": 4
+    },
+    {
+     "saison": "2026-10",
+     "clan": "German Monkeys",
+     "clantag": "#2GQJJ0RYQ",
+     "liga": "Champion 2",
+     "angriffe": 7,
+     "sterne": 21,
+     "dreier": 7
+    },
+    {
+     "saison": "2026-09",
+     "clan": "German Monkeys",
+     "clantag": "#2GQJJ0RYQ",
+     "liga": "Champion 2",
+     "angriffe": 7,
+     "sterne": 21,
+     "dreier": 7
+    }
+   ]
   },
   "#G9R980C2U": {
    "name": "Cartman9001",
@@ -1895,7 +2602,36 @@
     "angriffe": 7,
     "sterne": 21,
     "dreier": 7
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-11",
+     "clan": "Wurstbude",
+     "clantag": "#2LCGGC22L",
+     "liga": "Champion 1",
+     "angriffe": 7,
+     "sterne": 21,
+     "dreier": 7
+    },
+    {
+     "saison": "2026-10",
+     "clan": "Wurstbude",
+     "clantag": "#2LCGGC22L",
+     "liga": "Champion 1",
+     "angriffe": 7,
+     "sterne": 20,
+     "dreier": 6
+    },
+    {
+     "saison": "2026-09",
+     "clan": "Wurstbude",
+     "clantag": "#2LCGGC22L",
+     "liga": "Champion 1",
+     "angriffe": 7,
+     "sterne": 20,
+     "dreier": 6
+    }
+   ]
   },
   "#G9YGCC228": {
    "name": "Frischgezapftes",
@@ -1985,7 +2721,36 @@
     "angriffe": 6,
     "sterne": 16,
     "dreier": 4
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-11",
+     "clan": "Würstchenbude",
+     "clantag": "#2JYURYLCL",
+     "liga": "Champion 3",
+     "angriffe": 6,
+     "sterne": 16,
+     "dreier": 4
+    },
+    {
+     "saison": "2026-10",
+     "clan": "Wursttheke",
+     "clantag": "#2C09CPYU8",
+     "liga": "Meister 3",
+     "angriffe": 7,
+     "sterne": 21,
+     "dreier": 7
+    },
+    {
+     "saison": "2026-02",
+     "clan": "Spätzle 2",
+     "clantag": "#29C8R0Q9V",
+     "liga": "Meister 1",
+     "angriffe": 7,
+     "sterne": 16,
+     "dreier": 2
+    }
+   ]
   },
   "#GC9UYCQVY": {
    "name": "Sintai",
@@ -2085,7 +2850,36 @@
     "angriffe": 6,
     "sterne": 18,
     "dreier": 6
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-11",
+     "clan": "Wursttheke",
+     "clantag": "#2C09CPYU8",
+     "liga": "Meister 2",
+     "angriffe": 6,
+     "sterne": 18,
+     "dreier": 6
+    },
+    {
+     "saison": "2026-10",
+     "clan": "Rekordhalter",
+     "clantag": "#2QCYUJ0CJ",
+     "liga": "Gold 1",
+     "angriffe": 7,
+     "sterne": 19,
+     "dreier": 5
+    },
+    {
+     "saison": "2026-03",
+     "clan": "DER SCHACHT II",
+     "clantag": "#2CYJ2YQRL",
+     "liga": "Kristall 3",
+     "angriffe": 7,
+     "sterne": 19,
+     "dreier": 5
+    }
+   ]
   },
   "#GP9R0PUQ8": {
    "name": "domi2",
@@ -2145,7 +2939,36 @@
     "angriffe": 5,
     "sterne": 11,
     "dreier": 3
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-11",
+     "clan": "Wursttheke",
+     "clantag": "#2C09CPYU8",
+     "liga": "Meister 2",
+     "angriffe": 5,
+     "sterne": 11,
+     "dreier": 3
+    },
+    {
+     "saison": "2026-10",
+     "clan": "Wursttheke",
+     "clantag": "#2C09CPYU8",
+     "liga": "Meister 3",
+     "angriffe": 5,
+     "sterne": 15,
+     "dreier": 5
+    },
+    {
+     "saison": "2026-09",
+     "clan": "Wurststand",
+     "clantag": "#2GGQ29000",
+     "liga": "Kristall 3",
+     "angriffe": 7,
+     "sterne": 21,
+     "dreier": 7
+    }
+   ]
   },
   "#GPCQPUQ0Q": {
    "name": "WB Teewurst₄",
@@ -2205,7 +3028,36 @@
     "angriffe": 5,
     "sterne": 15,
     "dreier": 5
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-11",
+     "clan": "Wurstbude",
+     "clantag": "#2LCGGC22L",
+     "liga": "Champion 1",
+     "angriffe": 5,
+     "sterne": 15,
+     "dreier": 5
+    },
+    {
+     "saison": "2026-10",
+     "clan": "Wurstbude",
+     "clantag": "#2LCGGC22L",
+     "liga": "Champion 1",
+     "angriffe": 7,
+     "sterne": 21,
+     "dreier": 7
+    },
+    {
+     "saison": "2026-09",
+     "clan": "Wurstbude",
+     "clantag": "#2LCGGC22L",
+     "liga": "Champion 1",
+     "angriffe": 3,
+     "sterne": 9,
+     "dreier": 3
+    }
+   ]
   },
   "#GQGQJR2RR": {
    "name": "e-gamer 427",
@@ -2240,7 +3092,36 @@
       "stars": 3
      }
     }
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-04",
+     "clan": "Eisernes Kreuz",
+     "clantag": "#2Q9UYJQGJ",
+     "liga": "Silber 2",
+     "angriffe": 0,
+     "sterne": 0,
+     "dreier": 0
+    },
+    {
+     "saison": "2026-03",
+     "clan": "f2pfeuchtmüller",
+     "clantag": "#2JJ02CQQ8",
+     "liga": "Silber 1",
+     "angriffe": 5,
+     "sterne": 14,
+     "dreier": 4
+    },
+    {
+     "saison": "2026-02",
+     "clan": "f2pfeuchtmüller",
+     "clantag": "#2JJ02CQQ8",
+     "liga": "Silber 2",
+     "angriffe": 7,
+     "sterne": 19,
+     "dreier": 6
+    }
+   ]
   },
   "#GURVV2R9L": {
    "name": "OmegaFlex",
@@ -2315,7 +3196,36 @@
     "angriffe": 7,
     "sterne": 21,
     "dreier": 7
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-11",
+     "clan": "Würstchenbude",
+     "clantag": "#2JYURYLCL",
+     "liga": "Champion 3",
+     "angriffe": 7,
+     "sterne": 21,
+     "dreier": 7
+    },
+    {
+     "saison": "2026-10",
+     "clan": "Würstchenbude",
+     "clantag": "#2JYURYLCL",
+     "liga": "Champion 3",
+     "angriffe": 7,
+     "sterne": 21,
+     "dreier": 7
+    },
+    {
+     "saison": "2026-09",
+     "clan": "Würstchenbude",
+     "clantag": "#2JYURYLCL",
+     "liga": "Meister 1",
+     "angriffe": 7,
+     "sterne": 21,
+     "dreier": 7
+    }
+   ]
   },
   "#GYPJPGR00": {
    "name": "Braynar",
@@ -2400,7 +3310,36 @@
     "angriffe": 7,
     "sterne": 21,
     "dreier": 7
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-11",
+     "clan": "Wurstbude",
+     "clantag": "#2LCGGC22L",
+     "liga": "Champion 1",
+     "angriffe": 7,
+     "sterne": 21,
+     "dreier": 7
+    },
+    {
+     "saison": "2026-10",
+     "clan": "Wurstbude",
+     "clantag": "#2LCGGC22L",
+     "liga": "Champion 1",
+     "angriffe": 7,
+     "sterne": 20,
+     "dreier": 6
+    },
+    {
+     "saison": "2026-09",
+     "clan": "Würstchenbude",
+     "clantag": "#2JYURYLCL",
+     "liga": "Meister 1",
+     "angriffe": 7,
+     "sterne": 21,
+     "dreier": 7
+    }
+   ]
   },
   "#J90CCPC0": {
    "name": "WB Lukas",
@@ -2485,7 +3424,36 @@
     "angriffe": 7,
     "sterne": 20,
     "dreier": 6
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-11",
+     "clan": "Würstchenbude",
+     "clantag": "#2JYURYLCL",
+     "liga": "Champion 3",
+     "angriffe": 7,
+     "sterne": 20,
+     "dreier": 6
+    },
+    {
+     "saison": "2026-10",
+     "clan": "Würstchenbude",
+     "clantag": "#2JYURYLCL",
+     "liga": "Champion 3",
+     "angriffe": 7,
+     "sterne": 20,
+     "dreier": 6
+    },
+    {
+     "saison": "2026-09",
+     "clan": "Würstchenbude",
+     "clantag": "#2JYURYLCL",
+     "liga": "Meister 1",
+     "angriffe": 6,
+     "sterne": 16,
+     "dreier": 4
+    }
+   ]
   },
   "#L02YUGQL": {
    "name": "ッмεмεптσ мσяıッ",
@@ -2570,7 +3538,36 @@
     "angriffe": 5,
     "sterne": 14,
     "dreier": 4
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-11",
+     "clan": "Würstchenbude",
+     "clantag": "#2JYURYLCL",
+     "liga": "Champion 3",
+     "angriffe": 5,
+     "sterne": 14,
+     "dreier": 4
+    },
+    {
+     "saison": "2026-10",
+     "clan": "Würstchenbude",
+     "clantag": "#2JYURYLCL",
+     "liga": "Champion 3",
+     "angriffe": 7,
+     "sterne": 19,
+     "dreier": 6
+    },
+    {
+     "saison": "2026-09",
+     "clan": "Würstchenbude",
+     "clantag": "#2JYURYLCL",
+     "liga": "Meister 1",
+     "angriffe": 7,
+     "sterne": 19,
+     "dreier": 5
+    }
+   ]
   },
   "#LC8890LGJ": {
    "name": "「BTR」TIMOLINO",
@@ -2645,7 +3642,36 @@
     "angriffe": 4,
     "sterne": 9,
     "dreier": 1
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-11",
+     "clan": "Wursttheke",
+     "clantag": "#2C09CPYU8",
+     "liga": "Meister 2",
+     "angriffe": 4,
+     "sterne": 9,
+     "dreier": 1
+    },
+    {
+     "saison": "2026-10",
+     "clan": "Get Clapped!",
+     "clantag": "#2GRY89U9U",
+     "liga": "Meister 2",
+     "angriffe": 1,
+     "sterne": 2,
+     "dreier": 0
+    },
+    {
+     "saison": "2026-08",
+     "clan": "Silentium War",
+     "clantag": "#2CPGYJJRJ",
+     "liga": "Kristall 2",
+     "angriffe": 7,
+     "sterne": 19,
+     "dreier": 6
+    }
+   ]
   },
   "#LC98P20YY": {
    "name": "WB™ NikolaySa❄️",
@@ -2725,7 +3751,36 @@
     "angriffe": 6,
     "sterne": 16,
     "dreier": 4
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-11",
+     "clan": "Wursttheke",
+     "clantag": "#2C09CPYU8",
+     "liga": "Meister 2",
+     "angriffe": 6,
+     "sterne": 16,
+     "dreier": 4
+    },
+    {
+     "saison": "2026-10",
+     "clan": "Wursttheke",
+     "clantag": "#2C09CPYU8",
+     "liga": "Meister 3",
+     "angriffe": 7,
+     "sterne": 18,
+     "dreier": 4
+    },
+    {
+     "saison": "2026-09",
+     "clan": "☢ᏴᎬᎪᏚᎢ ᎷᎾᎠᎬ ᎾƝ☢",
+     "clantag": "#U8CQPR9",
+     "liga": "Meister 1",
+     "angriffe": 4,
+     "sterne": 10,
+     "dreier": 2
+    }
+   ]
   },
   "#LGR90YRVQ": {
    "name": "Dragoran",
@@ -2800,7 +3855,36 @@
     "angriffe": 7,
     "sterne": 21,
     "dreier": 7
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-11",
+     "clan": "Wurstbude",
+     "clantag": "#2LCGGC22L",
+     "liga": "Champion 1",
+     "angriffe": 7,
+     "sterne": 21,
+     "dreier": 7
+    },
+    {
+     "saison": "2026-10",
+     "clan": "Wurstbude",
+     "clantag": "#2LCGGC22L",
+     "liga": "Champion 1",
+     "angriffe": 7,
+     "sterne": 21,
+     "dreier": 7
+    },
+    {
+     "saison": "2026-03",
+     "clan": "Anthrazit",
+     "clantag": "#2GPLC2GL8",
+     "liga": "Kristall 2",
+     "angriffe": 7,
+     "sterne": 21,
+     "dreier": 7
+    }
+   ]
   },
   "#LGUPGVJ8R": {
    "name": "Neymar Jr 10",
@@ -2890,7 +3974,36 @@
     "angriffe": 7,
     "sterne": 21,
     "dreier": 7
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-11",
+     "clan": "Wursttheke",
+     "clantag": "#2C09CPYU8",
+     "liga": "Meister 2",
+     "angriffe": 7,
+     "sterne": 21,
+     "dreier": 7
+    },
+    {
+     "saison": "2026-10",
+     "clan": "Get Clapped!",
+     "clantag": "#2GRY89U9U",
+     "liga": "Meister 2",
+     "angriffe": 7,
+     "sterne": 20,
+     "dreier": 6
+    },
+    {
+     "saison": "2026-09",
+     "clan": "Get Clapped!",
+     "clantag": "#2GRY89U9U",
+     "liga": "Meister 2",
+     "angriffe": 7,
+     "sterne": 21,
+     "dreier": 7
+    }
+   ]
   },
   "#LL2UYUVCV": {
    "name": "WB Hähnchendino",
@@ -2975,7 +4088,36 @@
     "angriffe": 7,
     "sterne": 21,
     "dreier": 7
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-11",
+     "clan": "Wurstbude",
+     "clantag": "#2LCGGC22L",
+     "liga": "Champion 1",
+     "angriffe": 7,
+     "sterne": 21,
+     "dreier": 7
+    },
+    {
+     "saison": "2026-10",
+     "clan": "Wurstbude",
+     "clantag": "#2LCGGC22L",
+     "liga": "Champion 1",
+     "angriffe": 7,
+     "sterne": 21,
+     "dreier": 7
+    },
+    {
+     "saison": "2026-09",
+     "clan": "Wurstbude",
+     "clantag": "#2LCGGC22L",
+     "liga": "Champion 1",
+     "angriffe": 7,
+     "sterne": 20,
+     "dreier": 6
+    }
+   ]
   },
   "#LUL9YGJGP": {
    "name": "『VØID』",
@@ -3060,7 +4202,36 @@
     "angriffe": 7,
     "sterne": 21,
     "dreier": 7
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-11",
+     "clan": "Würstchenbude",
+     "clantag": "#2JYURYLCL",
+     "liga": "Champion 3",
+     "angriffe": 7,
+     "sterne": 21,
+     "dreier": 7
+    },
+    {
+     "saison": "2026-10",
+     "clan": "Würstchenbude",
+     "clantag": "#2JYURYLCL",
+     "liga": "Champion 3",
+     "angriffe": 7,
+     "sterne": 20,
+     "dreier": 6
+    },
+    {
+     "saison": "2026-09",
+     "clan": "Würstchenbude",
+     "clantag": "#2JYURYLCL",
+     "liga": "Meister 1",
+     "angriffe": 6,
+     "sterne": 17,
+     "dreier": 5
+    }
+   ]
   },
   "#PG0JJ9U": {
    "name": "Alex",
@@ -3135,7 +4306,36 @@
     "angriffe": 5,
     "sterne": 13,
     "dreier": 3
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-11",
+     "clan": "Würstchenbude",
+     "clantag": "#2JYURYLCL",
+     "liga": "Champion 3",
+     "angriffe": 5,
+     "sterne": 13,
+     "dreier": 3
+    },
+    {
+     "saison": "2026-10",
+     "clan": "Würstchenbude",
+     "clantag": "#2JYURYLCL",
+     "liga": "Champion 3",
+     "angriffe": 7,
+     "sterne": 19,
+     "dreier": 5
+    },
+    {
+     "saison": "2026-09",
+     "clan": "Würstchenbude",
+     "clantag": "#2JYURYLCL",
+     "liga": "Meister 1",
+     "angriffe": 5,
+     "sterne": 12,
+     "dreier": 2
+    }
+   ]
   },
   "#PJL2V290P": {
    "name": "Nasenelf",
@@ -3220,7 +4420,36 @@
     "angriffe": 7,
     "sterne": 21,
     "dreier": 7
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-11",
+     "clan": "Wurstbude",
+     "clantag": "#2LCGGC22L",
+     "liga": "Champion 1",
+     "angriffe": 7,
+     "sterne": 21,
+     "dreier": 7
+    },
+    {
+     "saison": "2026-10",
+     "clan": "German Monkeys",
+     "clantag": "#2GQJJ0RYQ",
+     "liga": "Champion 2",
+     "angriffe": 7,
+     "sterne": 20,
+     "dreier": 6
+    },
+    {
+     "saison": "2026-09",
+     "clan": "German Monkeys",
+     "clantag": "#2GQJJ0RYQ",
+     "liga": "Champion 2",
+     "angriffe": 7,
+     "sterne": 19,
+     "dreier": 5
+    }
+   ]
   },
   "#PRUPJL0Q9": {
    "name": "⛥ɱσʂƚɯαɳƚȥ⛥ッ",
@@ -3305,7 +4534,36 @@
     "angriffe": 7,
     "sterne": 20,
     "dreier": 6
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-11",
+     "clan": "Würstchenbude",
+     "clantag": "#2JYURYLCL",
+     "liga": "Champion 3",
+     "angriffe": 7,
+     "sterne": 20,
+     "dreier": 6
+    },
+    {
+     "saison": "2026-10",
+     "clan": "German Monkeys",
+     "clantag": "#2GQJJ0RYQ",
+     "liga": "Champion 2",
+     "angriffe": 7,
+     "sterne": 21,
+     "dreier": 7
+    },
+    {
+     "saison": "2026-09",
+     "clan": "German Monkeys",
+     "clantag": "#2GQJJ0RYQ",
+     "liga": "Champion 2",
+     "angriffe": 7,
+     "sterne": 18,
+     "dreier": 4
+    }
+   ]
   },
   "#PVPJ0VUC": {
    "name": "WB Freddy",
@@ -3380,7 +4638,36 @@
     "angriffe": 7,
     "sterne": 21,
     "dreier": 7
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-11",
+     "clan": "Wurstbude",
+     "clantag": "#2LCGGC22L",
+     "liga": "Champion 1",
+     "angriffe": 7,
+     "sterne": 21,
+     "dreier": 7
+    },
+    {
+     "saison": "2026-10",
+     "clan": "Wurstbude",
+     "clantag": "#2LCGGC22L",
+     "liga": "Champion 1",
+     "angriffe": 7,
+     "sterne": 21,
+     "dreier": 7
+    },
+    {
+     "saison": "2026-09",
+     "clan": "Wurstbude",
+     "clantag": "#2LCGGC22L",
+     "liga": "Champion 1",
+     "angriffe": 7,
+     "sterne": 21,
+     "dreier": 7
+    }
+   ]
   },
   "#Q9G2JL0U": {
    "name": "Flashbang",
@@ -3465,7 +4752,36 @@
     "angriffe": 7,
     "sterne": 21,
     "dreier": 7
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-11",
+     "clan": "! ELITE !",
+     "clantag": "#2QCVU28QV",
+     "liga": "Champion 2",
+     "angriffe": 7,
+     "sterne": 21,
+     "dreier": 7
+    },
+    {
+     "saison": "2026-10",
+     "clan": "WAR IMPERIUM",
+     "clantag": "#2QG2RVUCL",
+     "liga": "Champion 1",
+     "angriffe": 7,
+     "sterne": 21,
+     "dreier": 7
+    },
+    {
+     "saison": "2026-09",
+     "clan": "WAR IMPERIUM",
+     "clantag": "#2QG2RVUCL",
+     "liga": "Champion 2",
+     "angriffe": 7,
+     "sterne": 19,
+     "dreier": 6
+    }
+   ]
   },
   "#QGJ0J8CYR": {
    "name": "G!B Rivella",
@@ -3555,7 +4871,36 @@
     "angriffe": 7,
     "sterne": 21,
     "dreier": 7
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-11",
+     "clan": "Wursttheke",
+     "clantag": "#2C09CPYU8",
+     "liga": "Meister 2",
+     "angriffe": 7,
+     "sterne": 21,
+     "dreier": 7
+    },
+    {
+     "saison": "2026-10",
+     "clan": "Wursttheke",
+     "clantag": "#2C09CPYU8",
+     "liga": "Meister 3",
+     "angriffe": 5,
+     "sterne": 15,
+     "dreier": 5
+    },
+    {
+     "saison": "2026-09",
+     "clan": "Get Clapped!",
+     "clantag": "#2GRY89U9U",
+     "liga": "Meister 2",
+     "angriffe": 7,
+     "sterne": 21,
+     "dreier": 7
+    }
+   ]
   },
   "#QJV8UUGRJ": {
    "name": "aaadd",
@@ -3640,7 +4985,36 @@
     "angriffe": 7,
     "sterne": 20,
     "dreier": 6
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-11",
+     "clan": "Wursttheke",
+     "clantag": "#2C09CPYU8",
+     "liga": "Meister 2",
+     "angriffe": 7,
+     "sterne": 20,
+     "dreier": 6
+    },
+    {
+     "saison": "2026-10",
+     "clan": "Würstchenbude",
+     "clantag": "#2JYURYLCL",
+     "liga": "Champion 3",
+     "angriffe": 7,
+     "sterne": 18,
+     "dreier": 4
+    },
+    {
+     "saison": "2026-09",
+     "clan": "Würstchenbude",
+     "clantag": "#2JYURYLCL",
+     "liga": "Meister 1",
+     "angriffe": 7,
+     "sterne": 20,
+     "dreier": 6
+    }
+   ]
   },
   "#QL2LQCGR": {
    "name": "Daniel",
@@ -3715,7 +5089,36 @@
       "stars": 19
      }
     }
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-10",
+     "clan": "Wurstbude",
+     "clantag": "#2LCGGC22L",
+     "liga": "Champion 1",
+     "angriffe": 4,
+     "sterne": 10,
+     "dreier": 3
+    },
+    {
+     "saison": "2026-06",
+     "clan": "Wurstbude",
+     "clantag": "#2LCGGC22L",
+     "liga": "Champion 2",
+     "angriffe": 3,
+     "sterne": 9,
+     "dreier": 3
+    },
+    {
+     "saison": "2026-01",
+     "clan": "Wurstbude",
+     "clantag": "#2LCGGC22L",
+     "liga": "Champion 2",
+     "angriffe": 7,
+     "sterne": 20,
+     "dreier": 6
+    }
+   ]
   },
   "#QRUU9QGU": {
    "name": "Philipp",
@@ -3770,7 +5173,36 @@
       "stars": 66
      }
     }
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-09",
+     "clan": "Crimson Sky",
+     "clantag": "#P0UJ09UR",
+     "liga": "Legende",
+     "angriffe": 5,
+     "sterne": 11,
+     "dreier": 1
+    },
+    {
+     "saison": "2026-08",
+     "clan": "Crimson Sky",
+     "clantag": "#P0UJ09UR",
+     "liga": "Titan 1",
+     "angriffe": 5,
+     "sterne": 13,
+     "dreier": 4
+    },
+    {
+     "saison": "2026-07",
+     "clan": "Endzone CWL",
+     "clantag": "#2QYJV0CJ2",
+     "liga": "Titan 1",
+     "angriffe": 4,
+     "sterne": 11,
+     "dreier": 3
+    }
+   ]
   },
   "#QVYJ9C0U9": {
    "name": "big boi ben",
@@ -3855,7 +5287,36 @@
     "angriffe": 7,
     "sterne": 20,
     "dreier": 6
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-11",
+     "clan": "Wursttheke",
+     "clantag": "#2C09CPYU8",
+     "liga": "Meister 2",
+     "angriffe": 7,
+     "sterne": 20,
+     "dreier": 6
+    },
+    {
+     "saison": "2026-10",
+     "clan": "Wursttheke",
+     "clantag": "#2C09CPYU8",
+     "liga": "Meister 3",
+     "angriffe": 7,
+     "sterne": 21,
+     "dreier": 7
+    },
+    {
+     "saison": "2026-09",
+     "clan": "Wurststand",
+     "clantag": "#2GGQ29000",
+     "liga": "Kristall 3",
+     "angriffe": 7,
+     "sterne": 21,
+     "dreier": 7
+    }
+   ]
   },
   "#R2Q8UU9U": {
    "name": "WB Timm",
@@ -3940,7 +5401,36 @@
     "angriffe": 6,
     "sterne": 16,
     "dreier": 4
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-11",
+     "clan": "Wurstbude",
+     "clantag": "#2LCGGC22L",
+     "liga": "Champion 1",
+     "angriffe": 6,
+     "sterne": 16,
+     "dreier": 4
+    },
+    {
+     "saison": "2026-10",
+     "clan": "Wurstbude",
+     "clantag": "#2LCGGC22L",
+     "liga": "Champion 1",
+     "angriffe": 7,
+     "sterne": 19,
+     "dreier": 5
+    },
+    {
+     "saison": "2026-09",
+     "clan": "Wurstbude",
+     "clantag": "#2LCGGC22L",
+     "liga": "Champion 1",
+     "angriffe": 7,
+     "sterne": 20,
+     "dreier": 6
+    }
+   ]
   },
   "#RJPGC2JV": {
    "name": "メĐagobert Đuckジ",
@@ -4025,7 +5515,36 @@
     "angriffe": 6,
     "sterne": 15,
     "dreier": 4
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-11",
+     "clan": "Würstchenbude",
+     "clantag": "#2JYURYLCL",
+     "liga": "Champion 3",
+     "angriffe": 6,
+     "sterne": 15,
+     "dreier": 4
+    },
+    {
+     "saison": "2026-10",
+     "clan": "German Monkeys",
+     "clantag": "#2GQJJ0RYQ",
+     "liga": "Champion 2",
+     "angriffe": 4,
+     "sterne": 10,
+     "dreier": 2
+    },
+    {
+     "saison": "2026-09",
+     "clan": "German Monkeys",
+     "clantag": "#2GQJJ0RYQ",
+     "liga": "Champion 2",
+     "angriffe": 6,
+     "sterne": 18,
+     "dreier": 6
+    }
+   ]
   },
   "#UR8RL09": {
    "name": "三 ★★★ 三",
@@ -4100,7 +5619,36 @@
     "angriffe": 7,
     "sterne": 21,
     "dreier": 7
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-11",
+     "clan": "Wurstbude",
+     "clantag": "#2LCGGC22L",
+     "liga": "Champion 1",
+     "angriffe": 7,
+     "sterne": 21,
+     "dreier": 7
+    },
+    {
+     "saison": "2026-10",
+     "clan": "メ WARRIORS メ",
+     "clantag": "#2U0G0LQGJ",
+     "liga": "Champion 2",
+     "angriffe": 7,
+     "sterne": 19,
+     "dreier": 5
+    },
+    {
+     "saison": "2026-09",
+     "clan": "Wurstbude",
+     "clantag": "#2LCGGC22L",
+     "liga": "Champion 1",
+     "angriffe": 4,
+     "sterne": 10,
+     "dreier": 2
+    }
+   ]
   },
   "#UUV2R80": {
    "name": "Zerbrösler",
@@ -4185,7 +5733,36 @@
     "angriffe": 6,
     "sterne": 17,
     "dreier": 5
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-11",
+     "clan": "Würstchenbude",
+     "clantag": "#2JYURYLCL",
+     "liga": "Champion 3",
+     "angriffe": 6,
+     "sterne": 17,
+     "dreier": 5
+    },
+    {
+     "saison": "2026-10",
+     "clan": "Wursttheke",
+     "clantag": "#2C09CPYU8",
+     "liga": "Meister 3",
+     "angriffe": 7,
+     "sterne": 21,
+     "dreier": 7
+    },
+    {
+     "saison": "2026-09",
+     "clan": "Würstchenbude",
+     "clantag": "#2JYURYLCL",
+     "liga": "Meister 1",
+     "angriffe": 7,
+     "sterne": 20,
+     "dreier": 6
+    }
+   ]
   },
   "#V9GQYUCJ": {
    "name": "Ｇｙｕｕｋｉッ",
@@ -4270,7 +5847,36 @@
     "angriffe": 7,
     "sterne": 21,
     "dreier": 7
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-11",
+     "clan": "Ruthless",
+     "clantag": "#2CJQYQGRL",
+     "liga": "Meister 3",
+     "angriffe": 7,
+     "sterne": 21,
+     "dreier": 7
+    },
+    {
+     "saison": "2026-10",
+     "clan": "German Monkeys",
+     "clantag": "#2GQJJ0RYQ",
+     "liga": "Champion 2",
+     "angriffe": 7,
+     "sterne": 21,
+     "dreier": 7
+    },
+    {
+     "saison": "2026-09",
+     "clan": "German Monkeys",
+     "clantag": "#2GQJJ0RYQ",
+     "liga": "Champion 2",
+     "angriffe": 7,
+     "sterne": 19,
+     "dreier": 6
+    }
+   ]
   },
   "#Y9UQCC9VQ": {
    "name": "GetOnMy23kGGbag",
@@ -4355,7 +5961,36 @@
     "angriffe": 6,
     "sterne": 16,
     "dreier": 5
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-11",
+     "clan": "Wursttheke",
+     "clantag": "#2C09CPYU8",
+     "liga": "Meister 2",
+     "angriffe": 6,
+     "sterne": 16,
+     "dreier": 5
+    },
+    {
+     "saison": "2026-10",
+     "clan": "Wursttheke",
+     "clantag": "#2C09CPYU8",
+     "liga": "Meister 3",
+     "angriffe": 7,
+     "sterne": 21,
+     "dreier": 7
+    },
+    {
+     "saison": "2026-09",
+     "clan": "Würstchenbude",
+     "clantag": "#2JYURYLCL",
+     "liga": "Meister 1",
+     "angriffe": 7,
+     "sterne": 21,
+     "dreier": 7
+    }
+   ]
   },
   "#YC0VCJQPQ": {
    "name": "WB Fabse",
@@ -4415,7 +6050,36 @@
     "angriffe": 7,
     "sterne": 19,
     "dreier": 5
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-11",
+     "clan": "Wursttheke",
+     "clantag": "#2C09CPYU8",
+     "liga": "Meister 2",
+     "angriffe": 7,
+     "sterne": 19,
+     "dreier": 5
+    },
+    {
+     "saison": "2026-10",
+     "clan": "Wursttheke",
+     "clantag": "#2C09CPYU8",
+     "liga": "Meister 3",
+     "angriffe": 7,
+     "sterne": 20,
+     "dreier": 6
+    },
+    {
+     "saison": "2026-09",
+     "clan": "Wurststand",
+     "clantag": "#2GGQ29000",
+     "liga": "Kristall 3",
+     "angriffe": 7,
+     "sterne": 19,
+     "dreier": 5
+    }
+   ]
   },
   "#YRRCCQLR8": {
    "name": "KillerBunny",
@@ -4490,7 +6154,36 @@
     "angriffe": 7,
     "sterne": 21,
     "dreier": 7
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-11",
+     "clan": "RAMMBOCK",
+     "clantag": "#2JU0YJUQP",
+     "liga": "Champion 3",
+     "angriffe": 7,
+     "sterne": 21,
+     "dreier": 7
+    },
+    {
+     "saison": "2026-10",
+     "clan": "RAMMBOCK",
+     "clantag": "#2JU0YJUQP",
+     "liga": "Meister 1",
+     "angriffe": 7,
+     "sterne": 19,
+     "dreier": 6
+    },
+    {
+     "saison": "2026-09",
+     "clan": "Wurstbude",
+     "clantag": "#2LCGGC22L",
+     "liga": "Champion 1",
+     "angriffe": 5,
+     "sterne": 12,
+     "dreier": 3
+    }
+   ]
   },
   "#YVUUVCVG8": {
    "name": "Joker",
@@ -4575,7 +6268,36 @@
     "angriffe": 7,
     "sterne": 20,
     "dreier": 6
-   }
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-11",
+     "clan": "Wursttheke",
+     "clantag": "#2C09CPYU8",
+     "liga": "Meister 2",
+     "angriffe": 7,
+     "sterne": 20,
+     "dreier": 6
+    },
+    {
+     "saison": "2026-10",
+     "clan": "Wursttheke",
+     "clantag": "#2C09CPYU8",
+     "liga": "Meister 3",
+     "angriffe": 7,
+     "sterne": 21,
+     "dreier": 7
+    },
+    {
+     "saison": "2026-09",
+     "clan": "die Aktiven",
+     "clantag": "#2L0RYGLVP",
+     "liga": "Meister 1",
+     "angriffe": 6,
+     "sterne": 18,
+     "dreier": 6
+    }
+   ]
   }
  },
  "stand_zeit": "2026-11-22T22:30:00Z"
