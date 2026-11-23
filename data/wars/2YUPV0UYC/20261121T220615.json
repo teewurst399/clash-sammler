@@ -1341,11 +1341,187 @@
    "p": 66,
    "s": 2,
    "side": "clan"
+  },
+  {
+   "a": "#RCC0LV0P",
+   "ath": 19,
+   "d": "#8YJ2VLCU0",
+   "dth": 19,
+   "dur": 166,
+   "o": 123,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#RCC0LV0P",
+   "ath": 19,
+   "d": "#Y0CGQPG2P",
+   "dth": 19,
+   "dur": 168,
+   "o": 124,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#P9QPJVVRR",
+   "ath": 19,
+   "d": "#2CGQ0QGYC",
+   "dth": 19,
+   "dur": 133,
+   "o": 125,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#P9QPJVVRR",
+   "ath": 19,
+   "d": "#8JR282YGY",
+   "dth": 19,
+   "dur": 133,
+   "o": 126,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#LRQ0Q8LQC",
+   "ath": 19,
+   "d": "#8CV99UY8C",
+   "dth": 19,
+   "dur": 143,
+   "o": 127,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#LRQ0Q8LQC",
+   "ath": 19,
+   "d": "#Q9020QQPQ",
+   "dth": 19,
+   "dur": 115,
+   "o": 128,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#L8CU829Q",
+   "ath": 19,
+   "d": "#8JLY2JRP0",
+   "dth": 19,
+   "dur": 134,
+   "o": 129,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#L8CU829Q",
+   "ath": 19,
+   "d": "#YVGVGL98G",
+   "dth": 19,
+   "dur": 17,
+   "o": 130,
+   "p": 21,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#2CGQ0QGYC",
+   "ath": 19,
+   "d": "#YVGVGL98G",
+   "dth": 19,
+   "dur": 105,
+   "o": 131,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#LCGJQVCC0",
+   "ath": 19,
+   "d": "#GJYJ9QPVV",
+   "dth": 19,
+   "dur": 67,
+   "o": 132,
+   "p": 33,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#LCGJQVCC0",
+   "ath": 19,
+   "d": "#YVGVGL98G",
+   "dth": 19,
+   "dur": 50,
+   "o": 133,
+   "p": 30,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#Q9P802089",
+   "ath": 19,
+   "d": "#YVGVGL98G",
+   "dth": 19,
+   "dur": 180,
+   "o": 134,
+   "p": 41,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#Q9P802089",
+   "ath": 19,
+   "d": "#8R8VVJ0V8",
+   "dth": 19,
+   "dur": 180,
+   "o": 135,
+   "p": 61,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#9VU9LJG",
+   "ath": 19,
+   "d": "#8R8VVJ0V8",
+   "dth": 19,
+   "dur": 59,
+   "o": 136,
+   "p": 35,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#9VU9LJG",
+   "ath": 19,
+   "d": "#L09LC9JRQ",
+   "dth": 19,
+   "dur": 45,
+   "o": 137,
+   "p": 43,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#8JR282YGY",
+   "ath": 19,
+   "d": "#YVGVGL98G",
+   "dth": 19,
+   "dur": 45,
+   "o": 138,
+   "p": 48,
+   "s": 1,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 98.075,
+  "destruction": 100.0,
   "members": [
    {
     "name": "LOST☆stefan",
@@ -1589,7 +1765,7 @@
    }
   ],
   "name": "LOST 3",
-  "stars": 114,
+  "stars": 120,
   "tag": "#2YUPV0UYC"
  },
  "end": "20261123T210615.000Z",

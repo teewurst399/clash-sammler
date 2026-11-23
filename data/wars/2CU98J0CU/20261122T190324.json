@@ -362,11 +362,99 @@
    "p": 92,
    "s": 2,
    "side": "clan"
+  },
+  {
+   "a": "#LQVCGC20",
+   "ath": 19,
+   "d": "#LQVC8VG2L",
+   "dth": 19,
+   "dur": 159,
+   "o": 34,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#PUU0C9JV",
+   "ath": 19,
+   "d": "#JJG02CG9",
+   "dth": 19,
+   "dur": 97,
+   "o": 35,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#PUU0C9JV",
+   "ath": 19,
+   "d": "#22CU08RL",
+   "dth": 19,
+   "dur": 84,
+   "o": 36,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#LQVCGC20",
+   "ath": 19,
+   "d": "#CJRL9QR",
+   "dth": 19,
+   "dur": 180,
+   "o": 37,
+   "p": 92,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#QLY0UCP0R",
+   "ath": 19,
+   "d": "#2JG8PR92",
+   "dth": 19,
+   "dur": 119,
+   "o": 38,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#QLY0UCP0R",
+   "ath": 19,
+   "d": "#PGJ20QCLR",
+   "dth": 19,
+   "dur": 146,
+   "o": 39,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#P9PYGQUQ",
+   "ath": 19,
+   "d": "#2U9PU0U0Q",
+   "dth": 19,
+   "dur": 156,
+   "o": 40,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#P9PYGQUQ",
+   "ath": 19,
+   "d": "#L8YQ8CQQU",
+   "dth": 19,
+   "dur": 148,
+   "o": 41,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 30.933332,
+  "destruction": 42.22222,
   "members": [
    {
     "name": "Patrón",
@@ -640,12 +728,12 @@
    }
   ],
   "name": "Throne_of_SRG",
-  "stars": 41,
+  "stars": 57,
   "tag": "#2CU98J0CU"
  },
  "end": "20261124T180324.000Z",
  "opponent": {
-  "destruction": 36.866665,
+  "destruction": 41.133335,
   "members": [
    {
     "name": "[SK]◾Mr.White",
@@ -919,7 +1007,7 @@
    }
   ],
   "name": "SteinFrucht",
-  "stars": 48,
+  "stars": 52,
   "tag": "#2JU9URU2L"
  },
  "start": "20261123T180324.000Z",

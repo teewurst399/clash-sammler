@@ -1266,7 +1266,7 @@
   "tag": "#2CPQ8LU"
  },
  "start": "20261122T203544.000Z",
- "state": "inWar",
+ "state": "warEnded",
  "teamSize": 25,
  "type": "krieg"
 }

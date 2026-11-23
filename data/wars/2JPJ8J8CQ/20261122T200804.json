@@ -241,11 +241,176 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#QGR8JVQUJ",
+   "ath": 19,
+   "d": "#2GYCRLQ0P",
+   "dth": 19,
+   "dur": 140,
+   "o": 23,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#P8YUGVGGG",
+   "ath": 19,
+   "d": "#CY9YPYP",
+   "dth": 19,
+   "dur": 157,
+   "o": 24,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#28RJLU09",
+   "ath": 19,
+   "d": "#YR0V9GPQU",
+   "dth": 19,
+   "dur": 180,
+   "o": 25,
+   "p": 95,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#C998CV9Q",
+   "ath": 19,
+   "d": "#8JRJP8JV",
+   "dth": 19,
+   "dur": 154,
+   "o": 26,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#P8YUGVGGG",
+   "ath": 19,
+   "d": "#9YYYQC9R",
+   "dth": 19,
+   "dur": 93,
+   "o": 27,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#2GYCRLQ0P",
+   "ath": 19,
+   "d": "#J00G9GC",
+   "dth": 19,
+   "dur": 156,
+   "o": 28,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#8GVLGCQ2C",
+   "ath": 19,
+   "d": "#JUPCYPRP",
+   "dth": 19,
+   "dur": 131,
+   "o": 29,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#28RJLU09",
+   "ath": 19,
+   "d": "#2QLPUVRVR",
+   "dth": 19,
+   "dur": 158,
+   "o": 30,
+   "p": 89,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#8GVLGCQ2C",
+   "ath": 19,
+   "d": "#YR0V9GPQU",
+   "dth": 19,
+   "dur": 133,
+   "o": 31,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#2GYCRLQ0P",
+   "ath": 19,
+   "d": "#P9PC0R99",
+   "dth": 19,
+   "dur": 169,
+   "o": 32,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#LYLL0J9G8",
+   "ath": 19,
+   "d": "#QC0JUJRPC",
+   "dth": 19,
+   "dur": 147,
+   "o": 33,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#C998CV9Q",
+   "ath": 19,
+   "d": "#LUP90GP9",
+   "dth": 19,
+   "dur": 145,
+   "o": 34,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#8PRV0Q0RU",
+   "ath": 19,
+   "d": "#C20P8PR8",
+   "dth": 19,
+   "dur": 149,
+   "o": 35,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#UULCYVRR",
+   "ath": 19,
+   "d": "#PY0PYR2J",
+   "dth": 19,
+   "dur": 154,
+   "o": 36,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#UULCYVRR",
+   "ath": 19,
+   "d": "#J0RCR29J",
+   "dth": 19,
+   "dur": 180,
+   "o": 37,
+   "p": 83,
+   "s": 2,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 12.666667,
+  "destruction": 29.822222,
   "members": [
    {
     "name": "Louis",
@@ -519,12 +684,12 @@
    }
   ],
   "name": "Pokerzone",
-  "stars": 15,
+  "stars": 36,
   "tag": "#2JPJ8J8CQ"
  },
  "end": "20261124T190804.000Z",
  "opponent": {
-  "destruction": 30.555555,
+  "destruction": 37.555557,
   "members": [
    {
     "name": "<--CRUSHER-->",
@@ -798,7 +963,7 @@
    }
   ],
   "name": "IronSky",
-  "stars": 38,
+  "stars": 50,
   "tag": "#9C9QQJPJ"
  },
  "start": "20261123T190804.000Z",

@@ -230,11 +230,121 @@
    "p": 85,
    "s": 1,
    "side": "gegner"
+  },
+  {
+   "a": "#YY90Y2L8G",
+   "ath": 19,
+   "d": "#80LLV0UGP",
+   "dth": 19,
+   "dur": 174,
+   "o": 22,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#QJ9QLY2L",
+   "ath": 19,
+   "d": "#UPGL88UQ",
+   "dth": 19,
+   "dur": 111,
+   "o": 23,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#909JG899",
+   "ath": 19,
+   "d": "#R0LJR999",
+   "dth": 19,
+   "dur": 172,
+   "o": 24,
+   "p": 88,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#L2R8YPL28",
+   "ath": 19,
+   "d": "#2PC9RJ8LY",
+   "dth": 19,
+   "dur": 151,
+   "o": 25,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#909JG899",
+   "ath": 19,
+   "d": "#PYL82GJ8",
+   "dth": 19,
+   "dur": 124,
+   "o": 26,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#VJVLC0JL",
+   "ath": 19,
+   "d": "#QP8CCQRYY",
+   "dth": 19,
+   "dur": 121,
+   "o": 27,
+   "p": 79,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#J8LJQ0UY",
+   "ath": 19,
+   "d": "#208CY00UV",
+   "dth": 19,
+   "dur": 180,
+   "o": 28,
+   "p": 72,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#20Q9J0JJU",
+   "ath": 19,
+   "d": "#YGLYR8JRU",
+   "dth": 19,
+   "dur": 142,
+   "o": 29,
+   "p": 92,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#P00Y8RJG",
+   "ath": 19,
+   "d": "#G2GRRJ9L",
+   "dth": 19,
+   "dur": 118,
+   "o": 30,
+   "p": 80,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#2J9RQ0G",
+   "ath": 19,
+   "d": "#P0098RUQ",
+   "dth": 19,
+   "dur": 180,
+   "o": 31,
+   "p": 96,
+   "s": 2,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 25.714285,
+  "destruction": 28.571428,
   "members": [
    {
     "name": "GL™ ReViX",
@@ -448,12 +558,12 @@
    }
   ],
   "name": "GNADENLOS™",
-  "stars": 27,
+  "stars": 30,
   "tag": "#U2JVY229"
  },
  "end": "20261124T185144.000Z",
  "opponent": {
-  "destruction": 18.657143,
+  "destruction": 39.657143,
   "members": [
    {
     "name": "⚡️SuddenDeath⚡️",
@@ -667,7 +777,7 @@
    }
   ],
   "name": "OpasLuXusSofa",
-  "stars": 19,
+  "stars": 38,
   "tag": "#20LJYU090"
  },
  "start": "20261123T185144.000Z",

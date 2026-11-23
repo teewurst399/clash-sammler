@@ -1,0 +1,430 @@
+{
+ "attacks": [
+  {
+   "a": "#VG9PPGUR",
+   "ath": 19,
+   "d": "#Q9L2G29UJ",
+   "dth": 19,
+   "dur": 165,
+   "o": 1,
+   "p": 75,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#VG9PPGUR",
+   "ath": 19,
+   "d": "#LP9U82QUR",
+   "dth": 19,
+   "dur": 121,
+   "o": 2,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#9CVRVL0YJ",
+   "ath": 19,
+   "d": "#22PUVQU29",
+   "dth": 19,
+   "dur": 144,
+   "o": 3,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#9CVRVL0YJ",
+   "ath": 19,
+   "d": "#LY0LGR99G",
+   "dth": 19,
+   "dur": 180,
+   "o": 4,
+   "p": 95,
+   "s": 2,
+   "side": "gegner"
+  }
+ ],
+ "attacksPerMember": 2,
+ "clan": {
+  "destruction": 5.8333335,
+  "members": [
+   {
+    "name": "×ºkͥyuͣuͫº×",
+    "pos": 15,
+    "tag": "#LL2U0UQPV",
+    "th": 19
+   },
+   {
+    "name": "truz",
+    "pos": 6,
+    "tag": "#GCRGG08L",
+    "th": 19
+   },
+   {
+    "name": "g o o d y⚡️",
+    "pos": 21,
+    "tag": "#82VQGLC8",
+    "th": 19
+   },
+   {
+    "name": "Trizordo",
+    "pos": 26,
+    "tag": "#J2YQRQQ",
+    "th": 19
+   },
+   {
+    "name": "EZ⚡ZiNox⚡",
+    "pos": 10,
+    "tag": "#QRPUY82R9",
+    "th": 19
+   },
+   {
+    "name": "Pr4nger",
+    "pos": 19,
+    "tag": "#R98Q9VGV",
+    "th": 19
+   },
+   {
+    "name": "PeterLuto_2.0",
+    "pos": 27,
+    "tag": "#G2V89JU00",
+    "th": 19
+   },
+   {
+    "name": "Blizzard",
+    "pos": 9,
+    "tag": "#VG9PPGUR",
+    "th": 19
+   },
+   {
+    "name": "Blitzi",
+    "pos": 24,
+    "tag": "#L8C0PP09J",
+    "th": 19
+   },
+   {
+    "name": "Tiger",
+    "pos": 12,
+    "tag": "#L2UUC9G82",
+    "th": 19
+   },
+   {
+    "name": "GameSports",
+    "pos": 7,
+    "tag": "#YVU0G8JP",
+    "th": 19
+   },
+   {
+    "name": "KJ",
+    "pos": 1,
+    "tag": "#22PUVQU29",
+    "th": 19
+   },
+   {
+    "name": "TABAHHKAR!",
+    "pos": 5,
+    "tag": "#PVJR2UYVL",
+    "th": 19
+   },
+   {
+    "name": "n-player2",
+    "pos": 3,
+    "tag": "#Y2RQL9GR",
+    "th": 19
+   },
+   {
+    "name": "chuck morris",
+    "pos": 4,
+    "tag": "#2G8RVJ9R2",
+    "th": 19
+   },
+   {
+    "name": "Julian",
+    "pos": 11,
+    "tag": "#Q0V9QV8L",
+    "th": 19
+   },
+   {
+    "name": "[CG] Mo47",
+    "pos": 28,
+    "tag": "#JUPRQ02C",
+    "th": 19
+   },
+   {
+    "name": "Berchan31",
+    "pos": 20,
+    "tag": "#QQV88C0U2",
+    "th": 19
+   },
+   {
+    "name": "EselAuf3Beinen",
+    "pos": 2,
+    "tag": "#LY0LGR99G",
+    "th": 19
+   },
+   {
+    "name": "dtKim",
+    "pos": 14,
+    "tag": "#9PYLJUUY2",
+    "th": 19
+   },
+   {
+    "name": "stefan F2P",
+    "pos": 23,
+    "tag": "#GUPVG00LC",
+    "th": 19
+   },
+   {
+    "name": "ForstNaoto",
+    "pos": 8,
+    "tag": "#P08LVGR0U",
+    "th": 19
+   },
+   {
+    "name": "Maurice 9u",
+    "pos": 25,
+    "tag": "#Y8992GYPG",
+    "th": 19
+   },
+   {
+    "name": "Benetic1",
+    "pos": 29,
+    "tag": "#PL8P8PP9V",
+    "th": 19
+   },
+   {
+    "name": "⚔Reaper⚔",
+    "pos": 30,
+    "tag": "#LQRUCQYGU",
+    "th": 18
+   },
+   {
+    "name": "arlo",
+    "pos": 17,
+    "tag": "#Q29288RV9",
+    "th": 19
+   },
+   {
+    "name": "4FäusteGegenRio",
+    "pos": 22,
+    "tag": "#2UJ2JG9Y0",
+    "th": 19
+   },
+   {
+    "name": "JSTN",
+    "pos": 13,
+    "tag": "#P02PC8UPU",
+    "th": 19
+   },
+   {
+    "name": "Sucxes",
+    "pos": 18,
+    "tag": "#9PJJ80JYQ",
+    "th": 19
+   },
+   {
+    "name": "stetson",
+    "pos": 16,
+    "tag": "#8RVYPQCRG",
+    "th": 19
+   }
+  ],
+  "name": "Thirdzone",
+  "stars": 4,
+  "tag": "#2GCQLVPR9"
+ },
+ "end": "20261124T201217.000Z",
+ "opponent": {
+  "destruction": 6.5,
+  "members": [
+   {
+    "name": "Pascal",
+    "pos": 28,
+    "tag": "#28UU0VG0J",
+    "th": 19
+   },
+   {
+    "name": "JL✨Easy",
+    "pos": 27,
+    "tag": "#PVP89R80",
+    "th": 19
+   },
+   {
+    "name": "ThiloZz",
+    "pos": 11,
+    "tag": "#CCPJQ9L2",
+    "th": 19
+   },
+   {
+    "name": "ᏯᏱlonely_wolfᎭᎦ",
+    "pos": 23,
+    "tag": "#20R9G92VQ",
+    "th": 19
+   },
+   {
+    "name": "JL✨alex1007",
+    "pos": 5,
+    "tag": "#28LCLCL0R",
+    "th": 19
+   },
+   {
+    "name": "JL✨️Moo",
+    "pos": 17,
+    "tag": "#8YGLRUQVQ",
+    "th": 19
+   },
+   {
+    "name": "ɛakaliɜ",
+    "pos": 14,
+    "tag": "#Y029J2J99",
+    "th": 19
+   },
+   {
+    "name": "༺Leͥgeͣnͫd™",
+    "pos": 21,
+    "tag": "#9CVRVL0YJ",
+    "th": 19
+   },
+   {
+    "name": "Brasti",
+    "pos": 13,
+    "tag": "#QGCUP0YC",
+    "th": 19
+   },
+   {
+    "name": "G!B Schlitz",
+    "pos": 26,
+    "tag": "#PG9U0Y0PP",
+    "th": 19
+   },
+   {
+    "name": "JL✨maXXXimus",
+    "pos": 12,
+    "tag": "#Q9L2G29UJ",
+    "th": 19
+   },
+   {
+    "name": "Phantom",
+    "pos": 7,
+    "tag": "#P9VVPLV2",
+    "th": 19
+   },
+   {
+    "name": "CORNholio",
+    "pos": 3,
+    "tag": "#QVCRRUL9V",
+    "th": 19
+   },
+   {
+    "name": "King of Respect",
+    "pos": 29,
+    "tag": "#8G8PQG8QL",
+    "th": 18
+   },
+   {
+    "name": "JL✨Axo",
+    "pos": 24,
+    "tag": "#L8Q9VL8",
+    "th": 19
+   },
+   {
+    "name": "MC Praxx",
+    "pos": 18,
+    "tag": "#CRVLVG0",
+    "th": 19
+   },
+   {
+    "name": "Akali лo Goty",
+    "pos": 6,
+    "tag": "#LP9U82QUR",
+    "th": 19
+   },
+   {
+    "name": "JL✨Phil",
+    "pos": 19,
+    "tag": "#8VRVYVUP",
+    "th": 19
+   },
+   {
+    "name": "JL✨Vicious",
+    "pos": 25,
+    "tag": "#PCVGP8PU2",
+    "th": 19
+   },
+   {
+    "name": "lexy",
+    "pos": 16,
+    "tag": "#2YC228GU",
+    "th": 19
+   },
+   {
+    "name": "JL✨LassoIasagne",
+    "pos": 10,
+    "tag": "#QPLY9QC9",
+    "th": 19
+   },
+   {
+    "name": "CLASHER",
+    "pos": 2,
+    "tag": "#2LR2JYCG8",
+    "th": 19
+   },
+   {
+    "name": "King Kai",
+    "pos": 15,
+    "tag": "#800U92RV",
+    "th": 19
+   },
+   {
+    "name": "JL✨H0041",
+    "pos": 8,
+    "tag": "#JU2Q8C0U",
+    "th": 19
+   },
+   {
+    "name": "JL✨️JonasXnine",
+    "pos": 20,
+    "tag": "#2JGGJC89L",
+    "th": 19
+   },
+   {
+    "name": "JL✨️Mo",
+    "pos": 30,
+    "tag": "#JLJVY82Y",
+    "th": 19
+   },
+   {
+    "name": "Vicious",
+    "pos": 9,
+    "tag": "#8GLYCP8YL",
+    "th": 19
+   },
+   {
+    "name": "vS System",
+    "pos": 1,
+    "tag": "#G898YGURC",
+    "th": 19
+   },
+   {
+    "name": "Akali❤️Legend",
+    "pos": 22,
+    "tag": "#P2LJPRPVU",
+    "th": 19
+   },
+   {
+    "name": "JL✨️Empire",
+    "pos": 4,
+    "tag": "#YPLY0CC89",
+    "th": 19
+   }
+  ],
+  "name": "\"janda lovers\"",
+  "stars": 5,
+  "tag": "#VJRRJQ8Y"
+ },
+ "start": "20261123T201217.000Z",
+ "state": "inWar",
+ "teamSize": 30,
+ "type": "krieg"
+}

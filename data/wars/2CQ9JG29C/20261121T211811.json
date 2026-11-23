@@ -1253,6 +1253,17 @@
    "p": 97,
    "s": 2,
    "side": "gegner"
+  },
+  {
+   "a": "#2YYPPJC0U",
+   "ath": 18,
+   "d": "#2LQVJLCJP",
+   "dth": 19,
+   "dur": 160,
+   "o": 115,
+   "p": 86,
+   "s": 2,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -1694,7 +1705,7 @@
   "tag": "#28UUUVL88"
  },
  "start": "20261122T201811.000Z",
- "state": "inWar",
+ "state": "warEnded",
  "teamSize": 35,
  "type": "krieg"
 }
