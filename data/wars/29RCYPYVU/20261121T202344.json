@@ -648,6 +648,17 @@
    "p": 84,
    "s": 2,
    "side": "gegner"
+  },
+  {
+   "a": "#9LGP0UJQ",
+   "ath": 19,
+   "d": "#PVLYGYC8Y",
+   "dth": 18,
+   "dur": 136,
+   "o": 60,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -811,7 +822,7 @@
  },
  "end": "20261123T192344.000Z",
  "opponent": {
-  "destruction": 98.76,
+  "destruction": 99.36,
   "members": [
    {
     "name": "jeppe k",
@@ -965,7 +976,7 @@
    }
   ],
   "name": "iWar Chillers",
-  "stars": 72,
+  "stars": 73,
   "tag": "#2QVP9CV0"
  },
  "start": "20261122T192344.000Z",

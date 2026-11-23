@@ -868,11 +868,121 @@
    "p": 80,
    "s": 2,
    "side": "clan"
+  },
+  {
+   "a": "#9YU2QR9GV",
+   "ath": 19,
+   "d": "#LURPQ9QGQ",
+   "dth": 19,
+   "dur": 114,
+   "o": 80,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#GYPJPGR00",
+   "ath": 19,
+   "d": "#L8CVQCY0P",
+   "dth": 19,
+   "dur": 159,
+   "o": 81,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#8CYQ8UVJL",
+   "ath": 19,
+   "d": "#C2PYPQLL",
+   "dth": 19,
+   "dur": 155,
+   "o": 82,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#PG0JJ9U",
+   "ath": 19,
+   "d": "#LQURU8CLG",
+   "dth": 19,
+   "dur": 135,
+   "o": 83,
+   "p": 87,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#YVUUVCVG8",
+   "ath": 19,
+   "d": "#LYGPVPRGP",
+   "dth": 19,
+   "dur": 107,
+   "o": 84,
+   "p": 87,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#GYPJPGR00",
+   "ath": 19,
+   "d": "#8CYQ8UVJL",
+   "dth": 19,
+   "dur": 152,
+   "o": 85,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#YVUUVCVG8",
+   "ath": 19,
+   "d": "#QUU0R82QV",
+   "dth": 19,
+   "dur": 129,
+   "o": 86,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#PG0JJ9U",
+   "ath": 19,
+   "d": "#8PGPCQ2YU",
+   "dth": 19,
+   "dur": 124,
+   "o": 87,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#8CYQ8UVJL",
+   "ath": 19,
+   "d": "#G0G00Q9VL",
+   "dth": 19,
+   "dur": 158,
+   "o": 88,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#PRUCYQ9RP",
+   "ath": 19,
+   "d": "#G9YGCC228",
+   "dth": 19,
+   "dur": 108,
+   "o": 89,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 71.0,
+  "destruction": 82.111115,
   "members": [
    {
     "name": "WB Teewurst",
@@ -1146,12 +1256,12 @@
    }
   ],
   "name": "Wurstbude",
-  "stars": 89,
+  "stars": 104,
   "tag": "#2LCGGC22L"
  },
  "end": "20261123T202451.000Z",
  "opponent": {
-  "destruction": 71.111115,
+  "destruction": 77.77778,
   "members": [
    {
     "name": "S A N J A Y",
@@ -1425,7 +1535,7 @@
    }
   ],
   "name": "Lights End",
-  "stars": 96,
+  "stars": 105,
   "tag": "#2RYCGLV92"
  },
  "start": "20261122T202451.000Z",

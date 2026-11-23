@@ -373,11 +373,77 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#L8GCGYJ",
+   "ath": 18,
+   "d": "#9C2CLP2J",
+   "dth": 18,
+   "dur": 148,
+   "o": 35,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#Y0QUJRJL",
+   "ath": 17,
+   "d": "#9YRJ0PRVU",
+   "dth": 18,
+   "dur": 135,
+   "o": 36,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#9YRJ0PRVU",
+   "ath": 18,
+   "d": "#QU0VUUVYG",
+   "dth": 17,
+   "dur": 89,
+   "o": 37,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#9YRJ0PRVU",
+   "ath": 18,
+   "d": "#Y0QUJRJL",
+   "dth": 17,
+   "dur": 149,
+   "o": 38,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#QJ0J09JRY",
+   "ath": 19,
+   "d": "#U9890RJQ",
+   "dth": 19,
+   "dur": 112,
+   "o": 39,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#2PUPGGUPR",
+   "ath": 19,
+   "d": "#LJPCRGPPG",
+   "dth": 19,
+   "dur": 108,
+   "o": 40,
+   "p": 83,
+   "s": 1,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 16.566668,
+  "destruction": 23.233334,
   "members": [
    {
     "name": "Raugraf Hugo",
@@ -561,12 +627,12 @@
    }
   ],
   "name": "Betazone",
-  "stars": 14,
+  "stars": 20,
   "tag": "#2QLJ99LRJ"
  },
  "end": "20261123T210012.000Z",
  "opponent": {
-  "destruction": 85.433334,
+  "destruction": 89.76667,
   "members": [
    {
     "name": "iwan.rewa 100rb",
@@ -750,7 +816,7 @@
    }
   ],
   "name": "KUCING ANGGORA",
-  "stars": 73,
+  "stars": 79,
   "tag": "#2GYUVYJL0"
  },
  "start": "20261122T210012.000Z",

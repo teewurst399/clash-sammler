@@ -681,6 +681,39 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#GL9G2PC0C",
+   "ath": 19,
+   "d": "#2PCV8Q8PP",
+   "dth": 19,
+   "dur": 156,
+   "o": 63,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#LQP2U8UC",
+   "ath": 19,
+   "d": "#GJYPY80U0",
+   "dth": 19,
+   "dur": 102,
+   "o": 64,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#LQP2U8UC",
+   "ath": 19,
+   "d": "#8QYCV8RP",
+   "dth": 19,
+   "dur": 146,
+   "o": 65,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -904,7 +937,7 @@
  },
  "end": "20261123T201811.000Z",
  "opponent": {
-  "destruction": 64.14286,
+  "destruction": 67.91428,
   "members": [
    {
     "name": "Vendul",
@@ -1118,7 +1151,7 @@
    }
   ],
   "name": "Greenland SVK B",
-  "stars": 66,
+  "stars": 71,
   "tag": "#28UUUVL88"
  },
  "start": "20261122T201811.000Z",

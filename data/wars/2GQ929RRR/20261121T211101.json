@@ -1209,6 +1209,94 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#PL8URQ99",
+   "ath": 19,
+   "d": "#89VCY0V9",
+   "dth": 19,
+   "dur": 90,
+   "o": 111,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#Y2UJ0RYL",
+   "ath": 19,
+   "d": "#998R9VQQ9",
+   "dth": 19,
+   "dur": 141,
+   "o": 112,
+   "p": 85,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#G92RVCQL",
+   "ath": 19,
+   "d": "#9U29P882J",
+   "dth": 19,
+   "dur": 150,
+   "o": 113,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#Y2UJ0RYL",
+   "ath": 19,
+   "d": "#LRPJLGY8",
+   "dth": 19,
+   "dur": 167,
+   "o": 114,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#G92RVCQL",
+   "ath": 19,
+   "d": "#YYURCYRGJ",
+   "dth": 18,
+   "dur": 145,
+   "o": 115,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#2YJQL2LLQ",
+   "ath": 19,
+   "d": "#2JP9Q02PL",
+   "dth": 19,
+   "dur": 87,
+   "o": 116,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#2YJQL2LLQ",
+   "ath": 19,
+   "d": "#LCVQLC2LQ",
+   "dth": 19,
+   "dur": 84,
+   "o": 117,
+   "p": 62,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#PL8URQ99",
+   "ath": 19,
+   "d": "#VQJULJL9",
+   "dth": 19,
+   "dur": 129,
+   "o": 118,
+   "p": 57,
+   "s": 2,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
@@ -1492,7 +1580,7 @@
  },
  "end": "20261123T201101.000Z",
  "opponent": {
-  "destruction": 80.111115,
+  "destruction": 84.22222,
   "members": [
    {
     "name": "£°ºROUEº°¥",
@@ -1766,7 +1854,7 @@
    }
   ],
   "name": "PREDATOR LIGUE",
-  "stars": 100,
+  "stars": 105,
   "tag": "#2LL9UY9LQ"
  },
  "start": "20261122T201101.000Z",

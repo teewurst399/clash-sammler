@@ -1330,11 +1330,132 @@
    "p": 74,
    "s": 2,
    "side": "gegner"
+  },
+  {
+   "a": "#LQR8L2VCQ",
+   "ath": 19,
+   "d": "#PQQY80RLC",
+   "dth": 19,
+   "dur": 159,
+   "o": 122,
+   "p": 82,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#LQR8L2VCQ",
+   "ath": 19,
+   "d": "#LQ2CLJVP",
+   "dth": 19,
+   "dur": 179,
+   "o": 123,
+   "p": 99,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#Y2GGYPC8J",
+   "ath": 19,
+   "d": "#Y9JQLRJRQ",
+   "dth": 19,
+   "dur": 100,
+   "o": 124,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#8YV2P0RJ",
+   "ath": 19,
+   "d": "#PQQY80RLC",
+   "dth": 19,
+   "dur": 180,
+   "o": 125,
+   "p": 99,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#Y2GGYPC8J",
+   "ath": 19,
+   "d": "#2GPU29PPJ",
+   "dth": 19,
+   "dur": 29,
+   "o": 126,
+   "p": 40,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#8JGUCVQ8C",
+   "ath": 19,
+   "d": "#2GPU29PPJ",
+   "dth": 19,
+   "dur": 27,
+   "o": 127,
+   "p": 40,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#8JGUCVQ8C",
+   "ath": 19,
+   "d": "#28G22C902",
+   "dth": 19,
+   "dur": 29,
+   "o": 128,
+   "p": 29,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#QL08QYVR0",
+   "ath": 19,
+   "d": "#2GPU29PPJ",
+   "dth": 19,
+   "dur": 100,
+   "o": 129,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#QL08QYVR0",
+   "ath": 19,
+   "d": "#28G22C902",
+   "dth": 19,
+   "dur": 115,
+   "o": 130,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#U80R2VLL",
+   "ath": 19,
+   "d": "#2GPU29PPJ",
+   "dth": 19,
+   "dur": 94,
+   "o": 131,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#U80R2VLL",
+   "ath": 19,
+   "d": "#YLQ2VGJRY",
+   "dth": 19,
+   "dur": 98,
+   "o": 132,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 99.86,
+  "destruction": 100.0,
   "members": [
    {
     "name": "Hunga Munga",
@@ -1638,12 +1759,12 @@
    }
   ],
   "name": "Get Buttered!",
-  "stars": 149,
+  "stars": 150,
   "tag": "#2R98Y8YUJ"
  },
  "end": "20261123T190942.000Z",
  "opponent": {
-  "destruction": 99.92,
+  "destruction": 99.98,
   "members": [
    {
     "name": "⚡️IR.H⚡️ALI⚡️",

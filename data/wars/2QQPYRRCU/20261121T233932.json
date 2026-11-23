@@ -1044,6 +1044,127 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#QYY2GCG0Y",
+   "ath": 19,
+   "d": "#GV0RJ0082",
+   "dth": 18,
+   "dur": 120,
+   "o": 96,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#QYY2GCG0Y",
+   "ath": 19,
+   "d": "#GLUVJCP2P",
+   "dth": 18,
+   "dur": 88,
+   "o": 97,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#LU2YVQ8P0",
+   "ath": 19,
+   "d": "#V0VUVLV",
+   "dth": 19,
+   "dur": 178,
+   "o": 98,
+   "p": 93,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#LU2YVQ8P0",
+   "ath": 19,
+   "d": "#8QGYCLG0",
+   "dth": 19,
+   "dur": 133,
+   "o": 99,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#82CLLQJVL",
+   "ath": 19,
+   "d": "#L9PY0PLVC",
+   "dth": 19,
+   "dur": 115,
+   "o": 100,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#LU9VJUQGJ",
+   "ath": 19,
+   "d": "#V0VUVLV",
+   "dth": 19,
+   "dur": 136,
+   "o": 101,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#LU9VJUQGJ",
+   "ath": 19,
+   "d": "#LLUCLGLV0",
+   "dth": 19,
+   "dur": 132,
+   "o": 102,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#G8LRPP0CQ",
+   "ath": 19,
+   "d": "#8GPYR0C",
+   "dth": 18,
+   "dur": 79,
+   "o": 103,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#G8LRPP0CQ",
+   "ath": 19,
+   "d": "#QL8YLPJYL",
+   "dth": 19,
+   "dur": 100,
+   "o": 104,
+   "p": 86,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#YVGR0LVR2",
+   "ath": 19,
+   "d": "#8YVPGPYUC",
+   "dth": 19,
+   "dur": 67,
+   "o": 105,
+   "p": 36,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#YVGR0LVR2",
+   "ath": 19,
+   "d": "#28220L22C",
+   "dth": 19,
+   "dur": 60,
+   "o": 106,
+   "p": 51,
+   "s": 2,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -1327,7 +1448,7 @@
  },
  "end": "20261123T223932.000Z",
  "opponent": {
-  "destruction": 92.62222,
+  "destruction": 100.0,
   "members": [
    {
     "name": "ミ★QuốcĐịɴн★彡",
@@ -1601,7 +1722,7 @@
    }
   ],
   "name": "VIỆT NAM TITAN❤",
-  "stars": 121,
+  "stars": 135,
   "tag": "#2J9UPVVLV"
  },
  "start": "20261122T223932.000Z",

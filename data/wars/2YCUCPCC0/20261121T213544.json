@@ -538,11 +538,66 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#PGYYJ89Y9",
+   "ath": 19,
+   "d": "#LY8LUP900",
+   "dth": 18,
+   "dur": 157,
+   "o": 50,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#LR0CQPJ8C",
+   "ath": 17,
+   "d": "#2Q92JJ0PQ",
+   "dth": 18,
+   "dur": 177,
+   "o": 51,
+   "p": 92,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#G9YJ2LG02",
+   "ath": 17,
+   "d": "#2Q92JJ0PQ",
+   "dth": 18,
+   "dur": 180,
+   "o": 52,
+   "p": 98,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#G9YJ2LG02",
+   "ath": 17,
+   "d": "#8G209CU0",
+   "dth": 19,
+   "dur": 91,
+   "o": 53,
+   "p": 58,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#QQVJ2VLCL",
+   "ath": 19,
+   "d": "#G9YJ2LG02",
+   "dth": 17,
+   "dur": 155,
+   "o": 54,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 99.64,
+  "destruction": 99.92,
   "members": [
    {
     "name": "Doxos_NM",
@@ -696,12 +751,12 @@
    }
   ],
   "name": "Alphazone",
-  "stars": 73,
+  "stars": 74,
   "tag": "#2YCUCPCC0"
  },
  "end": "20261123T203544.000Z",
  "opponent": {
-  "destruction": 74.04,
+  "destruction": 78.04,
   "members": [
    {
     "name": "MR_98JAY",
@@ -855,7 +910,7 @@
    }
   ],
   "name": "Crusher Clan!!",
-  "stars": 52,
+  "stars": 55,
   "tag": "#2CPQ8LU"
  },
  "start": "20261122T203544.000Z",

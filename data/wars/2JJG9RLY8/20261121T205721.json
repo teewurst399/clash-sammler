@@ -637,6 +637,28 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#880RPY90J",
+   "ath": 19,
+   "d": "#Q88LJQ29P",
+   "dth": 19,
+   "dur": 152,
+   "o": 59,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#880RPY90J",
+   "ath": 19,
+   "d": "#P2P0UL0UU",
+   "dth": 18,
+   "dur": 131,
+   "o": 60,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -860,7 +882,7 @@
  },
  "end": "20261123T195721.000Z",
  "opponent": {
-  "destruction": 94.542854,
+  "destruction": 98.25714,
   "members": [
    {
     "name": "trmavrma",
@@ -1074,7 +1096,7 @@
    }
   ],
   "name": "RONIN-CZ",
-  "stars": 95,
+  "stars": 99,
   "tag": "#PJ2JRLPL"
  },
  "start": "20261122T195721.000Z",
