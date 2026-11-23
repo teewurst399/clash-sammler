@@ -835,11 +835,110 @@
    "p": 90,
    "s": 2,
    "side": "gegner"
+  },
+  {
+   "a": "#22UJLV9VG",
+   "ath": 19,
+   "d": "#89PC0JQQ0",
+   "dth": 19,
+   "dur": 108,
+   "o": 77,
+   "p": 80,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#QUP80RLYU",
+   "ath": 18,
+   "d": "#QL28YV2V0",
+   "dth": 17,
+   "dur": 157,
+   "o": 78,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#22UJLV9VG",
+   "ath": 19,
+   "d": "#8PYGULPVJ",
+   "dth": 18,
+   "dur": 109,
+   "o": 79,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#QUP80RLYU",
+   "ath": 18,
+   "d": "#89PC0JQQ0",
+   "dth": 19,
+   "dur": 180,
+   "o": 80,
+   "p": 98,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#QL8UYQ22V",
+   "ath": 19,
+   "d": "#YU8JJYURR",
+   "dth": 19,
+   "dur": 153,
+   "o": 81,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#2UCR0RJG2",
+   "ath": 19,
+   "d": "#QUP80RLYU",
+   "dth": 18,
+   "dur": 127,
+   "o": 82,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#2R2LPQJ9J",
+   "ath": 19,
+   "d": "#P0QPC8Y82",
+   "dth": 18,
+   "dur": 154,
+   "o": 83,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#2UCR0RJG2",
+   "ath": 19,
+   "d": "#VJLC929U",
+   "dth": 18,
+   "dur": 99,
+   "o": 84,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#2R2LPQJ9J",
+   "ath": 19,
+   "d": "#2GJYLLPCG",
+   "dth": 19,
+   "dur": 95,
+   "o": 85,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 88.97143,
+  "destruction": 97.91428,
   "members": [
    {
     "name": "OblatensalatF2P",
@@ -1053,12 +1152,12 @@
    }
   ],
   "name": "KiwiKartell",
-  "stars": 92,
+  "stars": 101,
   "tag": "#2CQ9JG29C"
  },
  "end": "20261123T201811.000Z",
  "opponent": {
-  "destruction": 85.57143,
+  "destruction": 97.0,
   "members": [
    {
     "name": "Vendul",
@@ -1272,7 +1371,7 @@
    }
   ],
   "name": "Greenland SVK B",
-  "stars": 88,
+  "stars": 100,
   "tag": "#28UUUVL88"
  },
  "start": "20261122T201811.000Z",

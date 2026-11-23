@@ -1341,11 +1341,66 @@
    "p": 5,
    "s": 1,
    "side": "gegner"
+  },
+  {
+   "a": "#9U0YUCP9",
+   "ath": 19,
+   "d": "#RV00UJ0P",
+   "dth": 19,
+   "dur": 120,
+   "o": 123,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#9U0YUCP9",
+   "ath": 19,
+   "d": "#2CYV8LVGV",
+   "dth": 19,
+   "dur": 116,
+   "o": 124,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#V9GQYUCJ",
+   "ath": 19,
+   "d": "#LVU8QRP8R",
+   "dth": 19,
+   "dur": 171,
+   "o": 125,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#QL2LQCGR",
+   "ath": 19,
+   "d": "#PRUCYQ9RP",
+   "dth": 19,
+   "dur": 117,
+   "o": 126,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#9YU2QR9GV",
+   "ath": 19,
+   "d": "#JUQRVYP9",
+   "dth": 19,
+   "dur": 93,
+   "o": 127,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 99.64445,
+  "destruction": 100.0,
   "members": [
    {
     "name": "WB Teewurst",
@@ -1619,7 +1674,7 @@
    }
   ],
   "name": "Wurstbude",
-  "stars": 131,
+  "stars": 135,
   "tag": "#2LCGGC22L"
  },
  "end": "20261123T202451.000Z",

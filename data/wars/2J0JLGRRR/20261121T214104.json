@@ -395,11 +395,55 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#QQ2VGQUQ0",
+   "ath": 16,
+   "d": "#G8L0PCLVV",
+   "dth": 17,
+   "dur": 116,
+   "o": 37,
+   "p": 70,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#QQ2VGQUQ0",
+   "ath": 16,
+   "d": "#LRRRJ0QJG",
+   "dth": 16,
+   "dur": 176,
+   "o": 38,
+   "p": 76,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#89299QPG0",
+   "ath": 15,
+   "d": "#8PYVUY00R",
+   "dth": 17,
+   "dur": 180,
+   "o": 39,
+   "p": 97,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#89299QPG0",
+   "ath": 15,
+   "d": "#2C9QGCU9G",
+   "dth": 18,
+   "dur": 33,
+   "o": 40,
+   "p": 24,
+   "s": 1,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 95.72,
+  "destruction": 99.6,
   "members": [
    {
     "name": "Frost",
@@ -553,12 +597,12 @@
    }
   ],
   "name": "Get Smurfed!",
-  "stars": 71,
+  "stars": 73,
   "tag": "#2J0JLGRRR"
  },
  "end": "20261123T204104.000Z",
  "opponent": {
-  "destruction": 33.2,
+  "destruction": 36.24,
   "members": [
    {
     "name": "❤رولا❤",
@@ -712,7 +756,7 @@
    }
   ],
   "name": "مبارزان بی مرز",
-  "stars": 23,
+  "stars": 25,
   "tag": "#YUCL9QPY"
  },
  "start": "20261122T204104.000Z",

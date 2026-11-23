@@ -1539,6 +1539,28 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#V88802RR",
+   "ath": 19,
+   "d": "#8VJP2LCU",
+   "dth": 19,
+   "dur": 173,
+   "o": 141,
+   "p": 75,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#V88802RR",
+   "ath": 19,
+   "d": "#RJ800GLP",
+   "dth": 19,
+   "dur": 180,
+   "o": 142,
+   "p": 92,
+   "s": 2,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,

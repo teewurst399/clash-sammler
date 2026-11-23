@@ -1198,11 +1198,99 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#8VPLJ9YVU",
+   "ath": 19,
+   "d": "#PGRYQCJQJ",
+   "dth": 19,
+   "dur": 152,
+   "o": 110,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#8VPLJ9YVU",
+   "ath": 19,
+   "d": "#LU9UGJ2G8",
+   "dth": 19,
+   "dur": 155,
+   "o": 111,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#PLJ2R0PJ",
+   "ath": 19,
+   "d": "#PGPQQJLV",
+   "dth": 19,
+   "dur": 180,
+   "o": 112,
+   "p": 97,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#RY9Q8L8V",
+   "ath": 19,
+   "d": "#2QCU2800Y",
+   "dth": 19,
+   "dur": 121,
+   "o": 113,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#PLJ2R0PJ",
+   "ath": 19,
+   "d": "#8Y00GG0GV",
+   "dth": 19,
+   "dur": 138,
+   "o": 114,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#PL2PPPRY",
+   "ath": 19,
+   "d": "#PLJ2R0PJ",
+   "dth": 19,
+   "dur": 141,
+   "o": 115,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#L0J9Q2QU2",
+   "ath": 19,
+   "d": "#20RUYG99",
+   "dth": 19,
+   "dur": 10,
+   "o": 116,
+   "p": 21,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#L0J9Q2QU2",
+   "ath": 19,
+   "d": "#9GQGG08QP",
+   "dth": 19,
+   "dur": 41,
+   "o": 117,
+   "p": 50,
+   "s": 1,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 87.525,
+  "destruction": 90.3,
   "members": [
    {
     "name": "pAx",
@@ -1446,7 +1534,7 @@
    }
   ],
   "name": "FruchtLabor III",
-  "stars": 96,
+  "stars": 100,
   "tag": "#2RGV2UQY9"
  },
  "end": "20261123T190535.000Z",

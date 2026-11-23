@@ -1616,6 +1616,39 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#JV2PV",
+   "ath": 19,
+   "d": "#9CQURCYG",
+   "dth": 19,
+   "dur": 180,
+   "o": 148,
+   "p": 99,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#JV2PV",
+   "ath": 19,
+   "d": "#2PVLUVRUG",
+   "dth": 19,
+   "dur": 166,
+   "o": 149,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#QQ2UG0JUC",
+   "ath": 19,
+   "d": "#LQ2CLJVP",
+   "dth": 19,
+   "dur": 13,
+   "o": 150,
+   "p": 22,
+   "s": 1,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,

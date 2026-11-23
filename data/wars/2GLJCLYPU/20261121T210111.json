@@ -1231,11 +1231,143 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#GR9RQ9QL",
+   "ath": 19,
+   "d": "#LUJPLCYR",
+   "dth": 19,
+   "dur": 106,
+   "o": 113,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#2RYYPPUP",
+   "ath": 19,
+   "d": "#YLJR9QYY",
+   "dth": 19,
+   "dur": 156,
+   "o": 114,
+   "p": 94,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#PLYR88YRG",
+   "ath": 18,
+   "d": "#GU0J22GQ0",
+   "dth": 3,
+   "dur": 10,
+   "o": 115,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#GUJQ0LYP",
+   "ath": 19,
+   "d": "#GR9RQ9QL",
+   "dth": 19,
+   "dur": 153,
+   "o": 116,
+   "p": 91,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#Q2L0RLYLR",
+   "ath": 19,
+   "d": "#LVGVCP2U",
+   "dth": 19,
+   "dur": 162,
+   "o": 117,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#QGUP0Y2P",
+   "ath": 19,
+   "d": "#2LL02LYYR",
+   "dth": 19,
+   "dur": 136,
+   "o": 118,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#GUJQ0LYP",
+   "ath": 19,
+   "d": "#YLJR9QYY",
+   "dth": 19,
+   "dur": 180,
+   "o": 119,
+   "p": 91,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#Q2L0RLYLR",
+   "ath": 19,
+   "d": "#9LJUL9J2R",
+   "dth": 19,
+   "dur": 138,
+   "o": 120,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#QGUP0Y2P",
+   "ath": 19,
+   "d": "#LLQQRJ9L2",
+   "dth": 19,
+   "dur": 155,
+   "o": 121,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#JR0CUYU9",
+   "ath": 19,
+   "d": "#GR9RQ9QL",
+   "dth": 19,
+   "dur": 166,
+   "o": 122,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#9GUGQ9L8Q",
+   "ath": 19,
+   "d": "#LGRV8GURP",
+   "dth": 19,
+   "dur": 179,
+   "o": 123,
+   "p": 93,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#2LL02LYYR",
+   "ath": 19,
+   "d": "#2CQUGU",
+   "dth": 18,
+   "dur": 173,
+   "o": 124,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 95.333336,
+  "destruction": 99.844444,
   "members": [
    {
     "name": "Nils^_^",
@@ -1509,12 +1641,12 @@
    }
   ],
   "name": "Northfront",
-  "stars": 126,
+  "stars": 133,
   "tag": "#2GLJCLYPU"
  },
  "end": "20261123T200111.000Z",
  "opponent": {
-  "destruction": 86.2,
+  "destruction": 95.2,
   "members": [
    {
     "name": "BOOTSSE",
@@ -1788,7 +1920,7 @@
    }
   ],
   "name": "LokiFamilia",
-  "stars": 111,
+  "stars": 125,
   "tag": "#22P288GY0"
  },
  "start": "20261122T200111.000Z",

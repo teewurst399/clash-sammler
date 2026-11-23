@@ -1561,6 +1561,149 @@
    "p": 5,
    "s": 1,
    "side": "clan"
+  },
+  {
+   "a": "#8RVL2Q29",
+   "ath": 19,
+   "d": "#CJQGU8PP",
+   "dth": 19,
+   "dur": 13,
+   "o": 143,
+   "p": 7,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#GQ2VJ20",
+   "ath": 19,
+   "d": "#YGP09Q029",
+   "dth": 19,
+   "dur": 100,
+   "o": 144,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#GQ2VJ20",
+   "ath": 19,
+   "d": "#PRV0GPU2",
+   "dth": 19,
+   "dur": 95,
+   "o": 145,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#L8LV2R20",
+   "ath": 19,
+   "d": "#YCQYCLVRL",
+   "dth": 19,
+   "dur": 175,
+   "o": 146,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#PQYGJLV0",
+   "ath": 19,
+   "d": "#88YJQU0Y8",
+   "dth": 19,
+   "dur": 96,
+   "o": 147,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#9C8Y2YP8J",
+   "ath": 18,
+   "d": "#9C990JRG",
+   "dth": 19,
+   "dur": 130,
+   "o": 148,
+   "p": 97,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#L8LV2R20",
+   "ath": 19,
+   "d": "#PG0CYL8R",
+   "dth": 19,
+   "dur": 142,
+   "o": 149,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#PQYGJLV0",
+   "ath": 19,
+   "d": "#P8V9JY8LU",
+   "dth": 19,
+   "dur": 119,
+   "o": 150,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#9C8Y2YP8J",
+   "ath": 18,
+   "d": "#L00C2RVP0",
+   "dth": 19,
+   "dur": 164,
+   "o": 151,
+   "p": 91,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#292LYULJ8",
+   "ath": 18,
+   "d": "#9C990JRG",
+   "dth": 19,
+   "dur": 129,
+   "o": 152,
+   "p": 96,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#292LYULJ8",
+   "ath": 18,
+   "d": "#L00C2RVP0",
+   "dth": 19,
+   "dur": 172,
+   "o": 153,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#Y82G82RL",
+   "ath": 19,
+   "d": "#998R9VQQ9",
+   "dth": 19,
+   "dur": 154,
+   "o": 154,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#QGYRRRPG",
+   "ath": 19,
+   "d": "#QQ2UU92Y9",
+   "dth": 19,
+   "dur": 138,
+   "o": 155,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -1844,7 +1987,7 @@
  },
  "end": "20261123T201101.000Z",
  "opponent": {
-  "destruction": 94.155556,
+  "destruction": 99.64445,
   "members": [
    {
     "name": "£°ºROUEº°¥",
@@ -2118,7 +2261,7 @@
    }
   ],
   "name": "PREDATOR LIGUE",
-  "stars": 117,
+  "stars": 131,
   "tag": "#2LL9UY9LQ"
  },
  "start": "20261122T201101.000Z",
