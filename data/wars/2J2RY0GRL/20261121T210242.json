@@ -868,11 +868,77 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#82CL28VLG",
+   "ath": 19,
+   "d": "#VUQ9P9L9",
+   "dth": 19,
+   "dur": 166,
+   "o": 80,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#82CL28VLG",
+   "ath": 19,
+   "d": "#8R89GQR2P",
+   "dth": 19,
+   "dur": 168,
+   "o": 81,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#LV2QC0C2",
+   "ath": 19,
+   "d": "#Q22VV0RRY",
+   "dth": 19,
+   "dur": 98,
+   "o": 82,
+   "p": 72,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#LV2QC0C2",
+   "ath": 19,
+   "d": "#L090Y929V",
+   "dth": 19,
+   "dur": 97,
+   "o": 83,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#LRVJGG902",
+   "ath": 19,
+   "d": "#QYY09PPLY",
+   "dth": 19,
+   "dur": 177,
+   "o": 84,
+   "p": 94,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#LRVJGG902",
+   "ath": 19,
+   "d": "#2CUR80VVY",
+   "dth": 19,
+   "dur": 166,
+   "o": 85,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 37.42,
+  "destruction": 44.74,
   "members": [
    {
     "name": "PaPaPatrick",
@@ -1176,12 +1242,12 @@
    }
   ],
   "name": "Confusion II",
-  "stars": 53,
+  "stars": 63,
   "tag": "#2J2RY0GRL"
  },
  "end": "20261123T200242.000Z",
  "opponent": {
-  "destruction": 73.46,
+  "destruction": 77.46,
   "members": [
    {
     "name": "『HK』Tʜᴇ LEGEND",
@@ -1485,7 +1551,7 @@
    }
   ],
   "name": "الهاترك",
-  "stars": 110,
+  "stars": 116,
   "tag": "#Q8GCQ98Y"
  },
  "start": "20261122T200242.000Z",

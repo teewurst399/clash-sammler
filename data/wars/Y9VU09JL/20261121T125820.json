@@ -670,6 +670,50 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#CYR0VLJQ",
+   "ath": 18,
+   "d": "#9VQ9RUJRG",
+   "dth": 18,
+   "dur": 174,
+   "o": 62,
+   "p": 93,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#CYR0VLJQ",
+   "ath": 18,
+   "d": "#QCCVUPR22",
+   "dth": 18,
+   "dur": 158,
+   "o": 63,
+   "p": 97,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#9RCUGCCJ8",
+   "ath": 19,
+   "d": "#G8RCJGV82",
+   "dth": 18,
+   "dur": 81,
+   "o": 64,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#9RCUGCCJ8",
+   "ath": 19,
+   "d": "#QQVL9QQG0",
+   "dth": 18,
+   "dur": 124,
+   "o": 65,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -893,7 +937,7 @@
  },
  "end": "20261123T115820.000Z",
  "opponent": {
-  "destruction": 49.857143,
+  "destruction": 61.0,
   "members": [
    {
     "name": "federal",
@@ -1107,7 +1151,7 @@
    }
   ],
   "name": "DM Lite",
-  "stars": 49,
+  "stars": 58,
   "tag": "#RQJ29JL9"
  },
  "start": "20261122T115820.000Z",

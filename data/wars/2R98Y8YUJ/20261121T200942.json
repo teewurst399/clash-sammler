@@ -989,6 +989,28 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#PGJ2CYCL",
+   "ath": 19,
+   "d": "#QJUYR9VV",
+   "dth": 19,
+   "dur": 116,
+   "o": 91,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#PGJ2CYCL",
+   "ath": 19,
+   "d": "#80YUQGRRC",
+   "dth": 19,
+   "dur": 132,
+   "o": 92,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -1302,7 +1324,7 @@
  },
  "end": "20261123T190942.000Z",
  "opponent": {
-  "destruction": 65.74,
+  "destruction": 69.74,
   "members": [
    {
     "name": "⚡️IR.H⚡️ALI⚡️",
@@ -1606,7 +1628,7 @@
    }
   ],
   "name": "iranian heroes",
-  "stars": 97,
+  "stars": 103,
   "tag": "#PGPYYQY9"
  },
  "start": "20261122T190942.000Z",

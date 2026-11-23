@@ -1000,11 +1000,99 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#LQ80U9LJY",
+   "ath": 19,
+   "d": "#QLRPUJPYJ",
+   "dth": 19,
+   "dur": 7,
+   "o": 92,
+   "p": 4,
+   "s": 0,
+   "side": "clan"
+  },
+  {
+   "a": "#LQ80U9LJY",
+   "ath": 19,
+   "d": "#GJ2RPG88",
+   "dth": 19,
+   "dur": 143,
+   "o": 93,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#8VRPGQCL",
+   "ath": 19,
+   "d": "#LP0R8RGJV",
+   "dth": 19,
+   "dur": 102,
+   "o": 94,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#8VRPGQCL",
+   "ath": 19,
+   "d": "#QLRPUJPYJ",
+   "dth": 19,
+   "dur": 97,
+   "o": 95,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#YRPL0RJ2",
+   "ath": 19,
+   "d": "#28URP080",
+   "dth": 19,
+   "dur": 121,
+   "o": 96,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#UQ0G82JP",
+   "ath": 19,
+   "d": "#PGQP82G08",
+   "dth": 19,
+   "dur": 146,
+   "o": 97,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#YRPL0RJ2",
+   "ath": 19,
+   "d": "#9RRRYUCYP",
+   "dth": 19,
+   "dur": 180,
+   "o": 98,
+   "p": 90,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#UQ0G82JP",
+   "ath": 19,
+   "d": "#8QLQYY09V",
+   "dth": 19,
+   "dur": 180,
+   "o": 99,
+   "p": 91,
+   "s": 2,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 77.55556,
+  "destruction": 92.68889,
   "members": [
    {
     "name": "G!B Mighty",
@@ -1278,7 +1366,7 @@
    }
   ],
   "name": "Get Dazed!",
-  "stars": 103,
+  "stars": 122,
   "tag": "#2JQ09R8PG"
  },
  "end": "20261123T183921.000Z",

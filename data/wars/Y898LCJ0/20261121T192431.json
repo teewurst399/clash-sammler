@@ -813,11 +813,110 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#82JV0VPL",
+   "ath": 19,
+   "d": "#2Y0YG9UGG",
+   "dth": 19,
+   "dur": 167,
+   "o": 75,
+   "p": 96,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#8RJ9JUJUV",
+   "ath": 19,
+   "d": "#Q8GRGRVPP",
+   "dth": 19,
+   "dur": 160,
+   "o": 76,
+   "p": 94,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#UYPUCUR2",
+   "ath": 19,
+   "d": "#QLPP2LPQG",
+   "dth": 19,
+   "dur": 111,
+   "o": 77,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#UYPUCUR2",
+   "ath": 19,
+   "d": "#8RJ9JUJUV",
+   "dth": 19,
+   "dur": 84,
+   "o": 78,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#Q8QCJRYU",
+   "ath": 19,
+   "d": "#UJ0PGC9G",
+   "dth": 19,
+   "dur": 119,
+   "o": 79,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#Q8QCJRYU",
+   "ath": 19,
+   "d": "#80UJY8QR2",
+   "dth": 18,
+   "dur": 108,
+   "o": 80,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#L8G0JPL9",
+   "ath": 19,
+   "d": "#P9YRQG0QR",
+   "dth": 19,
+   "dur": 180,
+   "o": 81,
+   "p": 93,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#2GYJVLCU",
+   "ath": 19,
+   "d": "#G8GQG09QV",
+   "dth": 19,
+   "dur": 169,
+   "o": 82,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#2GYJVLCU",
+   "ath": 19,
+   "d": "#2Y0YG9UGG",
+   "dth": 19,
+   "dur": 154,
+   "o": 83,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 30.6,
+  "destruction": 37.02222,
   "members": [
    {
     "name": "Fighter",
@@ -1091,12 +1190,12 @@
    }
   ],
   "name": "#Black Stone#",
-  "stars": 37,
+  "stars": 45,
   "tag": "#Y898LCJ0"
  },
  "end": "20261123T182431.000Z",
  "opponent": {
-  "destruction": 93.28889,
+  "destruction": 97.77778,
   "members": [
    {
     "name": "kaancskn",
@@ -1370,7 +1469,7 @@
    }
   ],
   "name": "TurkisH ArmY",
-  "stars": 125,
+  "stars": 132,
   "tag": "#PG9QRVUL"
  },
  "start": "20261122T182431.000Z",

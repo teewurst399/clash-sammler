@@ -582,6 +582,39 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#9JCQLJ00",
+   "ath": 19,
+   "d": "#88U9VULJ8",
+   "dth": 19,
+   "dur": 111,
+   "o": 54,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#9JCQLJ00",
+   "ath": 19,
+   "d": "#2992VQV9U",
+   "dth": 19,
+   "dur": 123,
+   "o": 55,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#29CC8GRGY",
+   "ath": 19,
+   "d": "#2G2RUVJYP",
+   "dth": 19,
+   "dur": 123,
+   "o": 56,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -865,7 +898,7 @@
  },
  "end": "20261123T200111.000Z",
  "opponent": {
-  "destruction": 40.0,
+  "destruction": 46.666668,
   "members": [
    {
     "name": "BOOTSSE",
@@ -1139,7 +1172,7 @@
    }
   ],
   "name": "LokiFamilia",
-  "stars": 54,
+  "stars": 63,
   "tag": "#22P288GY0"
  },
  "start": "20261122T200111.000Z",

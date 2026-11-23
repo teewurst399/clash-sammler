@@ -604,11 +604,132 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#G9L0U2GR8",
+   "ath": 19,
+   "d": "#QVR098PJQ",
+   "dth": 19,
+   "dur": 145,
+   "o": 56,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#Q0GQQQPJR",
+   "ath": 19,
+   "d": "#QCJRULJG9",
+   "dth": 19,
+   "dur": 85,
+   "o": 57,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#G9L0U2GR8",
+   "ath": 19,
+   "d": "#QV29Q0Q0V",
+   "dth": 19,
+   "dur": 131,
+   "o": 58,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#Q0GQQQPJR",
+   "ath": 19,
+   "d": "#L2C9GGJPJ",
+   "dth": 19,
+   "dur": 99,
+   "o": 59,
+   "p": 86,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#G0R88CPG",
+   "ath": 19,
+   "d": "#GRYRPV2Y8",
+   "dth": 19,
+   "dur": 102,
+   "o": 60,
+   "p": 97,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#QGGG0V2PY",
+   "ath": 19,
+   "d": "#YQQPGVL0Y",
+   "dth": 19,
+   "dur": 158,
+   "o": 61,
+   "p": 80,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#VULLQY9P",
+   "ath": 19,
+   "d": "#YQQPGVL0Y",
+   "dth": 19,
+   "dur": 124,
+   "o": 62,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#VULLQY9P",
+   "ath": 19,
+   "d": "#PRRPP82GR",
+   "dth": 19,
+   "dur": 180,
+   "o": 63,
+   "p": 95,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#QGYVJVQJ",
+   "ath": 19,
+   "d": "#2RGC20CJ9",
+   "dth": 19,
+   "dur": 161,
+   "o": 64,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#QGYVJVQJ",
+   "ath": 19,
+   "d": "#QGUJ2RV09",
+   "dth": 19,
+   "dur": 122,
+   "o": 65,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#G0R88CPG",
+   "ath": 19,
+   "d": "#8JC8CGV8",
+   "dth": 18,
+   "dur": 110,
+   "o": 66,
+   "p": 80,
+   "s": 1,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 65.77778,
+  "destruction": 70.22222,
   "members": [
    {
     "name": "EG⚡️KING",
@@ -882,12 +1003,12 @@
    }
   ],
   "name": "Get Cooked!",
-  "stars": 85,
+  "stars": 91,
   "tag": "#2J922VYQ0"
  },
  "end": "20261123T192031.000Z",
  "opponent": {
-  "destruction": 35.155556,
+  "destruction": 50.177776,
   "members": [
    {
     "name": "Hồng Trung",
@@ -1161,7 +1282,7 @@
    }
   ],
   "name": "việt nam no1",
-  "stars": 47,
+  "stars": 64,
   "tag": "#2J980GJPC"
  },
  "start": "20261122T192031.000Z",

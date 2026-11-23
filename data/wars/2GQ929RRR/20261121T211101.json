@@ -637,11 +637,110 @@
    "p": 88,
    "s": 1,
    "side": "clan"
+  },
+  {
+   "a": "#2CVUVJGU8",
+   "ath": 19,
+   "d": "#8Y9L8G8QQ",
+   "dth": 18,
+   "dur": 94,
+   "o": 59,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#2CVUVJGU8",
+   "ath": 19,
+   "d": "#RJ2QR22",
+   "dth": 19,
+   "dur": 112,
+   "o": 60,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#RQYVR2RL",
+   "ath": 19,
+   "d": "#LRV98VU29",
+   "dth": 19,
+   "dur": 141,
+   "o": 61,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#9LP2V8CJ",
+   "ath": 19,
+   "d": "#YP8YPVPUV",
+   "dth": 19,
+   "dur": 118,
+   "o": 62,
+   "p": 93,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#9LP2V8CJ",
+   "ath": 19,
+   "d": "#8YV9Q0LC",
+   "dth": 19,
+   "dur": 119,
+   "o": 63,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#QQ2UU92Y9",
+   "ath": 19,
+   "d": "#LJCY0QV2C",
+   "dth": 18,
+   "dur": 90,
+   "o": 64,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#QQ2UU92Y9",
+   "ath": 19,
+   "d": "#9U29P882J",
+   "dth": 19,
+   "dur": 108,
+   "o": 65,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#LRPJLGY8",
+   "ath": 19,
+   "d": "#2VQLULUY",
+   "dth": 19,
+   "dur": 154,
+   "o": 66,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#LRPJLGY8",
+   "ath": 19,
+   "d": "#20UP2LJR0",
+   "dth": 19,
+   "dur": 174,
+   "o": 67,
+   "p": 95,
+   "s": 2,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 57.422222,
+  "destruction": 74.933334,
   "members": [
    {
     "name": "Agent Hulk",
@@ -915,12 +1014,12 @@
    }
   ],
   "name": "FruchtLabor II",
-  "stars": 74,
+  "stars": 96,
   "tag": "#2GQ929RRR"
  },
  "end": "20261123T201101.000Z",
  "opponent": {
-  "destruction": 49.8,
+  "destruction": 52.02222,
   "members": [
    {
     "name": "£°ºROUEº°¥",
@@ -1194,7 +1293,7 @@
    }
   ],
   "name": "PREDATOR LIGUE",
-  "stars": 63,
+  "stars": 66,
   "tag": "#2LL9UY9LQ"
  },
  "start": "20261122T201101.000Z",

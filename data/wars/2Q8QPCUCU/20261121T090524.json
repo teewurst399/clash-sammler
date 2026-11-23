@@ -1286,6 +1286,105 @@
    "p": 95,
    "s": 2,
    "side": "gegner"
+  },
+  {
+   "a": "#QVJLLG9CP",
+   "ath": 19,
+   "d": "#22PJ0PLYR",
+   "dth": 19,
+   "dur": 97,
+   "o": 118,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#QVJLLG9CP",
+   "ath": 19,
+   "d": "#LCVP2VULU",
+   "dth": 19,
+   "dur": 84,
+   "o": 119,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#JVCR9GG0",
+   "ath": 19,
+   "d": "#GPJCC9GP8",
+   "dth": 19,
+   "dur": 128,
+   "o": 120,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#80999QJ0C",
+   "ath": 19,
+   "d": "#YG8CPV2V2",
+   "dth": 18,
+   "dur": 76,
+   "o": 121,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#JVCR9GG0",
+   "ath": 19,
+   "d": "#QURQRJJP8",
+   "dth": 19,
+   "dur": 125,
+   "o": 122,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#LGVCJR0L",
+   "ath": 19,
+   "d": "#2Q8P8P9J0",
+   "dth": 19,
+   "dur": 180,
+   "o": 123,
+   "p": 95,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#2CLV9UR00",
+   "ath": 19,
+   "d": "#2Q8P8P9J0",
+   "dth": 19,
+   "dur": 107,
+   "o": 124,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#2889GLYYV",
+   "ath": 18,
+   "d": "#22PJ0PLYR",
+   "dth": 19,
+   "dur": 180,
+   "o": 125,
+   "p": 82,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#2889GLYYV",
+   "ath": 18,
+   "d": "#L8VYGYLY",
+   "dth": 19,
+   "dur": 172,
+   "o": 126,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -1539,7 +1638,7 @@
  },
  "end": "20261123T080524.000Z",
  "opponent": {
-  "destruction": 98.95,
+  "destruction": 100.0,
   "members": [
    {
     "name": "凉宫春日的忧郁",
@@ -1783,7 +1882,7 @@
    }
   ],
   "name": "战斗吧【少年】♚",
-  "stars": 115,
+  "stars": 120,
   "tag": "#2RPGGJQRY"
  },
  "start": "20261122T080524.000Z",

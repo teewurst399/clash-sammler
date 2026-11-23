@@ -571,11 +571,77 @@
    "p": 71,
    "s": 2,
    "side": "clan"
+  },
+  {
+   "a": "#JCYY9GG2",
+   "ath": 19,
+   "d": "#202RU8GJG",
+   "dth": 19,
+   "dur": 123,
+   "o": 53,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#208YL8PL0",
+   "ath": 19,
+   "d": "#Q8LVJL0R8",
+   "dth": 19,
+   "dur": 108,
+   "o": 54,
+   "p": 68,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#208YL8PL0",
+   "ath": 19,
+   "d": "#80Q9UP2QP",
+   "dth": 19,
+   "dur": 162,
+   "o": 55,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#JCYY9GG2",
+   "ath": 19,
+   "d": "#UJ2LLJL8",
+   "dth": 19,
+   "dur": 113,
+   "o": 56,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#22J0YRRRP",
+   "ath": 19,
+   "d": "#22JJ898V2",
+   "dth": 19,
+   "dur": 155,
+   "o": 57,
+   "p": 75,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#22J0YRRRP",
+   "ath": 19,
+   "d": "#28PL0JQGR",
+   "dth": 19,
+   "dur": 147,
+   "o": 58,
+   "p": 78,
+   "s": 2,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 72.44,
+  "destruction": 78.56,
   "members": [
    {
     "name": "R A B B I",
@@ -729,12 +795,12 @@
    }
   ],
   "name": "HolzFrucht",
-  "stars": 51,
+  "stars": 54,
   "tag": "#2JVU2R8Y9"
  },
  "end": "20261123T175854.000Z",
  "opponent": {
-  "destruction": 88.36,
+  "destruction": 92.4,
   "members": [
    {
     "name": "❤️EMOÇ. CAN❤️",
@@ -888,7 +954,7 @@
    }
   ],
   "name": "300 İSTANBULLU",
-  "stars": 62,
+  "stars": 66,
   "tag": "#PLL8G0QY"
  },
  "start": "20261122T175854.000Z",

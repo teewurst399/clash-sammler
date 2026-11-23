@@ -329,6 +329,28 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#29PPL8PPC",
+   "ath": 19,
+   "d": "#QL8UYQ22V",
+   "dth": 19,
+   "dur": 169,
+   "o": 31,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#29PPL8PPC",
+   "ath": 19,
+   "d": "#8QYCV8RP",
+   "dth": 19,
+   "dur": 120,
+   "o": 32,
+   "p": 84,
+   "s": 2,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -766,7 +788,7 @@
    }
   ],
   "name": "Greenland SVK B",
-  "stars": 38,
+  "stars": 40,
   "tag": "#28UUUVL88"
  },
  "start": "20261122T201811.000Z",

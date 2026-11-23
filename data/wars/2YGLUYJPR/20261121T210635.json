@@ -527,6 +527,105 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#QLR08CLP",
+   "ath": 19,
+   "d": "#9GYVGLVUC",
+   "dth": 19,
+   "dur": 127,
+   "o": 49,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#Y2YPCJ9U",
+   "ath": 19,
+   "d": "#9YP28RYPC",
+   "dth": 19,
+   "dur": 117,
+   "o": 50,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#QLR08CLP",
+   "ath": 19,
+   "d": "#8QG2UPP2G",
+   "dth": 19,
+   "dur": 141,
+   "o": 51,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#8LQPGVU9",
+   "ath": 19,
+   "d": "#9CLJVLUP8",
+   "dth": 19,
+   "dur": 138,
+   "o": 52,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#Y90UU0QQ",
+   "ath": 19,
+   "d": "#YYY0PCYCQ",
+   "dth": 19,
+   "dur": 84,
+   "o": 53,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#P29YRVGJ",
+   "ath": 19,
+   "d": "#22P0P9PPJ",
+   "dth": 19,
+   "dur": 160,
+   "o": 54,
+   "p": 97,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#P29YRVGJ",
+   "ath": 19,
+   "d": "#9VG9R2URU",
+   "dth": 19,
+   "dur": 149,
+   "o": 55,
+   "p": 87,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#8LYJLUP8",
+   "ath": 19,
+   "d": "#QLUUG8J9",
+   "dth": 19,
+   "dur": 131,
+   "o": 56,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#8LYJLUP8",
+   "ath": 19,
+   "d": "#JLG0L9C",
+   "dth": 19,
+   "dur": 111,
+   "o": 57,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -780,7 +879,7 @@
  },
  "end": "20261123T200635.000Z",
  "opponent": {
-  "destruction": 54.65,
+  "destruction": 74.4,
   "members": [
    {
     "name": "FL • ZΞЯБΞЯЦS³",
@@ -1024,7 +1123,7 @@
    }
   ],
   "name": "FruchtLabörchen",
-  "stars": 64,
+  "stars": 87,
   "tag": "#2RYP8PQRG"
  },
  "start": "20261122T200635.000Z",

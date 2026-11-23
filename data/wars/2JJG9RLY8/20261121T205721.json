@@ -417,11 +417,33 @@
    "p": 79,
    "s": 2,
    "side": "gegner"
+  },
+  {
+   "a": "#RCR8CJ9J",
+   "ath": 19,
+   "d": "#L80QVRCLP",
+   "dth": 19,
+   "dur": 115,
+   "o": 39,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#RCR8CJ9J",
+   "ath": 19,
+   "d": "#2P9LCJJUL",
+   "dth": 19,
+   "dur": 96,
+   "o": 40,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 7.857143,
+  "destruction": 13.571428,
   "members": [
    {
     "name": "DΔツLion",
@@ -635,7 +657,7 @@
    }
   ],
   "name": "Dark Angel",
-  "stars": 5,
+  "stars": 11,
   "tag": "#2JJG9RLY8"
  },
  "end": "20261123T195721.000Z",

@@ -87,6 +87,116 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#9C2CLP2J",
+   "ath": 18,
+   "d": "#L8GCGYJ",
+   "dth": 18,
+   "dur": 106,
+   "o": 9,
+   "p": 65,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#8Y29LQQ2J",
+   "ath": 17,
+   "d": "#8U8GL2PRL",
+   "dth": 17,
+   "dur": 114,
+   "o": 10,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#8Y29LQQ2J",
+   "ath": 17,
+   "d": "#982RQ9L8",
+   "dth": 17,
+   "dur": 122,
+   "o": 11,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#GRP98208G",
+   "ath": 16,
+   "d": "#LRJJQU0Q9",
+   "dth": 19,
+   "dur": 91,
+   "o": 12,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#GR2UVYRCL",
+   "ath": 15,
+   "d": "#GCJV0PY09",
+   "dth": 10,
+   "dur": 96,
+   "o": 13,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#PJ0G0CQVC",
+   "ath": 16,
+   "d": "#GJ98VJQQR",
+   "dth": 12,
+   "dur": 66,
+   "o": 14,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#QJ0J09JRY",
+   "ath": 19,
+   "d": "#L8GCGYJ",
+   "dth": 18,
+   "dur": 165,
+   "o": 15,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#PJ0G0CQVC",
+   "ath": 16,
+   "d": "#GYY8CV2VQ",
+   "dth": 13,
+   "dur": 77,
+   "o": 16,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#GR2UVYRCL",
+   "ath": 15,
+   "d": "#22V9U90U",
+   "dth": 13,
+   "dur": 106,
+   "o": 17,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#GRP98208G",
+   "ath": 16,
+   "d": "#QRCPPU0R0",
+   "dth": 16,
+   "dur": 80,
+   "o": 18,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -280,7 +390,7 @@
  },
  "end": "20261123T210012.000Z",
  "opponent": {
-  "destruction": 13.333333,
+  "destruction": 43.333332,
   "members": [
    {
     "name": "iwan.rewa 100rb",
@@ -464,7 +574,7 @@
    }
   ],
   "name": "KUCING ANGGORA",
-  "stars": 12,
+  "stars": 39,
   "tag": "#2GYUVYJL0"
  },
  "start": "20261122T210012.000Z",
