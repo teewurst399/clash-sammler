@@ -2973,7 +2973,7 @@
   },
   "#GPCQPUQ0Q": {
    "name": "WB Teewurst₄",
-   "clan": "Wurstbude",
+   "clan": "Würstchenbude",
    "th": 19,
    "cw180": {
     "th": 19,
@@ -2995,8 +2995,8 @@
     "hits": 12,
     "triples": 12,
     "stars": 36,
-    "avg_stars": 3.0,
-    "triple_rate": 100.0,
+    "avg_stars": 3,
+    "triple_rate": 100,
     "by_th": {
      "18": {
       "hits": 12,
@@ -3058,7 +3058,8 @@
      "sterne": 9,
      "dreier": 3
     }
-   ]
+   ],
+   "stand_zeit": "2026-11-23T11:32:53Z"
   },
   "#GQGQJR2RR": {
    "name": "e-gamer 427",
