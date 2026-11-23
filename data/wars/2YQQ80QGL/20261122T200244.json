@@ -681,11 +681,77 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#LRQPCJVUL",
+   "ath": 19,
+   "d": "#GQY0U9RUU",
+   "dth": 19,
+   "dur": 149,
+   "o": 63,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#GLRLVYQ9",
+   "ath": 19,
+   "d": "#2R989JJ98",
+   "dth": 19,
+   "dur": 133,
+   "o": 64,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#LRQPCJVUL",
+   "ath": 19,
+   "d": "#LQL02RGC8",
+   "dth": 19,
+   "dur": 141,
+   "o": 65,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#GLRLVYQ9",
+   "ath": 19,
+   "d": "#89CRGC0JL",
+   "dth": 19,
+   "dur": 124,
+   "o": 66,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#89CRGC0JL",
+   "ath": 19,
+   "d": "#8UYLG880",
+   "dth": 19,
+   "dur": 112,
+   "o": 67,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#89CRGC0JL",
+   "ath": 19,
+   "d": "#PP2UPC9Q",
+   "dth": 19,
+   "dur": 119,
+   "o": 68,
+   "p": 78,
+   "s": 2,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 38.933334,
+  "destruction": 42.88889,
   "members": [
    {
     "name": "MOZ.ART",
@@ -959,12 +1025,12 @@
    }
   ],
   "name": "Firstzone",
-  "stars": 51,
+  "stars": 56,
   "tag": "#2YQQ80QGL"
  },
  "end": "20261124T190244.000Z",
  "opponent": {
-  "destruction": 72.86667,
+  "destruction": 77.77778,
   "members": [
    {
     "name": "EpheSuS",
@@ -1238,7 +1304,7 @@
    }
   ],
   "name": "THIS IS TURK",
-  "stars": 97,
+  "stars": 105,
   "tag": "#8L2UPV8L"
  },
  "start": "20261123T190244.000Z",

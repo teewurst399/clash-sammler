@@ -670,11 +670,55 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#L8RLYLP8",
+   "ath": 19,
+   "d": "#GLP82G2C",
+   "dth": 19,
+   "dur": 140,
+   "o": 62,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#LRY0JYLG",
+   "ath": 19,
+   "d": "#2VJLRLLQY",
+   "dth": 19,
+   "dur": 147,
+   "o": 63,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#JGUQYCPG",
+   "ath": 19,
+   "d": "#LGP0L2G2",
+   "dth": 19,
+   "dur": 171,
+   "o": 64,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#JGUQYCPG",
+   "ath": 19,
+   "d": "#RL9JYPP2",
+   "dth": 19,
+   "dur": 170,
+   "o": 65,
+   "p": 83,
+   "s": 2,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 41.555557,
+  "destruction": 43.77778,
   "members": [
    {
     "name": "Louis",
@@ -948,12 +992,12 @@
    }
   ],
   "name": "Pokerzone",
-  "stars": 54,
+  "stars": 57,
   "tag": "#2JPJ8J8CQ"
  },
  "end": "20261124T190804.000Z",
  "opponent": {
-  "destruction": 64.977776,
+  "destruction": 65.68889,
   "members": [
    {
     "name": "<--CRUSHER-->",
@@ -1227,7 +1271,7 @@
    }
   ],
   "name": "IronSky",
-  "stars": 86,
+  "stars": 88,
   "tag": "#9C9QQJPJ"
  },
  "start": "20261123T190804.000Z",

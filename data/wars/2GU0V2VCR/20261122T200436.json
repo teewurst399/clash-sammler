@@ -373,11 +373,33 @@
    "p": 94,
    "s": 2,
    "side": "gegner"
+  },
+  {
+   "a": "#JYUC2QJC",
+   "ath": 18,
+   "d": "#RVGJUU0C",
+   "dth": 19,
+   "dur": 145,
+   "o": 35,
+   "p": 90,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#JYUC2QJC",
+   "ath": 18,
+   "d": "#RUQ8YVV0",
+   "dth": 18,
+   "dur": 131,
+   "o": 36,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 53.033333,
+  "destruction": 59.366665,
   "members": [
    {
     "name": "BALLAHOLIC",
@@ -561,7 +583,7 @@
    }
   ],
   "name": "Fourthzone",
-  "stars": 46,
+  "stars": 51,
   "tag": "#2GU0V2VCR"
  },
  "end": "20261124T190436.000Z",

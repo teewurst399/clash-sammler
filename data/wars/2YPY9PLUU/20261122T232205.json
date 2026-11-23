@@ -76,11 +76,132 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#2VLG2YPYP",
+   "ath": 19,
+   "d": "#UJ9299LR",
+   "dth": 19,
+   "dur": 167,
+   "o": 8,
+   "p": 98,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#8C00YVVP",
+   "ath": 19,
+   "d": "#YPCCLP2VU",
+   "dth": 19,
+   "dur": 109,
+   "o": 9,
+   "p": 95,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#8C00YVVP",
+   "ath": 19,
+   "d": "#20LJ8RU2U",
+   "dth": 19,
+   "dur": 83,
+   "o": 10,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#Q9G8Q9LY",
+   "ath": 19,
+   "d": "#YPCCLP2VU",
+   "dth": 19,
+   "dur": 150,
+   "o": 11,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#999UUPGC8",
+   "ath": 19,
+   "d": "#PUJR89RCU",
+   "dth": 19,
+   "dur": 90,
+   "o": 12,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#Q9G8Q9LY",
+   "ath": 19,
+   "d": "#82J2PQV8R",
+   "dth": 19,
+   "dur": 135,
+   "o": 13,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#999UUPGC8",
+   "ath": 19,
+   "d": "#2QYGVG202",
+   "dth": 19,
+   "dur": 77,
+   "o": 14,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#2PVG9YG02",
+   "ath": 19,
+   "d": "#8PQPCVGCP",
+   "dth": 19,
+   "dur": 126,
+   "o": 15,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#UGUP0YG2",
+   "ath": 19,
+   "d": "#QYP9QQUPP",
+   "dth": 19,
+   "dur": 126,
+   "o": 16,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#2PVG9YG02",
+   "ath": 19,
+   "d": "#22UJGU0UL",
+   "dth": 19,
+   "dur": 121,
+   "o": 17,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#UGUP0YG2",
+   "ath": 19,
+   "d": "#2JC92JYCQ",
+   "dth": 19,
+   "dur": 121,
+   "o": 18,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 17.142857,
+  "destruction": 42.857143,
   "members": [
    {
     "name": "xXStelioXx",
@@ -294,12 +415,12 @@
    }
   ],
   "name": "Endzone",
-  "stars": 18,
+  "stars": 45,
   "tag": "#2YPY9PLUU"
  },
  "end": "20261124T222205.000Z",
  "opponent": {
-  "destruction": 2.6285715,
+  "destruction": 5.428571,
   "members": [
    {
     "name": "KENNETH",
@@ -513,7 +634,7 @@
    }
   ],
   "name": "CLAN INFERNAL",
-  "stars": 2,
+  "stars": 3,
   "tag": "#YLP2L0LP"
  },
  "start": "20261123T222205.000Z",
