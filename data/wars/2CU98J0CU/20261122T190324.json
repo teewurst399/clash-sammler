@@ -450,11 +450,154 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#9CQYCUPPU",
+   "ath": 19,
+   "d": "#LQVCGC20",
+   "dth": 19,
+   "dur": 122,
+   "o": 42,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#QJGCCRVL9",
+   "ath": 19,
+   "d": "#9CQYCUPPU",
+   "dth": 19,
+   "dur": 104,
+   "o": 43,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#QJGCCRVL9",
+   "ath": 19,
+   "d": "#GRV8PUL0C",
+   "dth": 10,
+   "dur": 52,
+   "o": 44,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#9CQYCUPPU",
+   "ath": 19,
+   "d": "#GYRU88PV",
+   "dth": 19,
+   "dur": 130,
+   "o": 45,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#LGL899998",
+   "ath": 19,
+   "d": "#8R89YYQP",
+   "dth": 19,
+   "dur": 159,
+   "o": 46,
+   "p": 81,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#LUVYGRUP",
+   "ath": 19,
+   "d": "#PC0Y2VGVJ",
+   "dth": 19,
+   "dur": 142,
+   "o": 47,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#LUVYGRUP",
+   "ath": 19,
+   "d": "#Q09JG922C",
+   "dth": 19,
+   "dur": 96,
+   "o": 48,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#L8YQ8CQQU",
+   "ath": 19,
+   "d": "#82QYGQRPC",
+   "dth": 19,
+   "dur": 121,
+   "o": 49,
+   "p": 97,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#YCG0LGCPU",
+   "ath": 19,
+   "d": "#8R2GU0892",
+   "dth": 19,
+   "dur": 142,
+   "o": 50,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#L8YQ8CQQU",
+   "ath": 19,
+   "d": "#Y0P8VQUGC",
+   "dth": 19,
+   "dur": 107,
+   "o": 51,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#YCG0LGCPU",
+   "ath": 19,
+   "d": "#QJGCCRVL9",
+   "dth": 19,
+   "dur": 145,
+   "o": 52,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#89U99GLJ",
+   "ath": 19,
+   "d": "#8VUU9CP9G",
+   "dth": 19,
+   "dur": 126,
+   "o": 53,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#YPR88UGYJ",
+   "ath": 19,
+   "d": "#UJUC20CP",
+   "dth": 19,
+   "dur": 131,
+   "o": 54,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 42.22222,
+  "destruction": 60.0,
   "members": [
    {
     "name": "Patrón",
@@ -728,12 +871,12 @@
    }
   ],
   "name": "Throne_of_SRG",
-  "stars": 57,
+  "stars": 81,
   "tag": "#2CU98J0CU"
  },
  "end": "20261124T180324.000Z",
  "opponent": {
-  "destruction": 41.133335,
+  "destruction": 51.755554,
   "members": [
    {
     "name": "[SK]◾Mr.White",
@@ -1007,7 +1150,7 @@
    }
   ],
   "name": "SteinFrucht",
-  "stars": 52,
+  "stars": 65,
   "tag": "#2JU9URU2L"
  },
  "start": "20261123T180324.000Z",

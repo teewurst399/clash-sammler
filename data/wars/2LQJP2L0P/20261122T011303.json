@@ -813,11 +813,110 @@
    "p": 65,
    "s": 2,
    "side": "gegner"
+  },
+  {
+   "a": "#2RQR2YJU8",
+   "ath": 19,
+   "d": "#JVVLQ9V0",
+   "dth": 19,
+   "dur": 120,
+   "o": 75,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#2RQR2YJU8",
+   "ath": 19,
+   "d": "#GPJGVRLVL",
+   "dth": 19,
+   "dur": 155,
+   "o": 76,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#8PCG2PY9",
+   "ath": 18,
+   "d": "#GGR0L9VJJ",
+   "dth": 19,
+   "dur": 91,
+   "o": 77,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#20VGGCGG9",
+   "ath": 19,
+   "d": "#8PU2GGLRQ",
+   "dth": 19,
+   "dur": 124,
+   "o": 78,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#8PCG2PY9",
+   "ath": 18,
+   "d": "#28LR8QL82",
+   "dth": 19,
+   "dur": 161,
+   "o": 79,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#GGPG9JY2C",
+   "ath": 19,
+   "d": "#GCGYC9U90",
+   "dth": 19,
+   "dur": 100,
+   "o": 80,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#GGPG9JY2C",
+   "ath": 19,
+   "d": "#P9GJ9RYQQ",
+   "dth": 19,
+   "dur": 125,
+   "o": 81,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#LG9GGUYRR",
+   "ath": 19,
+   "d": "#9UQG2GQLR",
+   "dth": 19,
+   "dur": 180,
+   "o": 82,
+   "p": 76,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#LLQ2989",
+   "ath": 16,
+   "d": "#L8YUR99R2",
+   "dth": 19,
+   "dur": 116,
+   "o": 83,
+   "p": 42,
+   "s": 0,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 85.8,
+  "destruction": 96.933334,
   "members": [
    {
     "name": "Rediza2",
@@ -1001,12 +1100,12 @@
    }
   ],
   "name": "Beta-Beeren",
-  "stars": 73,
+  "stars": 84,
   "tag": "#2LQJP2L0P"
  },
  "end": "20261124T001303.000Z",
  "opponent": {
-  "destruction": 99.3,
+  "destruction": 100.0,
   "members": [
    {
     "name": "JOTAPRO",
@@ -1190,7 +1289,7 @@
    }
   ],
   "name": "REVOLUTION",
-  "stars": 89,
+  "stars": 90,
   "tag": "#2C9GLRR9Y"
  },
  "start": "20261123T001303.000Z",
