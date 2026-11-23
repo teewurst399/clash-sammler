@@ -450,11 +450,121 @@
    "p": 77,
    "s": 2,
    "side": "gegner"
+  },
+  {
+   "a": "#QGVJL8RQR",
+   "ath": 19,
+   "d": "#PRP8QJ08G",
+   "dth": 19,
+   "dur": 146,
+   "o": 42,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#P9PRCC90C",
+   "ath": 19,
+   "d": "#2UCR0RJG2",
+   "dth": 19,
+   "dur": 102,
+   "o": 43,
+   "p": 65,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#LG0Y82QC9",
+   "ath": 18,
+   "d": "#29PPL8PPC",
+   "dth": 19,
+   "dur": 159,
+   "o": 44,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#P9PRCC90C",
+   "ath": 19,
+   "d": "#2R2LPQJ9J",
+   "dth": 19,
+   "dur": 180,
+   "o": 45,
+   "p": 79,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#LG0Y82QC9",
+   "ath": 18,
+   "d": "#PR2UCCC02",
+   "dth": 19,
+   "dur": 174,
+   "o": 46,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#2LQVJLCJP",
+   "ath": 19,
+   "d": "#28GCCVUY2",
+   "dth": 19,
+   "dur": 114,
+   "o": 47,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#PUUUU22QG",
+   "ath": 17,
+   "d": "#CL98GL8G",
+   "dth": 19,
+   "dur": 120,
+   "o": 48,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#PUUUU22QG",
+   "ath": 17,
+   "d": "#GQLJGRVCJ",
+   "dth": 16,
+   "dur": 97,
+   "o": 49,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#QL28YV2V0",
+   "ath": 17,
+   "d": "#G9V9JGLVV",
+   "dth": 16,
+   "dur": 95,
+   "o": 50,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#Y99CJGL",
+   "ath": 19,
+   "d": "#2GCCYLR9P",
+   "dth": 19,
+   "dur": 112,
+   "o": 51,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 52.8,
+  "destruction": 60.82857,
   "members": [
    {
     "name": "OblatensalatF2P",
@@ -668,12 +778,12 @@
    }
   ],
   "name": "KiwiKartell",
-  "stars": 53,
+  "stars": 63,
   "tag": "#2CQ9JG29C"
  },
  "end": "20261123T201811.000Z",
  "opponent": {
-  "destruction": 47.0,
+  "destruction": 58.42857,
   "members": [
    {
     "name": "Vendul",
@@ -887,7 +997,7 @@
    }
   ],
   "name": "Greenland SVK B",
-  "stars": 48,
+  "stars": 60,
   "tag": "#28UUUVL88"
  },
  "start": "20261122T201811.000Z",

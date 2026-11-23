@@ -681,11 +681,110 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#YUL2PPR8",
+   "ath": 19,
+   "d": "#22P0P9PPJ",
+   "dth": 19,
+   "dur": 130,
+   "o": 63,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#YUL2PPR8",
+   "ath": 19,
+   "d": "#8RUJ9809C",
+   "dth": 19,
+   "dur": 146,
+   "o": 64,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#PQ09CQQ0C",
+   "ath": 19,
+   "d": "#2RVYCPQ0R",
+   "dth": 18,
+   "dur": 129,
+   "o": 65,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#8R9PP0020",
+   "ath": 19,
+   "d": "#V8LR0LC8",
+   "dth": 19,
+   "dur": 149,
+   "o": 66,
+   "p": 86,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#9YP28RYPC",
+   "ath": 19,
+   "d": "#LR9JU8090",
+   "dth": 19,
+   "dur": 117,
+   "o": 67,
+   "p": 83,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#9YP28RYPC",
+   "ath": 19,
+   "d": "#8YU9Y9L9",
+   "dth": 19,
+   "dur": 180,
+   "o": 68,
+   "p": 90,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#2RCLC0LL",
+   "ath": 19,
+   "d": "#PRC82RG2",
+   "dth": 19,
+   "dur": 125,
+   "o": 69,
+   "p": 94,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#8YU9Y9L9",
+   "ath": 19,
+   "d": "#8R9PP0020",
+   "dth": 19,
+   "dur": 180,
+   "o": 70,
+   "p": 98,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#8YU9Y9L9",
+   "ath": 19,
+   "d": "#L9RGGY8VV",
+   "dth": 19,
+   "dur": 82,
+   "o": 71,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 79.4,
+  "destruction": 91.775,
   "members": [
    {
     "name": "FL • ZΞЯБΞЯЦS³",
@@ -929,12 +1028,12 @@
    }
   ],
   "name": "FruchtLabörchen",
-  "stars": 93,
+  "stars": 107,
   "tag": "#2RYP8PQRG"
  },
  "end": "20261123T200635.000Z",
  "opponent": {
-  "destruction": 45.3,
+  "destruction": 51.775,
   "members": [
    {
     "name": "DTA Insomniac",
@@ -1178,7 +1277,7 @@
    }
   ],
   "name": "Beerenbrüder",
-  "stars": 50,
+  "stars": 54,
   "tag": "#2YGLUYJPR"
  },
  "start": "20261122T200635.000Z",

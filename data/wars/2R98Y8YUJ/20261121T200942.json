@@ -1242,6 +1242,17 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#2PVLUVRUG",
+   "ath": 19,
+   "d": "#U80R2VLL",
+   "dth": 19,
+   "dur": 150,
+   "o": 114,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -1555,7 +1566,7 @@
  },
  "end": "20261123T190942.000Z",
  "opponent": {
-  "destruction": 95.38,
+  "destruction": 97.38,
   "members": [
    {
     "name": "⚡️IR.H⚡️ALI⚡️",
@@ -1859,7 +1870,7 @@
    }
   ],
   "name": "iranian heroes",
-  "stars": 141,
+  "stars": 144,
   "tag": "#PGPYYQY9"
  },
  "start": "20261122T190942.000Z",

@@ -780,11 +780,99 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#PQQ90JLP",
+   "ath": 19,
+   "d": "#V08G0VGU",
+   "dth": 19,
+   "dur": 180,
+   "o": 72,
+   "p": 99,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#PQQ90JLP",
+   "ath": 19,
+   "d": "#C8YP0GY8",
+   "dth": 19,
+   "dur": 180,
+   "o": 73,
+   "p": 99,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#L202VGU22",
+   "ath": 19,
+   "d": "#8Y00GG0GV",
+   "dth": 19,
+   "dur": 180,
+   "o": 74,
+   "p": 93,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#L202VGU22",
+   "ath": 19,
+   "d": "#2QCU2800Y",
+   "dth": 19,
+   "dur": 180,
+   "o": 75,
+   "p": 93,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#Y9QYP288L",
+   "ath": 19,
+   "d": "#9V2VLLUPU",
+   "dth": 19,
+   "dur": 147,
+   "o": 76,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#9L0980QP",
+   "ath": 19,
+   "d": "#9UVRLQQLG",
+   "dth": 19,
+   "dur": 138,
+   "o": 77,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#Y9QYP288L",
+   "ath": 19,
+   "d": "#2J2URURQL",
+   "dth": 19,
+   "dur": 180,
+   "o": 78,
+   "p": 94,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#9L0980QP",
+   "ath": 19,
+   "d": "#2LG0YC0Q",
+   "dth": 19,
+   "dur": 143,
+   "o": 79,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 50.525,
+  "destruction": 60.125,
   "members": [
    {
     "name": "pAx",
@@ -1028,12 +1116,12 @@
    }
   ],
   "name": "FruchtLabor III",
-  "stars": 58,
+  "stars": 66,
   "tag": "#2RGV2UQY9"
  },
  "end": "20261123T190535.000Z",
  "opponent": {
-  "destruction": 90.825,
+  "destruction": 98.775,
   "members": [
    {
     "name": "Filip",
@@ -1277,7 +1365,7 @@
    }
   ],
   "name": "CROATIA",
-  "stars": 105,
+  "stars": 114,
   "tag": "#80P90LVY"
  },
  "start": "20261122T190535.000Z",

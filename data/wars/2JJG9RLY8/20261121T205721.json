@@ -494,11 +494,55 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#GJYC2L9U",
+   "ath": 18,
+   "d": "#29V2Y89LV",
+   "dth": 18,
+   "dur": 180,
+   "o": 46,
+   "p": 89,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#88GGJYJY0",
+   "ath": 19,
+   "d": "#GCVR9CVG",
+   "dth": 19,
+   "dur": 178,
+   "o": 47,
+   "p": 91,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#22Y2ULG9U",
+   "ath": 19,
+   "d": "#JR2PLPLP",
+   "dth": 19,
+   "dur": 145,
+   "o": 48,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#22Y2ULG9U",
+   "ath": 19,
+   "d": "#GCVR9CVG",
+   "dth": 19,
+   "dur": 140,
+   "o": 49,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 17.028572,
+  "destruction": 22.742857,
   "members": [
    {
     "name": "DΔツLion",
@@ -712,12 +756,12 @@
    }
   ],
   "name": "Dark Angel",
-  "stars": 16,
+  "stars": 22,
   "tag": "#2JJG9RLY8"
  },
  "end": "20261123T195721.000Z",
  "opponent": {
-  "destruction": 86.4,
+  "destruction": 88.942856,
   "members": [
    {
     "name": "trmavrma",
@@ -931,7 +975,7 @@
    }
   ],
   "name": "RONIN-CZ",
-  "stars": 88,
+  "stars": 90,
   "tag": "#PJ2JRLPL"
  },
  "start": "20261122T195721.000Z",

@@ -1143,11 +1143,44 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#LURVUPJ2C",
+   "ath": 19,
+   "d": "#P2882UL8Q",
+   "dth": 19,
+   "dur": 180,
+   "o": 105,
+   "p": 95,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#LURVUPJ2C",
+   "ath": 19,
+   "d": "#Y8P8L2CY",
+   "dth": 19,
+   "dur": 178,
+   "o": 106,
+   "p": 89,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#JGLRV22U",
+   "ath": 19,
+   "d": "#YJGVVRGYP",
+   "dth": 19,
+   "dur": 141,
+   "o": 107,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 79.755554,
+  "destruction": 81.73333,
   "members": [
    {
     "name": "Chiko",
@@ -1421,12 +1454,12 @@
    }
   ],
   "name": "GermanGladiator",
-  "stars": 106,
+  "stars": 108,
   "tag": "#2Y2L0J20V"
  },
  "end": "20261123T184031.000Z",
  "opponent": {
-  "destruction": 99.77778,
+  "destruction": 100.0,
   "members": [
    {
     "name": "The Recktifier",
@@ -1700,7 +1733,7 @@
    }
   ],
   "name": "300 club",
-  "stars": 134,
+  "stars": 135,
   "tag": "#QY9RQ2G2"
  },
  "start": "20261122T184031.000Z",
