@@ -6788,6 +6788,120 @@
    "clan": "",
    "th": null,
    "stand_zeit": "2026-11-23T06:01:29Z"
+  },
+  "#LLC9YR8GR": {
+   "name": "Fleischwürstle",
+   "clan": "Wursttheke",
+   "th": 13,
+   "stand_zeit": "2026-11-23T06:03:55Z"
+  },
+  "#GG2088LUJ": {
+   "name": "Luigi",
+   "clan": "Wursttheke",
+   "th": 16,
+   "letzte_cwl": {
+    "saison": "2025-12",
+    "clan": "Wursttheke",
+    "clantag": "#2C09CPYU8",
+    "liga": "Master League III",
+    "kriege": 7,
+    "angriffe": 7,
+    "sterne": 13,
+    "dreier": 2
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2025-12",
+     "clan": "Wursttheke",
+     "clantag": "#2C09CPYU8",
+     "liga": "Meister 3",
+     "angriffe": 7,
+     "sterne": 13,
+     "dreier": 2
+    }
+   ],
+   "stand_zeit": "2026-11-23T06:03:55Z"
+  },
+  "#YGQG9VCJ9": {
+   "name": "YGQG9VCJ9",
+   "clan": "",
+   "th": null,
+   "stand_zeit": "2026-11-23T06:03:55Z"
+  },
+  "#GUVR09LPQ": {
+   "name": "WB Thekenchef",
+   "clan": "Wursttheke",
+   "th": 3,
+   "stand_zeit": "2026-11-23T06:03:55Z"
+  },
+  "#2RLCUGV9": {
+   "name": "2RLCUGV9",
+   "clan": "",
+   "th": null,
+   "stand_zeit": "2026-11-23T06:03:55Z"
+  },
+  "#LLPUPJYLV": {
+   "name": "Megawurst",
+   "clan": "Wurststand",
+   "th": 11,
+   "letzte_cwl": {
+    "saison": "2025-12",
+    "clan": "Wurststand",
+    "clantag": "#2GGQ29000",
+    "liga": "Gold League II",
+    "kriege": 7,
+    "angriffe": 7,
+    "sterne": 15,
+    "dreier": 5
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2025-12",
+     "clan": "Wurststand",
+     "clantag": "#2GGQ29000",
+     "liga": "Gold 2",
+     "angriffe": 7,
+     "sterne": 15,
+     "dreier": 5
+    }
+   ],
+   "stand_zeit": "2026-11-23T06:03:55Z"
+  },
+  "#QCPPCLV2C": {
+   "name": "QCPPCLV2C",
+   "clan": "",
+   "th": null,
+   "stand_zeit": "2026-11-23T06:03:55Z"
+  },
+  "#GYCYQUUYR": {
+   "name": "GYCYQUUYR",
+   "clan": "",
+   "th": null,
+   "stand_zeit": "2026-11-23T06:03:55Z"
+  },
+  "#9UR2Q9GP": {
+   "name": "9UR2Q9GP",
+   "clan": "",
+   "th": null,
+   "stand_zeit": "2026-11-23T06:03:55Z"
+  },
+  "#8R9C8CVLV": {
+   "name": "8R9C8CVLV",
+   "clan": "",
+   "th": null,
+   "stand_zeit": "2026-11-23T06:03:55Z"
+  },
+  "#Y8LQR9L8R": {
+   "name": "Y8LQR9L8R",
+   "clan": "",
+   "th": null,
+   "stand_zeit": "2026-11-23T06:03:55Z"
+  },
+  "#QCGQVG8R9": {
+   "name": "QCGQVG8R9",
+   "clan": "",
+   "th": null,
+   "stand_zeit": "2026-11-23T06:03:55Z"
   }
  },
  "stand_zeit": "2026-11-22T22:30:00Z"
