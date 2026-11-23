@@ -945,11 +945,110 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#QQQPJJVGU",
+   "ath": 19,
+   "d": "#PGVLPPQR",
+   "dth": 18,
+   "dur": 126,
+   "o": 87,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#G0Y88PR8U",
+   "ath": 19,
+   "d": "#9902CQR0",
+   "dth": 19,
+   "dur": 180,
+   "o": 88,
+   "p": 99,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#G0Y88PR8U",
+   "ath": 19,
+   "d": "#Y90UU0QQ",
+   "dth": 19,
+   "dur": 155,
+   "o": 89,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#QQQPJJVGU",
+   "ath": 19,
+   "d": "#QGYPC9L88",
+   "dth": 19,
+   "dur": 153,
+   "o": 90,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#PUVY0GPU",
+   "ath": 19,
+   "d": "#QCGCVL282",
+   "dth": 9,
+   "dur": 34,
+   "o": 91,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#PUVY0GPU",
+   "ath": 19,
+   "d": "#8R9PP0020",
+   "dth": 19,
+   "dur": 112,
+   "o": 92,
+   "p": 75,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#8PRYRRVUQ",
+   "ath": 19,
+   "d": "#8R9PP0020",
+   "dth": 19,
+   "dur": 117,
+   "o": 93,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#8PRYRRVUQ",
+   "ath": 19,
+   "d": "#9VG9R2URU",
+   "dth": 19,
+   "dur": 180,
+   "o": 94,
+   "p": 94,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#Y90UU0QQ",
+   "ath": 19,
+   "d": "#9VG9R2URU",
+   "dth": 19,
+   "dur": 95,
+   "o": 95,
+   "p": 75,
+   "s": 1,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 67.35,
+  "destruction": 77.325,
   "members": [
    {
     "name": "DTA Insomniac",
@@ -1193,12 +1292,12 @@
    }
   ],
   "name": "Beerenbrüder",
-  "stars": 75,
+  "stars": 86,
   "tag": "#2YGLUYJPR"
  },
  "end": "20261123T200635.000Z",
  "opponent": {
-  "destruction": 96.975,
+  "destruction": 99.7,
   "members": [
    {
     "name": "FL • ZΞЯБΞЯЦS³",
@@ -1442,7 +1541,7 @@
    }
   ],
   "name": "FruchtLabörchen",
-  "stars": 114,
+  "stars": 118,
   "tag": "#2RYP8PQRG"
  },
  "start": "20261122T200635.000Z",

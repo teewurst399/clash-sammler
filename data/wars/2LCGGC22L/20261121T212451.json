@@ -747,11 +747,132 @@
    "p": 71,
    "s": 1,
    "side": "clan"
+  },
+  {
+   "a": "#29PPYVGQP",
+   "ath": 19,
+   "d": "#LVU8QRP8R",
+   "dth": 19,
+   "dur": 180,
+   "o": 69,
+   "p": 88,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#G20GY98VL",
+   "ath": 19,
+   "d": "#GYPJPGR00",
+   "dth": 19,
+   "dur": 149,
+   "o": 70,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#LQURU8CLG",
+   "ath": 19,
+   "d": "#LGR90YRVQ",
+   "dth": 19,
+   "dur": 104,
+   "o": 71,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#G20GY98VL",
+   "ath": 19,
+   "d": "#L02YUGQL",
+   "dth": 19,
+   "dur": 147,
+   "o": 72,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#LQURU8CLG",
+   "ath": 19,
+   "d": "#GURVV2R9L",
+   "dth": 19,
+   "dur": 112,
+   "o": 73,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#J90CCPC0",
+   "ath": 19,
+   "d": "#LYGPVPRGP",
+   "dth": 19,
+   "dur": 180,
+   "o": 74,
+   "p": 94,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#RV00UJ0P",
+   "ath": 19,
+   "d": "#YVUUVCVG8",
+   "dth": 19,
+   "dur": 77,
+   "o": 75,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#RV00UJ0P",
+   "ath": 19,
+   "d": "#28PLJ2RVR",
+   "dth": 19,
+   "dur": 92,
+   "o": 76,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#G0L9Q8P0P",
+   "ath": 19,
+   "d": "#LY00L0PYV",
+   "dth": 19,
+   "dur": 141,
+   "o": 77,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#QVYJ9C0U9",
+   "ath": 19,
+   "d": "#G20GY98VL",
+   "dth": 19,
+   "dur": 133,
+   "o": 78,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#QVYJ9C0U9",
+   "ath": 19,
+   "d": "#LQURU8CLG",
+   "dth": 19,
+   "dur": 180,
+   "o": 79,
+   "p": 80,
+   "s": 2,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 67.95556,
+  "destruction": 71.0,
   "members": [
    {
     "name": "WB Teewurst",
@@ -1025,12 +1146,12 @@
    }
   ],
   "name": "Wurstbude",
-  "stars": 83,
+  "stars": 89,
   "tag": "#2LCGGC22L"
  },
  "end": "20261123T202451.000Z",
  "opponent": {
-  "destruction": 57.77778,
+  "destruction": 71.111115,
   "members": [
    {
     "name": "S A N J A Y",
@@ -1304,7 +1425,7 @@
    }
   ],
   "name": "Lights End",
-  "stars": 78,
+  "stars": 96,
   "tag": "#2RYCGLV92"
  },
  "start": "20261122T202451.000Z",

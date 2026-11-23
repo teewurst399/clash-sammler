@@ -582,11 +582,55 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#VQ2PURG",
+   "ath": 19,
+   "d": "#Q9Q9YUVRG",
+   "dth": 19,
+   "dur": 151,
+   "o": 54,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#VQ2PURG",
+   "ath": 19,
+   "d": "#8UUYQQ8",
+   "dth": 19,
+   "dur": 126,
+   "o": 55,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#PJ80U2QP",
+   "ath": 19,
+   "d": "#YV82V2LV",
+   "dth": 18,
+   "dur": 123,
+   "o": 56,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#PJ80U2QP",
+   "ath": 19,
+   "d": "#LUR29RJCL",
+   "dth": 19,
+   "dur": 85,
+   "o": 57,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 61.714287,
+  "destruction": 73.14286,
   "members": [
    {
     "name": "tojamane",
@@ -800,7 +844,7 @@
    }
   ],
   "name": "Obstsalat",
-  "stars": 63,
+  "stars": 75,
   "tag": "#2Q8CL9Y20"
  },
  "end": "20261123T190831.000Z",

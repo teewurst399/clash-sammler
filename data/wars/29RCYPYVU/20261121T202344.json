@@ -626,6 +626,28 @@
    "p": 90,
    "s": 2,
    "side": "clan"
+  },
+  {
+   "a": "#P22J02089",
+   "ath": 19,
+   "d": "#PVLYGYC8Y",
+   "dth": 18,
+   "dur": 149,
+   "o": 58,
+   "p": 85,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#P22J02089",
+   "ath": 19,
+   "d": "#QVRV8J9R9",
+   "dth": 19,
+   "dur": 146,
+   "o": 59,
+   "p": 84,
+   "s": 2,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -789,7 +811,7 @@
  },
  "end": "20261123T192344.000Z",
  "opponent": {
-  "destruction": 98.12,
+  "destruction": 98.76,
   "members": [
    {
     "name": "jeppe k",
@@ -943,7 +965,7 @@
    }
   ],
   "name": "iWar Chillers",
-  "stars": 71,
+  "stars": 72,
   "tag": "#2QVP9CV0"
  },
  "start": "20261122T192344.000Z",

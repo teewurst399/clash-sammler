@@ -648,11 +648,44 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#YV0UL2QJ",
+   "ath": 18,
+   "d": "#LG0Y82QC9",
+   "dth": 18,
+   "dur": 85,
+   "o": 60,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#GQLJGRVCJ",
+   "ath": 16,
+   "d": "#PJYRRL02R",
+   "dth": 17,
+   "dur": 94,
+   "o": 61,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#GQLJGRVCJ",
+   "ath": 16,
+   "d": "#PUUUU22QG",
+   "dth": 17,
+   "dur": 103,
+   "o": 62,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 77.97143,
+  "destruction": 83.685715,
   "members": [
    {
     "name": "OblatensalatF2P",
@@ -866,12 +899,12 @@
    }
   ],
   "name": "KiwiKartell",
-  "stars": 81,
+  "stars": 87,
   "tag": "#2CQ9JG29C"
  },
  "end": "20261123T201811.000Z",
  "opponent": {
-  "destruction": 61.285713,
+  "destruction": 64.14286,
   "members": [
    {
     "name": "Vendul",
@@ -1085,7 +1118,7 @@
    }
   ],
   "name": "Greenland SVK B",
-  "stars": 63,
+  "stars": 66,
   "tag": "#28UUUVL88"
  },
  "start": "20261122T201811.000Z",
