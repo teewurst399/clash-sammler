@@ -989,11 +989,88 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#8GPRQPLR0",
+   "ath": 19,
+   "d": "#80C8RVL2U",
+   "dth": 19,
+   "dur": 114,
+   "o": 91,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#8GPRQPLR0",
+   "ath": 19,
+   "d": "#9PC0LVVCQ",
+   "dth": 19,
+   "dur": 97,
+   "o": 92,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#9YR0C2CGY",
+   "ath": 19,
+   "d": "#U8CR8UV0",
+   "dth": 19,
+   "dur": 164,
+   "o": 93,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#82Y2URVGJ",
+   "ath": 19,
+   "d": "#L9YGC999",
+   "dth": 19,
+   "dur": 118,
+   "o": 94,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#82Y2URVGJ",
+   "ath": 19,
+   "d": "#29VL8VQP2",
+   "dth": 19,
+   "dur": 128,
+   "o": 95,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#9YR0C2CGY",
+   "ath": 19,
+   "d": "#2U888J82U",
+   "dth": 19,
+   "dur": 155,
+   "o": 96,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#8UQQLYYG9",
+   "ath": 19,
+   "d": "#QULY2RURV",
+   "dth": 19,
+   "dur": 134,
+   "o": 97,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 73.333336,
+  "destruction": 88.888885,
   "members": [
    {
     "name": "RB",
@@ -1267,7 +1344,7 @@
    }
   ],
   "name": "Legacy",
-  "stars": 99,
+  "stars": 120,
   "tag": "#2RQR02LJR"
  },
  "end": "20261123T195141.000Z",

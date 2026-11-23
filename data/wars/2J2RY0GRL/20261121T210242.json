@@ -1495,6 +1495,28 @@
    "p": 62,
    "s": 2,
    "side": "gegner"
+  },
+  {
+   "a": "#88CGLG922",
+   "ath": 19,
+   "d": "#LRVJGG902",
+   "dth": 19,
+   "dur": 166,
+   "o": 137,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#88CGLG922",
+   "ath": 19,
+   "d": "#RG00VYLJ",
+   "dth": 19,
+   "dur": 180,
+   "o": 138,
+   "p": 90,
+   "s": 2,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,

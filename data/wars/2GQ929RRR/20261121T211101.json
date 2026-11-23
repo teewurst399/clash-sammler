@@ -1429,6 +1429,28 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#9LUP0GJYP",
+   "ath": 18,
+   "d": "#2JP9Q02PL",
+   "dth": 19,
+   "dur": 165,
+   "o": 131,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#RQYVR2RL",
+   "ath": 19,
+   "d": "#R2LLJQLP",
+   "dth": 19,
+   "dur": 171,
+   "o": 132,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -1712,7 +1734,7 @@
  },
  "end": "20261123T201101.000Z",
  "opponent": {
-  "destruction": 89.46667,
+  "destruction": 91.68889,
   "members": [
    {
     "name": "£°ºROUEº°¥",
@@ -1986,7 +2008,7 @@
    }
   ],
   "name": "PREDATOR LIGUE",
-  "stars": 112,
+  "stars": 115,
   "tag": "#2LL9UY9LQ"
  },
  "start": "20261122T201101.000Z",

@@ -648,6 +648,116 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#LGRJ9JQQU",
+   "ath": 17,
+   "d": "#GVLCRRVGV",
+   "dth": 15,
+   "dur": 80,
+   "o": 60,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#LQVG8JJGR",
+   "ath": 17,
+   "d": "#QRG0P2J20",
+   "dth": 17,
+   "dur": 153,
+   "o": 61,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#LQVG8JJGR",
+   "ath": 17,
+   "d": "#2QLUPY88J",
+   "dth": 19,
+   "dur": 102,
+   "o": 62,
+   "p": 74,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#PP9PJ8GP",
+   "ath": 19,
+   "d": "#Q88JJ00G0",
+   "dth": 18,
+   "dur": 116,
+   "o": 63,
+   "p": 73,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#PP9PJ8GP",
+   "ath": 19,
+   "d": "#GGV90Q8UJ",
+   "dth": 17,
+   "dur": 91,
+   "o": 64,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#QRG0P2J20",
+   "ath": 17,
+   "d": "#L0RCR9UU",
+   "dth": 19,
+   "dur": 35,
+   "o": 65,
+   "p": 16,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#QRG0P2J20",
+   "ath": 17,
+   "d": "#8G209CU0",
+   "dth": 19,
+   "dur": 21,
+   "o": 66,
+   "p": 10,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#2PJJ2ULJG",
+   "ath": 18,
+   "d": "#L0RCR9UU",
+   "dth": 19,
+   "dur": 30,
+   "o": 67,
+   "p": 24,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#2PJJ2ULJG",
+   "ath": 18,
+   "d": "#8G209CU0",
+   "dth": 19,
+   "dur": 13,
+   "o": 68,
+   "p": 8,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#20PP2GGCU",
+   "ath": 19,
+   "d": "#9CUPVGRC",
+   "dth": 19,
+   "dur": 99,
+   "o": 69,
+   "p": 75,
+   "s": 2,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
@@ -811,7 +921,7 @@
  },
  "end": "20261123T203544.000Z",
  "opponent": {
-  "destruction": 90.04,
+  "destruction": 97.8,
   "members": [
    {
     "name": "MR_98JAY",
@@ -965,7 +1075,7 @@
    }
   ],
   "name": "Crusher Clan!!",
-  "stars": 64,
+  "stars": 70,
   "tag": "#2CPQ8LU"
  },
  "start": "20261122T203544.000Z",

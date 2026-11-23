@@ -582,6 +582,61 @@
    "p": 10,
    "s": 1,
    "side": "gegner"
+  },
+  {
+   "a": "#9YPYYRCP0",
+   "ath": 17,
+   "d": "#LJPCRGPPG",
+   "dth": 19,
+   "dur": 73,
+   "o": 54,
+   "p": 45,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#9YPYYRCP0",
+   "ath": 17,
+   "d": "#U9890RJQ",
+   "dth": 19,
+   "dur": 48,
+   "o": 55,
+   "p": 7,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#2UUV9ULQP",
+   "ath": 18,
+   "d": "#LJPCRGPPG",
+   "dth": 19,
+   "dur": 63,
+   "o": 56,
+   "p": 35,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#2UUV9ULQP",
+   "ath": 18,
+   "d": "#U9890RJQ",
+   "dth": 19,
+   "dur": 43,
+   "o": 57,
+   "p": 6,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#R0Q2G0YLG",
+   "ath": 15,
+   "d": "#802PR80C8",
+   "dth": 12,
+   "dur": 80,
+   "o": 58,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,

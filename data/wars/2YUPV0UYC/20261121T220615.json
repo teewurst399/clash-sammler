@@ -835,11 +835,110 @@
    "p": 86,
    "s": 2,
    "side": "clan"
+  },
+  {
+   "a": "#U90YUUQV",
+   "ath": 19,
+   "d": "#JPYLLQVP",
+   "dth": 19,
+   "dur": 151,
+   "o": 77,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#U90YUUQV",
+   "ath": 19,
+   "d": "#P8VQGCJUG",
+   "dth": 19,
+   "dur": 134,
+   "o": 78,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#P8VQGCJUG",
+   "ath": 19,
+   "d": "#QRQUPU0LU",
+   "dth": 19,
+   "dur": 170,
+   "o": 79,
+   "p": 89,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#P8VQGCJUG",
+   "ath": 19,
+   "d": "#LRQ0Q8LQC",
+   "dth": 19,
+   "dur": 180,
+   "o": 80,
+   "p": 86,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#2GVG8QPV0",
+   "ath": 19,
+   "d": "#JRJGL99R",
+   "dth": 19,
+   "dur": 105,
+   "o": 81,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#8JQ8QG80C",
+   "ath": 19,
+   "d": "#8YPJCRGCQ",
+   "dth": 19,
+   "dur": 139,
+   "o": 82,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#8JQ8QG80C",
+   "ath": 19,
+   "d": "#8Q0GUP9P",
+   "dth": 19,
+   "dur": 177,
+   "o": 83,
+   "p": 96,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#YYLRCU2Y9",
+   "ath": 19,
+   "d": "#LRGULYG8G",
+   "dth": 19,
+   "dur": 151,
+   "o": 84,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#YYLRCU2Y9",
+   "ath": 19,
+   "d": "#U90YUUQV",
+   "dth": 19,
+   "dur": 138,
+   "o": 85,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 64.3,
+  "destruction": 76.7,
   "members": [
    {
     "name": "LOST☆stefan",
@@ -1083,12 +1182,12 @@
    }
   ],
   "name": "LOST 3",
-  "stars": 76,
+  "stars": 90,
   "tag": "#2YUPV0UYC"
  },
  "end": "20261123T210615.000Z",
  "opponent": {
-  "destruction": 98.675,
+  "destruction": 99.15,
   "members": [
    {
     "name": "Warlock",
@@ -1332,7 +1431,7 @@
    }
   ],
   "name": "CLB Unity",
-  "stars": 115,
+  "stars": 117,
   "tag": "#2CQVJ9GCG"
  },
  "start": "20261122T210615.000Z",
