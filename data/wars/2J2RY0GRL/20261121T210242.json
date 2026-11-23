@@ -1242,11 +1242,121 @@
    "p": 95,
    "s": 2,
    "side": "clan"
+  },
+  {
+   "a": "#8R89GQR2P",
+   "ath": 19,
+   "d": "#LRGGGVQLV",
+   "dth": 19,
+   "dur": 180,
+   "o": 114,
+   "p": 82,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#9LVP90GP9",
+   "ath": 19,
+   "d": "#LRGGGVQLV",
+   "dth": 19,
+   "dur": 165,
+   "o": 115,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#9LVP90GP9",
+   "ath": 19,
+   "d": "#88J2QJ2J",
+   "dth": 19,
+   "dur": 148,
+   "o": 116,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#LL8CC9QV8",
+   "ath": 19,
+   "d": "#QQ0Y2VLLJ",
+   "dth": 19,
+   "dur": 175,
+   "o": 117,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#LL8CC9QV8",
+   "ath": 19,
+   "d": "#LYPGLJLUU",
+   "dth": 19,
+   "dur": 180,
+   "o": 118,
+   "p": 91,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#CRYYJGPJ",
+   "ath": 19,
+   "d": "#LYPGLJLUU",
+   "dth": 19,
+   "dur": 180,
+   "o": 119,
+   "p": 98,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#2989R0R82",
+   "ath": 19,
+   "d": "#P9UUVG99P",
+   "dth": 19,
+   "dur": 172,
+   "o": 120,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#CRYYJGPJ",
+   "ath": 19,
+   "d": "#8CQVUJQQ9",
+   "dth": 19,
+   "dur": 163,
+   "o": 121,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#2989R0R82",
+   "ath": 19,
+   "d": "#PQJCUVUQJ",
+   "dth": 19,
+   "dur": 152,
+   "o": 122,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#8R89GQR2P",
+   "ath": 19,
+   "d": "#82CL28VLG",
+   "dth": 19,
+   "dur": 114,
+   "o": 123,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 65.44,
+  "destruction": 79.5,
   "members": [
    {
     "name": "PaPaPatrick",
@@ -1550,7 +1660,7 @@
    }
   ],
   "name": "Confusion II",
-  "stars": 95,
+  "stars": 116,
   "tag": "#2J2RY0GRL"
  },
  "end": "20261123T200242.000Z",

@@ -802,11 +802,132 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#9RLQPQGRL",
+   "ath": 19,
+   "d": "#LGRQ2Q0CJ",
+   "dth": 19,
+   "dur": 166,
+   "o": 74,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#8QGYCLG0",
+   "ath": 19,
+   "d": "#L20QQLQC8",
+   "dth": 19,
+   "dur": 117,
+   "o": 75,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#LCQLPVQV9",
+   "ath": 19,
+   "d": "#YVGR0LVR2",
+   "dth": 19,
+   "dur": 180,
+   "o": 76,
+   "p": 93,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#LCQLPVQV9",
+   "ath": 19,
+   "d": "#LU9VJUQGJ",
+   "dth": 19,
+   "dur": 127,
+   "o": 77,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#8YYC90CL",
+   "ath": 19,
+   "d": "#2P8PJ9VJ0",
+   "dth": 19,
+   "dur": 153,
+   "o": 78,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#8YYC90CL",
+   "ath": 19,
+   "d": "#QVG2YU9GJ",
+   "dth": 19,
+   "dur": 144,
+   "o": 79,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#GLVU89UP",
+   "ath": 19,
+   "d": "#YLR9J8R9U",
+   "dth": 19,
+   "dur": 162,
+   "o": 80,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#GLVU89UP",
+   "ath": 19,
+   "d": "#2JRPCRRP0",
+   "dth": 19,
+   "dur": 165,
+   "o": 81,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#Q8RQ00JYQ",
+   "ath": 19,
+   "d": "#LR2VR9YR8",
+   "dth": 19,
+   "dur": 149,
+   "o": 82,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#QVJPQ2YJG",
+   "ath": 19,
+   "d": "#9L08PCPP2",
+   "dth": 19,
+   "dur": 148,
+   "o": 83,
+   "p": 77,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#QVJPQ2YJG",
+   "ath": 19,
+   "d": "#JPQUUYUQ",
+   "dth": 19,
+   "dur": 150,
+   "o": 84,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 50.844444,
+  "destruction": 66.244446,
   "members": [
    {
     "name": "Saheb",
@@ -1080,12 +1201,12 @@
    }
   ],
   "name": "Secondzone",
-  "stars": 68,
+  "stars": 88,
   "tag": "#2QQPYRRCU"
  },
  "end": "20261123T223932.000Z",
  "opponent": {
-  "destruction": 76.755554,
+  "destruction": 83.53333,
   "members": [
    {
     "name": "ミ★QuốcĐịɴн★彡",
@@ -1359,7 +1480,7 @@
    }
   ],
   "name": "VIỆT NAM TITAN❤",
-  "stars": 101,
+  "stars": 110,
   "tag": "#2J9UPVVLV"
  },
  "start": "20261122T223932.000Z",

@@ -549,6 +549,50 @@
    "p": 79,
    "s": 2,
    "side": "clan"
+  },
+  {
+   "a": "#2LYU0YCQG",
+   "ath": 19,
+   "d": "#P0YYCYRG8",
+   "dth": 19,
+   "dur": 141,
+   "o": 51,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#2QR2R8VGG",
+   "ath": 17,
+   "d": "#LRJU9YJY9",
+   "dth": 19,
+   "dur": 154,
+   "o": 52,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#2LYU0YCQG",
+   "ath": 19,
+   "d": "#88GJJQL0",
+   "dth": 19,
+   "dur": 147,
+   "o": 53,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#2QR2R8VGG",
+   "ath": 17,
+   "d": "#JVJJGQJJ",
+   "dth": 18,
+   "dur": 111,
+   "o": 54,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -772,7 +816,7 @@
  },
  "end": "20261123T182151.000Z",
  "opponent": {
-  "destruction": 77.48572,
+  "destruction": 86.11429,
   "members": [
    {
     "name": "amaterasu",
@@ -986,7 +1030,7 @@
    }
   ],
   "name": "КЛАДБИЩЕ",
-  "stars": 77,
+  "stars": 87,
   "tag": "#2GVRGC20G"
  },
  "start": "20261122T182151.000Z",
