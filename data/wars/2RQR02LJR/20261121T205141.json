@@ -1275,11 +1275,220 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#9JR2CRCQQ",
+   "ath": 19,
+   "d": "#2QV82JC0J",
+   "dth": 18,
+   "dur": 157,
+   "o": 117,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#9JR2CRCQQ",
+   "ath": 19,
+   "d": "#80C8RVL2U",
+   "dth": 19,
+   "dur": 153,
+   "o": 118,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#LCJQGQL2R",
+   "ath": 19,
+   "d": "#20JLY9UCP",
+   "dth": 19,
+   "dur": 150,
+   "o": 119,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#R988QY2L",
+   "ath": 19,
+   "d": "#2YRCVQP0G",
+   "dth": 19,
+   "dur": 128,
+   "o": 120,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#2U888J82U",
+   "ath": 19,
+   "d": "#YGUU9U8Q",
+   "dth": 19,
+   "dur": 144,
+   "o": 121,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#G9QJVQGLR",
+   "ath": 19,
+   "d": "#Y9Q09VGQQ",
+   "dth": 19,
+   "dur": 4,
+   "o": 122,
+   "p": 7,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#G9QJVQGLR",
+   "ath": 19,
+   "d": "#20JLY9UCP",
+   "dth": 19,
+   "dur": 3,
+   "o": 123,
+   "p": 8,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#9QRYLU9P",
+   "ath": 19,
+   "d": "#Y9Q09VGQQ",
+   "dth": 19,
+   "dur": 5,
+   "o": 124,
+   "p": 9,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#9QRYLU9P",
+   "ath": 19,
+   "d": "#20JLY9UCP",
+   "dth": 19,
+   "dur": 3,
+   "o": 125,
+   "p": 5,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#RU9QJUL8",
+   "ath": 19,
+   "d": "#Y9Q09VGQQ",
+   "dth": 19,
+   "dur": 7,
+   "o": 126,
+   "p": 9,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#RU9QJUL8",
+   "ath": 19,
+   "d": "#20JLY9UCP",
+   "dth": 19,
+   "dur": 3,
+   "o": 127,
+   "p": 6,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#82VPUQRLY",
+   "ath": 19,
+   "d": "#QC99VRG",
+   "dth": 19,
+   "dur": 119,
+   "o": 128,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#QGVY9QVQC",
+   "ath": 19,
+   "d": "#Y9Q09VGQQ",
+   "dth": 19,
+   "dur": 17,
+   "o": 129,
+   "p": 17,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#QGVY9QVQC",
+   "ath": 19,
+   "d": "#20JLY9UCP",
+   "dth": 19,
+   "dur": 21,
+   "o": 130,
+   "p": 8,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#82VPUQRLY",
+   "ath": 19,
+   "d": "#20PJ02GC2",
+   "dth": 19,
+   "dur": 140,
+   "o": 131,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#99YG8VJG",
+   "ath": 19,
+   "d": "#20JLY9UCP",
+   "dth": 19,
+   "dur": 11,
+   "o": 132,
+   "p": 35,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#99YG8VJG",
+   "ath": 19,
+   "d": "#PP8CCQ0PY",
+   "dth": 19,
+   "dur": 4,
+   "o": 133,
+   "p": 5,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#YGUU9U8Q",
+   "ath": 19,
+   "d": "#Y9Q09VGQQ",
+   "dth": 19,
+   "dur": 132,
+   "o": 134,
+   "p": 97,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#YGUU9U8Q",
+   "ath": 19,
+   "d": "#20JLY9UCP",
+   "dth": 19,
+   "dur": 148,
+   "o": 135,
+   "p": 93,
+   "s": 2,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 97.77778,
+  "destruction": 100.0,
   "members": [
    {
     "name": "RB",
@@ -1553,7 +1762,7 @@
    }
   ],
   "name": "Legacy",
-  "stars": 132,
+  "stars": 135,
   "tag": "#2RQR02LJR"
  },
  "end": "20261123T195141.000Z",

@@ -164,6 +164,17 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#8Q8CGC2GV",
+   "ath": 18,
+   "d": "#Y2GGRCLVJ",
+   "dth": 19,
+   "dur": 120,
+   "o": 16,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -417,7 +428,7 @@
  },
  "end": "20261124T161117.000Z",
  "opponent": {
-  "destruction": 13.4,
+  "destruction": 15.9,
   "members": [
    {
     "name": "Nikhil™️",
@@ -661,7 +672,7 @@
    }
   ],
   "name": "MARATHA 2",
-  "stars": 13,
+  "stars": 16,
   "tag": "#28CYPCCGJ"
  },
  "start": "20261123T161117.000Z",

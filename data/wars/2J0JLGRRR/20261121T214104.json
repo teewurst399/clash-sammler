@@ -439,6 +439,193 @@
    "p": 24,
    "s": 1,
    "side": "clan"
+  },
+  {
+   "a": "#LP8G0GLRQ",
+   "ath": 18,
+   "d": "#LRRRJ0QJG",
+   "dth": 16,
+   "dur": 139,
+   "o": 41,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#LP8G0GLRQ",
+   "ath": 18,
+   "d": "#8JL0VV0GL",
+   "dth": 15,
+   "dur": 103,
+   "o": 42,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#GCL9CPJQU",
+   "ath": 16,
+   "d": "#GV2YPJQPC",
+   "dth": 13,
+   "dur": 95,
+   "o": 43,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#GCL9CPJQU",
+   "ath": 16,
+   "d": "#R82G2YU8L",
+   "dth": 10,
+   "dur": 60,
+   "o": 44,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#QYJPYYCLR",
+   "ath": 16,
+   "d": "#R08VJLYCL",
+   "dth": 15,
+   "dur": 132,
+   "o": 45,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#QYJPYYCLR",
+   "ath": 16,
+   "d": "#YC08Q0CV",
+   "dth": 16,
+   "dur": 116,
+   "o": 46,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#QYY88QYJJ",
+   "ath": 15,
+   "d": "#CRG2JP0Y",
+   "dth": 16,
+   "dur": 152,
+   "o": 47,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#QYY88QYJJ",
+   "ath": 15,
+   "d": "#GUQRRUVL2",
+   "dth": 15,
+   "dur": 136,
+   "o": 48,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#G29LQG9YQ",
+   "ath": 14,
+   "d": "#QY0CUGGYR",
+   "dth": 14,
+   "dur": 137,
+   "o": 49,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#G29LQG9YQ",
+   "ath": 14,
+   "d": "#GUQJP2282",
+   "dth": 13,
+   "dur": 122,
+   "o": 50,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#G9RVR92CU",
+   "ath": 14,
+   "d": "#GVR82GCQU",
+   "dth": 12,
+   "dur": 111,
+   "o": 51,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#G9RVR92CU",
+   "ath": 14,
+   "d": "#R9CP02GCY",
+   "dth": 17,
+   "dur": 113,
+   "o": 52,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#GP8LURPPY",
+   "ath": 11,
+   "d": "#R2CLJ2P9L",
+   "dth": 4,
+   "dur": 21,
+   "o": 53,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#GP8LURPPY",
+   "ath": 11,
+   "d": "#GUR0UCJGJ",
+   "dth": 3,
+   "dur": 11,
+   "o": 54,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#GPLV8PYGU",
+   "ath": 12,
+   "d": "#GUUV9Y09Y",
+   "dth": 3,
+   "dur": 9,
+   "o": 55,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#GPLV8PYGU",
+   "ath": 12,
+   "d": "#YC0P89CGJ",
+   "dth": 17,
+   "dur": 93,
+   "o": 56,
+   "p": 74,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#LCCQPQGPU",
+   "ath": 18,
+   "d": "#G8L0PCLVV",
+   "dth": 17,
+   "dur": 180,
+   "o": 57,
+   "p": 93,
+   "s": 2,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -602,7 +789,7 @@
  },
  "end": "20261123T204104.000Z",
  "opponent": {
-  "destruction": 36.24,
+  "destruction": 96.92,
   "members": [
    {
     "name": "❤رولا❤",
@@ -756,7 +943,7 @@
    }
   ],
   "name": "مبارزان بی مرز",
-  "stars": 25,
+  "stars": 70,
   "tag": "#YUCL9QPY"
  },
  "start": "20261122T204104.000Z",

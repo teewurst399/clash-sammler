@@ -934,11 +934,154 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#R2GUYYG0J",
+   "ath": 12,
+   "d": "#YQC9PJUCC",
+   "dth": 15,
+   "dur": 25,
+   "o": 86,
+   "p": 12,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#GJYPY80U0",
+   "ath": 19,
+   "d": "#89PC0JQQ0",
+   "dth": 19,
+   "dur": 141,
+   "o": 87,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#GVCJUU8PJ",
+   "ath": 14,
+   "d": "#PJVY2PPGY",
+   "dth": 11,
+   "dur": 51,
+   "o": 88,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#R2GUYYG0J",
+   "ath": 12,
+   "d": "#9YP2QUJJ",
+   "dth": 18,
+   "dur": 46,
+   "o": 89,
+   "p": 20,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#GJYPY80U0",
+   "ath": 19,
+   "d": "#2R2LPQJ9J",
+   "dth": 19,
+   "dur": 149,
+   "o": 90,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#QL8UYQ22V",
+   "ath": 19,
+   "d": "#2UCR0RJG2",
+   "dth": 19,
+   "dur": 171,
+   "o": 91,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#2090Q28VU",
+   "ath": 18,
+   "d": "#9YP2QUJJ",
+   "dth": 18,
+   "dur": 109,
+   "o": 92,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#9YP2QUJJ",
+   "ath": 18,
+   "d": "#Y9CCYQUVV",
+   "dth": 19,
+   "dur": 131,
+   "o": 93,
+   "p": 75,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#GVCJUU8PJ",
+   "ath": 14,
+   "d": "#R2GUYYG0J",
+   "dth": 12,
+   "dur": 63,
+   "o": 94,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#9YP2QUJJ",
+   "ath": 18,
+   "d": "#PR2UCCC02",
+   "dth": 19,
+   "dur": 94,
+   "o": 95,
+   "p": 72,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#20LL9QP0P",
+   "ath": 19,
+   "d": "#Y9CCYQUVV",
+   "dth": 19,
+   "dur": 108,
+   "o": 96,
+   "p": 79,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#YU8JJYURR",
+   "ath": 19,
+   "d": "#L8V2L92UG",
+   "dth": 19,
+   "dur": 118,
+   "o": 97,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#20LL9QP0P",
+   "ath": 19,
+   "d": "#YCRU0JL2J",
+   "dth": 18,
+   "dur": 123,
+   "o": 98,
+   "p": 85,
+   "s": 2,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 97.91428,
+  "destruction": 99.57143,
   "members": [
    {
     "name": "OblatensalatF2P",
@@ -1152,12 +1295,12 @@
    }
   ],
   "name": "KiwiKartell",
-  "stars": 101,
+  "stars": 104,
   "tag": "#2CQ9JG29C"
  },
  "end": "20261123T201811.000Z",
  "opponent": {
-  "destruction": 97.0,
+  "destruction": 99.97143,
   "members": [
    {
     "name": "Vendul",
@@ -1371,7 +1514,7 @@
    }
   ],
   "name": "Greenland SVK B",
-  "stars": 100,
+  "stars": 104,
   "tag": "#28UUUVL88"
  },
  "start": "20261122T201811.000Z",

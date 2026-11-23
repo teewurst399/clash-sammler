@@ -1704,6 +1704,138 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#QGYRRRPG",
+   "ath": 19,
+   "d": "#909JUURLR",
+   "dth": 19,
+   "dur": 129,
+   "o": 156,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#20UP2LJR0",
+   "ath": 19,
+   "d": "#L9URVCQUV",
+   "dth": 19,
+   "dur": 141,
+   "o": 157,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#RJ2QR22",
+   "ath": 19,
+   "d": "#9C990JRG",
+   "dth": 19,
+   "dur": 113,
+   "o": 158,
+   "p": 78,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#9U29P882J",
+   "ath": 19,
+   "d": "#9C990JRG",
+   "dth": 19,
+   "dur": 134,
+   "o": 159,
+   "p": 73,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#RJ2QR22",
+   "ath": 19,
+   "d": "#G92RVCQL",
+   "dth": 19,
+   "dur": 113,
+   "o": 160,
+   "p": 74,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#2VQLULUY",
+   "ath": 19,
+   "d": "#9C990JRG",
+   "dth": 19,
+   "dur": 180,
+   "o": 161,
+   "p": 69,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#9U29P882J",
+   "ath": 19,
+   "d": "#G92RVCQL",
+   "dth": 19,
+   "dur": 103,
+   "o": 162,
+   "p": 75,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#YQL8UJQP0",
+   "ath": 19,
+   "d": "#2JP9Q02PL",
+   "dth": 19,
+   "dur": 10,
+   "o": 163,
+   "p": 5,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#YQL8UJQP0",
+   "ath": 19,
+   "d": "#CJQGU8PP",
+   "dth": 19,
+   "dur": 6,
+   "o": 164,
+   "p": 5,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#QPGV08J",
+   "ath": 19,
+   "d": "#G92RVCQL",
+   "dth": 19,
+   "dur": 180,
+   "o": 165,
+   "p": 95,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#QPGV08J",
+   "ath": 19,
+   "d": "#9C990JRG",
+   "dth": 19,
+   "dur": 154,
+   "o": 166,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#G0RU90Q2",
+   "ath": 19,
+   "d": "#G92RVCQL",
+   "dth": 19,
+   "dur": 104,
+   "o": 167,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -1987,7 +2119,7 @@
  },
  "end": "20261123T201101.000Z",
  "opponent": {
-  "destruction": 99.64445,
+  "destruction": 100.0,
   "members": [
    {
     "name": "£°ºROUEº°¥",
@@ -2261,7 +2393,7 @@
    }
   ],
   "name": "PREDATOR LIGUE",
-  "stars": 131,
+  "stars": 135,
   "tag": "#2LL9UY9LQ"
  },
  "start": "20261122T201101.000Z",

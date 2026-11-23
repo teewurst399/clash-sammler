@@ -868,6 +868,94 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#QU2V922",
+   "ath": 19,
+   "d": "#YQC2RYJ9C",
+   "dth": 19,
+   "dur": 85,
+   "o": 80,
+   "p": 55,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#QU2V922",
+   "ath": 19,
+   "d": "#QVRV8J9R9",
+   "dth": 19,
+   "dur": 113,
+   "o": 81,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#YQUV2YVRL",
+   "ath": 19,
+   "d": "#QPRJRVYRR",
+   "dth": 19,
+   "dur": 98,
+   "o": 82,
+   "p": 69,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#2YG098U0",
+   "ath": 19,
+   "d": "#2RLYV08Y8",
+   "dth": 19,
+   "dur": 30,
+   "o": 83,
+   "p": 23,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#2YG098U0",
+   "ath": 19,
+   "d": "#9PVVGGV",
+   "dth": 19,
+   "dur": 23,
+   "o": 84,
+   "p": 5,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#GCC8LVL",
+   "ath": 19,
+   "d": "#QPRJRVYRR",
+   "dth": 19,
+   "dur": 17,
+   "o": 85,
+   "p": 52,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#GCC8LVL",
+   "ath": 19,
+   "d": "#2RLYV08Y8",
+   "dth": 19,
+   "dur": 18,
+   "o": 86,
+   "p": 58,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#PPVJRVUP8",
+   "ath": 19,
+   "d": "#PUYYUGJR",
+   "dth": 17,
+   "dur": 100,
+   "o": 87,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
@@ -1031,7 +1119,7 @@
  },
  "end": "20261123T192344.000Z",
  "opponent": {
-  "destruction": 99.36,
+  "destruction": 99.84,
   "members": [
    {
     "name": "jeppe k",
@@ -1185,7 +1273,7 @@
    }
   ],
   "name": "iWar Chillers",
-  "stars": 73,
+  "stars": 74,
   "tag": "#2QVP9CV0"
  },
  "start": "20261122T192344.000Z",

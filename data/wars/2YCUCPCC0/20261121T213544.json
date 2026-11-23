@@ -824,6 +824,61 @@
    "p": 82,
    "s": 1,
    "side": "clan"
+  },
+  {
+   "a": "#PLR9Q8VRU",
+   "ath": 19,
+   "d": "#2QLUPY88J",
+   "dth": 19,
+   "dur": 105,
+   "o": 76,
+   "p": 94,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#PYPQVG282",
+   "ath": 18,
+   "d": "#8Y8C2QPQP",
+   "dth": 18,
+   "dur": 180,
+   "o": 77,
+   "p": 90,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#LCLP8VRJ",
+   "ath": 19,
+   "d": "#2QLUPY88J",
+   "dth": 19,
+   "dur": 133,
+   "o": 78,
+   "p": 60,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#LCLP8VRJ",
+   "ath": 19,
+   "d": "#Q88JJ00G0",
+   "dth": 18,
+   "dur": 180,
+   "o": 79,
+   "p": 74,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#GG8CU0UY8",
+   "ath": 18,
+   "d": "#8G209CU0",
+   "dth": 19,
+   "dur": 9,
+   "o": 80,
+   "p": 13,
+   "s": 1,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
@@ -987,7 +1042,7 @@
  },
  "end": "20261123T203544.000Z",
  "opponent": {
-  "destruction": 98.48,
+  "destruction": 99.28,
   "members": [
    {
     "name": "MR_98JAY",
