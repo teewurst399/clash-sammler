@@ -7314,6 +7314,209 @@
     }
    ],
    "stand_zeit": "2026-11-23T19:16:37Z"
+  },
+  "#820JPL0PR": {
+   "name": "Black_Panther!*",
+   "clan": "Silent army",
+   "th": 19,
+   "cs_kriege": [
+    "#29U9JP9QC|#2RUGUGVQ2"
+   ],
+   "cw30": {
+    "th": 19,
+    "hits": 4,
+    "triples": 3,
+    "stars": 11,
+    "avg_stars": 2.75,
+    "triple_rate": 75,
+    "by_th": {
+     "18": {
+      "hits": 3,
+      "triples": 2,
+      "stars": 8
+     },
+     "19": {
+      "hits": 1,
+      "triples": 1,
+      "stars": 3
+     }
+    }
+   },
+   "cw180": {
+    "th": 19,
+    "hits": 42,
+    "triples": 36,
+    "stars": 119,
+    "avg_stars": 2.833,
+    "triple_rate": 85.7,
+    "by_th": {
+     "18": {
+      "hits": 41,
+      "triples": 35,
+      "stars": 116
+     },
+     "19": {
+      "hits": 1,
+      "triples": 1,
+      "stars": 3
+     }
+    }
+   },
+   "cwl60": {
+    "th": 19,
+    "hits": 14,
+    "triples": 10,
+    "stars": 38,
+    "avg_stars": 2.714,
+    "triple_rate": 71.4,
+    "by_th": {
+     "18": {
+      "hits": 14,
+      "triples": 10,
+      "stars": 38
+     }
+    }
+   },
+   "cwl180": {
+    "th": 19,
+    "hits": 49,
+    "triples": 33,
+    "stars": 130,
+    "avg_stars": 2.653,
+    "triple_rate": 67.3,
+    "by_th": {
+     "18": {
+      "hits": 49,
+      "triples": 33,
+      "stars": 130
+     }
+    }
+   },
+   "letzte_cwl": {
+    "saison": "2026-11",
+    "clan": "Seal Team",
+    "clantag": "#9U02YCQU",
+    "liga": "Titan League I",
+    "kriege": 7,
+    "angriffe": 7,
+    "sterne": 20,
+    "dreier": 6
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-11",
+     "clan": "Seal Team",
+     "clantag": "#9U02YCQU",
+     "liga": "Titan 1",
+     "angriffe": 7,
+     "sterne": 20,
+     "dreier": 6
+    },
+    {
+     "saison": "2026-10",
+     "clan": "Silent army",
+     "clantag": "#29U9JP9QC",
+     "liga": "Titan 1",
+     "angriffe": 7,
+     "sterne": 18,
+     "dreier": 4
+    },
+    {
+     "saison": "2026-09",
+     "clan": "Silent army",
+     "clantag": "#2LCLLP9UJ",
+     "liga": "Titan 1",
+     "angriffe": 7,
+     "sterne": 20,
+     "dreier": 6
+    }
+   ],
+   "stand_zeit": "2026-11-23T20:11:41Z"
+  },
+  "#LGPQVL2L2": {
+   "name": "Pinguin",
+   "clan": "Anthrazit",
+   "th": 16,
+   "cs_kriege": [
+    "#2GPLC2GL8|#2QVCQUPUR",
+    "#2GPLC2GL8|#2JJ8PYV2Y"
+   ],
+   "cw30": {
+    "th": 16,
+    "hits": 6,
+    "triples": 6,
+    "stars": 18,
+    "avg_stars": 3,
+    "triple_rate": 100,
+    "by_th": {
+     "12": {
+      "hits": 3,
+      "triples": 3,
+      "stars": 9
+     },
+     "16": {
+      "hits": 3,
+      "triples": 3,
+      "stars": 9
+     }
+    }
+   },
+   "cw180": {
+    "th": 16,
+    "hits": 16,
+    "triples": 15,
+    "stars": 47,
+    "avg_stars": 2.938,
+    "triple_rate": 93.8,
+    "by_th": {
+     "11": {
+      "hits": 8,
+      "triples": 8,
+      "stars": 24
+     },
+     "12": {
+      "hits": 5,
+      "triples": 4,
+      "stars": 14
+     },
+     "16": {
+      "hits": 3,
+      "triples": 3,
+      "stars": 9
+     }
+    }
+   },
+   "letzte_cwl": {
+    "saison": "2026-09",
+    "clan": "Wurststand",
+    "clantag": "#2GGQ29000",
+    "liga": "Crystal League III",
+    "kriege": 7,
+    "angriffe": 7,
+    "sterne": 10,
+    "dreier": 1
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-09",
+     "clan": "Wurststand",
+     "clantag": "#2GGQ29000",
+     "liga": "Kristall 3",
+     "angriffe": 7,
+     "sterne": 10,
+     "dreier": 1
+    },
+    {
+     "saison": "2026-08",
+     "clan": "Allemagne_2",
+     "clantag": "#2C0P9PP8R",
+     "liga": "Kristall 3",
+     "angriffe": 7,
+     "sterne": 9,
+     "dreier": 1
+    }
+   ],
+   "stand_zeit": "2026-11-23T20:11:41Z"
   }
  },
  "stand_zeit": "2026-11-22T22:30:00Z"
