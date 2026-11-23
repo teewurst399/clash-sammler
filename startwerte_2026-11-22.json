@@ -6,6 +6,9 @@
    "name": "Markus ;)",
    "clan": "Wurstbude",
    "th": 19,
+   "cs_kriege": [
+    "#2LCGGC22L|#22LCUV0P"
+   ],
    "cw30": {
     "th": 19,
     "hits": 8,
@@ -115,7 +118,7 @@
      "dreier": 6
     }
    ],
-   "stand_zeit": "2026-11-23T05:52:08Z"
+   "stand_zeit": "2026-11-23T11:52:27Z"
   },
   "#22VL22U80": {
    "name": "domi",
@@ -221,19 +224,22 @@
      "dreier": 6
     }
    ],
-   "stand_zeit": "2026-11-23T11:42:41Z"
+   "stand_zeit": "2026-11-23T11:52:27Z"
   },
   "#28CVLRLU": {
    "name": "WB Teewurst₃",
-   "clan": "Wurstbude",
+   "clan": "Würstchenbude",
    "th": 18,
+   "cs_kriege": [
+    "#2JYURYLCL|#2G0U2RJQ8"
+   ],
    "cw30": {
     "th": 18,
     "hits": 2,
     "triples": 2,
     "stars": 6,
-    "avg_stars": 3.0,
-    "triple_rate": 100.0,
+    "avg_stars": 3,
+    "triple_rate": 100,
     "by_th": {
      "18": {
       "hits": 2,
@@ -248,7 +254,7 @@
     "triples": 3,
     "stars": 13,
     "avg_stars": 2.6,
-    "triple_rate": 60.0,
+    "triple_rate": 60,
     "by_th": {
      "18": {
       "hits": 5,
@@ -278,7 +284,7 @@
     "triples": 23,
     "stars": 73,
     "avg_stars": 2.92,
-    "triple_rate": 92.0,
+    "triple_rate": 92,
     "by_th": {
      "18": {
       "hits": 25,
@@ -325,12 +331,16 @@
      "sterne": 21,
      "dreier": 7
     }
-   ]
+   ],
+   "stand_zeit": "2026-11-23T11:52:27Z"
   },
   "#28PLJ2RVR": {
    "name": "✘✞тšυиαмı✞✘ツ",
    "clan": "Wurstbude",
    "th": 19,
+   "cs_kriege": [
+    "#2LCGGC22L|#22LCUV0P"
+   ],
    "cw30": {
     "th": 19,
     "hits": 8,
@@ -439,7 +449,8 @@
      "sterne": 18,
      "dreier": 5
     }
-   ]
+   ],
+   "stand_zeit": "2026-11-23T11:52:27Z"
   },
   "#28UGG2RY": {
    "name": "G!B$ascha",
@@ -534,13 +545,16 @@
    "name": "WB™ NikolaySa✨️",
    "clan": "Wurstbude",
    "th": 19,
+   "cs_kriege": [
+    "#2LCGGC22L|#22LCUV0P"
+   ],
    "cw30": {
     "th": 19,
     "hits": 6,
     "triples": 3,
     "stars": 15,
     "avg_stars": 2.5,
-    "triple_rate": 50.0,
+    "triple_rate": 50,
     "by_th": {
      "18": {
       "hits": 4,
@@ -560,7 +574,7 @@
     "triples": 33,
     "stars": 140,
     "avg_stars": 2.545,
-    "triple_rate": 60.0,
+    "triple_rate": 60,
     "by_th": {
      "18": {
       "hits": 53,
@@ -642,19 +656,23 @@
      "sterne": 20,
      "dreier": 6
     }
-   ]
+   ],
+   "stand_zeit": "2026-11-23T11:52:27Z"
   },
   "#2UJ8RRGUP": {
    "name": "american",
    "clan": "Wurstbude",
    "th": 18,
+   "cs_kriege": [
+    "#2LCGGC22L|#22LCUV0P"
+   ],
    "cw30": {
     "th": 18,
     "hits": 8,
     "triples": 4,
     "stars": 20,
     "avg_stars": 2.5,
-    "triple_rate": 50.0,
+    "triple_rate": 50,
     "by_th": {
      "18": {
       "hits": 8,
@@ -699,7 +717,7 @@
     "triples": 30,
     "stars": 109,
     "avg_stars": 2.725,
-    "triple_rate": 75.0,
+    "triple_rate": 75,
     "by_th": {
      "18": {
       "hits": 40,
@@ -746,19 +764,23 @@
      "sterne": 21,
      "dreier": 7
     }
-   ]
+   ],
+   "stand_zeit": "2026-11-23T11:52:27Z"
   },
   "#2UYG09GU2": {
    "name": "Yence",
    "clan": "Wurstbude",
    "th": 19,
+   "cs_kriege": [
+    "#2LCGGC22L|#22LCUV0P"
+   ],
    "cw30": {
     "th": 19,
     "hits": 8,
     "triples": 6,
     "stars": 22,
     "avg_stars": 2.75,
-    "triple_rate": 75.0,
+    "triple_rate": 75,
     "by_th": {
      "18": {
       "hits": 6,
@@ -798,7 +820,7 @@
     "triples": 6,
     "stars": 30,
     "avg_stars": 2.5,
-    "triple_rate": 50.0,
+    "triple_rate": 50,
     "by_th": {
      "18": {
       "hits": 12,
@@ -860,19 +882,23 @@
      "sterne": 18,
      "dreier": 6
     }
-   ]
+   ],
+   "stand_zeit": "2026-11-23T11:52:27Z"
   },
   "#8GR0P9UQL": {
    "name": "Imker Thorsten",
    "clan": "Wurstbude",
    "th": 19,
+   "cs_kriege": [
+    "#2LCGGC22L|#22LCUV0P"
+   ],
    "cw30": {
     "th": 19,
     "hits": 7,
     "triples": 7,
     "stars": 21,
-    "avg_stars": 3.0,
-    "triple_rate": 100.0,
+    "avg_stars": 3,
+    "triple_rate": 100,
     "by_th": {
      "18": {
       "hits": 5,
@@ -911,8 +937,8 @@
     "hits": 9,
     "triples": 9,
     "stars": 27,
-    "avg_stars": 3.0,
-    "triple_rate": 100.0,
+    "avg_stars": 3,
+    "triple_rate": 100,
     "by_th": {
      "18": {
       "hits": 9,
@@ -940,7 +966,7 @@
     "saison": "2026-11",
     "clan": "Wursttheke",
     "clantag": "#2C09CPYU8",
-    "liga": "Master League I",
+    "liga": "Master League II",
     "kriege": 7,
     "angriffe": 7,
     "sterne": 21,
@@ -974,7 +1000,8 @@
      "sterne": 20,
      "dreier": 6
     }
-   ]
+   ],
+   "stand_zeit": "2026-11-23T11:52:27Z"
   },
   "#8PCYJLLQ": {
    "name": "El Mundo",
@@ -1050,12 +1077,15 @@
      "dreier": 7
     }
    ],
-   "stand_zeit": "2026-11-23T11:42:41Z"
+   "stand_zeit": "2026-11-23T11:52:27Z"
   },
   "#90U88CR": {
    "name": "⚡️Ｊｕｌｉａｎ⚡️",
-   "clan": "Wursttheke",
+   "clan": "Wurstbude",
    "th": 19,
+   "cs_kriege": [
+    "#2LCGGC22L|#22LCUV0P"
+   ],
    "cw30": {
     "th": 19,
     "hits": 14,
@@ -1078,16 +1108,16 @@
    },
    "cw180": {
     "th": 19,
-    "hits": 80,
-    "triples": 57,
-    "stars": 206,
-    "avg_stars": 2.575,
-    "triple_rate": 71.2,
+    "hits": 79,
+    "triples": 56,
+    "stars": 203,
+    "avg_stars": 2.57,
+    "triple_rate": 70.9,
     "by_th": {
      "18": {
-      "hits": 78,
-      "triples": 56,
-      "stars": 201
+      "hits": 77,
+      "triples": 55,
+      "stars": 198
      },
      "19": {
       "hits": 2,
@@ -1130,7 +1160,7 @@
     "saison": "2026-11",
     "clan": "Wursttheke",
     "clantag": "#2C09CPYU8",
-    "liga": "Master League I",
+    "liga": "Master League II",
     "kriege": 7,
     "angriffe": 7,
     "sterne": 21,
@@ -1164,19 +1194,23 @@
      "sterne": 20,
      "dreier": 6
     }
-   ]
+   ],
+   "stand_zeit": "2026-11-23T11:52:27Z"
   },
   "#98GV90GCV": {
    "name": "WB Teewurst₂",
    "clan": "Wurstbude",
    "th": 19,
+   "cs_kriege": [
+    "#2LCGGC22L|#22LCUV0P"
+   ],
    "cw30": {
     "th": 19,
     "hits": 6,
     "triples": 6,
     "stars": 18,
-    "avg_stars": 3.0,
-    "triple_rate": 100.0,
+    "avg_stars": 3,
+    "triple_rate": 100,
     "by_th": {
      "18": {
       "hits": 4,
@@ -1195,8 +1229,8 @@
     "hits": 27,
     "triples": 27,
     "stars": 81,
-    "avg_stars": 3.0,
-    "triple_rate": 100.0,
+    "avg_stars": 3,
+    "triple_rate": 100,
     "by_th": {
      "18": {
       "hits": 25,
@@ -1278,7 +1312,8 @@
      "sterne": 21,
      "dreier": 7
     }
-   ]
+   ],
+   "stand_zeit": "2026-11-23T11:52:27Z"
   },
   "#9L28CPJ29": {
    "name": "WB Henrik",
@@ -1363,13 +1398,16 @@
    "name": "〤Ğeronimoooジ",
    "clan": "Wurstbude",
    "th": 19,
+   "cs_kriege": [
+    "#2LCGGC22L|#22LCUV0P"
+   ],
    "cw30": {
     "th": 19,
     "hits": 6,
     "triples": 6,
     "stars": 18,
-    "avg_stars": 3.0,
-    "triple_rate": 100.0,
+    "avg_stars": 3,
+    "triple_rate": 100,
     "by_th": {
      "18": {
       "hits": 4,
@@ -1385,16 +1423,16 @@
    },
    "cw180": {
     "th": 19,
-    "hits": 44,
-    "triples": 42,
-    "stars": 129,
-    "avg_stars": 2.932,
-    "triple_rate": 95.5,
+    "hits": 42,
+    "triples": 40,
+    "stars": 123,
+    "avg_stars": 2.929,
+    "triple_rate": 95.2,
     "by_th": {
      "18": {
-      "hits": 42,
-      "triples": 40,
-      "stars": 123
+      "hits": 40,
+      "triples": 38,
+      "stars": 117
      },
      "19": {
       "hits": 2,
@@ -1471,7 +1509,8 @@
      "sterne": 20,
      "dreier": 6
     }
-   ]
+   ],
+   "stand_zeit": "2026-11-23T11:52:27Z"
   },
   "#9RU2RLCQ": {
    "name": "WB AJI",
@@ -1508,13 +1547,16 @@
    "name": "Zeppelinwurst",
    "clan": "Wurstbude",
    "th": 19,
+   "cs_kriege": [
+    "#2LCGGC22L|#22LCUV0P"
+   ],
    "cw30": {
     "th": 19,
     "hits": 8,
     "triples": 8,
     "stars": 24,
-    "avg_stars": 3.0,
-    "triple_rate": 100.0,
+    "avg_stars": 3,
+    "triple_rate": 100,
     "by_th": {
      "18": {
       "hits": 6,
@@ -1616,12 +1658,16 @@
      "sterne": 19,
      "dreier": 5
     }
-   ]
+   ],
+   "stand_zeit": "2026-11-23T11:52:27Z"
   },
   "#9V00PRGU": {
    "name": "WB Teewurst",
-   "clan": "Wurstbude",
+   "clan": "Würstchenbude",
    "th": 19,
+   "cs_kriege": [
+    "#2JYURYLCL|#2J02CC209"
+   ],
    "cw30": {
     "th": 19,
     "hits": 6,
@@ -1720,12 +1766,16 @@
      "sterne": 21,
      "dreier": 7
     }
-   ]
+   ],
+   "stand_zeit": "2026-11-23T11:52:27Z"
   },
   "#9VVPVLVL": {
    "name": "JoloPizzabäcker",
    "clan": "Wurstbude",
    "th": 19,
+   "cs_kriege": [
+    "#2LCGGC22L|#22LCUV0P"
+   ],
    "cw30": {
     "th": 19,
     "hits": 3,
@@ -1800,8 +1850,8 @@
     "saison": "2026-11",
     "clan": "Wursttheke",
     "clantag": "#2C09CPYU8",
-    "liga": "Master League I",
-    "kriege": 6,
+    "liga": "Master League II",
+    "kriege": 5,
     "angriffe": 5,
     "sterne": 14,
     "dreier": 4
@@ -1834,19 +1884,23 @@
      "sterne": 18,
      "dreier": 5
     }
-   ]
+   ],
+   "stand_zeit": "2026-11-23T11:52:27Z"
   },
   "#9YU2QR9GV": {
    "name": "Admiral Mudoo",
    "clan": "Wurstbude",
    "th": 19,
+   "cs_kriege": [
+    "#2LCGGC22L|#22LCUV0P"
+   ],
    "cw30": {
     "th": 19,
     "hits": 10,
     "triples": 5,
     "stars": 24,
     "avg_stars": 2.4,
-    "triple_rate": 50.0,
+    "triple_rate": 50,
     "by_th": {
      "18": {
       "hits": 10,
@@ -1885,6 +1939,16 @@
      }
     }
    },
+   "letzte_cwl": {
+    "saison": "2026-09",
+    "clan": "Würstchenbude",
+    "clantag": "#2JYURYLCL",
+    "liga": "Master League I",
+    "kriege": 4,
+    "angriffe": 4,
+    "sterne": 12,
+    "dreier": 4
+   },
    "cwl_saisons": [
     {
      "saison": "2026-09",
@@ -1913,7 +1977,8 @@
      "sterne": 21,
      "dreier": 7
     }
-   ]
+   ],
+   "stand_zeit": "2026-11-23T11:52:27Z"
   },
   "#C2PYPQLL": {
    "name": "WB Fabio",
@@ -2004,12 +2069,15 @@
      "dreier": 6
     }
    ],
-   "stand_zeit": "2026-11-23T11:42:41Z"
+   "stand_zeit": "2026-11-23T11:52:27Z"
   },
   "#G00RYCJG": {
    "name": "BChvT23",
    "clan": "Wurstbude",
    "th": 19,
+   "cs_kriege": [
+    "#2LCGGC22L|#22LCUV0P"
+   ],
    "cw30": {
     "th": 19,
     "hits": 12,
@@ -2118,19 +2186,23 @@
      "sterne": 20,
      "dreier": 6
     }
-   ]
+   ],
+   "stand_zeit": "2026-11-23T11:52:27Z"
   },
   "#G0G00Q9VL": {
    "name": "Höhny",
    "clan": "Wurstbude",
    "th": 19,
+   "cs_kriege": [
+    "#2LCGGC22L|#22LCUV0P"
+   ],
    "cw30": {
     "th": 19,
     "hits": 2,
     "triples": 1,
     "stars": 5,
     "avg_stars": 2.5,
-    "triple_rate": 50.0,
+    "triple_rate": 50,
     "by_th": {
      "19": {
       "hits": 2,
@@ -2174,6 +2246,16 @@
      }
     }
    },
+   "letzte_cwl": {
+    "saison": "2026-08",
+    "clan": "Bergdrachen",
+    "clantag": "#29ULU2LPJ",
+    "liga": "Titan League III",
+    "kriege": 7,
+    "angriffe": 7,
+    "sterne": 16,
+    "dreier": 2
+   },
    "cwl_saisons": [
     {
      "saison": "2026-08",
@@ -2202,19 +2284,23 @@
      "sterne": 12,
      "dreier": 2
     }
-   ]
+   ],
+   "stand_zeit": "2026-11-23T11:52:27Z"
   },
   "#G0L9Q8P0P": {
    "name": "ApexFlex",
    "clan": "Wurstbude",
    "th": 19,
+   "cs_kriege": [
+    "#2LCGGC22L|#22LCUV0P"
+   ],
    "cw30": {
     "th": 19,
     "hits": 10,
     "triples": 5,
     "stars": 25,
     "avg_stars": 2.5,
-    "triple_rate": 50.0,
+    "triple_rate": 50,
     "by_th": {
      "18": {
       "hits": 10,
@@ -2243,8 +2329,8 @@
     "hits": 14,
     "triples": 14,
     "stars": 42,
-    "avg_stars": 3.0,
-    "triple_rate": 100.0,
+    "avg_stars": 3,
+    "triple_rate": 100,
     "by_th": {
      "18": {
       "hits": 14,
@@ -2306,19 +2392,23 @@
      "sterne": 17,
      "dreier": 5
     }
-   ]
+   ],
+   "stand_zeit": "2026-11-23T11:52:27Z"
   },
   "#G20RYP820": {
    "name": "Frank",
    "clan": "Wurstbude",
    "th": 19,
+   "cs_kriege": [
+    "#2LCGGC22L|#22LCUV0P"
+   ],
    "cw30": {
     "th": 19,
     "hits": 6,
     "triples": 6,
     "stars": 18,
-    "avg_stars": 3.0,
-    "triple_rate": 100.0,
+    "avg_stars": 3,
+    "triple_rate": 100,
     "by_th": {
      "18": {
       "hits": 4,
@@ -2357,8 +2447,8 @@
     "hits": 14,
     "triples": 14,
     "stars": 42,
-    "avg_stars": 3.0,
-    "triple_rate": 100.0,
+    "avg_stars": 3,
+    "triple_rate": 100,
     "by_th": {
      "18": {
       "hits": 14,
@@ -2420,19 +2510,23 @@
      "sterne": 20,
      "dreier": 6
     }
-   ]
+   ],
+   "stand_zeit": "2026-11-23T11:52:27Z"
   },
   "#G2RUYUGC": {
    "name": "Fietz",
    "clan": "Wurstbude",
    "th": 19,
+   "cs_kriege": [
+    "#2LCGGC22L|#22LCUV0P"
+   ],
    "cw30": {
     "th": 19,
     "hits": 6,
     "triples": 6,
     "stars": 18,
-    "avg_stars": 3.0,
-    "triple_rate": 100.0,
+    "avg_stars": 3,
+    "triple_rate": 100,
     "by_th": {
      "18": {
       "hits": 4,
@@ -2534,19 +2628,23 @@
      "sterne": 21,
      "dreier": 7
     }
-   ]
+   ],
+   "stand_zeit": "2026-11-23T11:52:27Z"
   },
   "#G9R980C2U": {
    "name": "Cartman9001",
    "clan": "Wurstbude",
    "th": 19,
+   "cs_kriege": [
+    "#2LCGGC22L|#22LCUV0P"
+   ],
    "cw30": {
     "th": 19,
     "hits": 10,
     "triples": 10,
     "stars": 30,
-    "avg_stars": 3.0,
-    "triple_rate": 100.0,
+    "avg_stars": 3,
+    "triple_rate": 100,
     "by_th": {
      "18": {
       "hits": 8,
@@ -2648,12 +2746,16 @@
      "sterne": 20,
      "dreier": 6
     }
-   ]
+   ],
+   "stand_zeit": "2026-11-23T11:52:27Z"
   },
   "#G9YGCC228": {
    "name": "Frischgezapftes",
    "clan": "Wurstbude",
    "th": 19,
+   "cs_kriege": [
+    "#2LCGGC22L|#22LCUV0P"
+   ],
    "cw30": {
     "th": 19,
     "hits": 8,
@@ -2767,7 +2869,8 @@
      "sterne": 16,
      "dreier": 2
     }
-   ]
+   ],
+   "stand_zeit": "2026-11-23T11:52:27Z"
   },
   "#GC9UYCQVY": {
    "name": "Sintai",
@@ -2987,7 +3090,7 @@
      "dreier": 7
     }
    ],
-   "stand_zeit": "2026-11-23T11:42:41Z"
+   "stand_zeit": "2026-11-23T11:52:27Z"
   },
   "#GPCQPUQ0Q": {
    "name": "WB Teewurst₄",
@@ -3101,7 +3204,7 @@
      "dreier": 3
     }
    ],
-   "stand_zeit": "2026-11-23T11:51:14Z"
+   "stand_zeit": "2026-11-23T11:52:27Z"
   },
   "#GQGQJR2RR": {
    "name": "e-gamer 427",
@@ -3171,13 +3274,16 @@
    "name": "OmegaFlex",
    "clan": "Wurstbude",
    "th": 19,
+   "cs_kriege": [
+    "#2LCGGC22L|#22LCUV0P"
+   ],
    "cw30": {
     "th": 19,
     "hits": 5,
     "triples": 2,
     "stars": 12,
     "avg_stars": 2.4,
-    "triple_rate": 40.0,
+    "triple_rate": 40,
     "by_th": {
      "18": {
       "hits": 5,
@@ -3206,8 +3312,8 @@
     "hits": 14,
     "triples": 14,
     "stars": 42,
-    "avg_stars": 3.0,
-    "triple_rate": 100.0,
+    "avg_stars": 3,
+    "triple_rate": 100,
     "by_th": {
      "18": {
       "hits": 14,
@@ -3269,19 +3375,23 @@
      "sterne": 21,
      "dreier": 7
     }
-   ]
+   ],
+   "stand_zeit": "2026-11-23T11:52:27Z"
   },
   "#GYPJPGR00": {
    "name": "Braynar",
    "clan": "Wurstbude",
    "th": 19,
+   "cs_kriege": [
+    "#2LCGGC22L|#22LCUV0P"
+   ],
    "cw30": {
     "th": 19,
     "hits": 8,
     "triples": 8,
     "stars": 24,
-    "avg_stars": 3.0,
-    "triple_rate": 100.0,
+    "avg_stars": 3,
+    "triple_rate": 100,
     "by_th": {
      "18": {
       "hits": 6,
@@ -3383,19 +3493,23 @@
      "sterne": 21,
      "dreier": 7
     }
-   ]
+   ],
+   "stand_zeit": "2026-11-23T11:52:27Z"
   },
   "#J90CCPC0": {
    "name": "WB Lukas",
    "clan": "Wurstbude",
    "th": 19,
+   "cs_kriege": [
+    "#2LCGGC22L|#22LCUV0P"
+   ],
    "cw30": {
     "th": 19,
     "hits": 5,
     "triples": 1,
     "stars": 9,
     "avg_stars": 1.8,
-    "triple_rate": 20.0,
+    "triple_rate": 20,
     "by_th": {
      "18": {
       "hits": 4,
@@ -3415,7 +3529,7 @@
     "triples": 32,
     "stars": 126,
     "avg_stars": 2.52,
-    "triple_rate": 64.0,
+    "triple_rate": 64,
     "by_th": {
      "18": {
       "hits": 49,
@@ -3497,12 +3611,16 @@
      "sterne": 16,
      "dreier": 4
     }
-   ]
+   ],
+   "stand_zeit": "2026-11-23T11:52:27Z"
   },
   "#L02YUGQL": {
    "name": "ッмεмεптσ мσяıッ",
    "clan": "Wurstbude",
    "th": 19,
+   "cs_kriege": [
+    "#2LCGGC22L|#22LCUV0P"
+   ],
    "cw30": {
     "th": 19,
     "hits": 7,
@@ -3611,7 +3729,8 @@
      "sterne": 19,
      "dreier": 5
     }
-   ]
+   ],
+   "stand_zeit": "2026-11-23T11:52:27Z"
   },
   "#LC8890LGJ": {
    "name": "「BTR」TIMOLINO",
@@ -3826,19 +3945,22 @@
      "dreier": 2
     }
    ],
-   "stand_zeit": "2026-11-23T11:42:41Z"
+   "stand_zeit": "2026-11-23T11:52:27Z"
   },
   "#LGR90YRVQ": {
    "name": "Dragoran",
    "clan": "Wurstbude",
    "th": 18,
+   "cs_kriege": [
+    "#2LCGGC22L|#22LCUV0P"
+   ],
    "cw30": {
     "th": 18,
     "hits": 5,
     "triples": 4,
     "stars": 13,
     "avg_stars": 2.6,
-    "triple_rate": 80.0,
+    "triple_rate": 80,
     "by_th": {
      "18": {
       "hits": 5,
@@ -3867,8 +3989,8 @@
     "hits": 14,
     "triples": 14,
     "stars": 42,
-    "avg_stars": 3.0,
-    "triple_rate": 100.0,
+    "avg_stars": 3,
+    "triple_rate": 100,
     "by_th": {
      "18": {
       "hits": 14,
@@ -3882,8 +4004,8 @@
     "hits": 14,
     "triples": 14,
     "stars": 42,
-    "avg_stars": 3.0,
-    "triple_rate": 100.0,
+    "avg_stars": 3,
+    "triple_rate": 100,
     "by_th": {
      "18": {
       "hits": 14,
@@ -3930,7 +4052,8 @@
      "sterne": 21,
      "dreier": 7
     }
-   ]
+   ],
+   "stand_zeit": "2026-11-23T11:52:27Z"
   },
   "#LGUPGVJ8R": {
    "name": "Neymar Jr 10",
@@ -4055,13 +4178,16 @@
    "name": "WB Hähnchendino",
    "clan": "Wurstbude",
    "th": 19,
+   "cs_kriege": [
+    "#2LCGGC22L|#22LCUV0P"
+   ],
    "cw30": {
     "th": 19,
     "hits": 10,
     "triples": 9,
     "stars": 29,
     "avg_stars": 2.9,
-    "triple_rate": 90.0,
+    "triple_rate": 90,
     "by_th": {
      "18": {
       "hits": 8,
@@ -4100,8 +4226,8 @@
     "hits": 14,
     "triples": 14,
     "stars": 42,
-    "avg_stars": 3.0,
-    "triple_rate": 100.0,
+    "avg_stars": 3,
+    "triple_rate": 100,
     "by_th": {
      "18": {
       "hits": 14,
@@ -4163,19 +4289,23 @@
      "sterne": 20,
      "dreier": 6
     }
-   ]
+   ],
+   "stand_zeit": "2026-11-23T11:52:27Z"
   },
   "#LUL9YGJGP": {
    "name": "『VØID』",
    "clan": "Wurstbude",
    "th": 19,
+   "cs_kriege": [
+    "#2LCGGC22L|#22LCUV0P"
+   ],
    "cw30": {
     "th": 19,
     "hits": 4,
     "triples": 1,
     "stars": 7,
     "avg_stars": 1.75,
-    "triple_rate": 25.0,
+    "triple_rate": 25,
     "by_th": {
      "18": {
       "hits": 2,
@@ -4277,7 +4407,8 @@
      "sterne": 17,
      "dreier": 5
     }
-   ]
+   ],
+   "stand_zeit": "2026-11-23T11:52:27Z"
   },
   "#PG0JJ9U": {
    "name": "Alex",
@@ -4383,19 +4514,22 @@
      "dreier": 2
     }
    ],
-   "stand_zeit": "2026-11-23T11:42:41Z"
+   "stand_zeit": "2026-11-23T11:52:27Z"
   },
   "#PJL2V290P": {
    "name": "Nasenelf",
    "clan": "Wurstbude",
    "th": 19,
+   "cs_kriege": [
+    "#2LCGGC22L|#22LCUV0P"
+   ],
    "cw30": {
     "th": 19,
     "hits": 10,
     "triples": 7,
     "stars": 26,
     "avg_stars": 2.6,
-    "triple_rate": 70.0,
+    "triple_rate": 70,
     "by_th": {
      "18": {
       "hits": 8,
@@ -4497,12 +4631,16 @@
      "sterne": 19,
      "dreier": 5
     }
-   ]
+   ],
+   "stand_zeit": "2026-11-23T11:52:27Z"
   },
   "#PRUPJL0Q9": {
    "name": "⛥ɱσʂƚɯαɳƚȥ⛥ッ",
-   "clan": "Würstchenbude",
+   "clan": "Wurstbude",
    "th": 19,
+   "cs_kriege": [
+    "#2LCGGC22L|#22LCUV0P"
+   ],
    "cw30": {
     "th": 19,
     "hits": 8,
@@ -4564,7 +4702,7 @@
     "triples": 22,
     "stars": 82,
     "avg_stars": 2.645,
-    "triple_rate": 71.0,
+    "triple_rate": 71,
     "by_th": {
      "18": {
       "hits": 31,
@@ -4611,19 +4749,23 @@
      "sterne": 18,
      "dreier": 4
     }
-   ]
+   ],
+   "stand_zeit": "2026-11-23T11:52:27Z"
   },
   "#PVPJ0VUC": {
    "name": "WB Freddy",
    "clan": "Wurstbude",
    "th": 19,
+   "cs_kriege": [
+    "#2LCGGC22L|#22LCUV0P"
+   ],
    "cw30": {
     "th": 19,
     "hits": 2,
     "triples": 1,
     "stars": 4,
-    "avg_stars": 2.0,
-    "triple_rate": 50.0,
+    "avg_stars": 2,
+    "triple_rate": 50,
     "by_th": {
      "18": {
       "hits": 2,
@@ -4652,8 +4794,8 @@
     "hits": 14,
     "triples": 14,
     "stars": 42,
-    "avg_stars": 3.0,
-    "triple_rate": 100.0,
+    "avg_stars": 3,
+    "triple_rate": 100,
     "by_th": {
      "18": {
       "hits": 14,
@@ -4668,7 +4810,7 @@
     "triples": 39,
     "stars": 134,
     "avg_stars": 2.792,
-    "triple_rate": 81.2,
+    "triple_rate": 81.3,
     "by_th": {
      "18": {
       "hits": 48,
@@ -4715,12 +4857,16 @@
      "sterne": 21,
      "dreier": 7
     }
-   ]
+   ],
+   "stand_zeit": "2026-11-23T11:52:27Z"
   },
   "#Q9G2JL0U": {
    "name": "Flashbang",
    "clan": "Wurstbude",
    "th": 19,
+   "cs_kriege": [
+    "#2LCGGC22L|#22LCUV0P"
+   ],
    "cw30": {
     "th": 19,
     "hits": 8,
@@ -4766,8 +4912,8 @@
     "hits": 14,
     "triples": 14,
     "stars": 42,
-    "avg_stars": 3.0,
-    "triple_rate": 100.0,
+    "avg_stars": 3,
+    "triple_rate": 100,
     "by_th": {
      "18": {
       "hits": 14,
@@ -4829,7 +4975,8 @@
      "sterne": 19,
      "dreier": 6
     }
-   ]
+   ],
+   "stand_zeit": "2026-11-23T11:52:27Z"
   },
   "#QGJ0J8CYR": {
    "name": "G!B Rivella",
@@ -4952,8 +5099,11 @@
   },
   "#QJV8UUGRJ": {
    "name": "aaadd",
-   "clan": "Wursttheke",
+   "clan": "Wurstbude",
    "th": 19,
+   "cs_kriege": [
+    "#2LCGGC22L|#22LCUV0P"
+   ],
    "cw30": {
     "th": 19,
     "hits": 6,
@@ -5028,7 +5178,7 @@
     "saison": "2026-11",
     "clan": "Wursttheke",
     "clantag": "#2C09CPYU8",
-    "liga": "Master League I",
+    "liga": "Master League II",
     "kriege": 7,
     "angriffe": 7,
     "sterne": 20,
@@ -5062,12 +5212,16 @@
      "sterne": 20,
      "dreier": 6
     }
-   ]
+   ],
+   "stand_zeit": "2026-11-23T11:52:27Z"
   },
   "#QL2LQCGR": {
    "name": "Daniel",
    "clan": "Wurstbude",
    "th": 19,
+   "cs_kriege": [
+    "#2LCGGC22L|#22LCUV0P"
+   ],
    "cw30": {
     "th": 19,
     "hits": 7,
@@ -5094,7 +5248,7 @@
     "triples": 44,
     "stars": 148,
     "avg_stars": 2.792,
-    "triple_rate": 83.0,
+    "triple_rate": 83,
     "by_th": {
      "18": {
       "hits": 51,
@@ -5114,7 +5268,7 @@
     "triples": 3,
     "stars": 10,
     "avg_stars": 2.5,
-    "triple_rate": 75.0,
+    "triple_rate": 75,
     "by_th": {
      "18": {
       "hits": 4,
@@ -5137,6 +5291,16 @@
       "stars": 19
      }
     }
+   },
+   "letzte_cwl": {
+    "saison": "2026-10",
+    "clan": "Wurstbude",
+    "clantag": "#2LCGGC22L",
+    "liga": "Champion League I",
+    "kriege": 4,
+    "angriffe": 4,
+    "sterne": 10,
+    "dreier": 3
    },
    "cwl_saisons": [
     {
@@ -5166,19 +5330,23 @@
      "sterne": 20,
      "dreier": 6
     }
-   ]
+   ],
+   "stand_zeit": "2026-11-23T11:52:27Z"
   },
   "#QRUU9QGU": {
    "name": "Philipp",
    "clan": "Wurstbude",
    "th": 19,
+   "cs_kriege": [
+    "#2LCGGC22L|#22LCUV0P"
+   ],
    "cw30": {
     "th": 19,
     "hits": 2,
     "triples": 2,
     "stars": 6,
-    "avg_stars": 3.0,
-    "triple_rate": 100.0,
+    "avg_stars": 3,
+    "triple_rate": 100,
     "by_th": {
      "19": {
       "hits": 2,
@@ -5192,8 +5360,8 @@
     "hits": 38,
     "triples": 38,
     "stars": 114,
-    "avg_stars": 3.0,
-    "triple_rate": 100.0,
+    "avg_stars": 3,
+    "triple_rate": 100,
     "by_th": {
      "18": {
       "hits": 36,
@@ -5213,7 +5381,7 @@
     "triples": 17,
     "stars": 66,
     "avg_stars": 2.64,
-    "triple_rate": 68.0,
+    "triple_rate": 68,
     "by_th": {
      "18": {
       "hits": 25,
@@ -5221,6 +5389,16 @@
       "stars": 66
      }
     }
+   },
+   "letzte_cwl": {
+    "saison": "2026-09",
+    "clan": "Crimson Sky",
+    "clantag": "#P0UJ09UR",
+    "liga": "Legend League",
+    "kriege": 5,
+    "angriffe": 5,
+    "sterne": 11,
+    "dreier": 1
    },
    "cwl_saisons": [
     {
@@ -5250,19 +5428,23 @@
      "sterne": 11,
      "dreier": 3
     }
-   ]
+   ],
+   "stand_zeit": "2026-11-23T11:52:27Z"
   },
   "#QVYJ9C0U9": {
    "name": "big boi ben",
-   "clan": "Wursttheke",
+   "clan": "Wurstbude",
    "th": 18,
+   "cs_kriege": [
+    "#2LCGGC22L|#22LCUV0P"
+   ],
    "cw30": {
     "th": 18,
     "hits": 1,
     "triples": 1,
     "stars": 3,
-    "avg_stars": 3.0,
-    "triple_rate": 100.0,
+    "avg_stars": 3,
+    "triple_rate": 100,
     "by_th": {
      "18": {
       "hits": 1,
@@ -5330,7 +5512,7 @@
     "saison": "2026-11",
     "clan": "Wursttheke",
     "clantag": "#2C09CPYU8",
-    "liga": "Master League I",
+    "liga": "Master League II",
     "kriege": 7,
     "angriffe": 7,
     "sterne": 20,
@@ -5364,19 +5546,23 @@
      "sterne": 21,
      "dreier": 7
     }
-   ]
+   ],
+   "stand_zeit": "2026-11-23T11:52:27Z"
   },
   "#R2Q8UU9U": {
    "name": "WB Timm",
    "clan": "Wurstbude",
    "th": 19,
+   "cs_kriege": [
+    "#2LCGGC22L|#22LCUV0P"
+   ],
    "cw30": {
     "th": 19,
     "hits": 6,
     "triples": 3,
     "stars": 15,
     "avg_stars": 2.5,
-    "triple_rate": 50.0,
+    "triple_rate": 50,
     "by_th": {
      "18": {
       "hits": 4,
@@ -5478,19 +5664,23 @@
      "sterne": 20,
      "dreier": 6
     }
-   ]
+   ],
+   "stand_zeit": "2026-11-23T11:52:27Z"
   },
   "#RJPGC2JV": {
    "name": "メĐagobert Đuckジ",
    "clan": "Wurstbude",
    "th": 19,
+   "cs_kriege": [
+    "#2LCGGC22L|#22LCUV0P"
+   ],
    "cw30": {
     "th": 19,
     "hits": 5,
     "triples": 5,
     "stars": 15,
-    "avg_stars": 3.0,
-    "triple_rate": 100.0,
+    "avg_stars": 3,
+    "triple_rate": 100,
     "by_th": {
      "18": {
       "hits": 4,
@@ -5509,8 +5699,8 @@
     "hits": 11,
     "triples": 11,
     "stars": 33,
-    "avg_stars": 3.0,
-    "triple_rate": 100.0,
+    "avg_stars": 3,
+    "triple_rate": 100,
     "by_th": {
      "18": {
       "hits": 10,
@@ -5530,7 +5720,7 @@
     "triples": 6,
     "stars": 25,
     "avg_stars": 2.5,
-    "triple_rate": 60.0,
+    "triple_rate": 60,
     "by_th": {
      "18": {
       "hits": 10,
@@ -5545,7 +5735,7 @@
     "triples": 30,
     "stars": 108,
     "avg_stars": 2.7,
-    "triple_rate": 75.0,
+    "triple_rate": 75,
     "by_th": {
      "18": {
       "hits": 40,
@@ -5592,7 +5782,8 @@
      "sterne": 18,
      "dreier": 6
     }
-   ]
+   ],
+   "stand_zeit": "2026-11-23T11:52:27Z"
   },
   "#UR8RL09": {
    "name": "三 ★★★ 三",
@@ -5702,6 +5893,9 @@
    "name": "Zerbrösler",
    "clan": "Wurstbude",
    "th": 19,
+   "cs_kriege": [
+    "#2LCGGC22L|#22LCUV0P"
+   ],
    "cw30": {
     "th": 19,
     "hits": 8,
@@ -5810,12 +6004,16 @@
      "sterne": 20,
      "dreier": 6
     }
-   ]
+   ],
+   "stand_zeit": "2026-11-23T11:52:27Z"
   },
   "#V9GQYUCJ": {
    "name": "Ｇｙｕｕｋｉッ",
    "clan": "Wurstbude",
    "th": 19,
+   "cs_kriege": [
+    "#2LCGGC22L|#22LCUV0P"
+   ],
    "cw30": {
     "th": 19,
     "hits": 12,
@@ -5838,16 +6036,16 @@
    },
    "cw180": {
     "th": 19,
-    "hits": 100,
+    "hits": 98,
     "triples": 80,
-    "stars": 276,
-    "avg_stars": 2.76,
-    "triple_rate": 80.0,
+    "stars": 272,
+    "avg_stars": 2.776,
+    "triple_rate": 81.6,
     "by_th": {
      "18": {
-      "hits": 98,
+      "hits": 96,
       "triples": 79,
-      "stars": 271
+      "stars": 267
      },
      "19": {
       "hits": 2,
@@ -5861,8 +6059,8 @@
     "hits": 14,
     "triples": 14,
     "stars": 42,
-    "avg_stars": 3.0,
-    "triple_rate": 100.0,
+    "avg_stars": 3,
+    "triple_rate": 100,
     "by_th": {
      "18": {
       "hits": 14,
@@ -5924,19 +6122,23 @@
      "sterne": 19,
      "dreier": 6
     }
-   ]
+   ],
+   "stand_zeit": "2026-11-23T11:52:27Z"
   },
   "#Y9UQCC9VQ": {
    "name": "GetOnMy23kGGbag",
    "clan": "Wurstbude",
    "th": 19,
+   "cs_kriege": [
+    "#2LCGGC22L|#22LCUV0P"
+   ],
    "cw30": {
     "th": 19,
     "hits": 8,
     "triples": 6,
     "stars": 22,
     "avg_stars": 2.75,
-    "triple_rate": 75.0,
+    "triple_rate": 75,
     "by_th": {
      "18": {
       "hits": 6,
@@ -6004,7 +6206,7 @@
     "saison": "2026-11",
     "clan": "Wursttheke",
     "clantag": "#2C09CPYU8",
-    "liga": "Master League I",
+    "liga": "Master League II",
     "kriege": 6,
     "angriffe": 6,
     "sterne": 16,
@@ -6038,7 +6240,8 @@
      "sterne": 21,
      "dreier": 7
     }
-   ]
+   ],
+   "stand_zeit": "2026-11-23T11:52:27Z"
   },
   "#YC0VCJQPQ": {
    "name": "WB Fabse",
@@ -6233,12 +6436,15 @@
      "dreier": 3
     }
    ],
-   "stand_zeit": "2026-11-23T11:42:41Z"
+   "stand_zeit": "2026-11-23T11:52:27Z"
   },
   "#YVUUVCVG8": {
    "name": "Joker",
-   "clan": "Wursttheke",
+   "clan": "Wurstbude",
    "th": 19,
+   "cs_kriege": [
+    "#2LCGGC22L|#22LCUV0P"
+   ],
    "cw30": {
     "th": 19,
     "hits": 8,
@@ -6313,7 +6519,7 @@
     "saison": "2026-11",
     "clan": "Wursttheke",
     "clantag": "#2C09CPYU8",
-    "liga": "Master League I",
+    "liga": "Master League II",
     "kriege": 7,
     "angriffe": 7,
     "sterne": 20,
@@ -6347,7 +6553,8 @@
      "sterne": 18,
      "dreier": 6
     }
-   ]
+   ],
+   "stand_zeit": "2026-11-23T11:52:27Z"
   },
   "#GRV9C8VU": {
    "name": "Bockwurst",
@@ -6375,7 +6582,7 @@
      "dreier": 5
     }
    ],
-   "stand_zeit": "2026-11-23T11:42:41Z"
+   "stand_zeit": "2026-11-23T11:52:27Z"
   },
   "#QCUGC9JL": {
    "name": "Emma",
@@ -6403,21 +6610,21 @@
      "dreier": 5
     }
    ],
-   "stand_zeit": "2026-11-23T11:42:41Z"
+   "stand_zeit": "2026-11-23T11:52:27Z"
   },
   "#QUVQPJYJ8": {
    "name": "Fabio VI",
    "clan": "Wurstbude",
    "th": 9,
    "cs_kriege": [],
-   "stand_zeit": "2026-11-23T11:42:41Z"
+   "stand_zeit": "2026-11-23T11:52:27Z"
   },
   "#QUL8VL88C": {
    "name": "Lucario",
    "clan": "Anthrazit III",
    "th": 9,
    "cs_kriege": [],
-   "stand_zeit": "2026-11-23T11:42:41Z"
+   "stand_zeit": "2026-11-23T11:52:27Z"
   },
   "#L0VQG08V9": {
    "name": "Mewtu",
@@ -6454,34 +6661,38 @@
      }
     }
    },
-   "stand_zeit": "2026-11-23T11:42:41Z"
+   "stand_zeit": "2026-11-23T11:52:27Z"
   },
   "#GV2GJLRVG": {
    "name": "Pr3d4tor:97",
    "clan": "Würstchenbude",
    "th": 18,
+   "cs_kriege": [
+    "#2JYURYLCL|#2G0U2RJQ8",
+    "#2JYURYLCL|#2J02CC209"
+   ],
    "cw30": {
     "th": 18,
-    "hits": 5,
-    "triples": 5,
-    "stars": 15,
+    "hits": 6,
+    "triples": 6,
+    "stars": 18,
     "avg_stars": 3,
     "triple_rate": 100,
     "by_th": {
      "18": {
-      "hits": 5,
-      "triples": 5,
-      "stars": 15
+      "hits": 6,
+      "triples": 6,
+      "stars": 18
      }
     }
    },
    "cw180": {
     "th": 18,
-    "hits": 33,
-    "triples": 25,
-    "stars": 90,
-    "avg_stars": 2.727,
-    "triple_rate": 75.8,
+    "hits": 34,
+    "triples": 26,
+    "stars": 93,
+    "avg_stars": 2.735,
+    "triple_rate": 76.5,
     "by_th": {
      "16": {
       "hits": 2,
@@ -6494,9 +6705,9 @@
       "stars": 64
      },
      "18": {
-      "hits": 7,
-      "triples": 7,
-      "stars": 21
+      "hits": 8,
+      "triples": 8,
+      "stars": 24
      }
     }
    },
@@ -6574,19 +6785,23 @@
      "dreier": 2
     }
    ],
-   "stand_zeit": "2026-11-23T06:01:29Z"
+   "stand_zeit": "2026-11-23T11:52:27Z"
   },
   "#Y888CRLL": {
    "name": "Y888CRLL",
    "clan": "",
    "th": null,
    "cs_kriege": [],
-   "stand_zeit": "2026-11-23T11:42:41Z"
+   "stand_zeit": "2026-11-23T11:52:27Z"
   },
   "#G08G0RR98": {
    "name": "vFietz",
    "clan": "Würstchenbude",
    "th": 11,
+   "cs_kriege": [
+    "#2JYURYLCL|#2G0U2RJQ8",
+    "#2JYURYLCL|#2J02CC209"
+   ],
    "cw30": {
     "th": 11,
     "hits": 2,
@@ -6617,35 +6832,35 @@
      }
     }
    },
-   "stand_zeit": "2026-11-23T06:01:29Z"
+   "stand_zeit": "2026-11-23T11:52:27Z"
   },
   "#GJYULVCY9": {
    "name": "GJYULVCY9",
    "clan": "",
    "th": null,
    "cs_kriege": [],
-   "stand_zeit": "2026-11-23T11:42:41Z"
+   "stand_zeit": "2026-11-23T11:52:27Z"
   },
   "#L8GVLR8Y0": {
    "name": "L8GVLR8Y0",
    "clan": "",
    "th": null,
    "cs_kriege": [],
-   "stand_zeit": "2026-11-23T11:42:41Z"
+   "stand_zeit": "2026-11-23T11:52:27Z"
   },
   "#Q0Q8JG0QP": {
    "name": "WB Helene",
    "clan": "Würstchenbude",
    "th": 9,
    "cs_kriege": [],
-   "stand_zeit": "2026-11-23T11:42:41Z"
+   "stand_zeit": "2026-11-23T11:52:27Z"
   },
   "#G889V8Y89": {
    "name": "G889V8Y89",
    "clan": "",
    "th": null,
    "cs_kriege": [],
-   "stand_zeit": "2026-11-23T11:42:41Z"
+   "stand_zeit": "2026-11-23T11:52:27Z"
   },
   "#LCY2C20YR": {
    "name": "WB Teewurst₅",
@@ -6682,12 +6897,16 @@
      "dreier": 5
     }
    ],
-   "stand_zeit": "2026-11-23T11:42:41Z"
+   "stand_zeit": "2026-11-23T11:52:27Z"
   },
   "#RJLCQY9U": {
    "name": "WB Teewurst₆",
    "clan": "Würstchenbude",
    "th": 13,
+   "cs_kriege": [
+    "#2JYURYLCL|#2G0U2RJQ8",
+    "#2JYURYLCL|#2J02CC209"
+   ],
    "cw30": {
     "th": 13,
     "hits": 2,
@@ -6748,7 +6967,7 @@
      "dreier": 5
     }
    ],
-   "stand_zeit": "2026-11-23T06:01:29Z"
+   "stand_zeit": "2026-11-23T11:52:27Z"
   },
   "#GJ8GJY809": {
    "name": "WB Teewurst₇",
@@ -6815,7 +7034,7 @@
      "dreier": 4
     }
    ],
-   "stand_zeit": "2026-11-23T11:42:41Z"
+   "stand_zeit": "2026-11-23T11:52:27Z"
   },
   "#LVP9VUVVJ": {
    "name": "WB Teewurst₈",
@@ -6843,21 +7062,21 @@
      "dreier": 5
     }
    ],
-   "stand_zeit": "2026-11-23T11:42:41Z"
+   "stand_zeit": "2026-11-23T11:52:27Z"
   },
   "#2U982YLYP": {
    "name": "2U982YLYP",
    "clan": "",
    "th": null,
    "cs_kriege": [],
-   "stand_zeit": "2026-11-23T11:42:41Z"
+   "stand_zeit": "2026-11-23T11:52:27Z"
   },
   "#LLC9YR8GR": {
    "name": "Fleischwürstle",
    "clan": "Wursttheke",
    "th": 13,
    "cs_kriege": [],
-   "stand_zeit": "2026-11-23T11:42:41Z"
+   "stand_zeit": "2026-11-23T11:52:27Z"
   },
   "#GG2088LUJ": {
    "name": "Luigi",
@@ -6885,28 +7104,28 @@
      "dreier": 2
     }
    ],
-   "stand_zeit": "2026-11-23T11:42:41Z"
+   "stand_zeit": "2026-11-23T11:52:27Z"
   },
   "#YGQG9VCJ9": {
    "name": "YGQG9VCJ9",
    "clan": "",
    "th": null,
    "cs_kriege": [],
-   "stand_zeit": "2026-11-23T11:42:41Z"
+   "stand_zeit": "2026-11-23T11:52:27Z"
   },
   "#GUVR09LPQ": {
    "name": "WB Thekenchef",
    "clan": "Wursttheke",
    "th": 3,
    "cs_kriege": [],
-   "stand_zeit": "2026-11-23T11:42:41Z"
+   "stand_zeit": "2026-11-23T11:52:27Z"
   },
   "#2RLCUGV9": {
    "name": "2RLCUGV9",
    "clan": "",
    "th": null,
    "cs_kriege": [],
-   "stand_zeit": "2026-11-23T11:42:41Z"
+   "stand_zeit": "2026-11-23T11:52:27Z"
   },
   "#LLPUPJYLV": {
    "name": "Megawurst",
@@ -6934,49 +7153,49 @@
      "dreier": 5
     }
    ],
-   "stand_zeit": "2026-11-23T11:42:41Z"
+   "stand_zeit": "2026-11-23T11:52:27Z"
   },
   "#QCPPCLV2C": {
    "name": "QCPPCLV2C",
    "clan": "",
    "th": null,
    "cs_kriege": [],
-   "stand_zeit": "2026-11-23T11:42:41Z"
+   "stand_zeit": "2026-11-23T11:52:27Z"
   },
   "#GYCYQUUYR": {
    "name": "GYCYQUUYR",
    "clan": "",
    "th": null,
    "cs_kriege": [],
-   "stand_zeit": "2026-11-23T11:42:41Z"
+   "stand_zeit": "2026-11-23T11:52:27Z"
   },
   "#9UR2Q9GP": {
    "name": "9UR2Q9GP",
    "clan": "",
    "th": null,
    "cs_kriege": [],
-   "stand_zeit": "2026-11-23T11:42:41Z"
+   "stand_zeit": "2026-11-23T11:52:27Z"
   },
   "#8R9C8CVLV": {
    "name": "8R9C8CVLV",
    "clan": "",
    "th": null,
    "cs_kriege": [],
-   "stand_zeit": "2026-11-23T11:42:41Z"
+   "stand_zeit": "2026-11-23T11:52:27Z"
   },
   "#Y8LQR9L8R": {
    "name": "Y8LQR9L8R",
    "clan": "",
    "th": null,
    "cs_kriege": [],
-   "stand_zeit": "2026-11-23T11:42:41Z"
+   "stand_zeit": "2026-11-23T11:52:27Z"
   },
   "#QCGQVG8R9": {
    "name": "QCGQVG8R9",
    "clan": "",
    "th": null,
    "cs_kriege": [],
-   "stand_zeit": "2026-11-23T11:42:41Z"
+   "stand_zeit": "2026-11-23T11:52:27Z"
   }
  },
  "stand_zeit": "2026-11-22T22:30:00Z"
