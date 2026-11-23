@@ -241,6 +241,61 @@
    "p": 92,
    "s": 2,
    "side": "gegner"
+  },
+  {
+   "a": "#8UR8PVL9",
+   "ath": 19,
+   "d": "#LGUPGVJ8R",
+   "dth": 18,
+   "dur": 180,
+   "o": 23,
+   "p": 99,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#8UR8PVL9",
+   "ath": 19,
+   "d": "#GPLRJ0G9Q",
+   "dth": 18,
+   "dur": 171,
+   "o": 24,
+   "p": 75,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#PLRCLGCVY",
+   "ath": 17,
+   "d": "#GC9UYCQVY",
+   "dth": 17,
+   "dur": 132,
+   "o": 25,
+   "p": 65,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#PLRCLGCVY",
+   "ath": 17,
+   "d": "#G8L0PCLVV",
+   "dth": 17,
+   "dur": 169,
+   "o": 26,
+   "p": 74,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#9VRQURR8G",
+   "ath": 17,
+   "d": "#98VQ90GQJ",
+   "dth": 17,
+   "dur": 142,
+   "o": 27,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -404,7 +459,7 @@
  },
  "end": "20261123T204104.000Z",
  "opponent": {
-  "destruction": 15.4,
+  "destruction": 25.16,
   "members": [
    {
     "name": "❤رولا❤",
@@ -558,7 +613,7 @@
    }
   ],
   "name": "مبارزان بی مرز",
-  "stars": 9,
+  "stars": 16,
   "tag": "#YUCL9QPY"
  },
  "start": "20261122T204104.000Z",

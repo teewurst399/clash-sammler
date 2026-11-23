@@ -769,6 +769,17 @@
    "p": 10,
    "s": 1,
    "side": "gegner"
+  },
+  {
+   "a": "#U882LPR8",
+   "ath": 19,
+   "d": "#89JLCV8RR",
+   "dth": 19,
+   "dur": 160,
+   "o": 71,
+   "p": 89,
+   "s": 2,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,

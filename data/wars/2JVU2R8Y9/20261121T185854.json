@@ -813,6 +813,39 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#PR28PLCL",
+   "ath": 19,
+   "d": "#LQPC9V98Y",
+   "dth": 19,
+   "dur": 126,
+   "o": 75,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#RRGLY2CQ",
+   "ath": 19,
+   "d": "#CGRUP2R0",
+   "dth": 19,
+   "dur": 118,
+   "o": 76,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#RRGLY2CQ",
+   "ath": 19,
+   "d": "#QGVVQY928",
+   "dth": 19,
+   "dur": 157,
+   "o": 77,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -976,7 +1009,7 @@
  },
  "end": "20261123T175854.000Z",
  "opponent": {
-  "destruction": 94.48,
+  "destruction": 96.88,
   "members": [
    {
     "name": "❤️EMOÇ. CAN❤️",
@@ -1130,7 +1163,7 @@
    }
   ],
   "name": "300 İSTANBULLU",
-  "stars": 68,
+  "stars": 71,
   "tag": "#PLL8G0QY"
  },
  "start": "20261122T175854.000Z",

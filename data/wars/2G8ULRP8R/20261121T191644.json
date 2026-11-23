@@ -439,11 +439,154 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#QUQ0UVV9V",
+   "ath": 17,
+   "d": "#L0LV9UGG0",
+   "dth": 18,
+   "dur": 167,
+   "o": 41,
+   "p": 90,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#2LU8UUUVR",
+   "ath": 19,
+   "d": "#YJLV9UU9",
+   "dth": 19,
+   "dur": 117,
+   "o": 42,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#2LU8UUUVR",
+   "ath": 19,
+   "d": "#G9LU9G9G8",
+   "dth": 18,
+   "dur": 102,
+   "o": 43,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#Q8RGPJRJY",
+   "ath": 16,
+   "d": "#QP8CU9RP2",
+   "dth": 12,
+   "dur": 73,
+   "o": 44,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#Q8RGPJRJY",
+   "ath": 16,
+   "d": "#Q0L2GJ8CQ",
+   "dth": 13,
+   "dur": 88,
+   "o": 45,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#QPRCURLJR",
+   "ath": 16,
+   "d": "#LPJ2VC9C9",
+   "dth": 14,
+   "dur": 93,
+   "o": 46,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#QPRCURLJR",
+   "ath": 16,
+   "d": "#GUUUVRRJL",
+   "dth": 15,
+   "dur": 97,
+   "o": 47,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#Q8CV92RPR",
+   "ath": 16,
+   "d": "#VQR2Q9L",
+   "dth": 15,
+   "dur": 91,
+   "o": 48,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#Q8CV92RPR",
+   "ath": 16,
+   "d": "#GLQ0YCP20",
+   "dth": 15,
+   "dur": 107,
+   "o": 49,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#YCYQQCGUR",
+   "ath": 16,
+   "d": "#YPL2YPGUP",
+   "dth": 15,
+   "dur": 109,
+   "o": 50,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#20GCP2RJ",
+   "ath": 19,
+   "d": "#CJC9UPCJ",
+   "dth": 18,
+   "dur": 180,
+   "o": 51,
+   "p": 97,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#YCYQQCGUR",
+   "ath": 16,
+   "d": "#GPQJC209Y",
+   "dth": 16,
+   "dur": 90,
+   "o": 52,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#R2PC9GRPY",
+   "ath": 16,
+   "d": "#GYJJ8C0PR",
+   "dth": 16,
+   "dur": 93,
+   "o": 53,
+   "p": 98,
+   "s": 1,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 82.24,
+  "destruction": 83.6,
   "members": [
    {
     "name": "Mega |V",
@@ -602,7 +745,7 @@
  },
  "end": "20261123T181644.000Z",
  "opponent": {
-  "destruction": 58.68,
+  "destruction": 91.8,
   "members": [
    {
     "name": "NaGibAtoR",
@@ -756,7 +899,7 @@
    }
   ],
   "name": "Дике поле",
-  "stars": 41,
+  "stars": 66,
   "tag": "#2L0YCJJ88"
  },
  "start": "20261122T181644.000Z",

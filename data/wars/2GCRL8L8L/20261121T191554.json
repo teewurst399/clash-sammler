@@ -1451,6 +1451,50 @@
    "p": 7,
    "s": 1,
    "side": "clan"
+  },
+  {
+   "a": "#PV8089LL",
+   "ath": 19,
+   "d": "#QPU2LU0GC",
+   "dth": 19,
+   "dur": 4,
+   "o": 133,
+   "p": 17,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#PV8089LL",
+   "ath": 19,
+   "d": "#CGCUVQCL",
+   "dth": 19,
+   "dur": 5,
+   "o": 134,
+   "p": 14,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#PUCCY828L",
+   "ath": 19,
+   "d": "#QPU2LU0GC",
+   "dth": 19,
+   "dur": 4,
+   "o": 135,
+   "p": 13,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#PUCCY828L",
+   "ath": 19,
+   "d": "#CGCUVQCL",
+   "dth": 19,
+   "dur": 5,
+   "o": 136,
+   "p": 15,
+   "s": 1,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,

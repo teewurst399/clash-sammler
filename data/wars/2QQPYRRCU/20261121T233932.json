@@ -1165,11 +1165,165 @@
    "p": 51,
    "s": 2,
    "side": "gegner"
+  },
+  {
+   "a": "#YGP9VPLYV",
+   "ath": 19,
+   "d": "#YU8VRCCQP",
+   "dth": 19,
+   "dur": 8,
+   "o": 107,
+   "p": 4,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#YGP9VPLYV",
+   "ath": 19,
+   "d": "#8YVPGPYUC",
+   "dth": 19,
+   "dur": 15,
+   "o": 108,
+   "p": 6,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#QJLU99L8J",
+   "ath": 19,
+   "d": "#PQCJC9C2L",
+   "dth": 19,
+   "dur": 104,
+   "o": 109,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#QJLU99L8J",
+   "ath": 19,
+   "d": "#8QU98PCRG",
+   "dth": 19,
+   "dur": 139,
+   "o": 110,
+   "p": 96,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#QYQYC09RJ",
+   "ath": 19,
+   "d": "#9229VVPU2",
+   "dth": 19,
+   "dur": 180,
+   "o": 111,
+   "p": 98,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#8GPYR0C",
+   "ath": 18,
+   "d": "#LQLUPUP8",
+   "dth": 19,
+   "dur": 19,
+   "o": 112,
+   "p": 18,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#8GPYR0C",
+   "ath": 18,
+   "d": "#LU2YVQ8P0",
+   "dth": 19,
+   "dur": 46,
+   "o": 113,
+   "p": 18,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#2YY9LL9",
+   "ath": 19,
+   "d": "#QL8YLPJYL",
+   "dth": 19,
+   "dur": 80,
+   "o": 114,
+   "p": 56,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#QYQYC09RJ",
+   "ath": 19,
+   "d": "#Q8YYUV2V0",
+   "dth": 19,
+   "dur": 167,
+   "o": 115,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#9G9U9VU2V",
+   "ath": 18,
+   "d": "#28JY0L2P2",
+   "dth": 19,
+   "dur": 102,
+   "o": 116,
+   "p": 83,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#V0VUVLV",
+   "ath": 19,
+   "d": "#YGP9VPLYV",
+   "dth": 19,
+   "dur": 110,
+   "o": 117,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#9G9U9VU2V",
+   "ath": 18,
+   "d": "#LUU28VY2",
+   "dth": 19,
+   "dur": 62,
+   "o": 118,
+   "p": 69,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#LPVUUL2CU",
+   "ath": 19,
+   "d": "#YU8VRCCQP",
+   "dth": 19,
+   "dur": 90,
+   "o": 119,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#LPVUUL2CU",
+   "ath": 19,
+   "d": "#QL8YLPJYL",
+   "dth": 19,
+   "dur": 65,
+   "o": 120,
+   "p": 80,
+   "s": 2,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 77.35555,
+  "destruction": 83.977776,
   "members": [
    {
     "name": "Saheb",
@@ -1443,7 +1597,7 @@
    }
   ],
   "name": "Secondzone",
-  "stars": 103,
+  "stars": 111,
   "tag": "#2QQPYRRCU"
  },
  "end": "20261123T223932.000Z",

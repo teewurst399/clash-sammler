@@ -1077,11 +1077,66 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#QGYPC9L88",
+   "ath": 19,
+   "d": "#9VG9R2URU",
+   "dth": 19,
+   "dur": 176,
+   "o": 99,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#88C82JRJC",
+   "ath": 19,
+   "d": "#PRC82RG2",
+   "dth": 19,
+   "dur": 180,
+   "o": 100,
+   "p": 98,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#8LVUR0JPQ",
+   "ath": 19,
+   "d": "#LR9JU8090",
+   "dth": 19,
+   "dur": 155,
+   "o": 101,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#8R9PP0020",
+   "ath": 19,
+   "d": "#2JJJQVUL",
+   "dth": 19,
+   "dur": 135,
+   "o": 102,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#QGYPC9L88",
+   "ath": 19,
+   "d": "#PRC82RG2",
+   "dth": 19,
+   "dur": 155,
+   "o": 103,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 81.55,
+  "destruction": 83.1,
   "members": [
    {
     "name": "DTA Insomniac",
@@ -1325,12 +1380,12 @@
    }
   ],
   "name": "Beerenbrüder",
-  "stars": 92,
+  "stars": 95,
   "tag": "#2YGLUYJPR"
  },
  "end": "20261123T200635.000Z",
  "opponent": {
-  "destruction": 99.7,
+  "destruction": 100.0,
   "members": [
    {
     "name": "FL • ZΞЯБΞЯЦS³",
@@ -1574,7 +1629,7 @@
    }
   ],
   "name": "FruchtLabörchen",
-  "stars": 118,
+  "stars": 120,
   "tag": "#2RYP8PQRG"
  },
  "start": "20261122T200635.000Z",

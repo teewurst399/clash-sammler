@@ -1286,11 +1286,77 @@
    "p": 58,
    "s": 2,
    "side": "clan"
+  },
+  {
+   "a": "#2Y9YU0CQR",
+   "ath": 19,
+   "d": "#YQ90VQQJC",
+   "dth": 19,
+   "dur": 123,
+   "o": 118,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#VY8QVYP",
+   "ath": 19,
+   "d": "#9LRQUY0C8",
+   "dth": 19,
+   "dur": 153,
+   "o": 119,
+   "p": 77,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#QGJRCQPR",
+   "ath": 19,
+   "d": "#8UQ2RYG92",
+   "dth": 18,
+   "dur": 101,
+   "o": 120,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#2Y9YU0CQR",
+   "ath": 19,
+   "d": "#VPQC2R8U",
+   "dth": 18,
+   "dur": 108,
+   "o": 121,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#YCU2PGY9",
+   "ath": 19,
+   "d": "#QL220CG2V",
+   "dth": 19,
+   "dur": 137,
+   "o": 122,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#YCU2PGY9",
+   "ath": 19,
+   "d": "#P2882UL8Q",
+   "dth": 19,
+   "dur": 172,
+   "o": 123,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 89.6,
+  "destruction": 98.68889,
   "members": [
    {
     "name": "Chiko",
@@ -1564,7 +1630,7 @@
    }
   ],
   "name": "GermanGladiator",
-  "stars": 118,
+  "stars": 131,
   "tag": "#2Y2L0J20V"
  },
  "end": "20261123T184031.000Z",
