@@ -7196,6 +7196,124 @@
    "th": null,
    "cs_kriege": [],
    "stand_zeit": "2026-11-23T11:52:27Z"
+  },
+  "#2CRJQVUVG": {
+   "name": "K.K⚡️FIRE⚡️",
+   "clan": "kurdish king",
+   "th": 19,
+   "cs_kriege": [
+    "#208QGVVCC|#P9JRCRYP"
+   ],
+   "cw30": {
+    "th": 19,
+    "hits": 14,
+    "triples": 13,
+    "stars": 40,
+    "avg_stars": 2.857,
+    "triple_rate": 92.9,
+    "by_th": {
+     "18": {
+      "hits": 12,
+      "triples": 11,
+      "stars": 34
+     },
+     "19": {
+      "hits": 2,
+      "triples": 2,
+      "stars": 6
+     }
+    }
+   },
+   "cw180": {
+    "th": 19,
+    "hits": 47,
+    "triples": 40,
+    "stars": 133,
+    "avg_stars": 2.83,
+    "triple_rate": 85.1,
+    "by_th": {
+     "18": {
+      "hits": 45,
+      "triples": 38,
+      "stars": 127
+     },
+     "19": {
+      "hits": 2,
+      "triples": 2,
+      "stars": 6
+     }
+    }
+   },
+   "cwl60": {
+    "th": 19,
+    "hits": 6,
+    "triples": 6,
+    "stars": 18,
+    "avg_stars": 3,
+    "triple_rate": 100,
+    "by_th": {
+     "18": {
+      "hits": 6,
+      "triples": 6,
+      "stars": 18
+     }
+    }
+   },
+   "cwl180": {
+    "th": 19,
+    "hits": 24,
+    "triples": 21,
+    "stars": 69,
+    "avg_stars": 2.875,
+    "triple_rate": 87.5,
+    "by_th": {
+     "18": {
+      "hits": 24,
+      "triples": 21,
+      "stars": 69
+     }
+    }
+   },
+   "letzte_cwl": {
+    "saison": "2026-11",
+    "clan": "kurdish king",
+    "clantag": "#208QGVVCC",
+    "liga": "Champion League III",
+    "kriege": 6,
+    "angriffe": 6,
+    "sterne": 18,
+    "dreier": 6
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-11",
+     "clan": "kurdish king",
+     "clantag": "#208QGVVCC",
+     "liga": "Champion 3",
+     "angriffe": 6,
+     "sterne": 18,
+     "dreier": 6
+    },
+    {
+     "saison": "2026-08",
+     "clan": "kurdish king",
+     "clantag": "#208QGVVCC",
+     "liga": "Champion 3",
+     "angriffe": 2,
+     "sterne": 4,
+     "dreier": 0
+    },
+    {
+     "saison": "2026-07",
+     "clan": "Kurd King",
+     "clantag": "#V0LVJRJP",
+     "liga": "Meister 2",
+     "angriffe": 7,
+     "sterne": 21,
+     "dreier": 7
+    }
+   ],
+   "stand_zeit": "2026-11-23T19:16:37Z"
   }
  },
  "stand_zeit": "2026-11-22T22:30:00Z"
