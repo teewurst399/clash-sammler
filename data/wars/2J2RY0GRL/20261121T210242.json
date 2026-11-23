@@ -1088,11 +1088,44 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#Y92YQ9UG0",
+   "ath": 19,
+   "d": "#P88CV9V9L",
+   "dth": 19,
+   "dur": 136,
+   "o": 100,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#PQJCUVUQJ",
+   "ath": 19,
+   "d": "#20UL2JL2V",
+   "dth": 19,
+   "dur": 125,
+   "o": 101,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#Y92YQ9UG0",
+   "ath": 19,
+   "d": "#J2YPY9J9",
+   "dth": 19,
+   "dur": 127,
+   "o": 102,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 57.04,
+  "destruction": 61.04,
   "members": [
    {
     "name": "PaPaPatrick",
@@ -1396,12 +1429,12 @@
    }
   ],
   "name": "Confusion II",
-  "stars": 82,
+  "stars": 88,
   "tag": "#2J2RY0GRL"
  },
  "end": "20261123T200242.000Z",
  "opponent": {
-  "destruction": 89.14,
+  "destruction": 91.14,
   "members": [
    {
     "name": "『HK』Tʜᴇ LEGEND",
@@ -1705,7 +1738,7 @@
    }
   ],
   "name": "الهاترك",
-  "stars": 132,
+  "stars": 135,
   "tag": "#Q8GCQ98Y"
  },
  "start": "20261122T200242.000Z",

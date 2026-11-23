@@ -857,6 +857,28 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#QVR2CLPR2",
+   "ath": 19,
+   "d": "#PL8URQ99",
+   "dth": 19,
+   "dur": 99,
+   "o": 79,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#QVR2CLPR2",
+   "ath": 19,
+   "d": "#U2Y0UCL",
+   "dth": 19,
+   "dur": 151,
+   "o": 80,
+   "p": 91,
+   "s": 1,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -1140,7 +1162,7 @@
  },
  "end": "20261123T201101.000Z",
  "opponent": {
-  "destruction": 60.511112,
+  "destruction": 64.755554,
   "members": [
    {
     "name": "£°ºROUEº°¥",
@@ -1414,7 +1436,7 @@
    }
   ],
   "name": "PREDATOR LIGUE",
-  "stars": 75,
+  "stars": 79,
   "tag": "#2LL9UY9LQ"
  },
  "start": "20261122T201101.000Z",

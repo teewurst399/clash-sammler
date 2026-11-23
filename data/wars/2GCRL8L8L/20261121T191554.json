@@ -1165,6 +1165,17 @@
    "p": 7,
    "s": 1,
    "side": "gegner"
+  },
+  {
+   "a": "#L9200P80L",
+   "ath": 19,
+   "d": "#LR8PPC2VR",
+   "dth": 19,
+   "dur": 131,
+   "o": 107,
+   "p": 74,
+   "s": 1,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,

@@ -1187,6 +1187,61 @@
    "p": 79,
    "s": 2,
    "side": "gegner"
+  },
+  {
+   "a": "#2J80CLYUG",
+   "ath": 19,
+   "d": "#Y2GGYPC8J",
+   "dth": 19,
+   "dur": 136,
+   "o": 109,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#2J80CLYUG",
+   "ath": 19,
+   "d": "#LU9C2LYCR",
+   "dth": 19,
+   "dur": 180,
+   "o": 110,
+   "p": 86,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#LUPP2J8G",
+   "ath": 19,
+   "d": "#LU9C2LYCR",
+   "dth": 19,
+   "dur": 152,
+   "o": 111,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#LUPP2J8G",
+   "ath": 19,
+   "d": "#G0L9R082",
+   "dth": 19,
+   "dur": 136,
+   "o": 112,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#2PVLUVRUG",
+   "ath": 19,
+   "d": "#GGR0RL8C",
+   "dth": 19,
+   "dur": 177,
+   "o": 113,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -1500,7 +1555,7 @@
  },
  "end": "20261123T190942.000Z",
  "opponent": {
-  "destruction": 91.12,
+  "destruction": 95.38,
   "members": [
    {
     "name": "⚡️IR.H⚡️ALI⚡️",
@@ -1804,7 +1859,7 @@
    }
   ],
   "name": "iranian heroes",
-  "stars": 133,
+  "stars": 141,
   "tag": "#PGPYYQY9"
  },
  "start": "20261122T190942.000Z",

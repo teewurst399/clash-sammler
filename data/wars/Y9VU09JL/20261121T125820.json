@@ -780,11 +780,44 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#Y88CPVC9R",
+   "ath": 19,
+   "d": "#YQCLCGVYV",
+   "dth": 18,
+   "dur": 180,
+   "o": 72,
+   "p": 88,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#R2LQLJ0LR",
+   "ath": 19,
+   "d": "#LJ20V2G92",
+   "dth": 11,
+   "dur": 52,
+   "o": 73,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#R2LQLJ0LR",
+   "ath": 19,
+   "d": "#QP2UCLU80",
+   "dth": 19,
+   "dur": 18,
+   "o": 74,
+   "p": 56,
+   "s": 1,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 97.14286,
+  "destruction": 100.0,
   "members": [
    {
     "name": "vllo",
@@ -998,12 +1031,12 @@
    }
   ],
   "name": "Rising Phoenix",
-  "stars": 102,
+  "stars": 105,
   "tag": "#Y9VU09JL"
  },
  "end": "20261123T115820.000Z",
  "opponent": {
-  "destruction": 69.02857,
+  "destruction": 71.542854,
   "members": [
    {
     "name": "federal",
@@ -1217,7 +1250,7 @@
    }
   ],
   "name": "DM Lite",
-  "stars": 66,
+  "stars": 68,
   "tag": "#RQJ29JL9"
  },
  "start": "20261122T115820.000Z",

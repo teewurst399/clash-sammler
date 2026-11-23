@@ -1099,6 +1099,50 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#P2882UL8Q",
+   "ath": 19,
+   "d": "#9229JGPG2",
+   "dth": 19,
+   "dur": 124,
+   "o": 101,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#LVC8Q2LQU",
+   "ath": 19,
+   "d": "#Q0VQLGPV8",
+   "dth": 19,
+   "dur": 127,
+   "o": 102,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#P2882UL8Q",
+   "ath": 19,
+   "d": "#29PQRJRVR",
+   "dth": 19,
+   "dur": 127,
+   "o": 103,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#LVC8Q2LQU",
+   "ath": 19,
+   "d": "#G0VRYC8YY",
+   "dth": 19,
+   "dur": 95,
+   "o": 104,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -1382,7 +1426,7 @@
  },
  "end": "20261123T184031.000Z",
  "opponent": {
-  "destruction": 98.73333,
+  "destruction": 99.77778,
   "members": [
    {
     "name": "The Recktifier",
@@ -1656,7 +1700,7 @@
    }
   ],
   "name": "300 club",
-  "stars": 129,
+  "stars": 134,
   "tag": "#QY9RQ2G2"
  },
  "start": "20261122T184031.000Z",

@@ -296,6 +296,17 @@
    "p": 91,
    "s": 1,
    "side": "gegner"
+  },
+  {
+   "a": "#R0Q2G0YLG",
+   "ath": 15,
+   "d": "#YJCL88UR0",
+   "dth": 11,
+   "dur": 75,
+   "o": 28,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -489,7 +500,7 @@
  },
  "end": "20261123T210012.000Z",
  "opponent": {
-  "destruction": 62.933334,
+  "destruction": 66.26667,
   "members": [
    {
     "name": "iwan.rewa 100rb",
@@ -673,7 +684,7 @@
    }
   ],
   "name": "KUCING ANGGORA",
-  "stars": 54,
+  "stars": 57,
   "tag": "#2GYUVYJL0"
  },
  "start": "20261122T210012.000Z",

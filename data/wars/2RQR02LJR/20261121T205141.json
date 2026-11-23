@@ -692,6 +692,72 @@
    "p": 98,
    "s": 2,
    "side": "gegner"
+  },
+  {
+   "a": "#U8CR8UV0",
+   "ath": 19,
+   "d": "#QC99VRG",
+   "dth": 19,
+   "dur": 111,
+   "o": 64,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#U8CR8UV0",
+   "ath": 19,
+   "d": "#PJQUVU9LU",
+   "dth": 19,
+   "dur": 149,
+   "o": 65,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#C02RCPP8",
+   "ath": 19,
+   "d": "#8GCQLCYV",
+   "dth": 19,
+   "dur": 143,
+   "o": 66,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#RGQ0YUJU",
+   "ath": 19,
+   "d": "#L0GQGUV00",
+   "dth": 19,
+   "dur": 130,
+   "o": 67,
+   "p": 95,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#C02RCPP8",
+   "ath": 19,
+   "d": "#9JR2CRCQQ",
+   "dth": 19,
+   "dur": 162,
+   "o": 68,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#RGQ0YUJU",
+   "ath": 19,
+   "d": "#20PJ02GC2",
+   "dth": 19,
+   "dur": 157,
+   "o": 69,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -975,7 +1041,7 @@
  },
  "end": "20261123T195141.000Z",
  "opponent": {
-  "destruction": 66.333336,
+  "destruction": 79.55556,
   "members": [
    {
     "name": "SA: ⭐️Slider⭐️",
@@ -1249,7 +1315,7 @@
    }
   ],
   "name": "Silent army",
-  "stars": 84,
+  "stars": 101,
   "tag": "#2LCLLP9UJ"
  },
  "start": "20261122T195141.000Z",

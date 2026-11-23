@@ -208,11 +208,44 @@
    "p": 94,
    "s": 2,
    "side": "gegner"
+  },
+  {
+   "a": "#GYRYJQYQQ",
+   "ath": 17,
+   "d": "#9YPJY2QRY",
+   "dth": 17,
+   "dur": 104,
+   "o": 20,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#GYRYJQYQQ",
+   "ath": 17,
+   "d": "#299GQLCC2",
+   "dth": 18,
+   "dur": 98,
+   "o": 21,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#PYY2VGCG8",
+   "ath": 17,
+   "d": "#QCJYLC2V2",
+   "dth": 17,
+   "dur": 97,
+   "o": 22,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 24.633333,
+  "destruction": 28.0,
   "members": [
    {
     "name": "Rediza2",
@@ -396,12 +429,12 @@
    }
   ],
   "name": "Beta-Beeren",
-  "stars": 19,
+  "stars": 23,
   "tag": "#2LQJP2L0P"
  },
  "end": "20261124T001303.000Z",
  "opponent": {
-  "destruction": 29.8,
+  "destruction": 33.133335,
   "members": [
    {
     "name": "JOTAPRO",
@@ -585,7 +618,7 @@
    }
   ],
   "name": "REVOLUTION",
-  "stars": 26,
+  "stars": 29,
   "tag": "#2C9GLRR9Y"
  },
  "start": "20261123T001303.000Z",

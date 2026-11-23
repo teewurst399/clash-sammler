@@ -714,6 +714,72 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#GYP8Y88J0",
+   "ath": 19,
+   "d": "#2PUCJUVQ0",
+   "dth": 19,
+   "dur": 85,
+   "o": 66,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#GYP8Y88J0",
+   "ath": 19,
+   "d": "#82908L9LL",
+   "dth": 19,
+   "dur": 99,
+   "o": 67,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#G80CG2GP",
+   "ath": 19,
+   "d": "#GCCPPVU8",
+   "dth": 19,
+   "dur": 150,
+   "o": 68,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#YPQP0C088",
+   "ath": 19,
+   "d": "#YQPUCPU9",
+   "dth": 19,
+   "dur": 153,
+   "o": 69,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#PGPQQJLV",
+   "ath": 19,
+   "d": "#9UVRLQQLG",
+   "dth": 19,
+   "dur": 114,
+   "o": 70,
+   "p": 76,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#YPQP0C088",
+   "ath": 19,
+   "d": "#LGVQ8YYPV",
+   "dth": 19,
+   "dur": 115,
+   "o": 71,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -967,7 +1033,7 @@
  },
  "end": "20261123T190535.000Z",
  "opponent": {
-  "destruction": 76.425,
+  "destruction": 90.825,
   "members": [
    {
     "name": "Filip",
@@ -1211,7 +1277,7 @@
    }
   ],
   "name": "CROATIA",
-  "stars": 89,
+  "stars": 105,
   "tag": "#80P90LVY"
  },
  "start": "20261122T190535.000Z",

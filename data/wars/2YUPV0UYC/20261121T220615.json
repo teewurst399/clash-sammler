@@ -582,6 +582,39 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#JPYLLQVP",
+   "ath": 19,
+   "d": "#QRQUPU0LU",
+   "dth": 19,
+   "dur": 142,
+   "o": 54,
+   "p": 93,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#2V9RLGV8",
+   "ath": 19,
+   "d": "#8JQ8QG80C",
+   "dth": 19,
+   "dur": 150,
+   "o": 55,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#2V9RLGV8",
+   "ath": 19,
+   "d": "#QRQUPU0LU",
+   "dth": 19,
+   "dur": 162,
+   "o": 56,
+   "p": 99,
+   "s": 2,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -835,7 +868,7 @@
  },
  "end": "20261123T210615.000Z",
  "opponent": {
-  "destruction": 97.25,
+  "destruction": 98.225,
   "members": [
    {
     "name": "Warlock",
@@ -1079,7 +1112,7 @@
    }
   ],
   "name": "CLB Unity",
-  "stars": 111,
+  "stars": 112,
   "tag": "#2CQVJ9GCG"
  },
  "start": "20261122T210615.000Z",
