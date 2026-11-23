@@ -791,6 +791,28 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#CL98RRP",
+   "ath": 19,
+   "d": "#R8CQG902",
+   "dth": 19,
+   "dur": 124,
+   "o": 73,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#CL98RRP",
+   "ath": 19,
+   "d": "#QG2L0JC8",
+   "dth": 19,
+   "dur": 128,
+   "o": 74,
+   "p": 80,
+   "s": 2,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -1074,7 +1096,7 @@
  },
  "end": "20261123T192031.000Z",
  "opponent": {
-  "destruction": 54.155556,
+  "destruction": 58.155556,
   "members": [
    {
     "name": "Hồng Trung",
@@ -1348,7 +1370,7 @@
    }
   ],
   "name": "việt nam no1",
-  "stars": 68,
+  "stars": 73,
   "tag": "#2J980GJPC"
  },
  "start": "20261122T192031.000Z",

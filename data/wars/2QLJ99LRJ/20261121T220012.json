@@ -241,11 +241,44 @@
    "p": 89,
    "s": 2,
    "side": "gegner"
+  },
+  {
+   "a": "#R2Y29R22U",
+   "ath": 12,
+   "d": "#802PR80C8",
+   "dth": 12,
+   "dur": 99,
+   "o": 23,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#R2Y29R22U",
+   "ath": 12,
+   "d": "#QCJ090QRJ",
+   "dth": 7,
+   "dur": 42,
+   "o": 24,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#QRCPPU0R0",
+   "ath": 16,
+   "d": "#9YPYYRCP0",
+   "dth": 17,
+   "dur": 137,
+   "o": 25,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 10.0,
+  "destruction": 13.333333,
   "members": [
    {
     "name": "Raugraf Hugo",
@@ -429,12 +462,12 @@
    }
   ],
   "name": "Betazone",
-  "stars": 9,
+  "stars": 12,
   "tag": "#2QLJ99LRJ"
  },
  "end": "20261123T210012.000Z",
  "opponent": {
-  "destruction": 53.233334,
+  "destruction": 59.9,
   "members": [
    {
     "name": "iwan.rewa 100rb",
@@ -618,7 +651,7 @@
    }
   ],
   "name": "KUCING ANGGORA",
-  "stars": 47,
+  "stars": 53,
   "tag": "#2GYUVYJL0"
  },
  "start": "20261122T210012.000Z",

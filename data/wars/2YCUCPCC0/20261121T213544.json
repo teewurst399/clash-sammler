@@ -175,6 +175,50 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#YLYQV08RL",
+   "ath": 19,
+   "d": "#GGQ8UL9GY",
+   "dth": 19,
+   "dur": 95,
+   "o": 17,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#YLYQV08RL",
+   "ath": 19,
+   "d": "#9VYLRCVR",
+   "dth": 19,
+   "dur": 104,
+   "o": 18,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#L0RCR9UU",
+   "ath": 19,
+   "d": "#9PRPRP2Y",
+   "dth": 19,
+   "dur": 118,
+   "o": 19,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#L0RCR9UU",
+   "ath": 19,
+   "d": "#QLRVJYG9",
+   "dth": 19,
+   "dur": 115,
+   "o": 20,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -338,7 +382,7 @@
  },
  "end": "20261123T203544.000Z",
  "opponent": {
-  "destruction": 30.56,
+  "destruction": 46.56,
   "members": [
    {
     "name": "MR_98JAY",
@@ -492,7 +536,7 @@
    }
   ],
   "name": "Crusher Clan!!",
-  "stars": 19,
+  "stars": 31,
   "tag": "#2CPQ8LU"
  },
  "start": "20261122T203544.000Z",

@@ -340,11 +340,88 @@
    "p": 81,
    "s": 2,
    "side": "clan"
+  },
+  {
+   "a": "#V0P8JRJ",
+   "ath": 19,
+   "d": "#R2Q8UU9U",
+   "dth": 19,
+   "dur": 100,
+   "o": 32,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#V0P8JRJ",
+   "ath": 19,
+   "d": "#29PPYVGQP",
+   "dth": 19,
+   "dur": 104,
+   "o": 33,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#9YVQVVQC8",
+   "ath": 19,
+   "d": "#Y9UQCC9VQ",
+   "dth": 19,
+   "dur": 138,
+   "o": 34,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#8RVLGPYP",
+   "ath": 19,
+   "d": "#9U0YUCP9",
+   "dth": 19,
+   "dur": 137,
+   "o": 35,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#8RVLGPYP",
+   "ath": 19,
+   "d": "#8GR0P9UQL",
+   "dth": 19,
+   "dur": 82,
+   "o": 36,
+   "p": 59,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#C2PYPQLL",
+   "ath": 19,
+   "d": "#899CY2CP",
+   "dth": 19,
+   "dur": 94,
+   "o": 37,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#C2PYPQLL",
+   "ath": 19,
+   "d": "#G8LQ8GQL0",
+   "dth": 19,
+   "dur": 98,
+   "o": 38,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 36.31111,
+  "destruction": 40.755554,
   "members": [
    {
     "name": "WB Teewurst",
@@ -618,12 +695,12 @@
    }
   ],
   "name": "Wurstbude",
-  "stars": 44,
+  "stars": 50,
   "tag": "#2LCGGC22L"
  },
  "end": "20261123T202451.000Z",
  "opponent": {
-  "destruction": 22.222221,
+  "destruction": 32.422222,
   "members": [
    {
     "name": "S A N J A Y",
@@ -897,7 +974,7 @@
    }
   ],
   "name": "Lights End",
-  "stars": 30,
+  "stars": 44,
   "tag": "#2RYCGLV92"
  },
  "start": "20261122T202451.000Z",

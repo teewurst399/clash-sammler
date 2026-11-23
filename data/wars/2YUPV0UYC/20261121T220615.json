@@ -439,6 +439,83 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#8YPJCRGCQ",
+   "ath": 19,
+   "d": "#L8RUP2ULR",
+   "dth": 19,
+   "dur": 158,
+   "o": 41,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#YVGVGL98G",
+   "ath": 19,
+   "d": "#LL9YPQGRL",
+   "dth": 19,
+   "dur": 114,
+   "o": 42,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#8YPJCRGCQ",
+   "ath": 19,
+   "d": "#LRQ0Q8LQC",
+   "dth": 19,
+   "dur": 180,
+   "o": 43,
+   "p": 81,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#YVGVGL98G",
+   "ath": 19,
+   "d": "#8JQ8QG80C",
+   "dth": 19,
+   "dur": 121,
+   "o": 44,
+   "p": 72,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#PYGGQVLYJ",
+   "ath": 19,
+   "d": "#2CLPCCR98",
+   "dth": 19,
+   "dur": 142,
+   "o": 45,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#8R8VVJ0V8",
+   "ath": 19,
+   "d": "#22800PYCR",
+   "dth": 19,
+   "dur": 118,
+   "o": 46,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#8R8VVJ0V8",
+   "ath": 19,
+   "d": "#QRQUPU0LU",
+   "dth": 19,
+   "dur": 108,
+   "o": 47,
+   "p": 88,
+   "s": 2,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -692,7 +769,7 @@
  },
  "end": "20261123T210615.000Z",
  "opponent": {
-  "destruction": 66.725,
+  "destruction": 82.75,
   "members": [
    {
     "name": "Warlock",
@@ -936,7 +1013,7 @@
    }
   ],
   "name": "CLB Unity",
-  "stars": 77,
+  "stars": 95,
   "tag": "#2CQVJ9GCG"
  },
  "start": "20261122T210615.000Z",

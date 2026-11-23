@@ -626,6 +626,28 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#V8LR0LC8",
+   "ath": 19,
+   "d": "#Y9QGCVYY",
+   "dth": 19,
+   "dur": 138,
+   "o": 58,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#V8LR0LC8",
+   "ath": 19,
+   "d": "#JGQ9CUUG",
+   "dth": 19,
+   "dur": 122,
+   "o": 59,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -879,7 +901,7 @@
  },
  "end": "20261123T200635.000Z",
  "opponent": {
-  "destruction": 74.4,
+  "destruction": 79.4,
   "members": [
    {
     "name": "FL • ZΞЯБΞЯЦS³",
@@ -1123,7 +1145,7 @@
    }
   ],
   "name": "FruchtLabörchen",
-  "stars": 87,
+  "stars": 93,
   "tag": "#2RYP8PQRG"
  },
  "start": "20261122T200635.000Z",
