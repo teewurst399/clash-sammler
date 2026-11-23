@@ -868,11 +868,121 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#YP89GY9L",
+   "ath": 19,
+   "d": "#2J2URURQL",
+   "dth": 19,
+   "dur": 117,
+   "o": 80,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#YP89GY9L",
+   "ath": 19,
+   "d": "#RY9Q8L8V",
+   "dth": 19,
+   "dur": 129,
+   "o": 81,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#9GQGG08QP",
+   "ath": 19,
+   "d": "#8GUU8QL0C",
+   "dth": 19,
+   "dur": 132,
+   "o": 82,
+   "p": 95,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#2CL2LCUV",
+   "ath": 19,
+   "d": "#QYYLUV2LG",
+   "dth": 19,
+   "dur": 88,
+   "o": 83,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#990JCJQRC",
+   "ath": 19,
+   "d": "#CVQG88VJ",
+   "dth": 19,
+   "dur": 111,
+   "o": 84,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#L9VYGR8GG",
+   "ath": 19,
+   "d": "#9GQGG08QP",
+   "dth": 19,
+   "dur": 180,
+   "o": 85,
+   "p": 94,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#JVJJLJC2",
+   "ath": 19,
+   "d": "#9L0980QP",
+   "dth": 19,
+   "dur": 160,
+   "o": 86,
+   "p": 77,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#2CL2LCUV",
+   "ath": 19,
+   "d": "#2JQVU9YGL",
+   "dth": 19,
+   "dur": 99,
+   "o": 87,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#CY82LYLY",
+   "ath": 19,
+   "d": "#YRQRVGL0V",
+   "dth": 19,
+   "dur": 163,
+   "o": 88,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#CY82LYLY",
+   "ath": 19,
+   "d": "#9GQGG08QP",
+   "dth": 19,
+   "dur": 153,
+   "o": 89,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 60.125,
+  "destruction": 67.875,
   "members": [
    {
     "name": "pAx",
@@ -1116,12 +1226,12 @@
    }
   ],
   "name": "FruchtLabor III",
-  "stars": 66,
+  "stars": 73,
   "tag": "#2RGV2UQY9"
  },
  "end": "20261123T190535.000Z",
  "opponent": {
-  "destruction": 98.775,
+  "destruction": 100.0,
   "members": [
    {
     "name": "Filip",
@@ -1365,7 +1475,7 @@
    }
   ],
   "name": "CROATIA",
-  "stars": 114,
+  "stars": 120,
   "tag": "#80P90LVY"
  },
  "start": "20261122T190535.000Z",

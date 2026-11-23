@@ -252,11 +252,44 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#GPJGVRLVL",
+   "ath": 19,
+   "d": "#289GRJUJU",
+   "dth": 19,
+   "dur": 125,
+   "o": 24,
+   "p": 76,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#QUVUY9JL2",
+   "ath": 19,
+   "d": "#GCGJ00LQL",
+   "dth": 17,
+   "dur": 102,
+   "o": 25,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#QUVUY9JL2",
+   "ath": 19,
+   "d": "#YU8RRRQQC",
+   "dth": 18,
+   "dur": 95,
+   "o": 26,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 28.0,
+  "destruction": 37.2,
   "members": [
    {
     "name": "Rediza2",
@@ -440,7 +473,7 @@
    }
   ],
   "name": "Beta-Beeren",
-  "stars": 23,
+  "stars": 31,
   "tag": "#2LQJP2L0P"
  },
  "end": "20261124T001303.000Z",

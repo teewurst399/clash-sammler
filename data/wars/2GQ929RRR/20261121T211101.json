@@ -912,11 +912,198 @@
    "p": 63,
    "s": 2,
    "side": "gegner"
+  },
+  {
+   "a": "#JLC2YQ0P",
+   "ath": 19,
+   "d": "#U2Y0UCL",
+   "dth": 19,
+   "dur": 168,
+   "o": 84,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#JLC2YQ0P",
+   "ath": 19,
+   "d": "#JY28C8QL",
+   "dth": 19,
+   "dur": 131,
+   "o": 85,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#YGP09Q029",
+   "ath": 19,
+   "d": "#LCJJYQ0Y",
+   "dth": 19,
+   "dur": 154,
+   "o": 86,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#YGP09Q029",
+   "ath": 19,
+   "d": "#QGYRRRPG",
+   "dth": 19,
+   "dur": 119,
+   "o": 87,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#CCRGPPJ",
+   "ath": 19,
+   "d": "#GQJRVV2GR",
+   "dth": 19,
+   "dur": 95,
+   "o": 88,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#2YPQ2GPRL",
+   "ath": 19,
+   "d": "#PG0CYL8R",
+   "dth": 19,
+   "dur": 180,
+   "o": 89,
+   "p": 99,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#V02Y0YUG",
+   "ath": 19,
+   "d": "#G9V9JGQP",
+   "dth": 19,
+   "dur": 172,
+   "o": 90,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#L9URVCQUV",
+   "ath": 19,
+   "d": "#20UP2LJR0",
+   "dth": 19,
+   "dur": 180,
+   "o": 91,
+   "p": 94,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#2YPQ2GPRL",
+   "ath": 19,
+   "d": "#9C990JRG",
+   "dth": 19,
+   "dur": 180,
+   "o": 92,
+   "p": 92,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#JY28C8QL",
+   "ath": 19,
+   "d": "#RQYVR2RL",
+   "dth": 19,
+   "dur": 177,
+   "o": 93,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#JY28C8QL",
+   "ath": 19,
+   "d": "#QPGV08J",
+   "dth": 19,
+   "dur": 180,
+   "o": 94,
+   "p": 99,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#L9URVCQUV",
+   "ath": 19,
+   "d": "#GQ2VJ20",
+   "dth": 19,
+   "dur": 170,
+   "o": 95,
+   "p": 94,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#22GG00QYJ",
+   "ath": 19,
+   "d": "#20UP2LJR0",
+   "dth": 19,
+   "dur": 180,
+   "o": 96,
+   "p": 84,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#22GG00QYJ",
+   "ath": 19,
+   "d": "#89VCY0V9",
+   "dth": 19,
+   "dur": 140,
+   "o": 97,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#CQ0RCQ0P",
+   "ath": 19,
+   "d": "#L00C2RVP0",
+   "dth": 19,
+   "dur": 111,
+   "o": 98,
+   "p": 82,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#YCQYCLVRL",
+   "ath": 19,
+   "d": "#2JYQLCRCC",
+   "dth": 19,
+   "dur": 102,
+   "o": 99,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#YCQYCLVRL",
+   "ath": 19,
+   "d": "#GQ2VJ20",
+   "dth": 19,
+   "dur": 88,
+   "o": 100,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 92.48889,
+  "destruction": 99.86667,
   "members": [
    {
     "name": "Agent Hulk",
@@ -1190,12 +1377,12 @@
    }
   ],
   "name": "FruchtLabor II",
-  "stars": 120,
+  "stars": 133,
   "tag": "#2GQ929RRR"
  },
  "end": "20261123T201101.000Z",
  "opponent": {
-  "destruction": 66.155556,
+  "destruction": 75.26667,
   "members": [
    {
     "name": "£°ºROUEº°¥",
@@ -1469,7 +1656,7 @@
    }
   ],
   "name": "PREDATOR LIGUE",
-  "stars": 81,
+  "stars": 93,
   "tag": "#2LL9UY9LQ"
  },
  "start": "20261122T201101.000Z",

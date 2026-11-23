@@ -1022,11 +1022,110 @@
    "p": 98,
    "s": 2,
    "side": "gegner"
+  },
+  {
+   "a": "#98UUR9LRU",
+   "ath": 19,
+   "d": "#Q98809P2J",
+   "dth": 19,
+   "dur": 127,
+   "o": 94,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#YQQLCC9L",
+   "ath": 19,
+   "d": "#Y0C0PRRUU",
+   "dth": 19,
+   "dur": 146,
+   "o": 95,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#8YL89PLVR",
+   "ath": 19,
+   "d": "#9QV2PL8Q",
+   "dth": 19,
+   "dur": 155,
+   "o": 96,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#U2JPGRL",
+   "ath": 19,
+   "d": "#VCUGYLCP",
+   "dth": 19,
+   "dur": 147,
+   "o": 97,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#P9LP9QYGJ",
+   "ath": 19,
+   "d": "#QRUR9VVYG",
+   "dth": 19,
+   "dur": 180,
+   "o": 98,
+   "p": 99,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#U2JPGRL",
+   "ath": 19,
+   "d": "#LP0L29L9L",
+   "dth": 19,
+   "dur": 166,
+   "o": 99,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#LQJJLYUYL",
+   "ath": 19,
+   "d": "#89L8LCV8Y",
+   "dth": 19,
+   "dur": 123,
+   "o": 100,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#LQJJLYUYL",
+   "ath": 19,
+   "d": "#L8G8GR0C9",
+   "dth": 19,
+   "dur": 149,
+   "o": 101,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#Y0C0PRRUU",
+   "ath": 19,
+   "d": "#GL22R9UPQ",
+   "dth": 19,
+   "dur": 126,
+   "o": 102,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 74.755554,
+  "destruction": 83.844444,
   "members": [
    {
     "name": "EG⚡️KING",
@@ -1300,12 +1399,12 @@
    }
   ],
   "name": "Get Cooked!",
-  "stars": 99,
+  "stars": 111,
   "tag": "#2J922VYQ0"
  },
  "end": "20261123T192031.000Z",
  "opponent": {
-  "destruction": 82.64445,
+  "destruction": 91.53333,
   "members": [
    {
     "name": "Hồng Trung",
@@ -1579,7 +1678,7 @@
    }
   ],
   "name": "việt nam no1",
-  "stars": 107,
+  "stars": 119,
   "tag": "#2J980GJPC"
  },
  "start": "20261122T192031.000Z",

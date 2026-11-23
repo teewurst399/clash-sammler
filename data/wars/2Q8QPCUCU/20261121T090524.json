@@ -1605,6 +1605,17 @@
    "p": 11,
    "s": 1,
    "side": "clan"
+  },
+  {
+   "a": "#PRJ2UQQY9",
+   "ath": 19,
+   "d": "#2YRJ8LRPC",
+   "dth": 19,
+   "dur": 132,
+   "o": 147,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
@@ -2106,7 +2117,7 @@
   "tag": "#2RPGGJQRY"
  },
  "start": "20261122T080524.000Z",
- "state": "inWar",
+ "state": "warEnded",
  "teamSize": 40,
  "type": "krieg"
 }

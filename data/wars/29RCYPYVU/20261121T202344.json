@@ -549,6 +549,61 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#8CV9GJCVV",
+   "ath": 19,
+   "d": "#QVRV8J9R9",
+   "dth": 19,
+   "dur": 146,
+   "o": 51,
+   "p": 80,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#L2L0C0LV9",
+   "ath": 19,
+   "d": "#GCC8LVL",
+   "dth": 19,
+   "dur": 175,
+   "o": 52,
+   "p": 99,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#L2L0C0LV9",
+   "ath": 19,
+   "d": "#YQC2RYJ9C",
+   "dth": 19,
+   "dur": 180,
+   "o": 53,
+   "p": 78,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#PURJJPPU",
+   "ath": 19,
+   "d": "#QVRV8J9R9",
+   "dth": 19,
+   "dur": 180,
+   "o": 54,
+   "p": 88,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#PURJJPPU",
+   "ath": 19,
+   "d": "#GCC8LVL",
+   "dth": 19,
+   "dur": 109,
+   "o": 55,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -712,7 +767,7 @@
  },
  "end": "20261123T192344.000Z",
  "opponent": {
-  "destruction": 97.2,
+  "destruction": 98.12,
   "members": [
    {
     "name": "jeppe k",
@@ -866,7 +921,7 @@
    }
   ],
   "name": "iWar Chillers",
-  "stars": 69,
+  "stars": 71,
   "tag": "#2QVP9CV0"
  },
  "start": "20261122T192344.000Z",

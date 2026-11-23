@@ -846,6 +846,28 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#QQV8VVUP8",
+   "ath": 19,
+   "d": "#8UQQLYYG9",
+   "dth": 19,
+   "dur": 148,
+   "o": 78,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#QQV8VVUP8",
+   "ath": 19,
+   "d": "#LL99G0RJR",
+   "dth": 19,
+   "dur": 152,
+   "o": 79,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -1129,7 +1151,7 @@
  },
  "end": "20261123T195141.000Z",
  "opponent": {
-  "destruction": 84.08889,
+  "destruction": 88.53333,
   "members": [
    {
     "name": "SA: ⭐️Slider⭐️",
@@ -1403,7 +1425,7 @@
    }
   ],
   "name": "Silent army",
-  "stars": 109,
+  "stars": 115,
   "tag": "#2LCLLP9UJ"
  },
  "start": "20261122T195141.000Z",
