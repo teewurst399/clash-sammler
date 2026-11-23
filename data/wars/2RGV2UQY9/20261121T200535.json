@@ -1176,11 +1176,33 @@
    "p": 11,
    "s": 1,
    "side": "gegner"
+  },
+  {
+   "a": "#PQGP98RJC",
+   "ath": 19,
+   "d": "#L0J9Q2QU2",
+   "dth": 19,
+   "dur": 162,
+   "o": 108,
+   "p": 94,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#PQGP98RJC",
+   "ath": 19,
+   "d": "#8GUU8QL0C",
+   "dth": 19,
+   "dur": 139,
+   "o": 109,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 85.05,
+  "destruction": 87.525,
   "members": [
    {
     "name": "pAx",
@@ -1424,7 +1446,7 @@
    }
   ],
   "name": "FruchtLabor III",
-  "stars": 92,
+  "stars": 96,
   "tag": "#2RGV2UQY9"
  },
  "end": "20261123T190535.000Z",

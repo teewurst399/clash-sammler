@@ -1473,6 +1473,94 @@
    "p": 92,
    "s": 2,
    "side": "gegner"
+  },
+  {
+   "a": "#8Y9L8G8QQ",
+   "ath": 18,
+   "d": "#GQLGLGV2C",
+   "dth": 19,
+   "dur": 140,
+   "o": 135,
+   "p": 61,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#LGL2PLLJJ",
+   "ath": 19,
+   "d": "#2JP9Q02PL",
+   "dth": 19,
+   "dur": 135,
+   "o": 136,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#LP2JJQVVQ",
+   "ath": 19,
+   "d": "#88YJQU0Y8",
+   "dth": 19,
+   "dur": 49,
+   "o": 137,
+   "p": 19,
+   "s": 0,
+   "side": "gegner"
+  },
+  {
+   "a": "#LP2JJQVVQ",
+   "ath": 19,
+   "d": "#GQLGLGV2C",
+   "dth": 19,
+   "dur": 11,
+   "o": 138,
+   "p": 13,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#LGL2PLLJJ",
+   "ath": 19,
+   "d": "#LCVQLC2LQ",
+   "dth": 19,
+   "dur": 170,
+   "o": 139,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#LCPG8GPUC",
+   "ath": 19,
+   "d": "#2JP9Q02PL",
+   "dth": 19,
+   "dur": 138,
+   "o": 140,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#LCPG8GPUC",
+   "ath": 19,
+   "d": "#LCVQLC2LQ",
+   "dth": 19,
+   "dur": 173,
+   "o": 141,
+   "p": 96,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#8RVL2Q29",
+   "ath": 19,
+   "d": "#2JP9Q02PL",
+   "dth": 19,
+   "dur": 7,
+   "o": 142,
+   "p": 5,
+   "s": 1,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
@@ -1756,7 +1844,7 @@
  },
  "end": "20261123T201101.000Z",
  "opponent": {
-  "destruction": 93.73333,
+  "destruction": 94.155556,
   "members": [
    {
     "name": "£°ºROUEº°¥",

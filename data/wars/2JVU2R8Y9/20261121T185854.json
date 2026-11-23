@@ -912,11 +912,33 @@
    "p": 82,
    "s": 2,
    "side": "gegner"
+  },
+  {
+   "a": "#YU908JR9C",
+   "ath": 19,
+   "d": "#YYV0JG8JC",
+   "dth": 19,
+   "dur": 167,
+   "o": 84,
+   "p": 87,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#L8QQ9J9GL",
+   "ath": 19,
+   "d": "#QPJYPC09Y",
+   "dth": 19,
+   "dur": 127,
+   "o": 85,
+   "p": 72,
+   "s": 2,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 95.96,
+  "destruction": 96.04,
   "members": [
    {
     "name": "R A B B I",

@@ -1517,6 +1517,17 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#Q98809P2J",
+   "ath": 19,
+   "d": "#LGQCC8VC",
+   "dth": 19,
+   "dur": 14,
+   "o": 139,
+   "p": 43,
+   "s": 1,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,

@@ -1,0 +1,583 @@
+{
+ "attacks": [
+  {
+   "a": "#8Y0VLV0R0",
+   "ath": 19,
+   "d": "#LY2PCYUCP",
+   "dth": 19,
+   "dur": 152,
+   "o": 1,
+   "p": 93,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#8Y0VLV0R0",
+   "ath": 19,
+   "d": "#208LURYQ9",
+   "dth": 19,
+   "dur": 142,
+   "o": 2,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#YV8P0R09U",
+   "ath": 18,
+   "d": "#8Q8CGC2GV",
+   "dth": 18,
+   "dur": 162,
+   "o": 3,
+   "p": 87,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#YV8P0R09U",
+   "ath": 18,
+   "d": "#9GV9Y92V",
+   "dth": 18,
+   "dur": 157,
+   "o": 4,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#GVJLJJYQ0",
+   "ath": 16,
+   "d": "#88QUC0U90",
+   "dth": 17,
+   "dur": 120,
+   "o": 5,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#GVJLJJYQ0",
+   "ath": 16,
+   "d": "#UVG20QRV",
+   "dth": 17,
+   "dur": 132,
+   "o": 6,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#Q2GUJ2Y88",
+   "ath": 17,
+   "d": "#8PQGQ0G2",
+   "dth": 17,
+   "dur": 173,
+   "o": 7,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  }
+ ],
+ "attacksPerMember": 2,
+ "clan": {
+  "destruction": 12.175,
+  "members": [
+   {
+    "name": "Dschini -L-",
+    "pos": 6,
+    "tag": "#2G2G02LG",
+    "th": 19
+   },
+   {
+    "name": "FL • Tjold",
+    "pos": 15,
+    "tag": "#GPQCJQLQ2",
+    "th": 18
+   },
+   {
+    "name": "boombeacher",
+    "pos": 36,
+    "tag": "#UV2L88J0",
+    "th": 16
+   },
+   {
+    "name": "Sayajin",
+    "pos": 29,
+    "tag": "#900P029R9",
+    "th": 17
+   },
+   {
+    "name": "greengreen",
+    "pos": 13,
+    "tag": "#CUCCQJRC",
+    "th": 19
+   },
+   {
+    "name": "Dschini -R-",
+    "pos": 23,
+    "tag": "#GG0QY2QRQ",
+    "th": 18
+   },
+   {
+    "name": "michelo",
+    "pos": 25,
+    "tag": "#GPRP9PYQG",
+    "th": 18
+   },
+   {
+    "name": "FL • Eternity",
+    "pos": 11,
+    "tag": "#GRVQG8RLQ",
+    "th": 19
+   },
+   {
+    "name": "quak",
+    "pos": 9,
+    "tag": "#PPYGCLUCU",
+    "th": 19
+   },
+   {
+    "name": "FL • Empire",
+    "pos": 3,
+    "tag": "#29YUQPRCU",
+    "th": 19
+   },
+   {
+    "name": "NeXtReVO",
+    "pos": 19,
+    "tag": "#GC9VGU0LL",
+    "th": 18
+   },
+   {
+    "name": "Johnhennis",
+    "pos": 27,
+    "tag": "#LQVQVR8QR",
+    "th": 17
+   },
+   {
+    "name": "luc1893",
+    "pos": 12,
+    "tag": "#RCG09898",
+    "th": 19
+   },
+   {
+    "name": "Kissi88",
+    "pos": 7,
+    "tag": "#8VJGGCL88",
+    "th": 19
+   },
+   {
+    "name": "FL • Monifee",
+    "pos": 31,
+    "tag": "#LV0Y9RRG",
+    "th": 16
+   },
+   {
+    "name": "WarDJ",
+    "pos": 38,
+    "tag": "#GV9QPPPJG",
+    "th": 15
+   },
+   {
+    "name": "Kaffeemaschine",
+    "pos": 18,
+    "tag": "#2GY0QC80R",
+    "th": 18
+   },
+   {
+    "name": "Drey Flow",
+    "pos": 4,
+    "tag": "#CY082UQ0",
+    "th": 19
+   },
+   {
+    "name": "Nickname",
+    "pos": 21,
+    "tag": "#GC2CURPRP",
+    "th": 18
+   },
+   {
+    "name": "FL • NoName³",
+    "pos": 17,
+    "tag": "#YV8P0R09U",
+    "th": 18
+   },
+   {
+    "name": "FL • Fr3ddy",
+    "pos": 2,
+    "tag": "#208LURYQ9",
+    "th": 19
+   },
+   {
+    "name": "Matze",
+    "pos": 32,
+    "tag": "#8QVUJQ900",
+    "th": 16
+   },
+   {
+    "name": "Lennon",
+    "pos": 20,
+    "tag": "#GUY0JLJLR",
+    "th": 18
+   },
+   {
+    "name": "realGenOri",
+    "pos": 16,
+    "tag": "#PU0VL2QQ9",
+    "th": 18
+   },
+   {
+    "name": "Kapitano_II",
+    "pos": 33,
+    "tag": "#GVVYRULYV",
+    "th": 16
+   },
+   {
+    "name": "Flogik",
+    "pos": 8,
+    "tag": "#9J220P8UV",
+    "th": 19
+   },
+   {
+    "name": "Leandro",
+    "pos": 30,
+    "tag": "#LYYUC9CV9",
+    "th": 18
+   },
+   {
+    "name": "hammersbald",
+    "pos": 37,
+    "tag": "#R20LGR0RG",
+    "th": 15
+   },
+   {
+    "name": "FL • Rubinfeige",
+    "pos": 1,
+    "tag": "#LCVJJJCRJ",
+    "th": 19
+   },
+   {
+    "name": "FL • NoName⁴",
+    "pos": 34,
+    "tag": "#GVJLJJYQ0",
+    "th": 16
+   },
+   {
+    "name": "Kapitano_III",
+    "pos": 35,
+    "tag": "#R0QCP9RC9",
+    "th": 16
+   },
+   {
+    "name": "Knut",
+    "pos": 26,
+    "tag": "#Q2GUJ2Y88",
+    "th": 17
+   },
+   {
+    "name": "Mel",
+    "pos": 10,
+    "tag": "#GV2PGJGP8",
+    "th": 19
+   },
+   {
+    "name": "BronzeKing",
+    "pos": 22,
+    "tag": "#GQQ2Q2V2Y",
+    "th": 19
+   },
+   {
+    "name": "FL • MKACUKY",
+    "pos": 14,
+    "tag": "#Y2GGRCLVJ",
+    "th": 19
+   },
+   {
+    "name": "FL • Savage",
+    "pos": 28,
+    "tag": "#YRYQ2V8R8",
+    "th": 17
+   },
+   {
+    "name": "FL • dizzi",
+    "pos": 39,
+    "tag": "#GRLYPCCLR",
+    "th": 14
+   },
+   {
+    "name": "FL • Pitaya",
+    "pos": 24,
+    "tag": "#GRJVP9Q99",
+    "th": 17
+   },
+   {
+    "name": "Udo",
+    "pos": 40,
+    "tag": "#GRRUU0YR8",
+    "th": 14
+   },
+   {
+    "name": "FL • WeisName",
+    "pos": 5,
+    "tag": "#LY2PCYUCP",
+    "th": 19
+   }
+  ],
+  "name": "FruchtLabor V",
+  "stars": 14,
+  "tag": "#2RV89992C"
+ },
+ "end": "20261124T161117.000Z",
+ "opponent": {
+  "destruction": 4.825,
+  "members": [
+   {
+    "name": "Nikhil™️",
+    "pos": 8,
+    "tag": "#80VLVUJG0",
+    "th": 19
+   },
+   {
+    "name": "sudarshan",
+    "pos": 29,
+    "tag": "#809CY9P8R",
+    "th": 17
+   },
+   {
+    "name": "Atul the legend",
+    "pos": 18,
+    "tag": "#9GV9Y92V",
+    "th": 18
+   },
+   {
+    "name": "OaNiEk",
+    "pos": 20,
+    "tag": "#8LLQCYCVQ",
+    "th": 18
+   },
+   {
+    "name": "ARYAN",
+    "pos": 14,
+    "tag": "#GLGLPVLU",
+    "th": 19
+   },
+   {
+    "name": "THE DESTROYER",
+    "pos": 5,
+    "tag": "#8Y0VLV0R0",
+    "th": 19
+   },
+   {
+    "name": "teflon",
+    "pos": 3,
+    "tag": "#2PCQ9Y0QV",
+    "th": 19
+   },
+   {
+    "name": "K U M A R",
+    "pos": 26,
+    "tag": "#8PQGQ0G2",
+    "th": 17
+   },
+   {
+    "name": "ritesh",
+    "pos": 27,
+    "tag": "#2000UR8LY",
+    "th": 17
+   },
+   {
+    "name": "OBITO",
+    "pos": 30,
+    "tag": "#QULJ02JGC",
+    "th": 17
+   },
+   {
+    "name": "Yash",
+    "pos": 38,
+    "tag": "#80QVP8900",
+    "th": 14
+   },
+   {
+    "name": "rohitpatil1997",
+    "pos": 6,
+    "tag": "#9G89RUCQY",
+    "th": 19
+   },
+   {
+    "name": "K U M A R 2",
+    "pos": 35,
+    "tag": "#Q9LYVCJY",
+    "th": 15
+   },
+   {
+    "name": "Stark",
+    "pos": 28,
+    "tag": "#JVCUP9LL",
+    "th": 17
+   },
+   {
+    "name": "ashish",
+    "pos": 7,
+    "tag": "#29CP0J2GP",
+    "th": 19
+   },
+   {
+    "name": "MH@KING",
+    "pos": 10,
+    "tag": "#9YGJ80PV8",
+    "th": 19
+   },
+   {
+    "name": "RAHUL",
+    "pos": 11,
+    "tag": "#8PYVP9LJ9",
+    "th": 19
+   },
+   {
+    "name": "PunK",
+    "pos": 1,
+    "tag": "#2LCP9LGL0",
+    "th": 19
+   },
+   {
+    "name": "Atharva2407",
+    "pos": 32,
+    "tag": "#UVG20QRV",
+    "th": 17
+   },
+   {
+    "name": "BOSco",
+    "pos": 17,
+    "tag": "#PLQQ0LJP",
+    "th": 19
+   },
+   {
+    "name": "rushikesh",
+    "pos": 13,
+    "tag": "#PCRG92RUY",
+    "th": 19
+   },
+   {
+    "name": "AJAY c",
+    "pos": 36,
+    "tag": "#28R9JGV0L",
+    "th": 16
+   },
+   {
+    "name": "king nik",
+    "pos": 22,
+    "tag": "#2UQQURV9Y",
+    "th": 18
+   },
+   {
+    "name": "O G",
+    "pos": 15,
+    "tag": "#LU02R9QQ",
+    "th": 19
+   },
+   {
+    "name": "@RAHUL@77",
+    "pos": 21,
+    "tag": "#QCJRGPY8V",
+    "th": 18
+   },
+   {
+    "name": "SUSHIL",
+    "pos": 31,
+    "tag": "#290YQ8UYU",
+    "th": 17
+   },
+   {
+    "name": "amay",
+    "pos": 39,
+    "tag": "#YV0JPJLQ",
+    "th": 13
+   },
+   {
+    "name": "MH@KING",
+    "pos": 12,
+    "tag": "#9YRPVYPRV",
+    "th": 19
+   },
+   {
+    "name": "LAKHAN (LC)",
+    "pos": 4,
+    "tag": "#289J22LQP",
+    "th": 19
+   },
+   {
+    "name": "$UNNY",
+    "pos": 37,
+    "tag": "#JPCCCJQQ",
+    "th": 17
+   },
+   {
+    "name": "ֆʊռɢ ʝɨռաօօ",
+    "pos": 16,
+    "tag": "#8Q8CGC2GV",
+    "th": 18
+   },
+   {
+    "name": "#R@hul#",
+    "pos": 24,
+    "tag": "#G2YPLG8LV",
+    "th": 18
+   },
+   {
+    "name": "SAY",
+    "pos": 33,
+    "tag": "#88QUC0U90",
+    "th": 17
+   },
+   {
+    "name": "Sid",
+    "pos": 19,
+    "tag": "#9QYURU9JG",
+    "th": 18
+   },
+   {
+    "name": "Sid2",
+    "pos": 40,
+    "tag": "#GLJ92LUCQ",
+    "th": 13
+   },
+   {
+    "name": "VVP",
+    "pos": 2,
+    "tag": "#98V0C2Y2",
+    "th": 19
+   },
+   {
+    "name": "SHUBHAM®",
+    "pos": 25,
+    "tag": "#Q00PPGLPY",
+    "th": 18
+   },
+   {
+    "name": "Mini Laigude",
+    "pos": 34,
+    "tag": "#29V029UJ",
+    "th": 17
+   },
+   {
+    "name": "SateJ",
+    "pos": 9,
+    "tag": "#2UQ2VJCU",
+    "th": 19
+   },
+   {
+    "name": "SACHIN_SG",
+    "pos": 23,
+    "tag": "#Q22GVPCGU",
+    "th": 18
+   }
+  ],
+  "name": "MARATHA 2",
+  "stars": 4,
+  "tag": "#28CYPCCGJ"
+ },
+ "start": "20261123T161117.000Z",
+ "state": "inWar",
+ "teamSize": 40,
+ "type": "krieg"
+}

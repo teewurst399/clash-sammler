@@ -1132,11 +1132,121 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#VJVUCPP8",
+   "ath": 19,
+   "d": "#L0GQGUV00",
+   "dth": 19,
+   "dur": 136,
+   "o": 104,
+   "p": 78,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#8PQ2YRQL",
+   "ath": 19,
+   "d": "#L0GQGUV00",
+   "dth": 19,
+   "dur": 162,
+   "o": 105,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#8PQ2YRQL",
+   "ath": 19,
+   "d": "#800JQQV8U",
+   "dth": 19,
+   "dur": 127,
+   "o": 106,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#LJYCPY0YL",
+   "ath": 19,
+   "d": "#2YRCVQP0G",
+   "dth": 19,
+   "dur": 99,
+   "o": 107,
+   "p": 59,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#LJYCPY0YL",
+   "ath": 19,
+   "d": "#YGUU9U8Q",
+   "dth": 19,
+   "dur": 64,
+   "o": 108,
+   "p": 52,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#QULY2RURV",
+   "ath": 19,
+   "d": "#2YRCVQP0G",
+   "dth": 19,
+   "dur": 45,
+   "o": 109,
+   "p": 50,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#QULY2RURV",
+   "ath": 19,
+   "d": "#YGUU9U8Q",
+   "dth": 19,
+   "dur": 23,
+   "o": 110,
+   "p": 27,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#2PJVPJRU",
+   "ath": 19,
+   "d": "#YGUU9U8Q",
+   "dth": 19,
+   "dur": 17,
+   "o": 111,
+   "p": 49,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#LV9YVCJ2V",
+   "ath": 19,
+   "d": "#82VPUQRLY",
+   "dth": 19,
+   "dur": 139,
+   "o": 112,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#LV9YVCJ2V",
+   "ath": 19,
+   "d": "#9R2V8VQQ2",
+   "dth": 19,
+   "dur": 165,
+   "o": 113,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 91.111115,
+  "destruction": 95.55556,
   "members": [
    {
     "name": "RB",
@@ -1410,12 +1520,12 @@
    }
   ],
   "name": "Legacy",
-  "stars": 123,
+  "stars": 129,
   "tag": "#2RQR02LJR"
  },
  "end": "20261123T195141.000Z",
  "opponent": {
-  "destruction": 99.86667,
+  "destruction": 100.0,
   "members": [
    {
     "name": "SA: ⭐️Slider⭐️",
@@ -1689,7 +1799,7 @@
    }
   ],
   "name": "Silent army",
-  "stars": 133,
+  "stars": 135,
   "tag": "#2LCLLP9UJ"
  },
  "start": "20261122T195141.000Z",

@@ -1121,11 +1121,121 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#88U9VULJ8",
+   "ath": 19,
+   "d": "#YLJR9QYY",
+   "dth": 19,
+   "dur": 175,
+   "o": 103,
+   "p": 91,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#9GUGQ9L8Q",
+   "ath": 19,
+   "d": "#8UY882YU2",
+   "dth": 19,
+   "dur": 180,
+   "o": 104,
+   "p": 96,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#LVC20QVL",
+   "ath": 19,
+   "d": "#P8C2CYG22",
+   "dth": 19,
+   "dur": 145,
+   "o": 105,
+   "p": 96,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#VYP0P9Q",
+   "ath": 19,
+   "d": "#P8QPCJVJ",
+   "dth": 19,
+   "dur": 180,
+   "o": 106,
+   "p": 99,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#8VU82Y8UP",
+   "ath": 19,
+   "d": "#8UY882YU2",
+   "dth": 19,
+   "dur": 145,
+   "o": 107,
+   "p": 80,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#LVC20QVL",
+   "ath": 19,
+   "d": "#99880VJYV",
+   "dth": 19,
+   "dur": 108,
+   "o": 108,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#VYP0P9Q",
+   "ath": 19,
+   "d": "#YU0LRYY08",
+   "dth": 19,
+   "dur": 154,
+   "o": 109,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#2PQG0RGVG",
+   "ath": 19,
+   "d": "#LVGVCP2U",
+   "dth": 19,
+   "dur": 160,
+   "o": 110,
+   "p": 93,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#2PQG0RGVG",
+   "ath": 19,
+   "d": "#GLRG0YGLC",
+   "dth": 19,
+   "dur": 148,
+   "o": 111,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#JR0CUYU9",
+   "ath": 19,
+   "d": "#Q2L0RLYLR",
+   "dth": 19,
+   "dur": 156,
+   "o": 112,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 94.62222,
+  "destruction": 95.333336,
   "members": [
    {
     "name": "Nils^_^",
@@ -1399,12 +1509,12 @@
    }
   ],
   "name": "Northfront",
-  "stars": 125,
+  "stars": 126,
   "tag": "#2GLJCLYPU"
  },
  "end": "20261123T200111.000Z",
  "opponent": {
-  "destruction": 76.8,
+  "destruction": 86.2,
   "members": [
    {
     "name": "BOOTSSE",
@@ -1678,7 +1788,7 @@
    }
   ],
   "name": "LokiFamilia",
-  "stars": 100,
+  "stars": 111,
   "tag": "#22P288GY0"
  },
  "start": "20261122T200111.000Z",

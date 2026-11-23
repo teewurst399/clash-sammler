@@ -813,11 +813,110 @@
    "p": 79,
    "s": 1,
    "side": "gegner"
+  },
+  {
+   "a": "#2JGRJ2R9G",
+   "ath": 19,
+   "d": "#VP98L0GR",
+   "dth": 19,
+   "dur": 140,
+   "o": 75,
+   "p": 96,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#G0UV99C0C",
+   "ath": 18,
+   "d": "#98V80UVCU",
+   "dth": 18,
+   "dur": 145,
+   "o": 76,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#G0UV99C0C",
+   "ath": 18,
+   "d": "#29V2Y89LV",
+   "dth": 18,
+   "dur": 135,
+   "o": 77,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#99RPV9GVV",
+   "ath": 19,
+   "d": "#PVCRYQUG",
+   "dth": 19,
+   "dur": 97,
+   "o": 78,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#YJC99UCVR",
+   "ath": 19,
+   "d": "#GCL2YVL80",
+   "dth": 19,
+   "dur": 82,
+   "o": 79,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#JR2PLPLP",
+   "ath": 19,
+   "d": "#VP98L0GR",
+   "dth": 19,
+   "dur": 136,
+   "o": 80,
+   "p": 94,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#JR2PLPLP",
+   "ath": 19,
+   "d": "#LGJ9P9VRJ",
+   "dth": 19,
+   "dur": 93,
+   "o": 81,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#VUCJCYRL",
+   "ath": 19,
+   "d": "#YVVCCGU8C",
+   "dth": 19,
+   "dur": 132,
+   "o": 82,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#VUCJCYRL",
+   "ath": 19,
+   "d": "#28QJQP2RC",
+   "dth": 19,
+   "dur": 180,
+   "o": 83,
+   "p": 98,
+   "s": 2,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 68.02857,
+  "destruction": 79.4,
   "members": [
    {
     "name": "DΔツLion",
@@ -1031,12 +1130,12 @@
    }
   ],
   "name": "Dark Angel",
-  "stars": 68,
+  "stars": 79,
   "tag": "#2JJG9RLY8"
  },
  "end": "20261123T195721.000Z",
  "opponent": {
-  "destruction": 98.25714,
+  "destruction": 99.28571,
   "members": [
    {
     "name": "trmavrma",
@@ -1250,7 +1349,7 @@
    }
   ],
   "name": "RONIN-CZ",
-  "stars": 99,
+  "stars": 102,
   "tag": "#PJ2JRLPL"
  },
  "start": "20261122T195721.000Z",
