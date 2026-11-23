@@ -2177,7 +2177,7 @@
   "tag": "#2J980GJPC"
  },
  "start": "20261122T192031.000Z",
- "state": "inWar",
+ "state": "warEnded",
  "teamSize": 45,
  "type": "krieg"
 }

@@ -1033,11 +1033,187 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#PJYG2P9JJ",
+   "ath": 19,
+   "d": "#QCL0GJVV0",
+   "dth": 19,
+   "dur": 136,
+   "o": 95,
+   "p": 84,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#PJYG2P9JJ",
+   "ath": 19,
+   "d": "#88GGJYJY0",
+   "dth": 19,
+   "dur": 112,
+   "o": 96,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#2C9P2YQL",
+   "ath": 19,
+   "d": "#PRL0LJC8P",
+   "dth": 19,
+   "dur": 119,
+   "o": 97,
+   "p": 79,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#2C9P2YQL",
+   "ath": 19,
+   "d": "#99RPV9GVV",
+   "dth": 19,
+   "dur": 180,
+   "o": 98,
+   "p": 87,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#QCL0GJVV0",
+   "ath": 19,
+   "d": "#L2QPUQG9",
+   "dth": 18,
+   "dur": 142,
+   "o": 99,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#QCL0GJVV0",
+   "ath": 19,
+   "d": "#9VR82PJL",
+   "dth": 18,
+   "dur": 150,
+   "o": 100,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#2UP9G09P",
+   "ath": 19,
+   "d": "#U9JGVY00",
+   "dth": 19,
+   "dur": 149,
+   "o": 101,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#UV9PGG0",
+   "ath": 19,
+   "d": "#8V0RPJUG",
+   "dth": 19,
+   "dur": 96,
+   "o": 102,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#2UP9G09P",
+   "ath": 19,
+   "d": "#GQLRULLL",
+   "dth": 18,
+   "dur": 115,
+   "o": 103,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#GQLRULLL",
+   "ath": 18,
+   "d": "#98V80UVCU",
+   "dth": 18,
+   "dur": 146,
+   "o": 104,
+   "p": 90,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#YCJ9UUJRG",
+   "ath": 19,
+   "d": "#28QJQP2RC",
+   "dth": 19,
+   "dur": 93,
+   "o": 105,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#UV9PGG0",
+   "ath": 19,
+   "d": "#2GRYUJPQJ",
+   "dth": 19,
+   "dur": 133,
+   "o": 106,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#YV08VUUG9",
+   "ath": 19,
+   "d": "#PRL0LJC8P",
+   "dth": 19,
+   "dur": 180,
+   "o": 107,
+   "p": 91,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#L0RVQ9QRJ",
+   "ath": 19,
+   "d": "#2UP9G09P",
+   "dth": 19,
+   "dur": 104,
+   "o": 108,
+   "p": 73,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#L0RVQ9QRJ",
+   "ath": 19,
+   "d": "#YCJ9UUJRG",
+   "dth": 19,
+   "dur": 131,
+   "o": 109,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#YV08VUUG9",
+   "ath": 19,
+   "d": "#8Q8Y2PVJ",
+   "dth": 19,
+   "dur": 135,
+   "o": 110,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 88.08572,
+  "destruction": 100.0,
   "members": [
    {
     "name": "DΔツLion",
@@ -1251,7 +1427,7 @@
    }
   ],
   "name": "Dark Angel",
-  "stars": 90,
+  "stars": 105,
   "tag": "#2JJG9RLY8"
  },
  "end": "20261123T195721.000Z",
@@ -1474,7 +1650,7 @@
   "tag": "#PJ2JRLPL"
  },
  "start": "20261122T195721.000Z",
- "state": "inWar",
+ "state": "warEnded",
  "teamSize": 35,
  "type": "krieg"
 }

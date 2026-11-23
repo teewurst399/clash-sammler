@@ -109,11 +109,121 @@
    "p": 85,
    "s": 2,
    "side": "clan"
+  },
+  {
+   "a": "#98PC0JYY",
+   "ath": 19,
+   "d": "#PRPQY8UV8",
+   "dth": 19,
+   "dur": 142,
+   "o": 11,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#89J0JUL9",
+   "ath": 19,
+   "d": "#YJCG2PYUR",
+   "dth": 19,
+   "dur": 178,
+   "o": 12,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#98PC0JYY",
+   "ath": 19,
+   "d": "#J9GL0RYC",
+   "dth": 19,
+   "dur": 152,
+   "o": 13,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#G9VR0CPGU",
+   "ath": 19,
+   "d": "#YVVQQ8Q8P",
+   "dth": 19,
+   "dur": 111,
+   "o": 14,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#G9VR0CPGU",
+   "ath": 19,
+   "d": "#G09CGJ0PL",
+   "dth": 19,
+   "dur": 109,
+   "o": 15,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#GRVY0YC2R",
+   "ath": 19,
+   "d": "#9L288UPLQ",
+   "dth": 19,
+   "dur": 108,
+   "o": 16,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#GRVY0YC2R",
+   "ath": 19,
+   "d": "#2VC28R9YC",
+   "dth": 19,
+   "dur": 100,
+   "o": 17,
+   "p": 76,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#GCU2YPJ2U",
+   "ath": 19,
+   "d": "#8YCPG9CLG",
+   "dth": 17,
+   "dur": 89,
+   "o": 18,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#GCU2YPJ2U",
+   "ath": 19,
+   "d": "#YLRP0G9YY",
+   "dth": 18,
+   "dur": 163,
+   "o": 19,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#2VC28R9YC",
+   "ath": 19,
+   "d": "#82Q9YYG88",
+   "dth": 19,
+   "dur": 162,
+   "o": 20,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 11.4,
+  "destruction": 46.44,
   "members": [
    {
     "name": "Clash Joni",
@@ -267,12 +377,12 @@
    }
   ],
   "name": "Gammazone",
-  "stars": 8,
+  "stars": 34,
   "tag": "#YG20CR0U"
  },
  "end": "20261124T175717.000Z",
  "opponent": {
-  "destruction": 27.96,
+  "destruction": 31.96,
   "members": [
    {
     "name": "fury",
@@ -426,7 +536,7 @@
    }
   ],
   "name": "Perfect in war!",
-  "stars": 20,
+  "stars": 23,
   "tag": "#L88UJ8JC"
  },
  "start": "20261123T175717.000Z",

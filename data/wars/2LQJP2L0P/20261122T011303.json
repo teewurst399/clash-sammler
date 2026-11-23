@@ -769,6 +769,28 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#9YPJY2QRY",
+   "ath": 17,
+   "d": "#PJYJ80280",
+   "dth": 19,
+   "dur": 177,
+   "o": 71,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#9YPJY2QRY",
+   "ath": 17,
+   "d": "#LLQ2989",
+   "dth": 16,
+   "dur": 138,
+   "o": 72,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -962,7 +984,7 @@
  },
  "end": "20261124T001303.000Z",
  "opponent": {
-  "destruction": 94.9,
+  "destruction": 99.066666,
   "members": [
    {
     "name": "JOTAPRO",
@@ -1146,7 +1168,7 @@
    }
   ],
   "name": "REVOLUTION",
-  "stars": 84,
+  "stars": 88,
   "tag": "#2C9GLRR9Y"
  },
  "start": "20261123T001303.000Z",

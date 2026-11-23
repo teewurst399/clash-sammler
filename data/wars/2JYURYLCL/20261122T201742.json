@@ -1,0 +1,85 @@
+{
+ "attacks": [],
+ "attacksPerMember": 2,
+ "clan": {
+  "destruction": 0.0,
+  "members": [
+   {
+    "name": "WB Teewurst₃",
+    "pos": 3,
+    "tag": "#28CVLRLU",
+    "th": 18
+   },
+   {
+    "name": "vFietz",
+    "pos": 5,
+    "tag": "#G08G0RR98",
+    "th": 11
+   },
+   {
+    "name": "domi2",
+    "pos": 2,
+    "tag": "#GP9R0PUQ8",
+    "th": 18
+   },
+   {
+    "name": "WB Teewurst₄",
+    "pos": 1,
+    "tag": "#GPCQPUQ0Q",
+    "th": 19
+   },
+   {
+    "name": "Pr3d4tor:97",
+    "pos": 4,
+    "tag": "#GV2GJLRVG",
+    "th": 18
+   }
+  ],
+  "name": "Würstchenbude",
+  "stars": 0,
+  "tag": "#2JYURYLCL"
+ },
+ "end": "20261124T191742.000Z",
+ "opponent": {
+  "destruction": 0.0,
+  "members": [
+   {
+    "name": "Lukas",
+    "pos": 1,
+    "tag": "#PRQ8U8LPG",
+    "th": 19
+   },
+   {
+    "name": "Kerem_theKing",
+    "pos": 3,
+    "tag": "#80YU0G9PU",
+    "th": 18
+   },
+   {
+    "name": "Rahn",
+    "pos": 2,
+    "tag": "#PY00CU0LQ",
+    "th": 18
+   },
+   {
+    "name": "kisobee",
+    "pos": 4,
+    "tag": "#G28CR8YV9",
+    "th": 18
+   },
+   {
+    "name": "Momo99",
+    "pos": 5,
+    "tag": "#LRYGUUPL",
+    "th": 16
+   }
+  ],
+  "name": "EinHauchvonTüll",
+  "stars": 0,
+  "tag": "#2LGP8QGRP"
+ },
+ "start": "20261123T191742.000Z",
+ "state": "inWar",
+ "teamSize": 5,
+ "type": "krieg"
+}

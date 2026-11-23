@@ -1,0 +1,348 @@
+{
+ "attacks": [
+  {
+   "a": "#PR8R0L29U",
+   "ath": 19,
+   "d": "#9PLYPJGC",
+   "dth": 19,
+   "dur": 93,
+   "o": 1,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#PR8R0L29U",
+   "ath": 19,
+   "d": "#2P8R08920",
+   "dth": 19,
+   "dur": 136,
+   "o": 2,
+   "p": 64,
+   "s": 1,
+   "side": "clan"
+  }
+ ],
+ "attacksPerMember": 2,
+ "clan": {
+  "destruction": 6.56,
+  "members": [
+   {
+    "name": "28",
+    "pos": 2,
+    "tag": "#20Y9C2CYL",
+    "th": 19
+   },
+   {
+    "name": "Brooly",
+    "pos": 15,
+    "tag": "#YGJCR0G9L",
+    "th": 17
+   },
+   {
+    "name": "EZ⚡️Bulldog⚡️",
+    "pos": 6,
+    "tag": "#2RY9JRC9",
+    "th": 19
+   },
+   {
+    "name": "[^[tomi55]^]l",
+    "pos": 12,
+    "tag": "#L2UG890Q",
+    "th": 18
+   },
+   {
+    "name": "Kudo",
+    "pos": 19,
+    "tag": "#GP92URVP0",
+    "th": 17
+   },
+   {
+    "name": "Der Furs",
+    "pos": 21,
+    "tag": "#Q2GRPJRYV",
+    "th": 14
+   },
+   {
+    "name": "BabzackCW",
+    "pos": 8,
+    "tag": "#QVV9VPQC2",
+    "th": 19
+   },
+   {
+    "name": "Xatus",
+    "pos": 16,
+    "tag": "#2C0RC290U",
+    "th": 16
+   },
+   {
+    "name": "CremigerChrist",
+    "pos": 23,
+    "tag": "#LPPGJLU08",
+    "th": 14
+   },
+   {
+    "name": "Steini",
+    "pos": 3,
+    "tag": "#GLCVJJP8G",
+    "th": 19
+   },
+   {
+    "name": "Flitschbohne",
+    "pos": 10,
+    "tag": "#GG9QUVJRL",
+    "th": 18
+   },
+   {
+    "name": "chucknorris91",
+    "pos": 20,
+    "tag": "#GCJ89QJRQ",
+    "th": 14
+   },
+   {
+    "name": "SZ⚡️Evolve⚡️",
+    "pos": 1,
+    "tag": "#PR8R0L29U",
+    "th": 19
+   },
+   {
+    "name": "PATI",
+    "pos": 4,
+    "tag": "#89RR0RCCV",
+    "th": 19
+   },
+   {
+    "name": "Mystery",
+    "pos": 13,
+    "tag": "#8U8CLC0L",
+    "th": 18
+   },
+   {
+    "name": "BabzackS",
+    "pos": 5,
+    "tag": "#G2L9R98LL",
+    "th": 19
+   },
+   {
+    "name": "fnzguztt",
+    "pos": 24,
+    "tag": "#RPRPCJVUL",
+    "th": 11
+   },
+   {
+    "name": "Flatschbohne",
+    "pos": 18,
+    "tag": "#R08LJPV22",
+    "th": 16
+   },
+   {
+    "name": "AmBulldog",
+    "pos": 11,
+    "tag": "#GVCG02RQQ",
+    "th": 18
+   },
+   {
+    "name": "Muchbärt",
+    "pos": 22,
+    "tag": "#R008C9URL",
+    "th": 14
+   },
+   {
+    "name": "DarkingFo",
+    "pos": 14,
+    "tag": "#GRCLGPPG",
+    "th": 17
+   },
+   {
+    "name": "M1sterSeroF2P",
+    "pos": 25,
+    "tag": "#R2JUURGGC",
+    "th": 10
+   },
+   {
+    "name": "xnschxldig",
+    "pos": 7,
+    "tag": "#G9GPGRQ00",
+    "th": 19
+   },
+   {
+    "name": "Whoot",
+    "pos": 9,
+    "tag": "#GY28UUUY9",
+    "th": 19
+   },
+   {
+    "name": "Muchbert1337",
+    "pos": 17,
+    "tag": "#G2GCPV0CJ",
+    "th": 17
+   }
+  ],
+  "name": "Sigmazone",
+  "stars": 4,
+  "tag": "#2Q0UQQRUJ"
+ },
+ "end": "20261124T192518.000Z",
+ "opponent": {
+  "destruction": 0.0,
+  "members": [
+   {
+    "name": "logan",
+    "pos": 10,
+    "tag": "#98RC0VR2",
+    "th": 18
+   },
+   {
+    "name": "KingSte",
+    "pos": 6,
+    "tag": "#9C9LJ8YCL",
+    "th": 19
+   },
+   {
+    "name": "KingCrab",
+    "pos": 16,
+    "tag": "#PCPLYUJUG",
+    "th": 16
+   },
+   {
+    "name": "KingWolf",
+    "pos": 19,
+    "tag": "#Q8GQR0RGL",
+    "th": 14
+   },
+   {
+    "name": "KingBean",
+    "pos": 7,
+    "tag": "#29ULP8GGV",
+    "th": 19
+   },
+   {
+    "name": "Casey",
+    "pos": 1,
+    "tag": "#9PLYPJGC",
+    "th": 19
+   },
+   {
+    "name": "KingCroc",
+    "pos": 17,
+    "tag": "#Q2UQ8GRUJ",
+    "th": 16
+   },
+   {
+    "name": "dennis 67",
+    "pos": 9,
+    "tag": "#2GGLYRVG",
+    "th": 19
+   },
+   {
+    "name": "Ste",
+    "pos": 3,
+    "tag": "#V899JLRY",
+    "th": 19
+   },
+   {
+    "name": "KingRhino",
+    "pos": 15,
+    "tag": "#LQ00L0U0U",
+    "th": 17
+   },
+   {
+    "name": "KingCobra",
+    "pos": 18,
+    "tag": "#Q2C9JG289",
+    "th": 16
+   },
+   {
+    "name": "King Darby",
+    "pos": 12,
+    "tag": "#2JP28V9R",
+    "th": 18
+   },
+   {
+    "name": "Scorcher",
+    "pos": 11,
+    "tag": "#P8Q00YUU",
+    "th": 18
+   },
+   {
+    "name": "BeerbelyBrawler",
+    "pos": 2,
+    "tag": "#2P8R08920",
+    "th": 19
+   },
+   {
+    "name": "mr.loot.",
+    "pos": 21,
+    "tag": "#80GQQ00CG",
+    "th": 14
+   },
+   {
+    "name": "King",
+    "pos": 5,
+    "tag": "#VGL2QJV0",
+    "th": 19
+   },
+   {
+    "name": "KingGriffin",
+    "pos": 20,
+    "tag": "#QRUCU92QC",
+    "th": 14
+   },
+   {
+    "name": "KingOgre",
+    "pos": 23,
+    "tag": "#QUR8R9PGR",
+    "th": 13
+   },
+   {
+    "name": "KingPiggy",
+    "pos": 8,
+    "tag": "#YRQ8RLPLY",
+    "th": 19
+   },
+   {
+    "name": "KingMinotaur",
+    "pos": 22,
+    "tag": "#QL929V8C2",
+    "th": 14
+   },
+   {
+    "name": "KingPhoenix",
+    "pos": 25,
+    "tag": "#QCCLVVPJG",
+    "th": 13
+   },
+   {
+    "name": "KingWorm",
+    "pos": 13,
+    "tag": "#YCJ02U0CQ",
+    "th": 18
+   },
+   {
+    "name": "KingHydra",
+    "pos": 24,
+    "tag": "#YU8CV0Q0G",
+    "th": 13
+   },
+   {
+    "name": "KingShark",
+    "pos": 14,
+    "tag": "#L2JPV0QUL",
+    "th": 17
+   },
+   {
+    "name": "Lil b b Brawler",
+    "pos": 4,
+    "tag": "#UPYUVUUU",
+    "th": 19
+   }
+  ],
+  "name": "Reprisal",
+  "stars": 0,
+  "tag": "#VVY9JLP"
+ },
+ "start": "20261123T192518.000Z",
+ "state": "inWar",
+ "teamSize": 25,
+ "type": "krieg"
+}

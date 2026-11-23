@@ -2490,7 +2490,7 @@
   "tag": "#PGPYYQY9"
  },
  "start": "20261122T190942.000Z",
- "state": "inWar",
+ "state": "warEnded",
  "teamSize": 50,
  "type": "krieg"
 }

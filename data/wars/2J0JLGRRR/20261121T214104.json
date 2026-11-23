@@ -626,11 +626,143 @@
    "p": 93,
    "s": 2,
    "side": "gegner"
+  },
+  {
+   "a": "#GUQJP2282",
+   "ath": 13,
+   "d": "#8PYVUY00R",
+   "dth": 17,
+   "dur": 166,
+   "o": 58,
+   "p": 89,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#PPGQQCPCC",
+   "ath": 17,
+   "d": "#YC0P89CGJ",
+   "dth": 17,
+   "dur": 116,
+   "o": 59,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#GUQJP2282",
+   "ath": 13,
+   "d": "#PGRRYUCC8",
+   "dth": 18,
+   "dur": 125,
+   "o": 60,
+   "p": 62,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#PPGQQCPCC",
+   "ath": 17,
+   "d": "#G8L0PCLVV",
+   "dth": 17,
+   "dur": 160,
+   "o": 61,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#R9CP02GCY",
+   "ath": 17,
+   "d": "#PGRRYUCC8",
+   "dth": 18,
+   "dur": 169,
+   "o": 62,
+   "p": 80,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#LCCQPQGPU",
+   "ath": 18,
+   "d": "#GC9UYCQVY",
+   "dth": 17,
+   "dur": 142,
+   "o": 63,
+   "p": 80,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#R9CP02GCY",
+   "ath": 17,
+   "d": "#8PYVUY00R",
+   "dth": 17,
+   "dur": 132,
+   "o": 64,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#Q0VVGQLYV",
+   "ath": 17,
+   "d": "#GC9UYCQVY",
+   "dth": 17,
+   "dur": 142,
+   "o": 65,
+   "p": 82,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#Q0VVGQLYV",
+   "ath": 17,
+   "d": "#QJYCY0CJC",
+   "dth": 17,
+   "dur": 145,
+   "o": 66,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#QPQ2PVLRU",
+   "ath": 16,
+   "d": "#GC9UYCQVY",
+   "dth": 17,
+   "dur": 138,
+   "o": 67,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#QPQ2PVLRU",
+   "ath": 16,
+   "d": "#GPLRJ0G9Q",
+   "dth": 18,
+   "dur": 180,
+   "o": 68,
+   "p": 68,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#LP8C0PJUG",
+   "ath": 15,
+   "d": "#GPLRJ0G9Q",
+   "dth": 18,
+   "dur": 121,
+   "o": 69,
+   "p": 62,
+   "s": 1,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 99.6,
+  "destruction": 99.72,
   "members": [
    {
     "name": "Frost",
@@ -784,12 +916,12 @@
    }
   ],
   "name": "Get Smurfed!",
-  "stars": 73,
+  "stars": 74,
   "tag": "#2J0JLGRRR"
  },
  "end": "20261123T204104.000Z",
  "opponent": {
-  "destruction": 96.92,
+  "destruction": 99.68,
   "members": [
    {
     "name": "❤رولا❤",
@@ -943,7 +1075,7 @@
    }
   ],
   "name": "مبارزان بی مرز",
-  "stars": 70,
+  "stars": 74,
   "tag": "#YUCL9QPY"
  },
  "start": "20261122T204104.000Z",

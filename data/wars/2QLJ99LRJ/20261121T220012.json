@@ -714,11 +714,44 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#G90QC2RP9",
+   "ath": 18,
+   "d": "#QJ0J09JRY",
+   "dth": 19,
+   "dur": 168,
+   "o": 66,
+   "p": 65,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#G90QC2RP9",
+   "ath": 18,
+   "d": "#2PUPGGUPR",
+   "dth": 19,
+   "dur": 80,
+   "o": 67,
+   "p": 45,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#L8GCGYJ",
+   "ath": 18,
+   "d": "#2UUV9ULQP",
+   "dth": 18,
+   "dur": 128,
+   "o": 68,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 43.233334,
+  "destruction": 45.5,
   "members": [
    {
     "name": "Raugraf Hugo",
@@ -902,7 +935,7 @@
    }
   ],
   "name": "Betazone",
-  "stars": 38,
+  "stars": 40,
   "tag": "#2QLJ99LRJ"
  },
  "end": "20261123T210012.000Z",

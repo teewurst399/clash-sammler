@@ -1539,11 +1539,154 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#209GYP08U",
+   "ath": 19,
+   "d": "#G002092YC",
+   "dth": 19,
+   "dur": 130,
+   "o": 141,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#YU8VRCCQP",
+   "ath": 19,
+   "d": "#G8LRPP0CQ",
+   "dth": 19,
+   "dur": 111,
+   "o": 142,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#YU8VRCCQP",
+   "ath": 19,
+   "d": "#QVL9GQLY2",
+   "dth": 19,
+   "dur": 6,
+   "o": 143,
+   "p": 12,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#QL8YLPJYL",
+   "ath": 19,
+   "d": "#QVL9GQLY2",
+   "dth": 19,
+   "dur": 5,
+   "o": 144,
+   "p": 8,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#QL8YLPJYL",
+   "ath": 19,
+   "d": "#LPVUUL2CU",
+   "dth": 19,
+   "dur": 14,
+   "o": 145,
+   "p": 14,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#8YVPGPYUC",
+   "ath": 19,
+   "d": "#QVRUV9GUL",
+   "dth": 19,
+   "dur": 23,
+   "o": 146,
+   "p": 15,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#Y0C0820RC",
+   "ath": 19,
+   "d": "#LQLUPUP8",
+   "dth": 19,
+   "dur": 24,
+   "o": 147,
+   "p": 53,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#Y0C0820RC",
+   "ath": 19,
+   "d": "#QVRUV9GUL",
+   "dth": 19,
+   "dur": 22,
+   "o": 148,
+   "p": 58,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#V0VUVLV",
+   "ath": 19,
+   "d": "#QVRUV9GUL",
+   "dth": 19,
+   "dur": 36,
+   "o": 149,
+   "p": 30,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#GLUVJCP2P",
+   "ath": 18,
+   "d": "#LQLUPUP8",
+   "dth": 19,
+   "dur": 36,
+   "o": 150,
+   "p": 14,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#GLUVJCP2P",
+   "ath": 18,
+   "d": "#LU2YVQ8P0",
+   "dth": 19,
+   "dur": 16,
+   "o": 151,
+   "p": 12,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#PQCJC9C2L",
+   "ath": 19,
+   "d": "#QVL9GQLY2",
+   "dth": 19,
+   "dur": 5,
+   "o": 152,
+   "p": 8,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#PQCJC9C2L",
+   "ath": 19,
+   "d": "#YUUU0VRL9",
+   "dth": 19,
+   "dur": 7,
+   "o": 153,
+   "p": 18,
+   "s": 1,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 99.44444,
+  "destruction": 100.0,
   "members": [
    {
     "name": "Saheb",
@@ -1817,7 +1960,7 @@
    }
   ],
   "name": "Secondzone",
-  "stars": 133,
+  "stars": 135,
   "tag": "#2QQPYRRCU"
  },
  "end": "20261123T223932.000Z",
