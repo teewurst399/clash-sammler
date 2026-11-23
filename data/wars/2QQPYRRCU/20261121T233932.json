@@ -351,6 +351,105 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#YR8UP9LV9",
+   "ath": 19,
+   "d": "#9L08PCPP2",
+   "dth": 19,
+   "dur": 147,
+   "o": 33,
+   "p": 72,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#2C8JV8LJ0",
+   "ath": 19,
+   "d": "#Q89CCPVR",
+   "dth": 19,
+   "dur": 142,
+   "o": 34,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#QJP2GJPCJ",
+   "ath": 19,
+   "d": "#LUU28VY2",
+   "dth": 19,
+   "dur": 135,
+   "o": 35,
+   "p": 69,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#2C8JV8LJ0",
+   "ath": 19,
+   "d": "#LRJQU2PQ",
+   "dth": 19,
+   "dur": 154,
+   "o": 36,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#QJP2GJPCJ",
+   "ath": 19,
+   "d": "#GUVJ2JV0V",
+   "dth": 19,
+   "dur": 177,
+   "o": 37,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#PUCVJP99Q",
+   "ath": 19,
+   "d": "#209GYP08U",
+   "dth": 19,
+   "dur": 118,
+   "o": 38,
+   "p": 90,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#PUCVJP99Q",
+   "ath": 19,
+   "d": "#UCLPY09L",
+   "dth": 19,
+   "dur": 86,
+   "o": 39,
+   "p": 91,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#89QUGQGP",
+   "ath": 19,
+   "d": "#GLGJCJGR0",
+   "dth": 19,
+   "dur": 145,
+   "o": 40,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#89QUGQGP",
+   "ath": 19,
+   "d": "#LRGL8RCQG",
+   "dth": 19,
+   "dur": 102,
+   "o": 41,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -634,7 +733,7 @@
  },
  "end": "20261123T223932.000Z",
  "opponent": {
-  "destruction": 41.8,
+  "destruction": 60.066666,
   "members": [
    {
     "name": "ミ★QuốcĐịɴн★彡",
@@ -908,7 +1007,7 @@
    }
   ],
   "name": "VIỆT NAM TITAN❤",
-  "stars": 54,
+  "stars": 76,
   "tag": "#2J9UPVVLV"
  },
  "start": "20261122T223932.000Z",

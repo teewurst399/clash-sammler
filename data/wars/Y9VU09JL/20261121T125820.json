@@ -725,6 +725,28 @@
    "p": 78,
    "s": 1,
    "side": "gegner"
+  },
+  {
+   "a": "#UJYQ0QL0",
+   "ath": 19,
+   "d": "#C0LGVRRL",
+   "dth": 19,
+   "dur": 180,
+   "o": 67,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#8U0UPUV0R",
+   "ath": 17,
+   "d": "#LQUP0RCL",
+   "dth": 18,
+   "dur": 100,
+   "o": 68,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -948,7 +970,7 @@
  },
  "end": "20261123T115820.000Z",
  "opponent": {
-  "destruction": 63.228573,
+  "destruction": 68.942856,
   "members": [
    {
     "name": "federal",
@@ -1162,7 +1184,7 @@
    }
   ],
   "name": "DM Lite",
-  "stars": 59,
+  "stars": 65,
   "tag": "#RQJ29JL9"
  },
  "start": "20261122T115820.000Z",
