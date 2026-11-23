@@ -967,11 +967,132 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#C8JY2LVQ",
+   "ath": 19,
+   "d": "#QPU80QJU",
+   "dth": 19,
+   "dur": 129,
+   "o": 89,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#C8JY2LVQ",
+   "ath": 19,
+   "d": "#Q22VV0RRY",
+   "dth": 19,
+   "dur": 125,
+   "o": 90,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#9U0J89P9",
+   "ath": 19,
+   "d": "#8RY0U8PQ",
+   "dth": 19,
+   "dur": 118,
+   "o": 91,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#9U0J89P9",
+   "ath": 19,
+   "d": "#CRYYJGPJ",
+   "dth": 19,
+   "dur": 125,
+   "o": 92,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#8RY0U8PQ",
+   "ath": 19,
+   "d": "#P00YR0G0G",
+   "dth": 19,
+   "dur": 126,
+   "o": 93,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#8RY0U8PQ",
+   "ath": 19,
+   "d": "#JQ89CRUG",
+   "dth": 19,
+   "dur": 134,
+   "o": 94,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#QRRL20GR",
+   "ath": 19,
+   "d": "#9GP0GJJVY",
+   "dth": 19,
+   "dur": 103,
+   "o": 95,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#L9C0J0CP",
+   "ath": 19,
+   "d": "#LRGGGVQLV",
+   "dth": 19,
+   "dur": 120,
+   "o": 96,
+   "p": 81,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#QRRL20GR",
+   "ath": 19,
+   "d": "#2PULLPCYV",
+   "dth": 19,
+   "dur": 125,
+   "o": 97,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#L9C0J0CP",
+   "ath": 19,
+   "d": "#88PULVUUR",
+   "dth": 19,
+   "dur": 141,
+   "o": 98,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#PQJCUVUQJ",
+   "ath": 19,
+   "d": "#YGRCLYLUP",
+   "dth": 19,
+   "dur": 153,
+   "o": 99,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 44.74,
+  "destruction": 57.04,
   "members": [
    {
     "name": "PaPaPatrick",
@@ -1275,12 +1396,12 @@
    }
   ],
   "name": "Confusion II",
-  "stars": 63,
+  "stars": 82,
   "tag": "#2J2RY0GRL"
  },
  "end": "20261123T200242.000Z",
  "opponent": {
-  "destruction": 83.14,
+  "destruction": 89.14,
   "members": [
    {
     "name": "『HK』Tʜᴇ LEGEND",
@@ -1584,7 +1705,7 @@
    }
   ],
   "name": "الهاترك",
-  "stars": 123,
+  "stars": 132,
   "tag": "#Q8GCQ98Y"
  },
  "start": "20261122T200242.000Z",

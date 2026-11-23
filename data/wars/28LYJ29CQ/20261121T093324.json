@@ -1352,6 +1352,28 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#P99C88L2L",
+   "ath": 19,
+   "d": "#GCJV29VY",
+   "dth": 19,
+   "dur": 177,
+   "o": 124,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#8UR2VRPCC",
+   "ath": 19,
+   "d": "#PUVPC2V2C",
+   "dth": 18,
+   "dur": 108,
+   "o": 125,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -1605,7 +1627,7 @@
  },
  "end": "20261123T083324.000Z",
  "opponent": {
-  "destruction": 99.925,
+  "destruction": 100.0,
   "members": [
    {
     "name": "@ripunjoy123",
@@ -1849,7 +1871,7 @@
    }
   ],
   "name": "Avengers",
-  "stars": 118,
+  "stars": 120,
   "tag": "#UQPQ02UL"
  },
  "start": "20261122T083324.000Z",

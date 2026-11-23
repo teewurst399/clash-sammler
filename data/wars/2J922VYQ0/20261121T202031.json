@@ -857,6 +857,116 @@
    "p": 3,
    "s": 1,
    "side": "gegner"
+  },
+  {
+   "a": "#VCUGYLCP",
+   "ath": 19,
+   "d": "#PRRPP82GR",
+   "dth": 19,
+   "dur": 127,
+   "o": 79,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#VCUGYLCP",
+   "ath": 19,
+   "d": "#QGYVJVQJ",
+   "dth": 19,
+   "dur": 150,
+   "o": 80,
+   "p": 92,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#GL22R9UPQ",
+   "ath": 19,
+   "d": "#QGYVJVQJ",
+   "dth": 19,
+   "dur": 132,
+   "o": 81,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#GL22R9UPQ",
+   "ath": 19,
+   "d": "#UQ298J9R",
+   "dth": 19,
+   "dur": 108,
+   "o": 82,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#UVP92GJ",
+   "ath": 19,
+   "d": "#G8LG8V08V",
+   "dth": 19,
+   "dur": 170,
+   "o": 83,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#9Q9PJUU08",
+   "ath": 19,
+   "d": "#GUJ0LP",
+   "dth": 19,
+   "dur": 125,
+   "o": 84,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#9Q9PJUU08",
+   "ath": 19,
+   "d": "#QG2L0JC8",
+   "dth": 19,
+   "dur": 142,
+   "o": 85,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#LRQCR8CV8",
+   "ath": 19,
+   "d": "#QY00RQR9",
+   "dth": 19,
+   "dur": 118,
+   "o": 86,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#LRQCR8CV8",
+   "ath": 19,
+   "d": "#PRR2YUJ20",
+   "dth": 19,
+   "dur": 84,
+   "o": 87,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#P2YRR2U2",
+   "ath": 19,
+   "d": "#8URVJ0QVG",
+   "dth": 19,
+   "dur": 127,
+   "o": 88,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -1140,7 +1250,7 @@
  },
  "end": "20261123T192031.000Z",
  "opponent": {
-  "destruction": 59.91111,
+  "destruction": 76.022224,
   "members": [
    {
     "name": "Hồng Trung",
@@ -1414,7 +1524,7 @@
    }
   ],
   "name": "việt nam no1",
-  "stars": 76,
+  "stars": 99,
   "tag": "#2J980GJPC"
  },
  "start": "20261122T192031.000Z",

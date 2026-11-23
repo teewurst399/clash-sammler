@@ -736,6 +736,50 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#PL2J9LUCV",
+   "ath": 19,
+   "d": "#GP98L00P9",
+   "dth": 19,
+   "dur": 127,
+   "o": 68,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#YU0L9JGL9",
+   "ath": 19,
+   "d": "#GY2R2J88",
+   "dth": 19,
+   "dur": 151,
+   "o": 69,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#YU0L9JGL9",
+   "ath": 19,
+   "d": "#QUQJUVP9",
+   "dth": 19,
+   "dur": 137,
+   "o": 70,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#PL2J9LUCV",
+   "ath": 19,
+   "d": "#PYQLVV02",
+   "dth": 18,
+   "dur": 127,
+   "o": 71,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -899,7 +943,7 @@
  },
  "end": "20261123T091033.000Z",
  "opponent": {
-  "destruction": 86.2,
+  "destruction": 98.44,
   "members": [
    {
     "name": "Smbat",
@@ -1053,7 +1097,7 @@
    }
   ],
   "name": "ARMENIA",
-  "stars": 62,
+  "stars": 72,
   "tag": "#P2VYUU2"
  },
  "start": "20261122T091033.000Z",

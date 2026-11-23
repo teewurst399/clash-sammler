@@ -1000,6 +1000,105 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#Y0P8209P",
+   "ath": 19,
+   "d": "#L8LG22J80",
+   "dth": 19,
+   "dur": 162,
+   "o": 92,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#QUQ9LGVC",
+   "ath": 19,
+   "d": "#YG8GUVGYV",
+   "dth": 19,
+   "dur": 173,
+   "o": 93,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#QUQ9LGVC",
+   "ath": 19,
+   "d": "#YJVU9QUY",
+   "dth": 19,
+   "dur": 166,
+   "o": 94,
+   "p": 91,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#Y8P8L2CY",
+   "ath": 19,
+   "d": "#G0VRYC8YY",
+   "dth": 19,
+   "dur": 180,
+   "o": 95,
+   "p": 89,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#Q008U09QL",
+   "ath": 19,
+   "d": "#9GGYC0LQQ",
+   "dth": 19,
+   "dur": 167,
+   "o": 96,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#8UQ2RYG92",
+   "ath": 18,
+   "d": "#2P990URC",
+   "dth": 19,
+   "dur": 177,
+   "o": 97,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#Q008U09QL",
+   "ath": 19,
+   "d": "#Q9LJGLJ2",
+   "dth": 19,
+   "dur": 153,
+   "o": 98,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#8UQ2RYG92",
+   "ath": 18,
+   "d": "#8CYV0GRGR",
+   "dth": 19,
+   "dur": 142,
+   "o": 99,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#Y8P8L2CY",
+   "ath": 19,
+   "d": "#YJVU9QUY",
+   "dth": 19,
+   "dur": 120,
+   "o": 100,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -1283,7 +1382,7 @@
  },
  "end": "20261123T184031.000Z",
  "opponent": {
-  "destruction": 81.2,
+  "destruction": 98.73333,
   "members": [
    {
     "name": "The Recktifier",
@@ -1557,7 +1656,7 @@
    }
   ],
   "name": "300 club",
-  "stars": 107,
+  "stars": 129,
   "tag": "#QY9RQ2G2"
  },
  "start": "20261122T184031.000Z",

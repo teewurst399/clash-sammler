@@ -648,11 +648,55 @@
    "p": 99,
    "s": 2,
    "side": "gegner"
+  },
+  {
+   "a": "#8GCQLCYV",
+   "ath": 19,
+   "d": "#8G9290VL2",
+   "dth": 19,
+   "dur": 167,
+   "o": 60,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#8GCQLCYV",
+   "ath": 19,
+   "d": "#R8RV28PQ",
+   "dth": 19,
+   "dur": 171,
+   "o": 61,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#8G9290VL2",
+   "ath": 19,
+   "d": "#PL9J229RQ",
+   "dth": 19,
+   "dur": 180,
+   "o": 62,
+   "p": 93,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#8G9290VL2",
+   "ath": 19,
+   "d": "#9GCCGQ0G8",
+   "dth": 19,
+   "dur": 180,
+   "o": 63,
+   "p": 98,
+   "s": 2,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 53.177776,
+  "destruction": 57.622223,
   "members": [
    {
     "name": "RB",
@@ -926,12 +970,12 @@
    }
   ],
   "name": "Legacy",
-  "stars": 71,
+  "stars": 77,
   "tag": "#2RQR02LJR"
  },
  "end": "20261123T195141.000Z",
  "opponent": {
-  "destruction": 62.08889,
+  "destruction": 66.333336,
   "members": [
    {
     "name": "SA: ⭐️Slider⭐️",
@@ -1205,7 +1249,7 @@
    }
   ],
   "name": "Silent army",
-  "stars": 80,
+  "stars": 84,
   "tag": "#2LCLLP9UJ"
  },
  "start": "20261122T195141.000Z",

@@ -450,6 +450,61 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#2P8PJ9VJ0",
+   "ath": 19,
+   "d": "#LUU28VY2",
+   "dth": 19,
+   "dur": 180,
+   "o": 42,
+   "p": 98,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#8U98JCU28",
+   "ath": 19,
+   "d": "#V0VUVLV",
+   "dth": 19,
+   "dur": 152,
+   "o": 43,
+   "p": 93,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#2P8PJ9VJ0",
+   "ath": 19,
+   "d": "#P8JVJ802J",
+   "dth": 19,
+   "dur": 120,
+   "o": 44,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#8V9UJGJQ8",
+   "ath": 19,
+   "d": "#LLUCLGLV0",
+   "dth": 19,
+   "dur": 149,
+   "o": 45,
+   "p": 91,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#YUUU0VRL9",
+   "ath": 19,
+   "d": "#Y0C0820RC",
+   "dth": 19,
+   "dur": 180,
+   "o": 46,
+   "p": 62,
+   "s": 1,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -733,7 +788,7 @@
  },
  "end": "20261123T223932.000Z",
  "opponent": {
-  "destruction": 60.066666,
+  "destruction": 68.4,
   "members": [
    {
     "name": "ミ★QuốcĐịɴн★彡",
@@ -1007,7 +1062,7 @@
    }
   ],
   "name": "VIỆT NAM TITAN❤",
-  "stars": 76,
+  "stars": 85,
   "tag": "#2J9UPVVLV"
  },
  "start": "20261122T223932.000Z",
