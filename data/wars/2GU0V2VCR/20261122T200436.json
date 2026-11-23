@@ -263,11 +263,121 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#8CVY0YVQ",
+   "ath": 19,
+   "d": "#8PVGC8CP9",
+   "dth": 19,
+   "dur": 137,
+   "o": 25,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#8CVY0YVQ",
+   "ath": 19,
+   "d": "#QJVCJY9UV",
+   "dth": 19,
+   "dur": 180,
+   "o": 26,
+   "p": 91,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#G9UP2JY8Y",
+   "ath": 19,
+   "d": "#RC8J8G2R",
+   "dth": 18,
+   "dur": 134,
+   "o": 27,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#2L09GJJ92",
+   "ath": 19,
+   "d": "#UC98C88G",
+   "dth": 19,
+   "dur": 144,
+   "o": 28,
+   "p": 72,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#G9UP2JY8Y",
+   "ath": 19,
+   "d": "#QCQGV0LUP",
+   "dth": 18,
+   "dur": 161,
+   "o": 29,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#8PVGC8CP9",
+   "ath": 19,
+   "d": "#8CVY0YVQ",
+   "dth": 19,
+   "dur": 131,
+   "o": 30,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#8PVGC8CP9",
+   "ath": 19,
+   "d": "#C980RGUV",
+   "dth": 19,
+   "dur": 121,
+   "o": 31,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#2GG9Y0P8U",
+   "ath": 18,
+   "d": "#PRR89P888",
+   "dth": 19,
+   "dur": 81,
+   "o": 32,
+   "p": 64,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#QYPCUGPLR",
+   "ath": 18,
+   "d": "#QGRCVJVGJ",
+   "dth": 18,
+   "dur": 160,
+   "o": 33,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#QYPCUGPLR",
+   "ath": 18,
+   "d": "#PUYLLGQYP",
+   "dth": 18,
+   "dur": 180,
+   "o": 34,
+   "p": 94,
+   "s": 2,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 39.7,
+  "destruction": 53.033333,
   "members": [
    {
     "name": "BALLAHOLIC",
@@ -451,12 +561,12 @@
    }
   ],
   "name": "Fourthzone",
-  "stars": 34,
+  "stars": 46,
   "tag": "#2GU0V2VCR"
  },
  "end": "20261124T190436.000Z",
  "opponent": {
-  "destruction": 33.766666,
+  "destruction": 51.133335,
   "members": [
    {
     "name": "frank",
@@ -640,7 +750,7 @@
    }
   ],
   "name": "Why So Serious",
-  "stars": 29,
+  "stars": 43,
   "tag": "#2Q000U8GU"
  },
  "start": "20261123T190436.000Z",

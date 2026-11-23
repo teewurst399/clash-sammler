@@ -98,11 +98,110 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#2CP8P2R8U",
+   "ath": 19,
+   "d": "#V9GQJ2U9",
+   "dth": 19,
+   "dur": 106,
+   "o": 10,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#Y92U88PV",
+   "ath": 19,
+   "d": "#8UP0U0JC2",
+   "dth": 19,
+   "dur": 132,
+   "o": 11,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#2CP8P2R8U",
+   "ath": 19,
+   "d": "#8LP9YLY0V",
+   "dth": 19,
+   "dur": 110,
+   "o": 12,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#Y92U88PV",
+   "ath": 19,
+   "d": "#2UVGVRQP",
+   "dth": 19,
+   "dur": 139,
+   "o": 13,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#2CRVJQJY",
+   "ath": 19,
+   "d": "#9QURQY8Y8",
+   "dth": 19,
+   "dur": 164,
+   "o": 14,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#29RL2VURJ",
+   "ath": 19,
+   "d": "#Y92U88PV",
+   "dth": 19,
+   "dur": 114,
+   "o": 15,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#2CRVJQJY",
+   "ath": 19,
+   "d": "#2L90LYGPP",
+   "dth": 19,
+   "dur": 108,
+   "o": 16,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#29RL2VURJ",
+   "ath": 19,
+   "d": "#QPPCG8LR",
+   "dth": 19,
+   "dur": 97,
+   "o": 17,
+   "p": 68,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#8UCJQGCC",
+   "ath": 19,
+   "d": "#JRVPR0VP",
+   "dth": 19,
+   "dur": 180,
+   "o": 18,
+   "p": 83,
+   "s": 2,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 26.333334,
+  "destruction": 45.266666,
   "members": [
    {
     "name": "Der Checker",
@@ -286,12 +385,12 @@
    }
   ],
   "name": "GhostZone",
-  "stars": 23,
+  "stars": 40,
   "tag": "#JPLG8V2C"
  },
  "end": "20261124T204607.000Z",
  "opponent": {
-  "destruction": 2.3,
+  "destruction": 9.433333,
   "members": [
    {
     "name": "JUANDA",
@@ -475,7 +574,7 @@
    }
   ],
   "name": "LaMagiaaa.....™",
-  "stars": 2,
+  "stars": 8,
   "tag": "#CLGU0UQG"
  },
  "start": "20261123T204607.000Z",

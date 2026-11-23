@@ -263,11 +263,66 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#PPYGCLUCU",
+   "ath": 19,
+   "d": "#9YRPVYPRV",
+   "dth": 19,
+   "dur": 127,
+   "o": 25,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#PPYGCLUCU",
+   "ath": 19,
+   "d": "#2UQ2VJCU",
+   "dth": 19,
+   "dur": 128,
+   "o": 26,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#2UQ2VJCU",
+   "ath": 19,
+   "d": "#2G2G02LG",
+   "dth": 19,
+   "dur": 127,
+   "o": 27,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#2UQ2VJCU",
+   "ath": 19,
+   "d": "#LCVJJJCRJ",
+   "dth": 19,
+   "dur": 180,
+   "o": 28,
+   "p": 99,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#9YRPVYPRV",
+   "ath": 19,
+   "d": "#29YUQPRCU",
+   "dth": 19,
+   "dur": 125,
+   "o": 29,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 41.55,
+  "destruction": 46.55,
   "members": [
    {
     "name": "Dschini -L-",
@@ -511,12 +566,12 @@
    }
   ],
   "name": "FruchtLabor V",
-  "stars": 48,
+  "stars": 54,
   "tag": "#2RV89992C"
  },
  "end": "20261124T161117.000Z",
  "opponent": {
-  "destruction": 15.9,
+  "destruction": 23.375,
   "members": [
    {
     "name": "Nikhil™️",
@@ -760,7 +815,7 @@
    }
   ],
   "name": "MARATHA 2",
-  "stars": 16,
+  "stars": 24,
   "tag": "#28CYPCCGJ"
  },
  "start": "20261123T161117.000Z",

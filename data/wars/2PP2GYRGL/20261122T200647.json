@@ -472,11 +472,110 @@
    "p": 95,
    "s": 2,
    "side": "gegner"
+  },
+  {
+   "a": "#89LQGR2R",
+   "ath": 19,
+   "d": "#908YLYQC",
+   "dth": 19,
+   "dur": 110,
+   "o": 44,
+   "p": 75,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#RGJGCVQ9",
+   "ath": 19,
+   "d": "#2JQCQJLC2",
+   "dth": 19,
+   "dur": 119,
+   "o": 45,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#RGJGCVQ9",
+   "ath": 19,
+   "d": "#QQ8VCVQPJ",
+   "dth": 19,
+   "dur": 180,
+   "o": 46,
+   "p": 98,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#2YGPC8QVY",
+   "ath": 19,
+   "d": "#JLGJ82V0",
+   "dth": 19,
+   "dur": 144,
+   "o": 47,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#20LUJU8P",
+   "ath": 19,
+   "d": "#29Q9Q00UR",
+   "dth": 19,
+   "dur": 117,
+   "o": 48,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#20LUJU8P",
+   "ath": 19,
+   "d": "#QVVP2C8YY",
+   "dth": 19,
+   "dur": 101,
+   "o": 49,
+   "p": 74,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#9PR29UU20",
+   "ath": 19,
+   "d": "#8C00UYRYP",
+   "dth": 19,
+   "dur": 105,
+   "o": 50,
+   "p": 85,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#9PR29UU20",
+   "ath": 19,
+   "d": "#P0UQR9YU",
+   "dth": 19,
+   "dur": 118,
+   "o": 51,
+   "p": 82,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#Y9CU9JCV",
+   "ath": 19,
+   "d": "#YJJC808P2",
+   "dth": 19,
+   "dur": 161,
+   "o": 52,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 52.65,
+  "destruction": 52.75,
   "members": [
    {
     "name": "Salih",
@@ -720,12 +819,12 @@
    }
   ],
   "name": "Hoher Geheimrat",
-  "stars": 60,
+  "stars": 61,
   "tag": "#2PP2GYRGL"
  },
  "end": "20261124T190647.000Z",
  "opponent": {
-  "destruction": 43.425,
+  "destruction": 61.275,
   "members": [
    {
     "name": "ede",
@@ -969,7 +1068,7 @@
    }
   ],
   "name": "Jimmy&Charly",
-  "stars": 49,
+  "stars": 68,
   "tag": "#9J2R8RL8"
  },
  "start": "20261123T190647.000Z",

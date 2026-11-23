@@ -307,11 +307,77 @@
    "p": 71,
    "s": 1,
    "side": "clan"
+  },
+  {
+   "a": "#9JRGR0G89",
+   "ath": 19,
+   "d": "#LCPVGYCV9",
+   "dth": 19,
+   "dur": 173,
+   "o": 29,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#9G8R0Y8V8",
+   "ath": 19,
+   "d": "#2YRGJ208L",
+   "dth": 18,
+   "dur": 142,
+   "o": 30,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#9G8R0Y8V8",
+   "ath": 19,
+   "d": "#2G0QQJG9Y",
+   "dth": 18,
+   "dur": 154,
+   "o": 31,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#R0C98YC9",
+   "ath": 19,
+   "d": "#2LUV2P00",
+   "dth": 18,
+   "dur": 164,
+   "o": 32,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#R0C98YC9",
+   "ath": 19,
+   "d": "#LC0GJL882",
+   "dth": 19,
+   "dur": 125,
+   "o": 33,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#LP9CR92GQ",
+   "ath": 19,
+   "d": "#LLGPQ9CVU",
+   "dth": 19,
+   "dur": 131,
+   "o": 34,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 71.8,
+  "destruction": 75.8,
   "members": [
    {
     "name": "Clash Joni",
@@ -465,12 +531,12 @@
    }
   ],
   "name": "Gammazone",
-  "stars": 49,
+  "stars": 52,
   "tag": "#YG20CR0U"
  },
  "end": "20261124T175717.000Z",
  "opponent": {
-  "destruction": 35.92,
+  "destruction": 55.92,
   "members": [
    {
     "name": "fury",
@@ -624,7 +690,7 @@
    }
   ],
   "name": "Perfect in war!",
-  "stars": 25,
+  "stars": 40,
   "tag": "#L88UJ8JC"
  },
  "start": "20261123T175717.000Z",

@@ -626,6 +626,61 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#9RGRV022Y",
+   "ath": 19,
+   "d": "#LP0LVY99Q",
+   "dth": 19,
+   "dur": 139,
+   "o": 58,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#Y2URCCYRQ",
+   "ath": 19,
+   "d": "#29QRLCGVP",
+   "dth": 19,
+   "dur": 159,
+   "o": 59,
+   "p": 94,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#Y2URCCYRQ",
+   "ath": 19,
+   "d": "#RVLR0VR8",
+   "dth": 19,
+   "dur": 133,
+   "o": 60,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#202JPPV8P",
+   "ath": 19,
+   "d": "#29QRLCGVP",
+   "dth": 19,
+   "dur": 175,
+   "o": 61,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#202JPPV8P",
+   "ath": 19,
+   "d": "#2JGVVY8C",
+   "dth": 19,
+   "dur": 142,
+   "o": 62,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -909,7 +964,7 @@
  },
  "end": "20261124T190244.000Z",
  "opponent": {
-  "destruction": 66.17778,
+  "destruction": 72.86667,
   "members": [
    {
     "name": "EpheSuS",
@@ -1183,7 +1238,7 @@
    }
   ],
   "name": "THIS IS TURK",
-  "stars": 87,
+  "stars": 97,
   "tag": "#8L2UPV8L"
  },
  "start": "20261123T190244.000Z",
