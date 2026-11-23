@@ -6299,6 +6299,495 @@
      "dreier": 6
     }
    ]
+  },
+  "#GRV9C8VU": {
+   "name": "Bockwurst",
+   "clan": "Wurstfabrik",
+   "th": 14,
+   "letzte_cwl": {
+    "saison": "2025-12",
+    "clan": "Wurststand",
+    "clantag": "#2GGQ29000",
+    "liga": "Gold League II",
+    "kriege": 7,
+    "angriffe": 7,
+    "sterne": 18,
+    "dreier": 5
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2025-12",
+     "clan": "Wurststand",
+     "clantag": "#2GGQ29000",
+     "liga": "Gold 2",
+     "angriffe": 7,
+     "sterne": 18,
+     "dreier": 5
+    }
+   ],
+   "stand_zeit": "2026-11-23T06:01:29Z"
+  },
+  "#QCUGC9JL": {
+   "name": "Emma",
+   "clan": "Wurstfabrik",
+   "th": 13,
+   "letzte_cwl": {
+    "saison": "2025-12",
+    "clan": "Wurststand",
+    "clantag": "#2GGQ29000",
+    "liga": "Gold League II",
+    "kriege": 7,
+    "angriffe": 7,
+    "sterne": 18,
+    "dreier": 5
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2025-12",
+     "clan": "Wurststand",
+     "clantag": "#2GGQ29000",
+     "liga": "Gold 2",
+     "angriffe": 7,
+     "sterne": 18,
+     "dreier": 5
+    }
+   ],
+   "stand_zeit": "2026-11-23T06:01:29Z"
+  },
+  "#QUVQPJYJ8": {
+   "name": "Fabio VI",
+   "clan": "Wurstbude",
+   "th": 9,
+   "stand_zeit": "2026-11-23T06:01:29Z"
+  },
+  "#QUL8VL88C": {
+   "name": "Lucario",
+   "clan": "Anthrazit III",
+   "th": 9,
+   "stand_zeit": "2026-11-23T06:01:29Z"
+  },
+  "#L0VQG08V9": {
+   "name": "Mewtu",
+   "clan": "Anthrazit",
+   "th": 9,
+   "cw30": {
+    "th": 9,
+    "hits": 3,
+    "triples": 1,
+    "stars": 7,
+    "avg_stars": 2.333,
+    "triple_rate": 33.3,
+    "by_th": {
+     "9": {
+      "hits": 3,
+      "triples": 1,
+      "stars": 7
+     }
+    }
+   },
+   "cw180": {
+    "th": 9,
+    "hits": 5,
+    "triples": 3,
+    "stars": 13,
+    "avg_stars": 2.6,
+    "triple_rate": 60,
+    "by_th": {
+     "9": {
+      "hits": 5,
+      "triples": 3,
+      "stars": 13
+     }
+    }
+   },
+   "stand_zeit": "2026-11-23T06:01:29Z"
+  },
+  "#GV2GJLRVG": {
+   "name": "Pr3d4tor:97",
+   "clan": "Würstchenbude",
+   "th": 18,
+   "cw30": {
+    "th": 18,
+    "hits": 5,
+    "triples": 5,
+    "stars": 15,
+    "avg_stars": 3,
+    "triple_rate": 100,
+    "by_th": {
+     "18": {
+      "hits": 5,
+      "triples": 5,
+      "stars": 15
+     }
+    }
+   },
+   "cw180": {
+    "th": 18,
+    "hits": 33,
+    "triples": 25,
+    "stars": 90,
+    "avg_stars": 2.727,
+    "triple_rate": 75.8,
+    "by_th": {
+     "16": {
+      "hits": 2,
+      "triples": 1,
+      "stars": 5
+     },
+     "17": {
+      "hits": 24,
+      "triples": 17,
+      "stars": 64
+     },
+     "18": {
+      "hits": 7,
+      "triples": 7,
+      "stars": 21
+     }
+    }
+   },
+   "cwl60": {
+    "th": 18,
+    "hits": 7,
+    "triples": 7,
+    "stars": 21,
+    "avg_stars": 3,
+    "triple_rate": 100,
+    "by_th": {
+     "18": {
+      "hits": 7,
+      "triples": 7,
+      "stars": 21
+     }
+    }
+   },
+   "cwl180": {
+    "th": 18,
+    "hits": 9,
+    "triples": 9,
+    "stars": 27,
+    "avg_stars": 3,
+    "triple_rate": 100,
+    "by_th": {
+     "17": {
+      "hits": 2,
+      "triples": 2,
+      "stars": 6
+     },
+     "18": {
+      "hits": 7,
+      "triples": 7,
+      "stars": 21
+     }
+    }
+   },
+   "letzte_cwl": {
+    "saison": "2026-10",
+    "clan": "riesenAal",
+    "clantag": "#2Q8URJ8QR",
+    "liga": "Master League III",
+    "kriege": 7,
+    "angriffe": 7,
+    "sterne": 21,
+    "dreier": 7
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-10",
+     "clan": "riesenAal",
+     "clantag": "#2Q8URJ8QR",
+     "liga": "Meister 3",
+     "angriffe": 7,
+     "sterne": 21,
+     "dreier": 7
+    },
+    {
+     "saison": "2026-09",
+     "clan": "riesenAal",
+     "clantag": "#2Q8URJ8QR",
+     "liga": "Meister 2",
+     "angriffe": 7,
+     "sterne": 18,
+     "dreier": 5
+    },
+    {
+     "saison": "2026-06",
+     "clan": "riesenAal",
+     "clantag": "#2Q8URJ8QR",
+     "liga": "Meister 2",
+     "angriffe": 7,
+     "sterne": 15,
+     "dreier": 2
+    }
+   ],
+   "stand_zeit": "2026-11-23T06:01:29Z"
+  },
+  "#Y888CRLL": {
+   "name": "Y888CRLL",
+   "clan": "",
+   "th": null,
+   "stand_zeit": "2026-11-23T06:01:29Z"
+  },
+  "#G08G0RR98": {
+   "name": "vFietz",
+   "clan": "Würstchenbude",
+   "th": 11,
+   "cw30": {
+    "th": 11,
+    "hits": 2,
+    "triples": 2,
+    "stars": 6,
+    "avg_stars": 3,
+    "triple_rate": 100,
+    "by_th": {
+     "10": {
+      "hits": 2,
+      "triples": 2,
+      "stars": 6
+     }
+    }
+   },
+   "cw180": {
+    "th": 11,
+    "hits": 2,
+    "triples": 2,
+    "stars": 6,
+    "avg_stars": 3,
+    "triple_rate": 100,
+    "by_th": {
+     "10": {
+      "hits": 2,
+      "triples": 2,
+      "stars": 6
+     }
+    }
+   },
+   "stand_zeit": "2026-11-23T06:01:29Z"
+  },
+  "#GJYULVCY9": {
+   "name": "GJYULVCY9",
+   "clan": "",
+   "th": null,
+   "stand_zeit": "2026-11-23T06:01:29Z"
+  },
+  "#L8GVLR8Y0": {
+   "name": "L8GVLR8Y0",
+   "clan": "",
+   "th": null,
+   "stand_zeit": "2026-11-23T06:01:29Z"
+  },
+  "#Q0Q8JG0QP": {
+   "name": "WB Helene",
+   "clan": "Würstchenbude",
+   "th": 9,
+   "stand_zeit": "2026-11-23T06:01:29Z"
+  },
+  "#G889V8Y89": {
+   "name": "G889V8Y89",
+   "clan": "",
+   "th": null,
+   "stand_zeit": "2026-11-23T06:01:29Z"
+  },
+  "#LCY2C20YR": {
+   "name": "WB Teewurst₅",
+   "clan": "Wurststand",
+   "th": 12,
+   "letzte_cwl": {
+    "saison": "2026-09",
+    "clan": "Wurststand",
+    "clantag": "#2GGQ29000",
+    "liga": "Crystal League III",
+    "kriege": 4,
+    "angriffe": 4,
+    "sterne": 4,
+    "dreier": 0
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-09",
+     "clan": "Wurststand",
+     "clantag": "#2GGQ29000",
+     "liga": "Kristall 3",
+     "angriffe": 4,
+     "sterne": 4,
+     "dreier": 0
+    },
+    {
+     "saison": "2025-12",
+     "clan": "Wurststand",
+     "clantag": "#2GGQ29000",
+     "liga": "Gold 2",
+     "angriffe": 7,
+     "sterne": 17,
+     "dreier": 5
+    }
+   ],
+   "stand_zeit": "2026-11-23T06:01:29Z"
+  },
+  "#RJLCQY9U": {
+   "name": "WB Teewurst₆",
+   "clan": "Würstchenbude",
+   "th": 13,
+   "cw30": {
+    "th": 13,
+    "hits": 2,
+    "triples": 1,
+    "stars": 5,
+    "avg_stars": 2.5,
+    "triple_rate": 50,
+    "by_th": {
+     "13": {
+      "hits": 2,
+      "triples": 1,
+      "stars": 5
+     }
+    }
+   },
+   "cw180": {
+    "th": 13,
+    "hits": 2,
+    "triples": 1,
+    "stars": 5,
+    "avg_stars": 2.5,
+    "triple_rate": 50,
+    "by_th": {
+     "13": {
+      "hits": 2,
+      "triples": 1,
+      "stars": 5
+     }
+    }
+   },
+   "letzte_cwl": {
+    "saison": "2026-09",
+    "clan": "Wurststand",
+    "clantag": "#2GGQ29000",
+    "liga": "Crystal League III",
+    "kriege": 4,
+    "angriffe": 4,
+    "sterne": 8,
+    "dreier": 1
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-09",
+     "clan": "Wurststand",
+     "clantag": "#2GGQ29000",
+     "liga": "Kristall 3",
+     "angriffe": 4,
+     "sterne": 8,
+     "dreier": 1
+    },
+    {
+     "saison": "2025-12",
+     "clan": "Wurststand",
+     "clantag": "#2GGQ29000",
+     "liga": "Gold 2",
+     "angriffe": 7,
+     "sterne": 17,
+     "dreier": 5
+    }
+   ],
+   "stand_zeit": "2026-11-23T06:01:29Z"
+  },
+  "#GJ8GJY809": {
+   "name": "WB Teewurst₇",
+   "clan": "Würstchenbude",
+   "th": 12,
+   "cw30": {
+    "th": 12,
+    "hits": 2,
+    "triples": 2,
+    "stars": 6,
+    "avg_stars": 3,
+    "triple_rate": 100,
+    "by_th": {
+     "12": {
+      "hits": 2,
+      "triples": 2,
+      "stars": 6
+     }
+    }
+   },
+   "cw180": {
+    "th": 12,
+    "hits": 2,
+    "triples": 2,
+    "stars": 6,
+    "avg_stars": 3,
+    "triple_rate": 100,
+    "by_th": {
+     "12": {
+      "hits": 2,
+      "triples": 2,
+      "stars": 6
+     }
+    }
+   },
+   "letzte_cwl": {
+    "saison": "2026-09",
+    "clan": "Wurststand",
+    "clantag": "#2GGQ29000",
+    "liga": "Crystal League III",
+    "kriege": 4,
+    "angriffe": 4,
+    "sterne": 4,
+    "dreier": 1
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2026-09",
+     "clan": "Wurststand",
+     "clantag": "#2GGQ29000",
+     "liga": "Kristall 3",
+     "angriffe": 4,
+     "sterne": 4,
+     "dreier": 1
+    },
+    {
+     "saison": "2025-12",
+     "clan": "Wurststand",
+     "clantag": "#2GGQ29000",
+     "liga": "Gold 2",
+     "angriffe": 7,
+     "sterne": 16,
+     "dreier": 4
+    }
+   ],
+   "stand_zeit": "2026-11-23T06:01:29Z"
+  },
+  "#LVP9VUVVJ": {
+   "name": "WB Teewurst₈",
+   "clan": "Wurstfabrik",
+   "th": 10,
+   "letzte_cwl": {
+    "saison": "2025-12",
+    "clan": "Wurststand",
+    "clantag": "#2GGQ29000",
+    "liga": "Gold League II",
+    "kriege": 7,
+    "angriffe": 7,
+    "sterne": 17,
+    "dreier": 5
+   },
+   "cwl_saisons": [
+    {
+     "saison": "2025-12",
+     "clan": "Wurststand",
+     "clantag": "#2GGQ29000",
+     "liga": "Gold 2",
+     "angriffe": 7,
+     "sterne": 17,
+     "dreier": 5
+    }
+   ],
+   "stand_zeit": "2026-11-23T06:01:29Z"
+  },
+  "#2U982YLYP": {
+   "name": "2U982YLYP",
+   "clan": "",
+   "th": null,
+   "stand_zeit": "2026-11-23T06:01:29Z"
   }
  },
  "stand_zeit": "2026-11-22T22:30:00Z"
