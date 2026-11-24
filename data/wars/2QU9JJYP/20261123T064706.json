@@ -626,6 +626,116 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#2VY9VUU00",
+   "ath": 19,
+   "d": "#9UC0Y0V2R",
+   "dth": 19,
+   "dur": 175,
+   "o": 58,
+   "p": 57,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#Q0VPY09VU",
+   "ath": 19,
+   "d": "#9UC0Y0V2R",
+   "dth": 19,
+   "dur": 128,
+   "o": 59,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#RLUQL9U9",
+   "ath": 19,
+   "d": "#PYJJLUYRV",
+   "dth": 19,
+   "dur": 137,
+   "o": 60,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#LC02LQ8VJ",
+   "ath": 14,
+   "d": "#9LPVL2ULL",
+   "dth": 19,
+   "dur": 53,
+   "o": 61,
+   "p": 40,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#9URJGYCV",
+   "ath": 19,
+   "d": "#L8UGUGPCG",
+   "dth": 19,
+   "dur": 97,
+   "o": 62,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#LC02LQ8VJ",
+   "ath": 14,
+   "d": "#92GJJ99L",
+   "dth": 19,
+   "dur": 32,
+   "o": 63,
+   "p": 28,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#LRJ9UGRYG",
+   "ath": 13,
+   "d": "#G9JQ2VL29",
+   "dth": 6,
+   "dur": 45,
+   "o": 64,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#LRJ9UGRYG",
+   "ath": 13,
+   "d": "#UQJLU0RL",
+   "dth": 19,
+   "dur": 13,
+   "o": 65,
+   "p": 5,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#8QGRGYCP2",
+   "ath": 19,
+   "d": "#9VP8UCC9",
+   "dth": 19,
+   "dur": 180,
+   "o": 66,
+   "p": 96,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#9URJGYCV",
+   "ath": 19,
+   "d": "#9VP8UCC9",
+   "dth": 19,
+   "dur": 84,
+   "o": 67,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -939,7 +1049,7 @@
  },
  "end": "20261125T054706.000Z",
  "opponent": {
-  "destruction": 54.0,
+  "destruction": 64.0,
   "members": [
    {
     "name": "KTLB ⚡ RAIZEN",
@@ -1243,7 +1353,7 @@
    }
   ],
   "name": "KATILINGBAN",
-  "stars": 81,
+  "stars": 96,
   "tag": "#9V8JQQR2"
  },
  "start": "20261124T054706.000Z",

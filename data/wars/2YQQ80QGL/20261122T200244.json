@@ -1341,11 +1341,143 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#GR9Y2Q0GJ",
+   "ath": 19,
+   "d": "#YJV9VC9PY",
+   "dth": 19,
+   "dur": 152,
+   "o": 123,
+   "p": 74,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#8YPGU90R",
+   "ath": 19,
+   "d": "#2R09YUCG",
+   "dth": 19,
+   "dur": 100,
+   "o": 124,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#909CVJ9R",
+   "ath": 19,
+   "d": "#98899CP2P",
+   "dth": 19,
+   "dur": 24,
+   "o": 125,
+   "p": 20,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#909CVJ9R",
+   "ath": 19,
+   "d": "#9209J8R9L",
+   "dth": 19,
+   "dur": 19,
+   "o": 126,
+   "p": 12,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#9U8GVLL0",
+   "ath": 19,
+   "d": "#98899CP2P",
+   "dth": 19,
+   "dur": 24,
+   "o": 127,
+   "p": 19,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#9U8GVLL0",
+   "ath": 19,
+   "d": "#9209J8R9L",
+   "dth": 19,
+   "dur": 45,
+   "o": 128,
+   "p": 41,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#YV8Y8QL0L",
+   "ath": 19,
+   "d": "#98899CP2P",
+   "dth": 19,
+   "dur": 13,
+   "o": 129,
+   "p": 14,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#YV8Y8QL0L",
+   "ath": 19,
+   "d": "#88PV92QQR",
+   "dth": 19,
+   "dur": 12,
+   "o": 130,
+   "p": 15,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#VJLPLRJY",
+   "ath": 19,
+   "d": "#98899CP2P",
+   "dth": 19,
+   "dur": 19,
+   "o": 131,
+   "p": 20,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#VJLPLRJY",
+   "ath": 19,
+   "d": "#88PV92QQR",
+   "dth": 19,
+   "dur": 19,
+   "o": 132,
+   "p": 28,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#2PG9YJ88",
+   "ath": 19,
+   "d": "#202JPPV8P",
+   "dth": 19,
+   "dur": 172,
+   "o": 133,
+   "p": 98,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#2PG9YJ88",
+   "ath": 19,
+   "d": "#PP2UPC9Q",
+   "dth": 19,
+   "dur": 180,
+   "o": 134,
+   "p": 96,
+   "s": 2,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 96.933334,
+  "destruction": 98.35555,
   "members": [
    {
     "name": "MOZ.ART",
@@ -1619,7 +1751,7 @@
    }
   ],
   "name": "Firstzone",
-  "stars": 128,
+  "stars": 129,
   "tag": "#2YQQ80QGL"
  },
  "end": "20261124T190244.000Z",

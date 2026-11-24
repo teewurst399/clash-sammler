@@ -835,11 +835,55 @@
    "p": 97,
    "s": 2,
    "side": "clan"
+  },
+  {
+   "a": "#QJVCJY9UV",
+   "ath": 19,
+   "d": "#Q9RCC980",
+   "dth": 19,
+   "dur": 103,
+   "o": 77,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#QJVCJY9UV",
+   "ath": 19,
+   "d": "#GC2VQPRG",
+   "dth": 19,
+   "dur": 111,
+   "o": 78,
+   "p": 85,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#2L09GJJ92",
+   "ath": 19,
+   "d": "#U8C2JPUV",
+   "dth": 19,
+   "dur": 180,
+   "o": 79,
+   "p": 96,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#2Y9UG00VU",
+   "ath": 19,
+   "d": "#28CJJC29U",
+   "dth": 19,
+   "dur": 120,
+   "o": 80,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 99.666664,
+  "destruction": 99.73333,
   "members": [
    {
     "name": "BALLAHOLIC",
@@ -1023,12 +1067,12 @@
    }
   ],
   "name": "Fourthzone",
-  "stars": 87,
+  "stars": 88,
   "tag": "#2GU0V2VCR"
  },
  "end": "20261124T190436.000Z",
  "opponent": {
-  "destruction": 93.7,
+  "destruction": 94.7,
   "members": [
    {
     "name": "frank",
@@ -1212,7 +1256,7 @@
    }
   ],
   "name": "Why So Serious",
-  "stars": 80,
+  "stars": 81,
   "tag": "#2Q000U8GU"
  },
  "start": "20261123T190436.000Z",

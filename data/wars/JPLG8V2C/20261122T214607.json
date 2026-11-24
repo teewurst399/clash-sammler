@@ -780,11 +780,99 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#22YVUY8P2",
+   "ath": 19,
+   "d": "#P2Y989C9",
+   "dth": 19,
+   "dur": 129,
+   "o": 72,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#22YVUY8P2",
+   "ath": 19,
+   "d": "#8Y9VQLY88",
+   "dth": 19,
+   "dur": 116,
+   "o": 73,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#9QURQY8Y8",
+   "ath": 19,
+   "d": "#29RL2VURJ",
+   "dth": 19,
+   "dur": 150,
+   "o": 74,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#9QURQY8Y8",
+   "ath": 19,
+   "d": "#RCL0PPJJ",
+   "dth": 19,
+   "dur": 127,
+   "o": 75,
+   "p": 96,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#8UCJQGCC",
+   "ath": 19,
+   "d": "#2YRYUVR99",
+   "dth": 19,
+   "dur": 164,
+   "o": 76,
+   "p": 91,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#P8G2UPJ0G",
+   "ath": 19,
+   "d": "#YPQ22GGJV",
+   "dth": 19,
+   "dur": 108,
+   "o": 77,
+   "p": 95,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#P8G2UPJ0G",
+   "ath": 19,
+   "d": "#9RJ2VCUR0",
+   "dth": 19,
+   "dur": 110,
+   "o": 78,
+   "p": 81,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#2C88Q2PQ0",
+   "ath": 19,
+   "d": "#2YRYUVR99",
+   "dth": 19,
+   "dur": 90,
+   "o": 79,
+   "p": 71,
+   "s": 2,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 93.666664,
+  "destruction": 97.8,
   "members": [
    {
     "name": "Der Checker",
@@ -968,12 +1056,12 @@
    }
   ],
   "name": "GhostZone",
-  "stars": 82,
+  "stars": 86,
   "tag": "#JPLG8V2C"
  },
  "end": "20261124T204607.000Z",
  "opponent": {
-  "destruction": 96.333336,
+  "destruction": 99.666664,
   "members": [
    {
     "name": "JUANDA",
@@ -1157,7 +1245,7 @@
    }
   ],
   "name": "LaMagiaaa.....™",
-  "stars": 85,
+  "stars": 88,
   "tag": "#CLGU0UQG"
  },
  "start": "20261123T204607.000Z",

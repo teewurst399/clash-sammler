@@ -186,6 +186,50 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#2C0VLGUL",
+   "ath": 18,
+   "d": "#LQUP0RCL",
+   "dth": 18,
+   "dur": 135,
+   "o": 18,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#2C0VLGUL",
+   "ath": 18,
+   "d": "#QCCVUPR22",
+   "dth": 18,
+   "dur": 140,
+   "o": 19,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#JVU0GVCQ",
+   "ath": 19,
+   "d": "#9VQ9RUJRG",
+   "dth": 18,
+   "dur": 149,
+   "o": 20,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#JVU0GVCQ",
+   "ath": 19,
+   "d": "#GV0JGVCUP",
+   "dth": 18,
+   "dur": 147,
+   "o": 21,
+   "p": 83,
+   "s": 1,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -409,7 +453,7 @@
  },
  "end": "20261125T114527.000Z",
  "opponent": {
-  "destruction": 30.742857,
+  "destruction": 41.685715,
   "members": [
    {
     "name": "Venom",
@@ -623,7 +667,7 @@
    }
   ],
   "name": "Indo Xtreme",
-  "stars": 28,
+  "stars": 38,
   "tag": "#LYLJUGG"
  },
  "start": "20261124T114527.000Z",

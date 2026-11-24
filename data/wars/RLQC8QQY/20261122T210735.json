@@ -758,11 +758,88 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#8JLRYRV0G",
+   "ath": 19,
+   "d": "#PLC9GRCQL",
+   "dth": 19,
+   "dur": 175,
+   "o": 70,
+   "p": 74,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#8JLRYRV0G",
+   "ath": 19,
+   "d": "#Y9VRUCJLQ",
+   "dth": 19,
+   "dur": 172,
+   "o": 71,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#8V0V92Q22",
+   "ath": 19,
+   "d": "#2C2YLLVY",
+   "dth": 19,
+   "dur": 87,
+   "o": 72,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#Q2C8VU0U",
+   "ath": 19,
+   "d": "#Y2C8PJVCR",
+   "dth": 19,
+   "dur": 156,
+   "o": 73,
+   "p": 92,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#98R9V9QC",
+   "ath": 18,
+   "d": "#9CC2YGGY",
+   "dth": 19,
+   "dur": 107,
+   "o": 74,
+   "p": 68,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#YQ9822CP",
+   "ath": 19,
+   "d": "#20QCQGRJ",
+   "dth": 19,
+   "dur": 145,
+   "o": 75,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#PCU2LC2CP",
+   "ath": 19,
+   "d": "#9CC2YGGY",
+   "dth": 19,
+   "dur": 96,
+   "o": 76,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 64.6,
+  "destruction": 67.457146,
   "members": [
    {
     "name": "Gsälzbrot",
@@ -976,12 +1053,12 @@
    }
   ],
   "name": "headstart",
-  "stars": 63,
+  "stars": 66,
   "tag": "#RLQC8QQY"
  },
  "end": "20261124T200735.000Z",
  "opponent": {
-  "destruction": 89.828575,
+  "destruction": 97.942856,
   "members": [
    {
     "name": "Mistery 79",
@@ -1195,7 +1272,7 @@
    }
   ],
   "name": "Fenice Nera",
-  "stars": 92,
+  "stars": 101,
   "tag": "#GGP09R0"
  },
  "start": "20261123T200735.000Z",
