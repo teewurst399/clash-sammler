@@ -1451,6 +1451,94 @@
    "p": 3,
    "s": 1,
    "side": "clan"
+  },
+  {
+   "a": "#2C00LVP2Q",
+   "ath": 19,
+   "d": "#YYUV9Y29",
+   "dth": 19,
+   "dur": 148,
+   "o": 133,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#2PPV92PVY",
+   "ath": 19,
+   "d": "#QV829Q0P",
+   "dth": 19,
+   "dur": 96,
+   "o": 134,
+   "p": 59,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#2C00LVP2Q",
+   "ath": 19,
+   "d": "#2VY9VUU00",
+   "dth": 19,
+   "dur": 162,
+   "o": 135,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#9QY2QR20Q",
+   "ath": 19,
+   "d": "#22LPGY0QU",
+   "dth": 19,
+   "dur": 142,
+   "o": 136,
+   "p": 88,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#2PPV92PVY",
+   "ath": 19,
+   "d": "#8GU8JVQ9R",
+   "dth": 19,
+   "dur": 118,
+   "o": 137,
+   "p": 88,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#UQJLU0RL",
+   "ath": 19,
+   "d": "#YYUV9Y29",
+   "dth": 19,
+   "dur": 4,
+   "o": 138,
+   "p": 11,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#UQJLU0RL",
+   "ath": 19,
+   "d": "#2VY9VUU00",
+   "dth": 19,
+   "dur": 27,
+   "o": 139,
+   "p": 40,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#Q0Y92PP8R",
+   "ath": 18,
+   "d": "#8GU8JVQ9R",
+   "dth": 19,
+   "dur": 158,
+   "o": 140,
+   "p": 56,
+   "s": 2,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -1764,7 +1852,7 @@
  },
  "end": "20261125T054706.000Z",
  "opponent": {
-  "destruction": 95.94,
+  "destruction": 98.88,
   "members": [
    {
     "name": "KTLB ⚡ RAIZEN",
@@ -2068,7 +2156,7 @@
    }
   ],
   "name": "KATILINGBAN",
-  "stars": 143,
+  "stars": 147,
   "tag": "#9V8JQQR2"
  },
  "start": "20261124T054706.000Z",

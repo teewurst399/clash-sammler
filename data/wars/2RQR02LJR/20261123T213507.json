@@ -483,11 +483,44 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#20PJ02GC2",
+   "ath": 19,
+   "d": "#8VJUUGJ2",
+   "dth": 19,
+   "dur": 161,
+   "o": 45,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#R8U9Q2V8",
+   "ath": 19,
+   "d": "#PL9J229RQ",
+   "dth": 19,
+   "dur": 139,
+   "o": 46,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#R8U9Q2V8",
+   "ath": 19,
+   "d": "#20PJ02GC2",
+   "dth": 19,
+   "dur": 140,
+   "o": 47,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 24.11111,
+  "destruction": 26.333334,
   "members": [
    {
     "name": "RB",
@@ -761,12 +794,12 @@
    }
   ],
   "name": "Legacy",
-  "stars": 30,
+  "stars": 33,
   "tag": "#2RQR02LJR"
  },
  "end": "20261125T203507.000Z",
  "opponent": {
-  "destruction": 61.355556,
+  "destruction": 65.8,
   "members": [
    {
     "name": "MjolniR",
@@ -1040,7 +1073,7 @@
    }
   ],
   "name": "ATATÜRK",
-  "stars": 80,
+  "stars": 86,
   "tag": "#2P9LV098Y"
  },
  "start": "20261124T203507.000Z",

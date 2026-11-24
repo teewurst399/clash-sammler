@@ -560,11 +560,22 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#C0LGVRRL",
+   "ath": 19,
+   "d": "#P89P988",
+   "dth": 19,
+   "dur": 119,
+   "o": 52,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 88.57143,
+  "destruction": 91.42857,
   "members": [
    {
     "name": "vllo",
@@ -778,7 +789,7 @@
    }
   ],
   "name": "Rising Phoenix",
-  "stars": 93,
+  "stars": 96,
   "tag": "#Y9VU09JL"
  },
  "end": "20261125T114527.000Z",

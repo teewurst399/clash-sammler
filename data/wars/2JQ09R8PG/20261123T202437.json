@@ -868,6 +868,17 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#20GUCY90R",
+   "ath": 19,
+   "d": "#VYGQV9P8",
+   "dth": 19,
+   "dur": 151,
+   "o": 80,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -1181,7 +1192,7 @@
  },
  "end": "20261125T192437.000Z",
  "opponent": {
-  "destruction": 71.44,
+  "destruction": 71.46,
   "members": [
    {
     "name": "☢️poury@khani☢️",
@@ -1485,7 +1496,7 @@
    }
   ],
   "name": "اهورا",
-  "stars": 101,
+  "stars": 102,
   "tag": "#8GQLP0UY"
  },
  "start": "20261124T192437.000Z",

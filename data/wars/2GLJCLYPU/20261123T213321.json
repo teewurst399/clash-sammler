@@ -461,11 +461,66 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#LUJPLCYR",
+   "ath": 19,
+   "d": "#2V9RLGV8",
+   "dth": 19,
+   "dur": 120,
+   "o": 43,
+   "p": 58,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#8YJ2VLCU0",
+   "ath": 19,
+   "d": "#2G2RUVJYP",
+   "dth": 19,
+   "dur": 148,
+   "o": 44,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#8YJ2VLCU0",
+   "ath": 19,
+   "d": "#PVURR2CC",
+   "dth": 19,
+   "dur": 137,
+   "o": 45,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#RPUGV8VV",
+   "ath": 19,
+   "d": "#P9QPJVVRR",
+   "dth": 19,
+   "dur": 122,
+   "o": 46,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#RPUGV8VV",
+   "ath": 19,
+   "d": "#U22GJGL2",
+   "dth": 19,
+   "dur": 125,
+   "o": 47,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 49.125,
+  "destruction": 55.575,
   "members": [
    {
     "name": "Nils^_^",
@@ -709,12 +764,12 @@
    }
   ],
   "name": "Northfront",
-  "stars": 56,
+  "stars": 64,
   "tag": "#2GLJCLYPU"
  },
  "end": "20261125T203321.000Z",
  "opponent": {
-  "destruction": 44.3,
+  "destruction": 49.3,
   "members": [
    {
     "name": "Warlock",
@@ -958,7 +1013,7 @@
    }
   ],
   "name": "CLB Unity",
-  "stars": 51,
+  "stars": 57,
   "tag": "#2CQVJ9GCG"
  },
  "start": "20261124T203321.000Z",

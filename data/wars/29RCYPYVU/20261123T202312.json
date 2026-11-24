@@ -318,11 +318,33 @@
    "p": 85,
    "s": 2,
    "side": "gegner"
+  },
+  {
+   "a": "#9RPJRVVR",
+   "ath": 19,
+   "d": "#8CUYY0V2U",
+   "dth": 19,
+   "dur": 157,
+   "o": 30,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#LUGPYLUP",
+   "ath": 19,
+   "d": "#PV9PQY0G",
+   "dth": 19,
+   "dur": 133,
+   "o": 31,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 27.28,
+  "destruction": 28.0,
   "members": [
    {
     "name": "Herold",
@@ -476,12 +498,12 @@
    }
   ],
   "name": "German⚡️Elite™️",
-  "stars": 20,
+  "stars": 21,
   "tag": "#29RCYPYVU"
  },
  "end": "20261125T192312.000Z",
  "opponent": {
-  "destruction": 65.44,
+  "destruction": 69.44,
   "members": [
    {
     "name": "Sir Andre",
@@ -635,7 +657,7 @@
    }
   ],
   "name": "Joe‘s Home",
-  "stars": 45,
+  "stars": 48,
   "tag": "#2GRGC0Q0P"
  },
  "start": "20261124T192312.000Z",

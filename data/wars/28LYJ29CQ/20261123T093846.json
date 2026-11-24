@@ -1484,6 +1484,17 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#G2U20Q229",
+   "ath": 19,
+   "d": "#GCQYC8QL",
+   "dth": 19,
+   "dur": 131,
+   "o": 136,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,

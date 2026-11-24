@@ -164,6 +164,39 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#8GVC8UQ98",
+   "ath": 18,
+   "d": "#8Y8C2QPQP",
+   "dth": 18,
+   "dur": 125,
+   "o": 16,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#RL8C00CC",
+   "ath": 19,
+   "d": "#9PRPRP2Y",
+   "dth": 19,
+   "dur": 180,
+   "o": 17,
+   "p": 94,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#9UJ92LQC",
+   "ath": 19,
+   "d": "#YUQCCRPJ2",
+   "dth": 19,
+   "dur": 108,
+   "o": 18,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -357,7 +390,7 @@
  },
  "end": "20261125T203701.000Z",
  "opponent": {
-  "destruction": 13.333333,
+  "destruction": 23.133333,
   "members": [
    {
     "name": "†◄«4LuCarD»►†®",
@@ -541,7 +574,7 @@
    }
   ],
   "name": "GUERREROS _Z",
-  "stars": 12,
+  "stars": 20,
   "tag": "#9R2L8GCG"
  },
  "start": "20261124T203701.000Z",

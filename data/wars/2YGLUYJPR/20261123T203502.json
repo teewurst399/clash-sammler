@@ -472,11 +472,77 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#9JV82LJYR",
+   "ath": 19,
+   "d": "#2PY0U8UVQ",
+   "dth": 19,
+   "dur": 157,
+   "o": 44,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#22P0P9PPJ",
+   "ath": 19,
+   "d": "#8CJ0YG8JR",
+   "dth": 19,
+   "dur": 180,
+   "o": 45,
+   "p": 99,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#9JV82LJYR",
+   "ath": 19,
+   "d": "#22P0P9PPJ",
+   "dth": 19,
+   "dur": 130,
+   "o": 46,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#9C8JGRC2U",
+   "ath": 19,
+   "d": "#PRC82RG2",
+   "dth": 19,
+   "dur": 173,
+   "o": 47,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#9C8JGRC2U",
+   "ath": 19,
+   "d": "#8QG2UPP2G",
+   "dth": 19,
+   "dur": 126,
+   "o": 48,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#8Q2RRPJYJ",
+   "ath": 19,
+   "d": "#YGCLCQ0G9",
+   "dth": 19,
+   "dur": 177,
+   "o": 49,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 32.425,
+  "destruction": 34.9,
   "members": [
    {
     "name": "DTA Insomniac",
@@ -720,12 +786,12 @@
    }
   ],
   "name": "Beerenbrüder",
-  "stars": 38,
+  "stars": 40,
   "tag": "#2YGLUYJPR"
  },
  "end": "20261125T193502.000Z",
  "opponent": {
-  "destruction": 55.0,
+  "destruction": 67.5,
   "members": [
    {
     "name": "alasmar",
@@ -969,7 +1035,7 @@
    }
   ],
   "name": "⛓️THE⚔️GANG.III",
-  "stars": 66,
+  "stars": 81,
   "tag": "#2QUCLLPGJ"
  },
  "start": "20261124T193502.000Z",

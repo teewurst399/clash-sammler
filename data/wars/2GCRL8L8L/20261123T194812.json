@@ -351,11 +351,209 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#J0Q2YUP",
+   "ath": 19,
+   "d": "#28CYPY098",
+   "dth": 19,
+   "dur": 144,
+   "o": 33,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#LR8PPC2VR",
+   "ath": 19,
+   "d": "#Q8CUPV0QC",
+   "dth": 19,
+   "dur": 141,
+   "o": 34,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#J0Q2YUP",
+   "ath": 19,
+   "d": "#V0L22J2Q",
+   "dth": 19,
+   "dur": 145,
+   "o": 35,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#LR8PPC2VR",
+   "ath": 19,
+   "d": "#9ULYUVCP",
+   "dth": 19,
+   "dur": 146,
+   "o": 36,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#PV8089LL",
+   "ath": 19,
+   "d": "#Q82PJ89P",
+   "dth": 19,
+   "dur": 165,
+   "o": 37,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#PV8089LL",
+   "ath": 19,
+   "d": "#QUCQLP28C",
+   "dth": 19,
+   "dur": 165,
+   "o": 38,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#PUCCY828L",
+   "ath": 19,
+   "d": "#PQ9GUPGPL",
+   "dth": 19,
+   "dur": 131,
+   "o": 39,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#GPU2PJGVY",
+   "ath": 19,
+   "d": "#LPYY0P9YU",
+   "dth": 19,
+   "dur": 166,
+   "o": 40,
+   "p": 99,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#PUCCY828L",
+   "ath": 19,
+   "d": "#QPUUUJQQV",
+   "dth": 19,
+   "dur": 137,
+   "o": 41,
+   "p": 92,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#GPU2PJGVY",
+   "ath": 19,
+   "d": "#9JYJRJ0QR",
+   "dth": 19,
+   "dur": 178,
+   "o": 42,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#QY0U080L",
+   "ath": 19,
+   "d": "#LPYY0P9YU",
+   "dth": 19,
+   "dur": 135,
+   "o": 43,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#QCJQC9V9Y",
+   "ath": 19,
+   "d": "#YUUPQC8V8",
+   "dth": 19,
+   "dur": 180,
+   "o": 44,
+   "p": 99,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#QY0U080L",
+   "ath": 19,
+   "d": "#QPUUUJQQV",
+   "dth": 19,
+   "dur": 89,
+   "o": 45,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#V0P298GQ",
+   "ath": 19,
+   "d": "#PUCCY828L",
+   "dth": 19,
+   "dur": 176,
+   "o": 46,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#QCJQC9V9Y",
+   "ath": 19,
+   "d": "#2YU8VYC28",
+   "dth": 19,
+   "dur": 133,
+   "o": 47,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#V0P298GQ",
+   "ath": 19,
+   "d": "#PV8089LL",
+   "dth": 19,
+   "dur": 153,
+   "o": 48,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#PGGRYQP0U",
+   "ath": 19,
+   "d": "#Y0UGVQRQJ",
+   "dth": 19,
+   "dur": 85,
+   "o": 49,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#QRJ89Y9P8",
+   "ath": 19,
+   "d": "#V0P298GQ",
+   "dth": 19,
+   "dur": 102,
+   "o": 50,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 29.6,
+  "destruction": 62.4,
   "members": [
    {
     "name": "BB •Nico•",
@@ -599,12 +797,12 @@
    }
   ],
   "name": "BrawlerBaller",
-  "stars": 34,
+  "stars": 73,
   "tag": "#2GCRL8L8L"
  },
  "end": "20261125T184812.000Z",
  "opponent": {
-  "destruction": 44.6,
+  "destruction": 49.6,
   "members": [
    {
     "name": "✌СЕРЖ✌",
@@ -848,7 +1046,7 @@
    }
   ],
   "name": "Ukraine forever",
-  "stars": 53,
+  "stars": 59,
   "tag": "#2QQQ9GUCR"
  },
  "start": "20261124T184812.000Z",
