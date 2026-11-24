@@ -1011,11 +1011,22 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#PJYQGV00",
+   "ath": 19,
+   "d": "#GQLYLU282",
+   "dth": 19,
+   "dur": 130,
+   "o": 93,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 58.91111,
+  "destruction": 61.133335,
   "members": [
    {
     "name": "Louis",
@@ -1289,7 +1300,7 @@
    }
   ],
   "name": "Pokerzone",
-  "stars": 77,
+  "stars": 80,
   "tag": "#2JPJ8J8CQ"
  },
  "end": "20261124T190804.000Z",
