@@ -725,6 +725,50 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#LQJ9RVURY",
+   "ath": 19,
+   "d": "#JQQLYP8V",
+   "dth": 19,
+   "dur": 137,
+   "o": 67,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#LQJ9RVURY",
+   "ath": 19,
+   "d": "#2YV9VC022",
+   "dth": 19,
+   "dur": 163,
+   "o": 68,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#U8GRUVJU",
+   "ath": 19,
+   "d": "#LRVYY0CG",
+   "dth": 19,
+   "dur": 125,
+   "o": 69,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#U8GRUVJU",
+   "ath": 19,
+   "d": "#PRR89P888",
+   "dth": 19,
+   "dur": 170,
+   "o": 70,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -918,7 +962,7 @@
  },
  "end": "20261124T190436.000Z",
  "opponent": {
-  "destruction": 86.9,
+  "destruction": 93.2,
   "members": [
    {
     "name": "frank",
@@ -1102,7 +1146,7 @@
    }
   ],
   "name": "Why So Serious",
-  "stars": 73,
+  "stars": 79,
   "tag": "#2Q000U8GU"
  },
  "start": "20261123T190436.000Z",

@@ -406,6 +406,39 @@
    "p": 99,
    "s": 2,
    "side": "gegner"
+  },
+  {
+   "a": "#2J82JGRLU",
+   "ath": 18,
+   "d": "#LC2VLRCCG",
+   "dth": 19,
+   "dur": 100,
+   "o": 38,
+   "p": 73,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#29RLGGUJV",
+   "ath": 19,
+   "d": "#2C00LVP2Q",
+   "dth": 19,
+   "dur": 157,
+   "o": 39,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#2LCL90JP2",
+   "ath": 19,
+   "d": "#LQVGRULVU",
+   "dth": 19,
+   "dur": 180,
+   "o": 40,
+   "p": 96,
+   "s": 1,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -719,7 +752,7 @@
  },
  "end": "20261125T054706.000Z",
  "opponent": {
-  "destruction": 33.98,
+  "destruction": 37.38,
   "members": [
    {
     "name": "KTLB ⚡ RAIZEN",
@@ -1023,7 +1056,7 @@
    }
   ],
   "name": "KATILINGBAN",
-  "stars": 50,
+  "stars": 54,
   "tag": "#9V8JQQR2"
  },
  "start": "20261124T054706.000Z",

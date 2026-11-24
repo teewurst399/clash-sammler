@@ -758,11 +758,110 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#8PYVP9LJ9",
+   "ath": 19,
+   "d": "#GRVQG8RLQ",
+   "dth": 19,
+   "dur": 164,
+   "o": 70,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#29CP0J2GP",
+   "ath": 19,
+   "d": "#LCVJJJCRJ",
+   "dth": 19,
+   "dur": 148,
+   "o": 71,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#29CP0J2GP",
+   "ath": 19,
+   "d": "#8VJGGCL88",
+   "dth": 19,
+   "dur": 157,
+   "o": 72,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#29V029UJ",
+   "ath": 17,
+   "d": "#900P029R9",
+   "dth": 17,
+   "dur": 105,
+   "o": 73,
+   "p": 78,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#29V029UJ",
+   "ath": 17,
+   "d": "#LV0Y9RRG",
+   "dth": 16,
+   "dur": 93,
+   "o": 74,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#GUY0JLJLR",
+   "ath": 18,
+   "d": "#8LLQCYCVQ",
+   "dth": 18,
+   "dur": 105,
+   "o": 75,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#8PYVP9LJ9",
+   "ath": 19,
+   "d": "#CUCCQJRC",
+   "dth": 19,
+   "dur": 141,
+   "o": 76,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#UVG20QRV",
+   "ath": 17,
+   "d": "#8QVUJQ900",
+   "dth": 16,
+   "dur": 96,
+   "o": 77,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#GUY0JLJLR",
+   "ath": 18,
+   "d": "#9QYURU9JG",
+   "dth": 18,
+   "dur": 100,
+   "o": 78,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 69.125,
+  "destruction": 74.125,
   "members": [
    {
     "name": "Dschini -L-",
@@ -1006,12 +1105,12 @@
    }
   ],
   "name": "FruchtLabor V",
-  "stars": 83,
+  "stars": 89,
   "tag": "#2RV89992C"
  },
  "end": "20261124T161117.000Z",
  "opponent": {
-  "destruction": 75.375,
+  "destruction": 82.825,
   "members": [
    {
     "name": "Nikhil™️",
@@ -1255,7 +1354,7 @@
    }
   ],
   "name": "MARATHA 2",
-  "stars": 84,
+  "stars": 96,
   "tag": "#28CYPCCGJ"
  },
  "start": "20261123T161117.000Z",

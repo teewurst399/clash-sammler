@@ -1033,11 +1033,44 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#9V9VJR0CC",
+   "ath": 19,
+   "d": "#9RCPP82G",
+   "dth": 19,
+   "dur": 139,
+   "o": 95,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#2Y9JRCQLJ",
+   "ath": 19,
+   "d": "#UVL8J0R9",
+   "dth": 19,
+   "dur": 96,
+   "o": 96,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#92LG00GPP",
+   "ath": 19,
+   "d": "#PP2999UU",
+   "dth": 19,
+   "dur": 144,
+   "o": 97,
+   "p": 91,
+   "s": 2,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 80.64445,
+  "destruction": 82.666664,
   "members": [
    {
     "name": "[SK]◾Mr.White",
@@ -1311,7 +1344,7 @@
    }
   ],
   "name": "SteinFrucht",
-  "stars": 105,
+  "stars": 107,
   "tag": "#2JU9URU2L"
  },
  "end": "20261124T180324.000Z",

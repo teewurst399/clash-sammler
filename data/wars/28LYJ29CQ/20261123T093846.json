@@ -703,11 +703,187 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#22JJQ8YUG",
+   "ath": 19,
+   "d": "#P2V0QQCJ2",
+   "dth": 19,
+   "dur": 169,
+   "o": 65,
+   "p": 77,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#G99CJ982L",
+   "ath": 19,
+   "d": "#LGGQL82LG",
+   "dth": 19,
+   "dur": 151,
+   "o": 66,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#G99CJ982L",
+   "ath": 19,
+   "d": "#YLL080LG",
+   "dth": 19,
+   "dur": 153,
+   "o": 67,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#22JJQ8YUG",
+   "ath": 19,
+   "d": "#PGL8RJ00V",
+   "dth": 19,
+   "dur": 152,
+   "o": 68,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#QRYG08LL8",
+   "ath": 19,
+   "d": "#Q8UQUULP",
+   "dth": 19,
+   "dur": 172,
+   "o": 69,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#LJCUGY8PG",
+   "ath": 19,
+   "d": "#8J9LVQLJJ",
+   "dth": 19,
+   "dur": 115,
+   "o": 70,
+   "p": 70,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#LJCUGY8PG",
+   "ath": 19,
+   "d": "#RYUUPP88",
+   "dth": 19,
+   "dur": 138,
+   "o": 71,
+   "p": 96,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#QRYG08LL8",
+   "ath": 19,
+   "d": "#P92VRLYRC",
+   "dth": 19,
+   "dur": 180,
+   "o": 72,
+   "p": 98,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#QUGYVCQU",
+   "ath": 19,
+   "d": "#P92VRLYRC",
+   "dth": 19,
+   "dur": 158,
+   "o": 73,
+   "p": 95,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#8L0LJ9YQL",
+   "ath": 19,
+   "d": "#G2GLU82C0",
+   "dth": 19,
+   "dur": 133,
+   "o": 74,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#8L0LJ9YQL",
+   "ath": 19,
+   "d": "#LJCUGY8PG",
+   "dth": 19,
+   "dur": 129,
+   "o": 75,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#QVPPJVLJJ",
+   "ath": 19,
+   "d": "#YUCPJ2UJ8",
+   "dth": 19,
+   "dur": 175,
+   "o": 76,
+   "p": 95,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#G8C8LLRPR",
+   "ath": 19,
+   "d": "#8J9LVQLJJ",
+   "dth": 19,
+   "dur": 139,
+   "o": 77,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#QVPPJVLJJ",
+   "ath": 19,
+   "d": "#RYUUPP88",
+   "dth": 19,
+   "dur": 167,
+   "o": 78,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#G8C8LLRPR",
+   "ath": 19,
+   "d": "#9LQ9V0LC",
+   "dth": 19,
+   "dur": 180,
+   "o": 79,
+   "p": 94,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#G2U8JQPPV",
+   "ath": 19,
+   "d": "#9LQ9V0LC",
+   "dth": 19,
+   "dur": 157,
+   "o": 80,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 37.044445,
+  "destruction": 41.488888,
   "members": [
    {
     "name": "FL • SKINNYJIMM",
@@ -981,12 +1157,12 @@
    }
   ],
   "name": "FruchtLabor",
-  "stars": 48,
+  "stars": 54,
   "tag": "#28LYJ29CQ"
  },
  "end": "20261125T083846.000Z",
  "opponent": {
-  "destruction": 79.755554,
+  "destruction": 97.111115,
   "members": [
    {
     "name": "欢乐兄弟 ♂️ B.K",
@@ -1260,7 +1436,7 @@
    }
   ],
   "name": "欢乐兄弟",
-  "stars": 106,
+  "stars": 129,
   "tag": "#8QY9CQUY"
  },
  "start": "20261124T083846.000Z",

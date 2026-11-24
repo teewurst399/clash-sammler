@@ -505,6 +505,138 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#RLC0QUL0",
+   "ath": 19,
+   "d": "#PRJ2UQQY9",
+   "dth": 19,
+   "dur": 134,
+   "o": 47,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#RLC0QUL0",
+   "ath": 19,
+   "d": "#QUL2VY20",
+   "dth": 19,
+   "dur": 135,
+   "o": 48,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#9VJVURGG0",
+   "ath": 19,
+   "d": "#9RU9LCJ9V",
+   "dth": 19,
+   "dur": 153,
+   "o": 49,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#89GGLV9RC",
+   "ath": 19,
+   "d": "#2Q8P8P9J0",
+   "dth": 19,
+   "dur": 177,
+   "o": 50,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#9UPJ8VY2R",
+   "ath": 19,
+   "d": "#LCVP2VULU",
+   "dth": 19,
+   "dur": 128,
+   "o": 51,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#9VJVURGG0",
+   "ath": 19,
+   "d": "#29PVQ9L08",
+   "dth": 19,
+   "dur": 135,
+   "o": 52,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#PPQPQ882",
+   "ath": 19,
+   "d": "#9UP9LYC2Q",
+   "dth": 19,
+   "dur": 164,
+   "o": 53,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#G8UUU8CP0",
+   "ath": 19,
+   "d": "#9R0GYQG0U",
+   "dth": 19,
+   "dur": 126,
+   "o": 54,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#9UPJ8VY2R",
+   "ath": 19,
+   "d": "#G0GV20PUP",
+   "dth": 19,
+   "dur": 97,
+   "o": 55,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#PPQPQ882",
+   "ath": 19,
+   "d": "#JPU0YRV",
+   "dth": 19,
+   "dur": 120,
+   "o": 56,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#G8UUU8CP0",
+   "ath": 19,
+   "d": "#GCYGULRQP",
+   "dth": 18,
+   "dur": 103,
+   "o": 57,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#QU98L22CU",
+   "ath": 19,
+   "d": "#Q2RC8YY9U",
+   "dth": 19,
+   "dur": 90,
+   "o": 58,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -758,7 +890,7 @@
  },
  "end": "20261125T090400.000Z",
  "opponent": {
-  "destruction": 62.325,
+  "destruction": 90.0,
   "members": [
    {
     "name": "唐门✨Kairos",
@@ -1002,7 +1134,7 @@
    }
   ],
   "name": "唐门",
-  "stars": 74,
+  "stars": 108,
   "tag": "#2LVLCY0JQ"
  },
  "start": "20261124T090400.000Z",
