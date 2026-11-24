@@ -747,6 +747,61 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#Q9G2RC2G0",
+   "ath": 19,
+   "d": "#GQJ0YJ20R",
+   "dth": 19,
+   "dur": 152,
+   "o": 69,
+   "p": 90,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#Q2URVRC08",
+   "ath": 19,
+   "d": "#8PRV0Q0RU",
+   "dth": 19,
+   "dur": 105,
+   "o": 70,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#QQQRUCP9L",
+   "ath": 19,
+   "d": "#L8RLYLP8",
+   "dth": 19,
+   "dur": 150,
+   "o": 71,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#QQQRUCP9L",
+   "ath": 19,
+   "d": "#LJCGJVL2",
+   "dth": 19,
+   "dur": 147,
+   "o": 72,
+   "p": 90,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#QC0JUJRPC",
+   "ath": 19,
+   "d": "#8JCUCLLPG",
+   "dth": 19,
+   "dur": 124,
+   "o": 73,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -1030,7 +1085,7 @@
  },
  "end": "20261124T190804.000Z",
  "opponent": {
-  "destruction": 70.13333,
+  "destruction": 80.8,
   "members": [
    {
     "name": "<--CRUSHER-->",
@@ -1304,7 +1359,7 @@
    }
   ],
   "name": "IronSky",
-  "stars": 94,
+  "stars": 106,
   "tag": "#9C9QQJPJ"
  },
  "start": "20261123T190804.000Z",

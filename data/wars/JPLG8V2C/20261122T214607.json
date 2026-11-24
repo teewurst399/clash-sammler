@@ -296,6 +296,28 @@
    "p": 90,
    "s": 2,
    "side": "gegner"
+  },
+  {
+   "a": "#8GJQ090R0",
+   "ath": 19,
+   "d": "#V29090R0",
+   "dth": 19,
+   "dur": 139,
+   "o": 28,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#8GJQ090R0",
+   "ath": 19,
+   "d": "#PLU0RJ0G2",
+   "dth": 19,
+   "dur": 142,
+   "o": 29,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -489,7 +511,7 @@
  },
  "end": "20261124T204607.000Z",
  "opponent": {
-  "destruction": 38.666668,
+  "destruction": 45.333332,
   "members": [
    {
     "name": "JUANDA",
@@ -673,7 +695,7 @@
    }
   ],
   "name": "LaMagiaaa.....™",
-  "stars": 33,
+  "stars": 39,
   "tag": "#CLGU0UQG"
  },
  "start": "20261123T204607.000Z",

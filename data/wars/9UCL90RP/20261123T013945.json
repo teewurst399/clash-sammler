@@ -307,6 +307,105 @@
    "p": 86,
    "s": 2,
    "side": "gegner"
+  },
+  {
+   "a": "#2V0L8C2",
+   "ath": 19,
+   "d": "#UP9GCCJJ",
+   "dth": 19,
+   "dur": 150,
+   "o": 29,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#CR208CJR",
+   "ath": 19,
+   "d": "#9CQLLYP8",
+   "dth": 19,
+   "dur": 175,
+   "o": 30,
+   "p": 82,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#980LYV2C",
+   "ath": 19,
+   "d": "#P22VQLRG",
+   "dth": 19,
+   "dur": 142,
+   "o": 31,
+   "p": 90,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#CR208CJR",
+   "ath": 19,
+   "d": "#9JQ2PQV9G",
+   "dth": 19,
+   "dur": 169,
+   "o": 32,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#GQJGVGRJ",
+   "ath": 19,
+   "d": "#98Y0RUP9",
+   "dth": 19,
+   "dur": 180,
+   "o": 33,
+   "p": 99,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#980LYV2C",
+   "ath": 19,
+   "d": "#2YVGGYYG8",
+   "dth": 19,
+   "dur": 180,
+   "o": 34,
+   "p": 77,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#GQJGVGRJ",
+   "ath": 19,
+   "d": "#RL09L0UQ",
+   "dth": 19,
+   "dur": 140,
+   "o": 35,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#2V0L8C2",
+   "ath": 19,
+   "d": "#QUQY2R0R2",
+   "dth": 19,
+   "dur": 117,
+   "o": 36,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#29QUPGGYL",
+   "ath": 19,
+   "d": "#YP20PVLCU",
+   "dth": 19,
+   "dur": 124,
+   "o": 37,
+   "p": 75,
+   "s": 2,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -590,7 +689,7 @@
  },
  "end": "20261125T003945.000Z",
  "opponent": {
-  "destruction": 46.577778,
+  "destruction": 61.22222,
   "members": [
    {
     "name": "Evan o Mighty",
@@ -864,7 +963,7 @@
    }
   ],
   "name": "\"THE_FREEDOM\"",
-  "stars": 58,
+  "stars": 76,
   "tag": "#9RLJCCYL"
  },
  "start": "20261124T003945.000Z",
