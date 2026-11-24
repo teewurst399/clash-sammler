@@ -879,11 +879,121 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#G2U8JQPPV",
+   "ath": 19,
+   "d": "#YUCPJ2UJ8",
+   "dth": 19,
+   "dur": 174,
+   "o": 81,
+   "p": 99,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#G2GLU82C0",
+   "ath": 19,
+   "d": "#22J8GYP8L",
+   "dth": 19,
+   "dur": 180,
+   "o": 82,
+   "p": 94,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#YR98LP8QR",
+   "ath": 19,
+   "d": "#22J8GYP8L",
+   "dth": 19,
+   "dur": 110,
+   "o": 83,
+   "p": 83,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#G2GLU82C0",
+   "ath": 19,
+   "d": "#P2V0QQCJ2",
+   "dth": 19,
+   "dur": 162,
+   "o": 84,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#GYG2PP88Y",
+   "ath": 19,
+   "d": "#22J8GYP8L",
+   "dth": 19,
+   "dur": 84,
+   "o": 85,
+   "p": 74,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#YR98LP8QR",
+   "ath": 19,
+   "d": "#YUCPJ2UJ8",
+   "dth": 19,
+   "dur": 114,
+   "o": 86,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#R9JCLCVP",
+   "ath": 19,
+   "d": "#Y9PR2QU9",
+   "dth": 19,
+   "dur": 146,
+   "o": 87,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#R9JCLCVP",
+   "ath": 19,
+   "d": "#22JJQ8YUG",
+   "dth": 19,
+   "dur": 126,
+   "o": 88,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#G9RLGJJU",
+   "ath": 19,
+   "d": "#Y8CP2CR8J",
+   "dth": 19,
+   "dur": 141,
+   "o": 89,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#G9RLGJJU",
+   "ath": 19,
+   "d": "#GQRYCGGLG",
+   "dth": 19,
+   "dur": 139,
+   "o": 90,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 41.488888,
+  "destruction": 48.31111,
   "members": [
    {
     "name": "FL • SKINNYJIMM",
@@ -1157,12 +1267,12 @@
    }
   ],
   "name": "FruchtLabor",
-  "stars": 54,
+  "stars": 64,
   "tag": "#28LYJ29CQ"
  },
  "end": "20261125T083846.000Z",
  "opponent": {
-  "destruction": 97.111115,
+  "destruction": 99.577774,
   "members": [
    {
     "name": "欢乐兄弟 ♂️ B.K",
@@ -1436,7 +1546,7 @@
    }
   ],
   "name": "欢乐兄弟",
-  "stars": 129,
+  "stars": 133,
   "tag": "#8QY9CQUY"
  },
  "start": "20261124T083846.000Z",

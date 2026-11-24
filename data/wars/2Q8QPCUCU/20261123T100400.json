@@ -637,11 +637,88 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#GYVYVU88P",
+   "ath": 19,
+   "d": "#22PJ0PLYR",
+   "dth": 19,
+   "dur": 106,
+   "o": 59,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#QU98L22CU",
+   "ath": 19,
+   "d": "#9V82VJ8UL",
+   "dth": 18,
+   "dur": 130,
+   "o": 60,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#JPU0YRV",
+   "ath": 19,
+   "d": "#GCJUP2PVR",
+   "dth": 19,
+   "dur": 162,
+   "o": 61,
+   "p": 90,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#JPU0YRV",
+   "ath": 19,
+   "d": "#LGC9GY9R9",
+   "dth": 19,
+   "dur": 165,
+   "o": 62,
+   "p": 81,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#LGC9GY9R9",
+   "ath": 19,
+   "d": "#PRG9JQC0Q",
+   "dth": 19,
+   "dur": 15,
+   "o": 63,
+   "p": 2,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#LGC9GY9R9",
+   "ath": 19,
+   "d": "#PUQJ0G8RY",
+   "dth": 19,
+   "dur": 24,
+   "o": 64,
+   "p": 10,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#Q8LPC00QC",
+   "ath": 19,
+   "d": "#YG8CPV2V2",
+   "dth": 18,
+   "dur": 110,
+   "o": 65,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 37.025,
+  "destruction": 41.3,
   "members": [
    {
     "name": "Travel327",
@@ -885,12 +962,12 @@
    }
   ],
   "name": "Der Obstorden",
-  "stars": 42,
+  "stars": 45,
   "tag": "#2Q8QPCUCU"
  },
  "end": "20261125T090400.000Z",
  "opponent": {
-  "destruction": 90.0,
+  "destruction": 97.5,
   "members": [
    {
     "name": "唐门✨Kairos",
@@ -1134,7 +1211,7 @@
    }
   ],
   "name": "唐门",
-  "stars": 108,
+  "stars": 117,
   "tag": "#2LVLCY0JQ"
  },
  "start": "20261124T090400.000Z",

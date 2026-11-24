@@ -1,0 +1,534 @@
+{
+ "attacks": [
+  {
+   "a": "#8JP0U0YC8",
+   "ath": 18,
+   "d": "#YVYR82URC",
+   "dth": 17,
+   "dur": 180,
+   "o": 1,
+   "p": 97,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#289PPQ9GV",
+   "ath": 18,
+   "d": "#QQVL9QQG0",
+   "dth": 18,
+   "dur": 180,
+   "o": 2,
+   "p": 91,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#8JP0U0YC8",
+   "ath": 18,
+   "d": "#G8RCJGV82",
+   "dth": 18,
+   "dur": 111,
+   "o": 3,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#289PPQ9GV",
+   "ath": 18,
+   "d": "#2J2PU82RL",
+   "dth": 17,
+   "dur": 170,
+   "o": 4,
+   "p": 88,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#9JLGQG2C",
+   "ath": 19,
+   "d": "#P090RQQJY",
+   "dth": 19,
+   "dur": 153,
+   "o": 5,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#P090RQQJY",
+   "ath": 19,
+   "d": "#8PLVR82QC",
+   "dth": 19,
+   "dur": 148,
+   "o": 6,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#89PLL2YCV",
+   "ath": 14,
+   "d": "#29J9LVR2L",
+   "dth": 7,
+   "dur": 114,
+   "o": 7,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#P090RQQJY",
+   "ath": 19,
+   "d": "#YU92LVVC",
+   "dth": 19,
+   "dur": 145,
+   "o": 8,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  }
+ ],
+ "attacksPerMember": 2,
+ "clan": {
+  "destruction": 2.857143,
+  "members": [
+   {
+    "name": "vllo",
+    "pos": 8,
+    "tag": "#C0LGVRRL",
+    "th": 19
+   },
+   {
+    "name": "✨•Neorra•✨",
+    "pos": 6,
+    "tag": "#9JLGQG2C",
+    "th": 19
+   },
+   {
+    "name": "Rising⚡️Andre",
+    "pos": 33,
+    "tag": "#9UPPVGYP",
+    "th": 17
+   },
+   {
+    "name": "clarissa",
+    "pos": 20,
+    "tag": "#YR09QJQ2",
+    "th": 19
+   },
+   {
+    "name": "Rising⚡️Mika",
+    "pos": 10,
+    "tag": "#9VRQ9L9J",
+    "th": 19
+   },
+   {
+    "name": "FLEXMITRI",
+    "pos": 25,
+    "tag": "#LQUP0RCL",
+    "th": 18
+   },
+   {
+    "name": "Rising⚡️Ronny",
+    "pos": 27,
+    "tag": "#QQVL9QQG0",
+    "th": 18
+   },
+   {
+    "name": "Creed",
+    "pos": 9,
+    "tag": "#QY0QVYCJY",
+    "th": 19
+   },
+   {
+    "name": "Silver Skull",
+    "pos": 13,
+    "tag": "#9UGGUQ0C",
+    "th": 19
+   },
+   {
+    "name": "shape",
+    "pos": 22,
+    "tag": "#R2LQLJ0LR",
+    "th": 19
+   },
+   {
+    "name": "Julian",
+    "pos": 1,
+    "tag": "#8PLVR82QC",
+    "th": 19
+   },
+   {
+    "name": "Rising⚡️OpTic.",
+    "pos": 31,
+    "tag": "#2GCYJUPCU",
+    "th": 17
+   },
+   {
+    "name": "Rising⚡️Sunny",
+    "pos": 11,
+    "tag": "#YLQJJ9UU8",
+    "th": 19
+   },
+   {
+    "name": "Grand OpTic",
+    "pos": 4,
+    "tag": "#2UCVU9YY9",
+    "th": 19
+   },
+   {
+    "name": "Julian",
+    "pos": 18,
+    "tag": "#RQYGYC0P",
+    "th": 19
+   },
+   {
+    "name": "luca 23",
+    "pos": 17,
+    "tag": "#2C0LJVQ9",
+    "th": 19
+   },
+   {
+    "name": "Halbstark",
+    "pos": 26,
+    "tag": "#GV0JGVCUP",
+    "th": 18
+   },
+   {
+    "name": "Chris",
+    "pos": 30,
+    "tag": "#YVYR82URC",
+    "th": 17
+   },
+   {
+    "name": "creed 2.0",
+    "pos": 24,
+    "tag": "#QCCVUPR22",
+    "th": 18
+   },
+   {
+    "name": "Rising⚡️Julian",
+    "pos": 2,
+    "tag": "#YU92LVVC",
+    "th": 19
+   },
+   {
+    "name": "Rising⚡Maracuja",
+    "pos": 21,
+    "tag": "#YQCLCGVYV",
+    "th": 18
+   },
+   {
+    "name": "Julian ❤️ Mika",
+    "pos": 28,
+    "tag": "#2J2PU82RL",
+    "th": 17
+   },
+   {
+    "name": "Vex",
+    "pos": 12,
+    "tag": "#9VG2PR8C0",
+    "th": 19
+   },
+   {
+    "name": "Rising⚡Mango",
+    "pos": 23,
+    "tag": "#9VQ9RUJRG",
+    "th": 18
+   },
+   {
+    "name": "Ｌｏｃｕｓ",
+    "pos": 7,
+    "tag": "#YYVPRG9Q9",
+    "th": 19
+   },
+   {
+    "name": "Rising⚡️ACL",
+    "pos": 16,
+    "tag": "#P8URCGU9",
+    "th": 19
+   },
+   {
+    "name": "Mika ❤️ Julian",
+    "pos": 14,
+    "tag": "#2CRP0P2Q8",
+    "th": 19
+   },
+   {
+    "name": "Rising⚡️Janne",
+    "pos": 19,
+    "tag": "#2C2PLQUGL",
+    "th": 19
+   },
+   {
+    "name": "OpTic™",
+    "pos": 35,
+    "tag": "#29J9LVR2L",
+    "th": 7
+   },
+   {
+    "name": "Vengeance",
+    "pos": 3,
+    "tag": "#2GLQ2GLY9",
+    "th": 19
+   },
+   {
+    "name": "Rising⚡️Mikmazi",
+    "pos": 29,
+    "tag": "#G8RCJGV82",
+    "th": 18
+   },
+   {
+    "name": "Rising⚡️Nickk",
+    "pos": 15,
+    "tag": "#LJP8JL880",
+    "th": 19
+   },
+   {
+    "name": "Rising⚡️Koala",
+    "pos": 32,
+    "tag": "#909LUC88U",
+    "th": 17
+   },
+   {
+    "name": "Vulture",
+    "pos": 5,
+    "tag": "#2J8LLGPQJ",
+    "th": 19
+   },
+   {
+    "name": "Rising⚡️Lv.1",
+    "pos": 34,
+    "tag": "#LGYRV2URL",
+    "th": 17
+   }
+  ],
+  "name": "Rising Phoenix",
+  "stars": 3,
+  "tag": "#Y9VU09JL"
+ },
+ "end": "20261125T114527.000Z",
+ "opponent": {
+  "destruction": 19.314285,
+  "members": [
+   {
+    "name": "Venom",
+    "pos": 8,
+    "tag": "#QRULRLYJ",
+    "th": 19
+   },
+   {
+    "name": "[BayMaX]™",
+    "pos": 11,
+    "tag": "#R8R2QLG0",
+    "th": 19
+   },
+   {
+    "name": "[XtreMe]™",
+    "pos": 18,
+    "tag": "#R8Y8GGCQ",
+    "th": 19
+   },
+   {
+    "name": "lovelyvie",
+    "pos": 16,
+    "tag": "#8GVYUGJR",
+    "th": 19
+   },
+   {
+    "name": "CHACUTE",
+    "pos": 17,
+    "tag": "#9LGJ92GJ",
+    "th": 19
+   },
+   {
+    "name": "-S-v-L-",
+    "pos": 6,
+    "tag": "#2PL80CVY",
+    "th": 19
+   },
+   {
+    "name": "Lisa Manoban",
+    "pos": 32,
+    "tag": "#2UVYG0JPG",
+    "th": 17
+   },
+   {
+    "name": "Vendy_Sama",
+    "pos": 23,
+    "tag": "#Q2V08Y0JY",
+    "th": 18
+   },
+   {
+    "name": "ciput",
+    "pos": 35,
+    "tag": "#Y990RL88",
+    "th": 14
+   },
+   {
+    "name": "☆DaNa_PiTeX☆",
+    "pos": 33,
+    "tag": "#809QL8PYR",
+    "th": 16
+   },
+   {
+    "name": "PAROKE TOMATA!!",
+    "pos": 20,
+    "tag": "#JVU0GVCQ",
+    "th": 19
+   },
+   {
+    "name": "TOMMY NEVER DIE",
+    "pos": 25,
+    "tag": "#8YLY00PU0",
+    "th": 18
+   },
+   {
+    "name": "Vendy_Sama",
+    "pos": 21,
+    "tag": "#20UYPG89Q",
+    "th": 18
+   },
+   {
+    "name": "Youaremyqueen",
+    "pos": 10,
+    "tag": "#Y0R92J9Y",
+    "th": 19
+   },
+   {
+    "name": "Omie",
+    "pos": 12,
+    "tag": "#8J0RG0YJ",
+    "th": 19
+   },
+   {
+    "name": "★EngMon★",
+    "pos": 22,
+    "tag": "#G0PUYJCQ",
+    "th": 18
+   },
+   {
+    "name": "TOMMY NEVER DIE",
+    "pos": 4,
+    "tag": "#82RLVLLQG",
+    "th": 19
+   },
+   {
+    "name": "khiong®",
+    "pos": 28,
+    "tag": "#Q0U20R9Y",
+    "th": 18
+   },
+   {
+    "name": "xAoki",
+    "pos": 7,
+    "tag": "#V89VLYJL",
+    "th": 19
+   },
+   {
+    "name": "N y x z e l",
+    "pos": 3,
+    "tag": "#LPU92PUJ",
+    "th": 19
+   },
+   {
+    "name": "{ Thaci }",
+    "pos": 9,
+    "tag": "#8YRC8VJUP",
+    "th": 19
+   },
+   {
+    "name": "Ade Liaw",
+    "pos": 2,
+    "tag": "#2J82V8GV",
+    "th": 19
+   },
+   {
+    "name": "Agel",
+    "pos": 26,
+    "tag": "#2C0VLGUL",
+    "th": 18
+   },
+   {
+    "name": "BeLaLaNg TiTaNz",
+    "pos": 31,
+    "tag": "#8JP0U0YC8",
+    "th": 18
+   },
+   {
+    "name": "xAokii",
+    "pos": 13,
+    "tag": "#8YYRRC82",
+    "th": 19
+   },
+   {
+    "name": "Odna",
+    "pos": 5,
+    "tag": "#209Y80JYY",
+    "th": 19
+   },
+   {
+    "name": "PRADIPTA",
+    "pos": 30,
+    "tag": "#2L80RJQC8",
+    "th": 17
+   },
+   {
+    "name": "Bhagol",
+    "pos": 15,
+    "tag": "#P89P988",
+    "th": 19
+   },
+   {
+    "name": "DIKA 2",
+    "pos": 14,
+    "tag": "#2GJ2YCUGC",
+    "th": 19
+   },
+   {
+    "name": "DIKA",
+    "pos": 1,
+    "tag": "#P090RQQJY",
+    "th": 19
+   },
+   {
+    "name": "NATUS VINCERE",
+    "pos": 24,
+    "tag": "#2YQYRLUJU",
+    "th": 18
+   },
+   {
+    "name": "WandaCrj",
+    "pos": 27,
+    "tag": "#289PPQ9GV",
+    "th": 18
+   },
+   {
+    "name": "Edi Martínez",
+    "pos": 19,
+    "tag": "#929ULCU2C",
+    "th": 19
+   },
+   {
+    "name": "RT.RafliSS¹²",
+    "pos": 34,
+    "tag": "#89PLL2YCV",
+    "th": 14
+   },
+   {
+    "name": "{ Shisui }",
+    "pos": 29,
+    "tag": "#CRCCLJL2",
+    "th": 17
+   }
+  ],
+  "name": "Indo Xtreme",
+  "stars": 16,
+  "tag": "#LYLJUGG"
+ },
+ "start": "20261124T114527.000Z",
+ "state": "inWar",
+ "teamSize": 35,
+ "type": "krieg"
+}

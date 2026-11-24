@@ -857,11 +857,143 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#UVG20QRV",
+   "ath": 17,
+   "d": "#GVVYRULYV",
+   "dth": 16,
+   "dur": 69,
+   "o": 79,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#28R9JGV0L",
+   "ath": 16,
+   "d": "#GRLYPCCLR",
+   "dth": 14,
+   "dur": 83,
+   "o": 80,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#28R9JGV0L",
+   "ath": 16,
+   "d": "#GRRUU0YR8",
+   "dth": 14,
+   "dur": 121,
+   "o": 81,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#289J22LQP",
+   "ath": 19,
+   "d": "#GV2PGJGP8",
+   "dth": 19,
+   "dur": 133,
+   "o": 82,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#289J22LQP",
+   "ath": 19,
+   "d": "#2GY0QC80R",
+   "dth": 18,
+   "dur": 163,
+   "o": 83,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#9QYURU9JG",
+   "ath": 18,
+   "d": "#GC9VGU0LL",
+   "dth": 18,
+   "dur": 180,
+   "o": 84,
+   "p": 98,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#2GY0QC80R",
+   "ath": 18,
+   "d": "#PLQQ0LJP",
+   "dth": 19,
+   "dur": 176,
+   "o": 85,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#9QYURU9JG",
+   "ath": 18,
+   "d": "#900P029R9",
+   "dth": 17,
+   "dur": 109,
+   "o": 86,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#2GY0QC80R",
+   "ath": 18,
+   "d": "#GLGLPVLU",
+   "dth": 19,
+   "dur": 180,
+   "o": 87,
+   "p": 70,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#900P029R9",
+   "ath": 17,
+   "d": "#GLGLPVLU",
+   "dth": 19,
+   "dur": 157,
+   "o": 88,
+   "p": 71,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#29YUQPRCU",
+   "ath": 19,
+   "d": "#289J22LQP",
+   "dth": 19,
+   "dur": 122,
+   "o": 89,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#LY2PCYUCP",
+   "ath": 19,
+   "d": "#98V0C2Y2",
+   "dth": 19,
+   "dur": 180,
+   "o": 90,
+   "p": 97,
+   "s": 2,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 74.125,
+  "destruction": 83.325,
   "members": [
    {
     "name": "Dschini -L-",
@@ -1105,12 +1237,12 @@
    }
   ],
   "name": "FruchtLabor V",
-  "stars": 89,
+  "stars": 99,
   "tag": "#2RV89992C"
  },
  "end": "20261124T161117.000Z",
  "opponent": {
-  "destruction": 82.825,
+  "destruction": 89.875,
   "members": [
    {
     "name": "Nikhil™️",
@@ -1354,7 +1486,7 @@
    }
   ],
   "name": "MARATHA 2",
-  "stars": 96,
+  "stars": 106,
   "tag": "#28CYPCCGJ"
  },
  "start": "20261123T161117.000Z",

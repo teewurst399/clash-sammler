@@ -912,11 +912,66 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#PLJ29CRUG",
+   "ath": 19,
+   "d": "#2RGP8UJ8",
+   "dth": 19,
+   "dur": 129,
+   "o": 84,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#LQJUUG8CG",
+   "ath": 19,
+   "d": "#GC82RCUCJ",
+   "dth": 19,
+   "dur": 142,
+   "o": 85,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#L2R8YPL28",
+   "ath": 19,
+   "d": "#J920UY2V",
+   "dth": 19,
+   "dur": 180,
+   "o": 86,
+   "p": 97,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#UJPQUCJ2",
+   "ath": 19,
+   "d": "#Q2VV80GU2",
+   "dth": 19,
+   "dur": 116,
+   "o": 87,
+   "p": 80,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#QYVRC2VG",
+   "ath": 19,
+   "d": "#R8PLGYC9",
+   "dth": 19,
+   "dur": 180,
+   "o": 88,
+   "p": 97,
+   "s": 2,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 82.828575,
+  "destruction": 88.457146,
   "members": [
    {
     "name": "GL™ ReViX",
@@ -1130,12 +1185,12 @@
    }
   ],
   "name": "GNADENLOS™",
-  "stars": 86,
+  "stars": 91,
   "tag": "#U2JVY229"
  },
  "end": "20261124T185144.000Z",
  "opponent": {
-  "destruction": 68.71429,
+  "destruction": 74.25714,
   "members": [
    {
     "name": "⚡️SuddenDeath⚡️",
@@ -1349,7 +1404,7 @@
    }
   ],
   "name": "OpasLuXusSofa",
-  "stars": 66,
+  "stars": 71,
   "tag": "#20LJYU090"
  },
  "start": "20261123T185144.000Z",
