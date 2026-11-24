@@ -637,6 +637,28 @@
    "p": 79,
    "s": 2,
    "side": "gegner"
+  },
+  {
+   "a": "#L20RQ2J89",
+   "ath": 19,
+   "d": "#P9YP0PYPJ",
+   "dth": 19,
+   "dur": 110,
+   "o": 59,
+   "p": 88,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#R0LJR999",
+   "ath": 19,
+   "d": "#YLQ2J9GU",
+   "dth": 19,
+   "dur": 117,
+   "o": 60,
+   "p": 78,
+   "s": 2,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
@@ -860,7 +882,7 @@
  },
  "end": "20261124T185144.000Z",
  "opponent": {
-  "destruction": 50.42857,
+  "destruction": 52.942856,
   "members": [
    {
     "name": "⚡️SuddenDeath⚡️",
@@ -1074,7 +1096,7 @@
    }
   ],
   "name": "OpasLuXusSofa",
-  "stars": 50,
+  "stars": 52,
   "tag": "#20LJYU090"
  },
  "start": "20261123T185144.000Z",

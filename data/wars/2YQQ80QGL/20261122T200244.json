@@ -879,11 +879,33 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#98CP8L2U2",
+   "ath": 19,
+   "d": "#QL29PVURU",
+   "dth": 19,
+   "dur": 157,
+   "o": 81,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#98CP8L2U2",
+   "ath": 19,
+   "d": "#CU8LLP0C",
+   "dth": 19,
+   "dur": 124,
+   "o": 82,
+   "p": 72,
+   "s": 2,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 58.044445,
+  "destruction": 61.866665,
   "members": [
    {
     "name": "MOZ.ART",
@@ -1157,7 +1179,7 @@
    }
   ],
   "name": "Firstzone",
-  "stars": 76,
+  "stars": 81,
   "tag": "#2YQQ80QGL"
  },
  "end": "20261124T190244.000Z",

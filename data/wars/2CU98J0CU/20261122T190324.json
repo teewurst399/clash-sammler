@@ -758,6 +758,17 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#QQ0GQCCVU",
+   "ath": 19,
+   "d": "#QJULUYUPL",
+   "dth": 16,
+   "dur": 89,
+   "o": 70,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -1041,7 +1052,7 @@
  },
  "end": "20261124T180324.000Z",
  "opponent": {
-  "destruction": 61.066666,
+  "destruction": 61.155556,
   "members": [
    {
     "name": "[SK]◾Mr.White",
@@ -1315,7 +1326,7 @@
    }
   ],
   "name": "SteinFrucht",
-  "stars": 78,
+  "stars": 80,
   "tag": "#2JU9URU2L"
  },
  "start": "20261123T180324.000Z",

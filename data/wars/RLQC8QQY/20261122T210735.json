@@ -384,6 +384,28 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#98R9V9QC",
+   "ath": 18,
+   "d": "#2UVY802JC",
+   "dth": 18,
+   "dur": 156,
+   "o": 36,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#9V9U99G2",
+   "ath": 19,
+   "d": "#2YPPPG2L0",
+   "dth": 19,
+   "dur": 144,
+   "o": 37,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -607,7 +629,7 @@
  },
  "end": "20261124T200735.000Z",
  "opponent": {
-  "destruction": 39.37143,
+  "destruction": 45.085712,
   "members": [
    {
     "name": "Mistery 79",
@@ -821,7 +843,7 @@
    }
   ],
   "name": "Fenice Nera",
-  "stars": 38,
+  "stars": 44,
   "tag": "#GGP09R0"
  },
  "start": "20261123T200735.000Z",

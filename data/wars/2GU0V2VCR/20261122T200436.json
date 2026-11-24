@@ -472,6 +472,28 @@
    "p": 88,
    "s": 2,
    "side": "gegner"
+  },
+  {
+   "a": "#QLCCJQ08Y",
+   "ath": 19,
+   "d": "#2LPGR202",
+   "dth": 19,
+   "dur": 114,
+   "o": 44,
+   "p": 87,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#CGPPC8LU",
+   "ath": 18,
+   "d": "#GP8JJ2QYU",
+   "dth": 18,
+   "dur": 86,
+   "o": 45,
+   "p": 50,
+   "s": 2,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -665,7 +687,7 @@
  },
  "end": "20261124T190436.000Z",
  "opponent": {
-  "destruction": 58.766666,
+  "destruction": 63.333332,
   "members": [
    {
     "name": "frank",
@@ -849,7 +871,7 @@
    }
   ],
   "name": "Why So Serious",
-  "stars": 48,
+  "stars": 52,
   "tag": "#2Q000U8GU"
  },
  "start": "20261123T190436.000Z",

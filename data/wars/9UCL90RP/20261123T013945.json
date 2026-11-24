@@ -461,11 +461,121 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#92CPCGU",
+   "ath": 19,
+   "d": "#9LJPJQQPQ",
+   "dth": 19,
+   "dur": 121,
+   "o": 43,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#CLUG2YCJ",
+   "ath": 19,
+   "d": "#9CQLLYP8",
+   "dth": 19,
+   "dur": 157,
+   "o": 44,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#QVPY82PP",
+   "ath": 19,
+   "d": "#8Y09UQYLU",
+   "dth": 19,
+   "dur": 149,
+   "o": 45,
+   "p": 93,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#92CPCGU",
+   "ath": 19,
+   "d": "#98YR8QL0",
+   "dth": 19,
+   "dur": 180,
+   "o": 46,
+   "p": 91,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#QVPY82PP",
+   "ath": 19,
+   "d": "#R08Q0G9R",
+   "dth": 19,
+   "dur": 135,
+   "o": 47,
+   "p": 79,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#9JQ2PQV9G",
+   "ath": 19,
+   "d": "#CR208CJR",
+   "dth": 19,
+   "dur": 154,
+   "o": 48,
+   "p": 96,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#9JQ2PQV9G",
+   "ath": 19,
+   "d": "#YYC2GGR28",
+   "dth": 19,
+   "dur": 158,
+   "o": 49,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#CLUG2YCJ",
+   "ath": 19,
+   "d": "#2QRVC092",
+   "dth": 19,
+   "dur": 179,
+   "o": 50,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#PG88RC2",
+   "ath": 19,
+   "d": "#9QQCLYLCL",
+   "dth": 19,
+   "dur": 135,
+   "o": 51,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#PG88RC2",
+   "ath": 19,
+   "d": "#PRY0J920U",
+   "dth": 19,
+   "dur": 153,
+   "o": 52,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 12.755555,
+  "destruction": 17.11111,
   "members": [
    {
     "name": "ROBINJO*ALIHAN",
@@ -739,12 +849,12 @@
    }
   ],
   "name": "Eiskalte Engel",
-  "stars": 16,
+  "stars": 21,
   "tag": "#9UCL90RP"
  },
  "end": "20261125T003945.000Z",
  "opponent": {
-  "destruction": 69.44444,
+  "destruction": 82.46667,
   "members": [
    {
     "name": "Evan o Mighty",
@@ -1018,7 +1128,7 @@
    }
   ],
   "name": "\"THE_FREEDOM\"",
-  "stars": 84,
+  "stars": 100,
   "tag": "#9RLJCCYL"
  },
  "start": "20261124T003945.000Z",
