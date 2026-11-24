@@ -659,6 +659,17 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#8Q8CGC2GV",
+   "ath": 18,
+   "d": "#GPQCJQLQ2",
+   "dth": 18,
+   "dur": 107,
+   "o": 61,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -912,7 +923,7 @@
  },
  "end": "20261124T161117.000Z",
  "opponent": {
-  "destruction": 74.4,
+  "destruction": 75.075,
   "members": [
    {
     "name": "Nikhil™️",
@@ -1156,7 +1167,7 @@
    }
   ],
   "name": "MARATHA 2",
-  "stars": 81,
+  "stars": 83,
   "tag": "#28CYPCCGJ"
  },
  "start": "20261123T161117.000Z",

@@ -450,11 +450,44 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#GCJ89QJRQ",
+   "ath": 14,
+   "d": "#QRUCU92QC",
+   "dth": 14,
+   "dur": 143,
+   "o": 42,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#UPYUVUUU",
+   "ath": 19,
+   "d": "#89RR0RCCV",
+   "dth": 19,
+   "dur": 161,
+   "o": 43,
+   "p": 81,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#UPYUVUUU",
+   "ath": 19,
+   "d": "#G2L9R98LL",
+   "dth": 19,
+   "dur": 115,
+   "o": 44,
+   "p": 95,
+   "s": 2,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 63.72,
+  "destruction": 67.72,
   "members": [
    {
     "name": "28",
@@ -608,12 +641,12 @@
    }
   ],
   "name": "Sigmazone",
-  "stars": 45,
+  "stars": 48,
   "tag": "#2Q0UQQRUJ"
  },
  "end": "20261124T192518.000Z",
  "opponent": {
-  "destruction": 58.44,
+  "destruction": 65.48,
   "members": [
    {
     "name": "logan",
@@ -767,7 +800,7 @@
    }
   ],
   "name": "Reprisal",
-  "stars": 42,
+  "stars": 46,
   "tag": "#VVY9JLP"
  },
  "start": "20261123T192518.000Z",

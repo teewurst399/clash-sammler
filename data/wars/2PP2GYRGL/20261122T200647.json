@@ -846,11 +846,132 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#P99L9VGG",
+   "ath": 19,
+   "d": "#LC9U9YVVP",
+   "dth": 19,
+   "dur": 95,
+   "o": 78,
+   "p": 54,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#P2PY8VJL",
+   "ath": 19,
+   "d": "#Y0C98P2P0",
+   "dth": 19,
+   "dur": 165,
+   "o": 79,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#P2PY8VJL",
+   "ath": 19,
+   "d": "#CCGLLJVY",
+   "dth": 19,
+   "dur": 171,
+   "o": 80,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#2P990R98Q",
+   "ath": 19,
+   "d": "#LC9U9YVVP",
+   "dth": 19,
+   "dur": 163,
+   "o": 81,
+   "p": 88,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#JCQRYJYJ",
+   "ath": 19,
+   "d": "#L89VLJGLG",
+   "dth": 19,
+   "dur": 145,
+   "o": 82,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#9RRQ8P08J",
+   "ath": 19,
+   "d": "#Y0PRV08Y",
+   "dth": 19,
+   "dur": 152,
+   "o": 83,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#9RRQ8P08J",
+   "ath": 19,
+   "d": "#UCVGUPVP",
+   "dth": 19,
+   "dur": 159,
+   "o": 84,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#9C2JGVUV",
+   "ath": 19,
+   "d": "#2P990R98Q",
+   "dth": 19,
+   "dur": 157,
+   "o": 85,
+   "p": 79,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#9C2JGVUV",
+   "ath": 19,
+   "d": "#2Q0CYQ0CV",
+   "dth": 19,
+   "dur": 155,
+   "o": 86,
+   "p": 88,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#P0UQR9YU",
+   "ath": 19,
+   "d": "#UVPC88VR",
+   "dth": 19,
+   "dur": 108,
+   "o": 87,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#9GCG8QYJJ",
+   "ath": 19,
+   "d": "#LPYULQRY9",
+   "dth": 19,
+   "dur": 178,
+   "o": 88,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 77.925,
+  "destruction": 92.3,
   "members": [
    {
     "name": "Salih",
@@ -1094,12 +1215,12 @@
    }
   ],
   "name": "Hoher Geheimrat",
-  "stars": 92,
+  "stars": 109,
   "tag": "#2PP2GYRGL"
  },
  "end": "20261124T190647.000Z",
  "opponent": {
-  "destruction": 85.375,
+  "destruction": 90.675,
   "members": [
    {
     "name": "ede",
@@ -1343,7 +1464,7 @@
    }
   ],
   "name": "Jimmy&Charly",
-  "stars": 95,
+  "stars": 101,
   "tag": "#9J2R8RL8"
  },
  "start": "20261123T190647.000Z",

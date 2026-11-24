@@ -802,11 +802,88 @@
    "p": 88,
    "s": 2,
    "side": "gegner"
+  },
+  {
+   "a": "#2YPVGULQR",
+   "ath": 19,
+   "d": "#UJPQUCJ2",
+   "dth": 19,
+   "dur": 148,
+   "o": 74,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#G2GRRJ9L",
+   "ath": 19,
+   "d": "#909JG899",
+   "dth": 19,
+   "dur": 90,
+   "o": 75,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#80LJ0Q9UC",
+   "ath": 19,
+   "d": "#L2R8YPL28",
+   "dth": 19,
+   "dur": 135,
+   "o": 76,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#200UQV89J",
+   "ath": 19,
+   "d": "#QP8CCQRYY",
+   "dth": 19,
+   "dur": 125,
+   "o": 77,
+   "p": 83,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#QYC9VY8YY",
+   "ath": 19,
+   "d": "#G0JG9LG0P",
+   "dth": 19,
+   "dur": 118,
+   "o": 78,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#2J9RQ0G",
+   "ath": 19,
+   "d": "#QYC9VY8YY",
+   "dth": 19,
+   "dur": 111,
+   "o": 79,
+   "p": 70,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#P00Y8RJG",
+   "ath": 19,
+   "d": "#GC82RCUCJ",
+   "dth": 19,
+   "dur": 126,
+   "o": 80,
+   "p": 83,
+   "s": 2,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 74.25714,
+  "destruction": 79.97143,
   "members": [
    {
     "name": "GL™ ReViX",
@@ -1020,12 +1097,12 @@
    }
   ],
   "name": "GNADENLOS™",
-  "stars": 77,
+  "stars": 83,
   "tag": "#U2JVY229"
  },
  "end": "20261124T185144.000Z",
  "opponent": {
-  "destruction": 66.6,
+  "destruction": 68.71429,
   "members": [
    {
     "name": "⚡️SuddenDeath⚡️",
@@ -1239,7 +1316,7 @@
    }
   ],
   "name": "OpasLuXusSofa",
-  "stars": 64,
+  "stars": 66,
   "tag": "#20LJYU090"
  },
  "start": "20261123T185144.000Z",
