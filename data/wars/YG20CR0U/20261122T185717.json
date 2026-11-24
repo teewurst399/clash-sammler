@@ -428,6 +428,28 @@
    "p": 88,
    "s": 2,
    "side": "clan"
+  },
+  {
+   "a": "#8UPLVVC9P",
+   "ath": 19,
+   "d": "#YYYLYVL80",
+   "dth": 19,
+   "dur": 119,
+   "o": 40,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#8UPLVVC9P",
+   "ath": 19,
+   "d": "#GLJCCRYG",
+   "dth": 19,
+   "dur": 148,
+   "o": 41,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -591,7 +613,7 @@
  },
  "end": "20261124T175717.000Z",
  "opponent": {
-  "destruction": 66.2,
+  "destruction": 74.2,
   "members": [
    {
     "name": "fury",
@@ -745,7 +767,7 @@
    }
   ],
   "name": "Perfect in war!",
-  "stars": 46,
+  "stars": 52,
   "tag": "#L88UJ8JC"
  },
  "start": "20261123T175717.000Z",

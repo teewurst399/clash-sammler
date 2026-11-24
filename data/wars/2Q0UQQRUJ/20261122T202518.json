@@ -307,11 +307,121 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#PCPLYUJUG",
+   "ath": 16,
+   "d": "#2C0RC290U",
+   "dth": 16,
+   "dur": 87,
+   "o": 29,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#PCPLYUJUG",
+   "ath": 16,
+   "d": "#YGJCR0G9L",
+   "dth": 17,
+   "dur": 135,
+   "o": 30,
+   "p": 88,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#LQ00L0U0U",
+   "ath": 17,
+   "d": "#YGJCR0G9L",
+   "dth": 17,
+   "dur": 98,
+   "o": 31,
+   "p": 77,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#LQ00L0U0U",
+   "ath": 17,
+   "d": "#GRCLGPPG",
+   "dth": 17,
+   "dur": 125,
+   "o": 32,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#L2JPV0QUL",
+   "ath": 17,
+   "d": "#YGJCR0G9L",
+   "dth": 17,
+   "dur": 98,
+   "o": 33,
+   "p": 87,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#L2JPV0QUL",
+   "ath": 17,
+   "d": "#8U8CLC0L",
+   "dth": 18,
+   "dur": 113,
+   "o": 34,
+   "p": 91,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#YCJ02U0CQ",
+   "ath": 18,
+   "d": "#YGJCR0G9L",
+   "dth": 17,
+   "dur": 94,
+   "o": 35,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#YCJ02U0CQ",
+   "ath": 18,
+   "d": "#8U8CLC0L",
+   "dth": 18,
+   "dur": 97,
+   "o": 36,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#YGJCR0G9L",
+   "ath": 17,
+   "d": "#LQ00L0U0U",
+   "dth": 17,
+   "dur": 100,
+   "o": 37,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#YGJCR0G9L",
+   "ath": 17,
+   "d": "#VGL2QJV0",
+   "dth": 19,
+   "dur": 100,
+   "o": 38,
+   "p": 81,
+   "s": 1,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 51.44,
+  "destruction": 55.44,
   "members": [
    {
     "name": "28",
@@ -465,12 +575,12 @@
    }
   ],
   "name": "Sigmazone",
-  "stars": 35,
+  "stars": 38,
   "tag": "#2Q0UQQRUJ"
  },
  "end": "20261124T192518.000Z",
  "opponent": {
-  "destruction": 42.44,
+  "destruction": 58.44,
   "members": [
    {
     "name": "logan",
@@ -624,7 +734,7 @@
    }
   ],
   "name": "Reprisal",
-  "stars": 30,
+  "stars": 42,
   "tag": "#VVY9JLP"
  },
  "start": "20261123T192518.000Z",

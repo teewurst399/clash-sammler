@@ -659,11 +659,22 @@
    "p": 98,
    "s": 2,
    "side": "gegner"
+  },
+  {
+   "a": "#9JU2JVG9",
+   "ath": 19,
+   "d": "#2GUC8PPL0",
+   "dth": 19,
+   "dur": 158,
+   "o": 61,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 60.8,
+  "destruction": 63.3,
   "members": [
    {
     "name": "Salih",
@@ -907,7 +918,7 @@
    }
   ],
   "name": "Hoher Geheimrat",
-  "stars": 71,
+  "stars": 74,
   "tag": "#2PP2GYRGL"
  },
  "end": "20261124T190647.000Z",

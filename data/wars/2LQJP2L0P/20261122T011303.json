@@ -1022,6 +1022,28 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#GV90RCRU2",
+   "ath": 18,
+   "d": "#GPJGVRLVL",
+   "dth": 19,
+   "dur": 74,
+   "o": 94,
+   "p": 56,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#GV90RCRU2",
+   "ath": 18,
+   "d": "#2GV2LY2P",
+   "dth": 19,
+   "dur": 37,
+   "o": 95,
+   "p": 19,
+   "s": 1,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -1403,7 +1425,7 @@
   "tag": "#2C9GLRR9Y"
  },
  "start": "20261123T001303.000Z",
- "state": "inWar",
+ "state": "warEnded",
  "teamSize": 30,
  "type": "krieg"
 }

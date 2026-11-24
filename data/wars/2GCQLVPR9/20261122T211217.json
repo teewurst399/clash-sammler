@@ -197,6 +197,28 @@
    "p": 95,
    "s": 2,
    "side": "gegner"
+  },
+  {
+   "a": "#QPLY9QC9",
+   "ath": 19,
+   "d": "#YVU0G8JP",
+   "dth": 19,
+   "dur": 133,
+   "o": 19,
+   "p": 88,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#QPLY9QC9",
+   "ath": 19,
+   "d": "#P08LVGR0U",
+   "dth": 19,
+   "dur": 112,
+   "o": 20,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -390,7 +412,7 @@
  },
  "end": "20261124T201217.000Z",
  "opponent": {
-  "destruction": 26.5,
+  "destruction": 32.766666,
   "members": [
    {
     "name": "Pascal",
@@ -574,7 +596,7 @@
    }
   ],
   "name": "\"janda lovers\"",
-  "stars": 23,
+  "stars": 27,
   "tag": "#VJRRJQ8Y"
  },
  "start": "20261123T201217.000Z",
