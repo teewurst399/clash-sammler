@@ -197,6 +197,50 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#9VRYV2C9P",
+   "ath": 19,
+   "d": "#Q9G8Q9LY",
+   "dth": 19,
+   "dur": 180,
+   "o": 19,
+   "p": 83,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#GVVJRPYG",
+   "ath": 19,
+   "d": "#CVC00QYR",
+   "dth": 19,
+   "dur": 180,
+   "o": 20,
+   "p": 91,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#GVVJRPYG",
+   "ath": 19,
+   "d": "#2Y8CCJQ0",
+   "dth": 19,
+   "dur": 171,
+   "o": 21,
+   "p": 84,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#PY88J9L0J",
+   "ath": 19,
+   "d": "#99PP99LLC",
+   "dth": 16,
+   "dur": 129,
+   "o": 22,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -420,7 +464,7 @@
  },
  "end": "20261124T222205.000Z",
  "opponent": {
-  "destruction": 5.428571,
+  "destruction": 15.657143,
   "members": [
    {
     "name": "KENNETH",
@@ -634,7 +678,7 @@
    }
   ],
   "name": "CLAN INFERNAL",
-  "stars": 3,
+  "stars": 11,
   "tag": "#YLP2L0LP"
  },
  "start": "20261123T222205.000Z",

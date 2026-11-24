@@ -461,6 +461,17 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#QLCCJQ08Y",
+   "ath": 19,
+   "d": "#2YV9VC022",
+   "dth": 19,
+   "dur": 113,
+   "o": 43,
+   "p": 88,
+   "s": 2,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -654,7 +665,7 @@
  },
  "end": "20261124T190436.000Z",
  "opponent": {
-  "destruction": 55.833332,
+  "destruction": 58.766666,
   "members": [
    {
     "name": "frank",
@@ -838,7 +849,7 @@
    }
   ],
   "name": "Why So Serious",
-  "stars": 46,
+  "stars": 48,
   "tag": "#2Q000U8GU"
  },
  "start": "20261123T190436.000Z",
