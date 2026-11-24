@@ -1297,6 +1297,116 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#U2L08CVY",
+   "ath": 19,
+   "d": "#2C02PYQCP",
+   "dth": 19,
+   "dur": 145,
+   "o": 119,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#LYPV8J8CY",
+   "ath": 19,
+   "d": "#J8LJQ0UY",
+   "dth": 19,
+   "dur": 115,
+   "o": 120,
+   "p": 72,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#R0RRYUQ8",
+   "ath": 19,
+   "d": "#RPYV099P",
+   "dth": 19,
+   "dur": 117,
+   "o": 121,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#LYPV8J8CY",
+   "ath": 19,
+   "d": "#G0JG9LG0P",
+   "dth": 19,
+   "dur": 142,
+   "o": 122,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#8UU2U28PJ",
+   "ath": 19,
+   "d": "#QYVRC2VG",
+   "dth": 19,
+   "dur": 147,
+   "o": 123,
+   "p": 69,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#YV900QUVR",
+   "ath": 19,
+   "d": "#J920UY2V",
+   "dth": 19,
+   "dur": 159,
+   "o": 124,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#YLQ2J9GU",
+   "ath": 19,
+   "d": "#99UC8G920",
+   "dth": 19,
+   "dur": 120,
+   "o": 125,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#9CUQJCP2",
+   "ath": 19,
+   "d": "#PRRPRQU82",
+   "dth": 19,
+   "dur": 172,
+   "o": 126,
+   "p": 94,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#YV900QUVR",
+   "ath": 19,
+   "d": "#R0RRYUQ8",
+   "dth": 19,
+   "dur": 180,
+   "o": 127,
+   "p": 95,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#2LYC9LL0",
+   "ath": 19,
+   "d": "#P9YP0PYPJ",
+   "dth": 19,
+   "dur": 119,
+   "o": 128,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -1520,7 +1630,7 @@
  },
  "end": "20261124T185144.000Z",
  "opponent": {
-  "destruction": 92.11429,
+  "destruction": 94.457146,
   "members": [
    {
     "name": "⚡️SuddenDeath⚡️",
@@ -1734,7 +1844,7 @@
    }
   ],
   "name": "OpasLuXusSofa",
-  "stars": 90,
+  "stars": 94,
   "tag": "#20LJYU090"
  },
  "start": "20261123T185144.000Z",

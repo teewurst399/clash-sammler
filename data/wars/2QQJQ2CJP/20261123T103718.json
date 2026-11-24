@@ -197,11 +197,44 @@
    "p": 99,
    "s": 2,
    "side": "gegner"
+  },
+  {
+   "a": "#PYQLVV02",
+   "ath": 18,
+   "d": "#LJGPGYQQY",
+   "dth": 18,
+   "dur": 102,
+   "o": 19,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#LUGV98LV9",
+   "ath": 18,
+   "d": "#V98Q80P2",
+   "dth": 19,
+   "dur": 180,
+   "o": 20,
+   "p": 97,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#LUGV98LV9",
+   "ath": 18,
+   "d": "#G8YYG2RYV",
+   "dth": 18,
+   "dur": 93,
+   "o": 21,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 34.3,
+  "destruction": 39.3,
   "members": [
    {
     "name": "Bozz⚡️Bandit",
@@ -325,12 +358,12 @@
    }
   ],
   "name": "Infructus",
-  "stars": 20,
+  "stars": 23,
   "tag": "#2QQJQ2CJP"
  },
  "end": "20261125T093718.000Z",
  "opponent": {
-  "destruction": 41.85,
+  "destruction": 46.95,
   "members": [
    {
     "name": "토록현우",
@@ -454,7 +487,7 @@
    }
   ],
   "name": "영원한클라스♥",
-  "stars": 22,
+  "stars": 25,
   "tag": "#R8VCCPPR"
  },
  "start": "20261124T093718.000Z",

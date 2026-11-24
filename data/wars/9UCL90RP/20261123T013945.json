@@ -1231,11 +1231,110 @@
    "p": 99,
    "s": 2,
    "side": "gegner"
+  },
+  {
+   "a": "#9RYVQCY02",
+   "ath": 19,
+   "d": "#YCU2YLPY0",
+   "dth": 19,
+   "dur": 180,
+   "o": 113,
+   "p": 99,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#RLGJJRYQ",
+   "ath": 19,
+   "d": "#92CPCGU",
+   "dth": 19,
+   "dur": 160,
+   "o": 114,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#RLGJJRYQ",
+   "ath": 19,
+   "d": "#80PR9PG29",
+   "dth": 19,
+   "dur": 159,
+   "o": 115,
+   "p": 90,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#J008PV2V",
+   "ath": 19,
+   "d": "#G00PJJLYC",
+   "dth": 19,
+   "dur": 167,
+   "o": 116,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#J008PV2V",
+   "ath": 19,
+   "d": "#98YR8QL0",
+   "dth": 19,
+   "dur": 180,
+   "o": 117,
+   "p": 89,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#C9YPYYVQ",
+   "ath": 19,
+   "d": "#P800V02VC",
+   "dth": 19,
+   "dur": 173,
+   "o": 118,
+   "p": 91,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#C9YPYYVQ",
+   "ath": 19,
+   "d": "#V88QV9PL",
+   "dth": 19,
+   "dur": 146,
+   "o": 119,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#8L9UUJV0P",
+   "ath": 19,
+   "d": "#98YR8QL0",
+   "dth": 19,
+   "dur": 130,
+   "o": 120,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#8L9UUJV0P",
+   "ath": 19,
+   "d": "#YJVPGVYC9",
+   "dth": 19,
+   "dur": 163,
+   "o": 121,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 69.35555,
+  "destruction": 80.022224,
   "members": [
    {
     "name": "ROBINJO*ALIHAN",
@@ -1509,12 +1608,12 @@
    }
   ],
   "name": "Eiskalte Engel",
-  "stars": 90,
+  "stars": 102,
   "tag": "#9UCL90RP"
  },
  "end": "20261125T003945.000Z",
  "opponent": {
-  "destruction": 99.333336,
+  "destruction": 100.0,
   "members": [
    {
     "name": "Evan o Mighty",
@@ -1788,7 +1887,7 @@
    }
   ],
   "name": "\"THE_FREEDOM\"",
-  "stars": 132,
+  "stars": 135,
   "tag": "#9RLJCCYL"
  },
  "start": "20261124T003945.000Z",

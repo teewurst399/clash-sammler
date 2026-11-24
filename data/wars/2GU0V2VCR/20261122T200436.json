@@ -945,6 +945,83 @@
    "p": 96,
    "s": 2,
    "side": "clan"
+  },
+  {
+   "a": "#UC98C88G",
+   "ath": 19,
+   "d": "#C980RGUV",
+   "dth": 19,
+   "dur": 125,
+   "o": 87,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#2YCGU0LUQ",
+   "ath": 19,
+   "d": "#C980RGUV",
+   "dth": 19,
+   "dur": 157,
+   "o": 88,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#UC98C88G",
+   "ath": 19,
+   "d": "#QLCCJQ08Y",
+   "dth": 19,
+   "dur": 180,
+   "o": 89,
+   "p": 95,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#2YCGU0LUQ",
+   "ath": 19,
+   "d": "#LC9GJPQ20",
+   "dth": 19,
+   "dur": 140,
+   "o": 90,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#LL9JQ9QUG",
+   "ath": 19,
+   "d": "#8QQ280V28",
+   "dth": 19,
+   "dur": 174,
+   "o": 91,
+   "p": 78,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#QCQGV0LUP",
+   "ath": 18,
+   "d": "#2LPGR202",
+   "dth": 19,
+   "dur": 98,
+   "o": 92,
+   "p": 51,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#GC2VQPRG",
+   "ath": 19,
+   "d": "#YPYL9P80V",
+   "dth": 19,
+   "dur": 105,
+   "o": 93,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -1138,7 +1215,7 @@
  },
  "end": "20261124T190436.000Z",
  "opponent": {
-  "destruction": 95.0,
+  "destruction": 96.36667,
   "members": [
    {
     "name": "frank",
@@ -1322,7 +1399,7 @@
    }
   ],
   "name": "Why So Serious",
-  "stars": 82,
+  "stars": 83,
   "tag": "#2Q000U8GU"
  },
  "start": "20261123T190436.000Z",

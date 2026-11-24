@@ -901,11 +901,121 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#890LCRU2Y",
+   "ath": 19,
+   "d": "#RCL0PPJJ",
+   "dth": 19,
+   "dur": 152,
+   "o": 83,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#YPQ22GGJV",
+   "ath": 19,
+   "d": "#2YRYUVR99",
+   "dth": 19,
+   "dur": 145,
+   "o": 84,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#YPQ22GGJV",
+   "ath": 19,
+   "d": "#QL099JRLR",
+   "dth": 19,
+   "dur": 130,
+   "o": 85,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#9RJ2VCUR0",
+   "ath": 19,
+   "d": "#8UP0U0JC2",
+   "dth": 19,
+   "dur": 18,
+   "o": 86,
+   "p": 12,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#GP9P2UL",
+   "ath": 19,
+   "d": "#9RJ2VCUR0",
+   "dth": 19,
+   "dur": 143,
+   "o": 87,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#GP9P2UL",
+   "ath": 19,
+   "d": "#8UCJQGCC",
+   "dth": 19,
+   "dur": 155,
+   "o": 88,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#PLU0RJ0G2",
+   "ath": 19,
+   "d": "#PR0Q8RJ8L",
+   "dth": 19,
+   "dur": 14,
+   "o": 89,
+   "p": 54,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#PLU0RJ0G2",
+   "ath": 19,
+   "d": "#2QYQCYLRP",
+   "dth": 19,
+   "dur": 20,
+   "o": 90,
+   "p": 60,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#GQQ8QVQ",
+   "ath": 19,
+   "d": "#QPPCG8LR",
+   "dth": 19,
+   "dur": 154,
+   "o": 91,
+   "p": 87,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#GQQ8QVQ",
+   "ath": 19,
+   "d": "#2C88Q2PQ0",
+   "dth": 19,
+   "dur": 8,
+   "o": 92,
+   "p": 5,
+   "s": 1,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 99.0,
+  "destruction": 99.96667,
   "members": [
    {
     "name": "Der Checker",
@@ -1089,12 +1199,12 @@
    }
   ],
   "name": "GhostZone",
-  "stars": 87,
+  "stars": 89,
   "tag": "#JPLG8V2C"
  },
  "end": "20261124T204607.000Z",
  "opponent": {
-  "destruction": 99.666664,
+  "destruction": 100.0,
   "members": [
    {
     "name": "JUANDA",
@@ -1278,7 +1388,7 @@
    }
   ],
   "name": "LaMagiaaa.....™",
-  "stars": 88,
+  "stars": 90,
   "tag": "#CLGU0UQG"
  },
  "start": "20261123T204607.000Z",

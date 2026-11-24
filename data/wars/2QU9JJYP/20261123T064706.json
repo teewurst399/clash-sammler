@@ -846,11 +846,55 @@
    "p": 81,
    "s": 2,
    "side": "gegner"
+  },
+  {
+   "a": "#LQYRPRJP",
+   "ath": 19,
+   "d": "#2P0LYPVU2",
+   "dth": 19,
+   "dur": 149,
+   "o": 78,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#LQYRPRJP",
+   "ath": 19,
+   "d": "#QYRY8Q292",
+   "dth": 19,
+   "dur": 137,
+   "o": 79,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#8QGRGYCP2",
+   "ath": 19,
+   "d": "#Y0RRYULL",
+   "dth": 19,
+   "dur": 151,
+   "o": 80,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#2QRYQR2LY",
+   "ath": 19,
+   "d": "#8829Y22U",
+   "dth": 19,
+   "dur": 145,
+   "o": 81,
+   "p": 73,
+   "s": 2,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 32.0,
+  "destruction": 36.0,
   "members": [
    {
     "name": "“Wolfi”",
@@ -1154,12 +1198,12 @@
    }
   ],
   "name": "Confusion",
-  "stars": 48,
+  "stars": 54,
   "tag": "#2QU9JJYP"
  },
  "end": "20261125T054706.000Z",
  "opponent": {
-  "destruction": 73.62,
+  "destruction": 75.46,
   "members": [
    {
     "name": "KTLB ⚡ RAIZEN",
@@ -1463,7 +1507,7 @@
    }
   ],
   "name": "KATILINGBAN",
-  "stars": 110,
+  "stars": 113,
   "tag": "#9V8JQQR2"
  },
  "start": "20261124T054706.000Z",

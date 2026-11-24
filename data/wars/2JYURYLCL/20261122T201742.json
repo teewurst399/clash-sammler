@@ -54,11 +54,33 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#PRQ8U8LPG",
+   "ath": 19,
+   "d": "#GPCQPUQ0Q",
+   "dth": 19,
+   "dur": 163,
+   "o": 6,
+   "p": 93,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#GPCQPUQ0Q",
+   "ath": 19,
+   "d": "#LRYGUUPL",
+   "dth": 16,
+   "dur": 76,
+   "o": 7,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 80.0,
+  "destruction": 100.0,
   "members": [
    {
     "name": "WB Teewurst₃",
@@ -92,12 +114,12 @@
    }
   ],
   "name": "Würstchenbude",
-  "stars": 12,
+  "stars": 15,
   "tag": "#2JYURYLCL"
  },
  "end": "20261124T191742.000Z",
  "opponent": {
-  "destruction": 20.0,
+  "destruction": 38.6,
   "members": [
    {
     "name": "Lukas",
@@ -131,7 +153,7 @@
    }
   ],
   "name": "EinHauchvonTüll",
-  "stars": 3,
+  "stars": 5,
   "tag": "#2LGP8QGRP"
  },
  "start": "20261123T191742.000Z",

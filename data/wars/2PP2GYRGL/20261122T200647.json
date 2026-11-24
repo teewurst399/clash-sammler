@@ -1253,6 +1253,138 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#UCVGUPVP",
+   "ath": 19,
+   "d": "#9JU2JVG9",
+   "dth": 19,
+   "dur": 153,
+   "o": 115,
+   "p": 98,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#QVVP2C8YY",
+   "ath": 19,
+   "d": "#8VJRPQJYV",
+   "dth": 19,
+   "dur": 180,
+   "o": 116,
+   "p": 92,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#9VCJVL88",
+   "ath": 19,
+   "d": "#CR0RYYYQ",
+   "dth": 19,
+   "dur": 132,
+   "o": 117,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#UCVGUPVP",
+   "ath": 19,
+   "d": "#P0UQR9YU",
+   "dth": 19,
+   "dur": 127,
+   "o": 118,
+   "p": 94,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#YJJC808P2",
+   "ath": 19,
+   "d": "#89LQGR2R",
+   "dth": 19,
+   "dur": 109,
+   "o": 119,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#92VYGCG9",
+   "ath": 19,
+   "d": "#9RRQ8P08J",
+   "dth": 19,
+   "dur": 133,
+   "o": 120,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#22U2YYY0",
+   "ath": 19,
+   "d": "#QQ8VCVQPJ",
+   "dth": 19,
+   "dur": 158,
+   "o": 121,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#QVVP2C8YY",
+   "ath": 19,
+   "d": "#89LQGR2R",
+   "dth": 19,
+   "dur": 180,
+   "o": 122,
+   "p": 87,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#UVPC88VR",
+   "ath": 19,
+   "d": "#2CUYJCCYR",
+   "dth": 18,
+   "dur": 143,
+   "o": 123,
+   "p": 93,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#UVPC88VR",
+   "ath": 19,
+   "d": "#QVVP2C8YY",
+   "dth": 19,
+   "dur": 126,
+   "o": 124,
+   "p": 87,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#9PQQVUJJ",
+   "ath": 18,
+   "d": "#2CUYJCCYR",
+   "dth": 18,
+   "dur": 126,
+   "o": 125,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#9PQQVUJJ",
+   "ath": 18,
+   "d": "#9JU2JVG9",
+   "dth": 19,
+   "dur": 158,
+   "o": 126,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -1506,7 +1638,7 @@
  },
  "end": "20261124T190647.000Z",
  "opponent": {
-  "destruction": 96.775,
+  "destruction": 98.35,
   "members": [
    {
     "name": "ede",
@@ -1750,7 +1882,7 @@
    }
   ],
   "name": "Jimmy&Charly",
-  "stars": 109,
+  "stars": 114,
   "tag": "#9J2R8RL8"
  },
  "start": "20261123T190647.000Z",

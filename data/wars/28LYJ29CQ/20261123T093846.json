@@ -1297,11 +1297,22 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#JCUJJ2P0",
+   "ath": 19,
+   "d": "#P2U0LQJR0",
+   "dth": 19,
+   "dur": 152,
+   "o": 119,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 83.44444,
+  "destruction": 85.666664,
   "members": [
    {
     "name": "FL • SKINNYJIMM",
@@ -1575,7 +1586,7 @@
    }
   ],
   "name": "FruchtLabor",
-  "stars": 112,
+  "stars": 115,
   "tag": "#28LYJ29CQ"
  },
  "end": "20261125T083846.000Z",
