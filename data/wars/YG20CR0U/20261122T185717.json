@@ -505,6 +505,50 @@
    "p": 90,
    "s": 2,
    "side": "gegner"
+  },
+  {
+   "a": "#YJCG2PYUR",
+   "ath": 19,
+   "d": "#QJLJU2UYY",
+   "dth": 19,
+   "dur": 170,
+   "o": 47,
+   "p": 87,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#YJCG2PYUR",
+   "ath": 19,
+   "d": "#98PC0JYY",
+   "dth": 19,
+   "dur": 169,
+   "o": 48,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#YVVQQ8Q8P",
+   "ath": 19,
+   "d": "#9JRGR0G89",
+   "dth": 19,
+   "dur": 146,
+   "o": 49,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#YVVQQ8Q8P",
+   "ath": 19,
+   "d": "#LRGURGV2C",
+   "dth": 19,
+   "dur": 172,
+   "o": 50,
+   "p": 77,
+   "s": 2,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -668,7 +712,7 @@
  },
  "end": "20261124T175717.000Z",
  "opponent": {
-  "destruction": 81.0,
+  "destruction": 95.56,
   "members": [
    {
     "name": "fury",
@@ -822,7 +866,7 @@
    }
   ],
   "name": "Perfect in war!",
-  "stars": 59,
+  "stars": 69,
   "tag": "#L88UJ8JC"
  },
  "start": "20261123T175717.000Z",
