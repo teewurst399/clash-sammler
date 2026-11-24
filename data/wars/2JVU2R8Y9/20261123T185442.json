@@ -285,11 +285,88 @@
    "p": 94,
    "s": 2,
    "side": "clan"
+  },
+  {
+   "a": "#2UQ0CRU28",
+   "ath": 19,
+   "d": "#29G922VYR",
+   "dth": 19,
+   "dur": 123,
+   "o": 27,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#22J0YRRRP",
+   "ath": 19,
+   "d": "#LGGLCCU9R",
+   "dth": 19,
+   "dur": 135,
+   "o": 28,
+   "p": 80,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#2UQ0CRU28",
+   "ath": 19,
+   "d": "#2U20C2VQU",
+   "dth": 19,
+   "dur": 134,
+   "o": 29,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#LY2VRUG2",
+   "ath": 19,
+   "d": "#9JCUVQ08",
+   "dth": 19,
+   "dur": 146,
+   "o": 30,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#8JYYQGQ08",
+   "ath": 19,
+   "d": "#908L8CJP",
+   "dth": 19,
+   "dur": 153,
+   "o": 31,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#9VQP9PP8L",
+   "ath": 19,
+   "d": "#22J0YRRRP",
+   "dth": 19,
+   "dur": 162,
+   "o": 32,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#9VQP9PP8L",
+   "ath": 19,
+   "d": "#8L2C9J8RV",
+   "dth": 19,
+   "dur": 180,
+   "o": 33,
+   "p": 94,
+   "s": 2,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 39.066666,
+  "destruction": 41.733334,
   "members": [
    {
     "name": "R A B B I",
@@ -473,12 +550,12 @@
    }
   ],
   "name": "HolzFrucht",
-  "stars": 30,
+  "stars": 32,
   "tag": "#2JVU2R8Y9"
  },
  "end": "20261125T175442.000Z",
  "opponent": {
-  "destruction": 26.633333,
+  "destruction": 43.133335,
   "members": [
    {
     "name": "✨سـلطـان✨♦️‏LMT",
@@ -662,7 +739,7 @@
    }
   ],
   "name": "لمتنا احلا",
-  "stars": 23,
+  "stars": 38,
   "tag": "#299GC0CCJ"
  },
  "start": "20261124T175442.000Z",

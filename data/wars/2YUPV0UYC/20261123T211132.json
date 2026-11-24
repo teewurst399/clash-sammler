@@ -120,11 +120,198 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#PG02UC2G",
+   "ath": 19,
+   "d": "#GVJ9Y92",
+   "dth": 19,
+   "dur": 116,
+   "o": 12,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#LLUGJP800",
+   "ath": 19,
+   "d": "#L222G2RY0",
+   "dth": 19,
+   "dur": 146,
+   "o": 13,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#GJQRUGR9J",
+   "ath": 19,
+   "d": "#88YL09YJR",
+   "dth": 19,
+   "dur": 167,
+   "o": 14,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#UJVQJ0C9",
+   "ath": 19,
+   "d": "#2CGQ0QGYC",
+   "dth": 19,
+   "dur": 95,
+   "o": 15,
+   "p": 94,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#GJQRUGR9J",
+   "ath": 19,
+   "d": "#G0JP2QP2",
+   "dth": 19,
+   "dur": 147,
+   "o": 16,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#2Q02UCV2C",
+   "ath": 19,
+   "d": "#88CLPYJUQ",
+   "dth": 19,
+   "dur": 139,
+   "o": 17,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#UJVQJ0C9",
+   "ath": 19,
+   "d": "#YP2JVC882",
+   "dth": 19,
+   "dur": 168,
+   "o": 18,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#22800PYCR",
+   "ath": 19,
+   "d": "#8RYQUCVRU",
+   "dth": 19,
+   "dur": 127,
+   "o": 19,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#2Q02UCV2C",
+   "ath": 19,
+   "d": "#Y89C02VP9",
+   "dth": 19,
+   "dur": 141,
+   "o": 20,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#LRGULYG8G",
+   "ath": 19,
+   "d": "#2VUPJQQ8C",
+   "dth": 19,
+   "dur": 116,
+   "o": 21,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#LRGULYG8G",
+   "ath": 19,
+   "d": "#YYYLRG09",
+   "dth": 19,
+   "dur": 106,
+   "o": 22,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#9JU8QQLRL",
+   "ath": 19,
+   "d": "#GJQUL2CQU",
+   "dth": 19,
+   "dur": 172,
+   "o": 23,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#9JU8QQLRL",
+   "ath": 19,
+   "d": "#L0JQ0QRU",
+   "dth": 19,
+   "dur": 180,
+   "o": 24,
+   "p": 97,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#22800PYCR",
+   "ath": 19,
+   "d": "#C99LP8LY",
+   "dth": 19,
+   "dur": 127,
+   "o": 25,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#9GPJ9RQR",
+   "ath": 19,
+   "d": "#JRGVCU8U",
+   "dth": 19,
+   "dur": 94,
+   "o": 26,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#9GPJ9RQR",
+   "ath": 19,
+   "d": "#QQ2UQ8JQ",
+   "dth": 19,
+   "dur": 89,
+   "o": 27,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#JGPGLURV",
+   "ath": 19,
+   "d": "#LLUGJP800",
+   "dth": 19,
+   "dur": 144,
+   "o": 28,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 17.475,
+  "destruction": 49.925,
   "members": [
    {
     "name": "LOST☆stefan",
@@ -368,12 +555,12 @@
    }
   ],
   "name": "LOST 3",
-  "stars": 20,
+  "stars": 59,
   "tag": "#2YUPV0UYC"
  },
  "end": "20261125T201132.000Z",
  "opponent": {
-  "destruction": 6.75,
+  "destruction": 11.95,
   "members": [
    {
     "name": "꧁BLACK☬DRAGON꧂",
@@ -617,7 +804,7 @@
    }
   ],
   "name": "White Phoenix",
-  "stars": 6,
+  "stars": 13,
   "tag": "#2L0GRJUQL"
  },
  "start": "20261124T201132.000Z",

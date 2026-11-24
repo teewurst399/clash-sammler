@@ -494,11 +494,110 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#YV8JJC9RQ",
+   "ath": 19,
+   "d": "#PPYR8VC2R",
+   "dth": 19,
+   "dur": 165,
+   "o": 46,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#2UGPLUGGL",
+   "ath": 19,
+   "d": "#QJUYR9VV",
+   "dth": 19,
+   "dur": 180,
+   "o": 47,
+   "p": 91,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#9CYJG2VRP",
+   "ath": 19,
+   "d": "#98VVQV0U0",
+   "dth": 19,
+   "dur": 158,
+   "o": 48,
+   "p": 79,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#2UGPLUGGL",
+   "ath": 19,
+   "d": "#JQRU0C9C",
+   "dth": 19,
+   "dur": 180,
+   "o": 49,
+   "p": 93,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#U00VQ98Y",
+   "ath": 19,
+   "d": "#YGP22LCJV",
+   "dth": 19,
+   "dur": 170,
+   "o": 50,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#U00VQ98Y",
+   "ath": 19,
+   "d": "#CCCJ9RCC",
+   "dth": 19,
+   "dur": 130,
+   "o": 51,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#PQ0LJ9UL9",
+   "ath": 19,
+   "d": "#LCGRV8JVR",
+   "dth": 19,
+   "dur": 124,
+   "o": 52,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#PQ0LJ9UL9",
+   "ath": 19,
+   "d": "#RVGUJUQ0",
+   "dth": 19,
+   "dur": 138,
+   "o": 53,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#RVGUJUQ0",
+   "ath": 19,
+   "d": "#YG9LLQ8L",
+   "dth": 19,
+   "dur": 169,
+   "o": 54,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 50.0,
+  "destruction": 59.58,
   "members": [
    {
     "name": "Hunga Munga",
@@ -802,12 +901,12 @@
    }
   ],
   "name": "Get Buttered!",
-  "stars": 75,
+  "stars": 89,
   "tag": "#2R98Y8YUJ"
  },
  "end": "20261125T190707.000Z",
  "opponent": {
-  "destruction": 32.0,
+  "destruction": 39.68,
   "members": [
    {
     "name": "➡️ＮＥＧＡＲ",
@@ -1111,7 +1210,7 @@
    }
   ],
   "name": "Arrow",
-  "stars": 48,
+  "stars": 58,
   "tag": "#PQU9YQCQ"
  },
  "start": "20261124T190707.000Z",

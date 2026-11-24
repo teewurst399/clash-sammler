@@ -384,11 +384,154 @@
    "p": 85,
    "s": 2,
    "side": "gegner"
+  },
+  {
+   "a": "#QLGPCQC2",
+   "ath": 19,
+   "d": "#8R9VJVC9Y",
+   "dth": 19,
+   "dur": 119,
+   "o": 36,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#QLGPCQC2",
+   "ath": 19,
+   "d": "#80L9GUCR0",
+   "dth": 19,
+   "dur": 146,
+   "o": 37,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#9PP8899VJ",
+   "ath": 19,
+   "d": "#8GGU0G8L",
+   "dth": 19,
+   "dur": 162,
+   "o": 38,
+   "p": 95,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#28PR20U0G",
+   "ath": 19,
+   "d": "#GJ88QJG8V",
+   "dth": 19,
+   "dur": 112,
+   "o": 39,
+   "p": 55,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#L8LG22J80",
+   "ath": 19,
+   "d": "#PLVLG8UJ",
+   "dth": 19,
+   "dur": 180,
+   "o": 40,
+   "p": 90,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#L8LG22J80",
+   "ath": 19,
+   "d": "#JQJJ9L9L",
+   "dth": 19,
+   "dur": 150,
+   "o": 41,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#YJGVVRGYP",
+   "ath": 19,
+   "d": "#YY0RYV8U",
+   "dth": 19,
+   "dur": 170,
+   "o": 42,
+   "p": 78,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#YJGVVRGYP",
+   "ath": 19,
+   "d": "#2VJRJGV9",
+   "dth": 19,
+   "dur": 143,
+   "o": 43,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#28PR20U0G",
+   "ath": 19,
+   "d": "#9229JGPG2",
+   "dth": 19,
+   "dur": 141,
+   "o": 44,
+   "p": 93,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#YPRY8Y2L",
+   "ath": 19,
+   "d": "#2Y9YU0CQR",
+   "dth": 19,
+   "dur": 180,
+   "o": 45,
+   "p": 65,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#GJ88QJG8V",
+   "ath": 19,
+   "d": "#2JGQJC0CG",
+   "dth": 19,
+   "dur": 118,
+   "o": 46,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#RVJ0U8R9",
+   "ath": 19,
+   "d": "#8Y9VGQYLQ",
+   "dth": 19,
+   "dur": 152,
+   "o": 47,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#GJ88QJG8V",
+   "ath": 19,
+   "d": "#99999PQ",
+   "dth": 19,
+   "dur": 108,
+   "o": 48,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 51.425,
+  "destruction": 67.025,
   "members": [
    {
     "name": "Chiko",
@@ -632,12 +775,12 @@
    }
   ],
   "name": "GermanGladiator",
-  "stars": 59,
+  "stars": 78,
   "tag": "#2Y2L0J20V"
  },
  "end": "20261125T181722.000Z",
  "opponent": {
-  "destruction": 16.425,
+  "destruction": 24.25,
   "members": [
    {
     "name": "Viridis",
@@ -881,7 +1024,7 @@
    }
   ],
   "name": "808 Beach",
-  "stars": 17,
+  "stars": 25,
   "tag": "#GVVVJL8R"
  },
  "start": "20261124T181722.000Z",

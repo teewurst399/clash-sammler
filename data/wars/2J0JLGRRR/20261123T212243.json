@@ -43,11 +43,99 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#98VQ90GQJ",
+   "ath": 17,
+   "d": "#GUJ9VLYP0",
+   "dth": 15,
+   "dur": 101,
+   "o": 5,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#98VQ90GQJ",
+   "ath": 17,
+   "d": "#99JGJQYVU",
+   "dth": 14,
+   "dur": 87,
+   "o": 6,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#R82G2YU8L",
+   "ath": 10,
+   "d": "#GCG0JYL0G",
+   "dth": 9,
+   "dur": 19,
+   "o": 7,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#GC9UYCQVY",
+   "ath": 17,
+   "d": "#Q9LVCRJ02",
+   "dth": 17,
+   "dur": 106,
+   "o": 8,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#R82G2YU8L",
+   "ath": 10,
+   "d": "#G29PJPCRU",
+   "dth": 13,
+   "dur": 144,
+   "o": 9,
+   "p": 86,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#GC9UYCQVY",
+   "ath": 17,
+   "d": "#Q9J8PVY88",
+   "dth": 18,
+   "dur": 107,
+   "o": 10,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#R0RVL0QVQ",
+   "ath": 15,
+   "d": "#YC0P89CGJ",
+   "dth": 17,
+   "dur": 93,
+   "o": 11,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#GUQRRUVL2",
+   "ath": 15,
+   "d": "#GV0C02YGU",
+   "dth": 14,
+   "dur": 158,
+   "o": 12,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 15.68,
+  "destruction": 43.12,
   "members": [
    {
     "name": "G!B Badoomi",
@@ -201,12 +289,12 @@
    }
   ],
   "name": "Get Smurfed!",
-  "stars": 10,
+  "stars": 30,
   "tag": "#2J0JLGRRR"
  },
  "end": "20261125T202243.000Z",
  "opponent": {
-  "destruction": 0.0,
+  "destruction": 4.0,
   "members": [
    {
     "name": "MKNSZ",
@@ -360,7 +448,7 @@
    }
   ],
   "name": "ANTİTERÖR CLÜP",
-  "stars": 0,
+  "stars": 3,
   "tag": "#JYQVPCC8"
  },
  "start": "20261124T202243.000Z",

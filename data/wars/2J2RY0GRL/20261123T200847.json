@@ -637,11 +637,209 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#Y92YQ9UG0",
+   "ath": 19,
+   "d": "#CGCRP822",
+   "dth": 19,
+   "dur": 121,
+   "o": 59,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#8R89GQR2P",
+   "ath": 19,
+   "d": "#9GPQPP8RG",
+   "dth": 19,
+   "dur": 120,
+   "o": 60,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#Y92YQ9UG0",
+   "ath": 19,
+   "d": "#LYGQ0R2QC",
+   "dth": 19,
+   "dur": 145,
+   "o": 61,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#L9C0J0CP",
+   "ath": 19,
+   "d": "#922GRUU00",
+   "dth": 19,
+   "dur": 133,
+   "o": 62,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#8J8R98VPJ",
+   "ath": 19,
+   "d": "#QC0CPVRJ9",
+   "dth": 19,
+   "dur": 154,
+   "o": 63,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#L9C0J0CP",
+   "ath": 19,
+   "d": "#YJYJQV9V",
+   "dth": 19,
+   "dur": 144,
+   "o": 64,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#9VGLY20GV",
+   "ath": 19,
+   "d": "#20UL2JL2V",
+   "dth": 19,
+   "dur": 152,
+   "o": 65,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#9GVP2R28L",
+   "ath": 18,
+   "d": "#L80UU2VG0",
+   "dth": 18,
+   "dur": 147,
+   "o": 66,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#9VGLY20GV",
+   "ath": 19,
+   "d": "#YGRCLYLUP",
+   "dth": 19,
+   "dur": 138,
+   "o": 67,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#8J8R98VPJ",
+   "ath": 19,
+   "d": "#LJJUU9LC2",
+   "dth": 19,
+   "dur": 119,
+   "o": 68,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#9GVP2R28L",
+   "ath": 18,
+   "d": "#LG2JYG8RC",
+   "dth": 19,
+   "dur": 161,
+   "o": 69,
+   "p": 47,
+   "s": 0,
+   "side": "gegner"
+  },
+  {
+   "a": "#QRRL20GR",
+   "ath": 19,
+   "d": "#8R008JC09",
+   "dth": 19,
+   "dur": 115,
+   "o": 70,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#QRRL20GR",
+   "ath": 19,
+   "d": "#YQRGL2YGQ",
+   "dth": 19,
+   "dur": 160,
+   "o": 71,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#LV2QC0C2",
+   "ath": 19,
+   "d": "#8QPGVLQ8L",
+   "dth": 19,
+   "dur": 89,
+   "o": 72,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#LV2QC0C2",
+   "ath": 19,
+   "d": "#8UVGJLV22",
+   "dth": 19,
+   "dur": 109,
+   "o": 73,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#YQYGCQGRL",
+   "ath": 19,
+   "d": "#8GGLJ8299",
+   "dth": 19,
+   "dur": 90,
+   "o": 74,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#YQYGCQGRL",
+   "ath": 19,
+   "d": "#8VL8L8UJL",
+   "dth": 19,
+   "dur": 78,
+   "o": 75,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#QRJVQVV0",
+   "ath": 19,
+   "d": "#CU8PGJ9R",
+   "dth": 19,
+   "dur": 130,
+   "o": 76,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 17.777779,
+  "destruction": 44.444443,
   "members": [
    {
     "name": "PaPaPatrick",
@@ -915,12 +1113,12 @@
    }
   ],
   "name": "Confusion II",
-  "stars": 24,
+  "stars": 60,
   "tag": "#2J2RY0GRL"
  },
  "end": "20261125T190847.000Z",
  "opponent": {
-  "destruction": 90.95556,
+  "destruction": 100.0,
   "members": [
    {
     "name": "LOA「⫶」CASTRO シ",
@@ -1194,7 +1392,7 @@
    }
   ],
   "name": "LegeNds Of aRab",
-  "stars": 122,
+  "stars": 135,
   "tag": "#2P29JULRQ"
  },
  "start": "20261124T190847.000Z",

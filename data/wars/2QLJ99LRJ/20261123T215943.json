@@ -1,0 +1,381 @@
+{
+ "attacks": [
+  {
+   "a": "#G8QL9YRRQ",
+   "ath": 19,
+   "d": "#U9890RJQ",
+   "dth": 19,
+   "dur": 156,
+   "o": 1,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#G8QL9YRRQ",
+   "ath": 19,
+   "d": "#C9VP88Y8",
+   "dth": 19,
+   "dur": 164,
+   "o": 2,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#PGP2YPYP2",
+   "ath": 19,
+   "d": "#PJRVY9LQC",
+   "dth": 19,
+   "dur": 147,
+   "o": 3,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#PGP2YPYP2",
+   "ath": 19,
+   "d": "#9CCJGGL9J",
+   "dth": 19,
+   "dur": 124,
+   "o": 4,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#2GUQPJ2V2",
+   "ath": 19,
+   "d": "#8JRLUPCGC",
+   "dth": 18,
+   "dur": 125,
+   "o": 5,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  }
+ ],
+ "attacksPerMember": 2,
+ "clan": {
+  "destruction": 0.0,
+  "members": [
+   {
+    "name": "❗️B༏g BaསG❗️",
+    "pos": 20,
+    "tag": "#GG2CQRRQ",
+    "th": 12
+   },
+   {
+    "name": "Raugraf Hugo",
+    "pos": 13,
+    "tag": "#QU0VUUVYG",
+    "th": 17
+   },
+   {
+    "name": "Lil'slo",
+    "pos": 9,
+    "tag": "#Y0QUJRJL",
+    "th": 17
+   },
+   {
+    "name": "死 *Relativity*",
+    "pos": 15,
+    "tag": "#Q808CUJYG",
+    "th": 15
+   },
+   {
+    "name": "LegitSmiley☺",
+    "pos": 5,
+    "tag": "#8JRLUPCGC",
+    "th": 18
+   },
+   {
+    "name": "FreeTwoPlay",
+    "pos": 19,
+    "tag": "#GYY8CV2VQ",
+    "th": 13
+   },
+   {
+    "name": "CKNebu",
+    "pos": 4,
+    "tag": "#9CCJGGL9J",
+    "th": 19
+   },
+   {
+    "name": "Burggraf Hugo",
+    "pos": 25,
+    "tag": "#QCJ090QRJ",
+    "th": 7
+   },
+   {
+    "name": "Schnablo٩(^‿^)۶",
+    "pos": 23,
+    "tag": "#GCJV0PY09",
+    "th": 10
+   },
+   {
+    "name": "sloburn",
+    "pos": 6,
+    "tag": "#L8GCGYJ",
+    "th": 18
+   },
+   {
+    "name": "canyener94",
+    "pos": 10,
+    "tag": "#982RQ9L8",
+    "th": 17
+   },
+   {
+    "name": "Imperator Hugo",
+    "pos": 3,
+    "tag": "#PJRVY9LQC",
+    "th": 19
+   },
+   {
+    "name": "F2P} I Dome I",
+    "pos": 12,
+    "tag": "#QRCPPU0R0",
+    "th": 16
+   },
+   {
+    "name": "#SE# Paule",
+    "pos": 2,
+    "tag": "#C9VP88Y8",
+    "th": 19
+   },
+   {
+    "name": "Pro65656",
+    "pos": 14,
+    "tag": "#QVLQ8P2PY",
+    "th": 16
+   },
+   {
+    "name": "König Hugo",
+    "pos": 1,
+    "tag": "#U9890RJQ",
+    "th": 19
+   },
+   {
+    "name": "LOKESH",
+    "pos": 8,
+    "tag": "#G90QC2RP9",
+    "th": 18
+   },
+   {
+    "name": "Let‘s play Lalo",
+    "pos": 7,
+    "tag": "#8QYV8VULV",
+    "th": 18
+   },
+   {
+    "name": "Landgraf Hugo",
+    "pos": 24,
+    "tag": "#QJV8QQ0UC",
+    "th": 8
+   },
+   {
+    "name": "Fürst Hugo",
+    "pos": 17,
+    "tag": "#QC82UYQCY",
+    "th": 17
+   },
+   {
+    "name": "DerWahreErlöser",
+    "pos": 11,
+    "tag": "#LRJJQU0Q9",
+    "th": 19
+   },
+   {
+    "name": "Herzog Hugo",
+    "pos": 16,
+    "tag": "#QUQGLVJ2J",
+    "th": 17
+   },
+   {
+    "name": "●⃝ ⛧ᴰǟᚱᴋ❀ÐȺнŁɪ₳",
+    "pos": 21,
+    "tag": "#GJ98VJQQR",
+    "th": 12
+   },
+   {
+    "name": "Magic2001",
+    "pos": 18,
+    "tag": "#22V9U90U",
+    "th": 13
+   },
+   {
+    "name": "Magic2001",
+    "pos": 22,
+    "tag": "#802PR80C8",
+    "th": 12
+   }
+  ],
+  "name": "Betazone",
+  "stars": 0,
+  "tag": "#2QLJ99LRJ"
+ },
+ "end": "20261125T205943.000Z",
+ "opponent": {
+  "destruction": 20.0,
+  "members": [
+   {
+    "name": "variant",
+    "pos": 20,
+    "tag": "#QP8CV0QUU",
+    "th": 13
+   },
+   {
+    "name": "war6",
+    "pos": 22,
+    "tag": "#QY9RJLJYY",
+    "th": 13
+   },
+   {
+    "name": "war2",
+    "pos": 16,
+    "tag": "#QY9G0Y8CJ",
+    "th": 14
+   },
+   {
+    "name": "MR.SOHEIL",
+    "pos": 8,
+    "tag": "#QGCJU890J",
+    "th": 18
+   },
+   {
+    "name": "MmReza⚡TM",
+    "pos": 2,
+    "tag": "#2GUQPJ2V2",
+    "th": 19
+   },
+   {
+    "name": "war",
+    "pos": 17,
+    "tag": "#QJVG00GUP",
+    "th": 14
+   },
+   {
+    "name": "parsa",
+    "pos": 13,
+    "tag": "#2UL0882PP",
+    "th": 17
+   },
+   {
+    "name": "Ghost Rider",
+    "pos": 23,
+    "tag": "#R2U0LJLQL",
+    "th": 12
+   },
+   {
+    "name": "☆Night Wolf☆",
+    "pos": 15,
+    "tag": "#GCJ0Q8U08",
+    "th": 14
+   },
+   {
+    "name": "HAJ✨OMID",
+    "pos": 1,
+    "tag": "#PGP2YPYP2",
+    "th": 19
+   },
+   {
+    "name": "AMIR",
+    "pos": 12,
+    "tag": "#YU90RY2G2",
+    "th": 17
+   },
+   {
+    "name": "KING ERROR",
+    "pos": 7,
+    "tag": "#8JGY9UY8G",
+    "th": 19
+   },
+   {
+    "name": "terminator",
+    "pos": 4,
+    "tag": "#82Y2VVYJQ",
+    "th": 19
+   },
+   {
+    "name": "ÜFÖ:Omid",
+    "pos": 24,
+    "tag": "#R809R9J9L",
+    "th": 12
+   },
+   {
+    "name": "sad boy",
+    "pos": 3,
+    "tag": "#G8QL9YRRQ",
+    "th": 19
+   },
+   {
+    "name": "hesam",
+    "pos": 5,
+    "tag": "#2ULLUJ0RL",
+    "th": 19
+   },
+   {
+    "name": "coast to coast",
+    "pos": 10,
+    "tag": "#PQCYUUVG",
+    "th": 18
+   },
+   {
+    "name": "coast to coast",
+    "pos": 9,
+    "tag": "#2C0V0VQU9",
+    "th": 18
+   },
+   {
+    "name": "⭐ॐ》Sa❣Ra《ॐ⭐",
+    "pos": 6,
+    "tag": "#8PPURV22L",
+    "th": 19
+   },
+   {
+    "name": "Arta",
+    "pos": 11,
+    "tag": "#2YCCCJRU2",
+    "th": 17
+   },
+   {
+    "name": "war3",
+    "pos": 18,
+    "tag": "#QRQGC9VY8",
+    "th": 13
+   },
+   {
+    "name": "amir3",
+    "pos": 25,
+    "tag": "#9U0CUU90R",
+    "th": 11
+   },
+   {
+    "name": "S20K06H",
+    "pos": 14,
+    "tag": "#2GUYUUUQQ",
+    "th": 15
+   },
+   {
+    "name": "war7",
+    "pos": 21,
+    "tag": "#QGR9QYC0L",
+    "th": 13
+   },
+   {
+    "name": "iran",
+    "pos": 19,
+    "tag": "#Q9YGUPLQ9",
+    "th": 13
+   }
+  ],
+  "name": "هوگ عاشق",
+  "stars": 15,
+  "tag": "#Q2PCUUQ9"
+ },
+ "start": "20261124T205943.000Z",
+ "state": "inWar",
+ "teamSize": 25,
+ "type": "krieg"
+}

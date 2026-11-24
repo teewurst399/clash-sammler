@@ -1209,6 +1209,94 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#9VGV0J8UV",
+   "ath": 19,
+   "d": "#YYQP82VRC",
+   "dth": 19,
+   "dur": 164,
+   "o": 111,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#9VGV0J8UV",
+   "ath": 19,
+   "d": "#2YGV29JGR",
+   "dth": 19,
+   "dur": 173,
+   "o": 112,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#YG2Q9R9VV",
+   "ath": 19,
+   "d": "#JLC2VQPU",
+   "dth": 19,
+   "dur": 12,
+   "o": 113,
+   "p": 6,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#YG2Q9R9VV",
+   "ath": 19,
+   "d": "#U0RC2QGV",
+   "dth": 19,
+   "dur": 14,
+   "o": 114,
+   "p": 10,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#YPCCLP2VU",
+   "ath": 19,
+   "d": "#U0RC2QGV",
+   "dth": 19,
+   "dur": 16,
+   "o": 115,
+   "p": 7,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#YPCCLP2VU",
+   "ath": 19,
+   "d": "#JLC2VQPU",
+   "dth": 19,
+   "dur": 9,
+   "o": 116,
+   "p": 4,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#82J2PQV8R",
+   "ath": 19,
+   "d": "#9Y9G8J9Q9",
+   "dth": 19,
+   "dur": 180,
+   "o": 117,
+   "p": 90,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#82J2PQV8R",
+   "ath": 19,
+   "d": "#UJ9299LR",
+   "dth": 19,
+   "dur": 176,
+   "o": 118,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -1432,7 +1520,7 @@
  },
  "end": "20261124T222205.000Z",
  "opponent": {
-  "destruction": 96.65714,
+  "destruction": 100.0,
   "members": [
    {
     "name": "KENNETH",
@@ -1646,7 +1734,7 @@
    }
   ],
   "name": "CLAN INFERNAL",
-  "stars": 101,
+  "stars": 105,
   "tag": "#YLP2L0LP"
  },
  "start": "20261123T222205.000Z",

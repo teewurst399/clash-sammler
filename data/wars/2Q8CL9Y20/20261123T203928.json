@@ -76,6 +76,61 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#Y0CQC0RJ",
+   "ath": 19,
+   "d": "#P2JR88QQG",
+   "dth": 19,
+   "dur": 165,
+   "o": 8,
+   "p": 94,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#P8LJQ00GU",
+   "ath": 19,
+   "d": "#P080Q2RQ",
+   "dth": 19,
+   "dur": 133,
+   "o": 9,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#Y0CQC0RJ",
+   "ath": 19,
+   "d": "#Q8YU2828Y",
+   "dth": 19,
+   "dur": 140,
+   "o": 10,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#8299VR2QC",
+   "ath": 19,
+   "d": "#U2LUC088",
+   "dth": 19,
+   "dur": 165,
+   "o": 11,
+   "p": 94,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#J0L9V0L",
+   "ath": 19,
+   "d": "#9L0CQ9JY0",
+   "dth": 19,
+   "dur": 151,
+   "o": 12,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -299,7 +354,7 @@
  },
  "end": "20261125T193928.000Z",
  "opponent": {
-  "destruction": 5.285714,
+  "destruction": 16.542856,
   "members": [
    {
     "name": "BS Keizer",
@@ -513,7 +568,7 @@
    }
   ],
   "name": "Ballensnijers",
-  "stars": 4,
+  "stars": 15,
   "tag": "#2QVJVVJC"
  },
  "start": "20261124T193928.000Z",

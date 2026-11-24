@@ -197,11 +197,176 @@
    "p": 74,
    "s": 1,
    "side": "gegner"
+  },
+  {
+   "a": "#LG2UY8U",
+   "ath": 19,
+   "d": "#Q9G2JL0U",
+   "dth": 19,
+   "dur": 151,
+   "o": 19,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#UJG9PL28",
+   "ath": 19,
+   "d": "#9YU2QR9GV",
+   "dth": 19,
+   "dur": 180,
+   "o": 20,
+   "p": 87,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#Q0CY90L8Q",
+   "ath": 19,
+   "d": "#GYPJPGR00",
+   "dth": 19,
+   "dur": 120,
+   "o": 21,
+   "p": 79,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#J90CCPC0",
+   "ath": 19,
+   "d": "#GLJ0YLQ",
+   "dth": 19,
+   "dur": 128,
+   "o": 22,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#20YVJUG0J",
+   "ath": 19,
+   "d": "#8P298Q9J",
+   "dth": 19,
+   "dur": 115,
+   "o": 23,
+   "p": 95,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#89P99RGG8",
+   "ath": 19,
+   "d": "#2UJ8RRGUP",
+   "dth": 18,
+   "dur": 180,
+   "o": 24,
+   "p": 88,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#J90CCPC0",
+   "ath": 19,
+   "d": "#229VJ020G",
+   "dth": 19,
+   "dur": 135,
+   "o": 25,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#89P99RGG8",
+   "ath": 19,
+   "d": "#LC98P20YY",
+   "dth": 18,
+   "dur": 126,
+   "o": 26,
+   "p": 87,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#QLCR20YJ",
+   "ath": 19,
+   "d": "#LC98P20YY",
+   "dth": 18,
+   "dur": 178,
+   "o": 27,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#LL2UYUVCV",
+   "ath": 19,
+   "d": "#288UG8GL",
+   "dth": 19,
+   "dur": 165,
+   "o": 28,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#LL2UYUVCV",
+   "ath": 19,
+   "d": "#Q2UY8VYL",
+   "dth": 19,
+   "dur": 167,
+   "o": 29,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#20PGPPLQL",
+   "ath": 19,
+   "d": "#98GV90GCV",
+   "dth": 19,
+   "dur": 166,
+   "o": 30,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#GYPJPGR00",
+   "ath": 19,
+   "d": "#Q0CY90L8Q",
+   "dth": 19,
+   "dur": 110,
+   "o": 31,
+   "p": 61,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#9VVPVLVL",
+   "ath": 19,
+   "d": "#2Y0UVCGQP",
+   "dth": 19,
+   "dur": 134,
+   "o": 32,
+   "p": 72,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#GYPJPGR00",
+   "ath": 19,
+   "d": "#QLCR20YJ",
+   "dth": 19,
+   "dur": 153,
+   "o": 33,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 14.025,
+  "destruction": 32.225,
   "members": [
    {
     "name": "WB Teewurst",
@@ -445,12 +610,12 @@
    }
   ],
   "name": "Wurstbude",
-  "stars": 15,
+  "stars": 35,
   "tag": "#2LCGGC22L"
  },
  "end": "20261125T193822.000Z",
  "opponent": {
-  "destruction": 21.5,
+  "destruction": 33.5,
   "members": [
    {
     "name": "vendinois",
@@ -694,7 +859,7 @@
    }
   ],
   "name": "LES FINES LAMES",
-  "stars": 24,
+  "stars": 37,
   "tag": "#LRCPYQU"
  },
  "start": "20261124T193822.000Z",
