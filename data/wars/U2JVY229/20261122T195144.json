@@ -1154,11 +1154,154 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#RGUQ0CPL",
+   "ath": 19,
+   "d": "#98QR889CJ",
+   "dth": 19,
+   "dur": 168,
+   "o": 106,
+   "p": 93,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#890V898QP",
+   "ath": 19,
+   "d": "#Q8YPQ0JQ8",
+   "dth": 19,
+   "dur": 127,
+   "o": 107,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#890V898QP",
+   "ath": 19,
+   "d": "#YCRQGPVY",
+   "dth": 18,
+   "dur": 131,
+   "o": 108,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#8L20LVCUL",
+   "ath": 19,
+   "d": "#LQJUUG8CG",
+   "dth": 19,
+   "dur": 146,
+   "o": 109,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#9UJ2RPU0P",
+   "ath": 19,
+   "d": "#J8LJQ0UY",
+   "dth": 19,
+   "dur": 153,
+   "o": 110,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#9UJ2RPU0P",
+   "ath": 19,
+   "d": "#G0JG9LG0P",
+   "dth": 19,
+   "dur": 128,
+   "o": 111,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#2Q82PU98Y",
+   "ath": 19,
+   "d": "#P00Y8RJG",
+   "dth": 19,
+   "dur": 161,
+   "o": 112,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#200UQV89J",
+   "ath": 19,
+   "d": "#QYVRC2VG",
+   "dth": 19,
+   "dur": 163,
+   "o": 113,
+   "p": 74,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#J920UY2V",
+   "ath": 19,
+   "d": "#J8LJQ0UY",
+   "dth": 19,
+   "dur": 117,
+   "o": 114,
+   "p": 73,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#QYVRC2VG",
+   "ath": 19,
+   "d": "#2LYC9LL0",
+   "dth": 19,
+   "dur": 145,
+   "o": 115,
+   "p": 91,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#2YPVGULQR",
+   "ath": 19,
+   "d": "#JQ99JRG2",
+   "dth": 19,
+   "dur": 152,
+   "o": 116,
+   "p": 93,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#UPGL88UQ",
+   "ath": 19,
+   "d": "#J8LJQ0UY",
+   "dth": 19,
+   "dur": 138,
+   "o": 117,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#80LLV0UGP",
+   "ath": 19,
+   "d": "#LYPV8J8CY",
+   "dth": 19,
+   "dur": 154,
+   "o": 118,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 93.85714,
+  "destruction": 100.0,
   "members": [
    {
     "name": "GL™ ReViX",
@@ -1372,12 +1515,12 @@
    }
   ],
   "name": "GNADENLOS™",
-  "stars": 98,
+  "stars": 105,
   "tag": "#U2JVY229"
  },
  "end": "20261124T185144.000Z",
  "opponent": {
-  "destruction": 91.51428,
+  "destruction": 92.11429,
   "members": [
    {
     "name": "⚡️SuddenDeath⚡️",
@@ -1591,7 +1734,7 @@
    }
   ],
   "name": "OpasLuXusSofa",
-  "stars": 89,
+  "stars": 90,
   "tag": "#20LJYU090"
  },
  "start": "20261123T185144.000Z",

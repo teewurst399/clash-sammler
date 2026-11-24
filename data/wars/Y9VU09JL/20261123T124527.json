@@ -230,11 +230,44 @@
    "p": 83,
    "s": 1,
    "side": "gegner"
+  },
+  {
+   "a": "#R8R2QLG0",
+   "ath": 19,
+   "d": "#YYVPRG9Q9",
+   "dth": 19,
+   "dur": 154,
+   "o": 22,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#R8R2QLG0",
+   "ath": 19,
+   "d": "#QY0QVYCJY",
+   "dth": 19,
+   "dur": 141,
+   "o": 23,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#YVYR82URC",
+   "ath": 17,
+   "d": "#2C0VLGUL",
+   "dth": 18,
+   "dur": 158,
+   "o": 24,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 17.142857,
+  "destruction": 20.0,
   "members": [
    {
     "name": "vllo",
@@ -448,12 +481,12 @@
    }
   ],
   "name": "Rising Phoenix",
-  "stars": 18,
+  "stars": 21,
   "tag": "#Y9VU09JL"
  },
  "end": "20261125T114527.000Z",
  "opponent": {
-  "destruction": 41.685715,
+  "destruction": 47.4,
   "members": [
    {
     "name": "Venom",
@@ -667,7 +700,7 @@
    }
   ],
   "name": "Indo Xtreme",
-  "stars": 38,
+  "stars": 44,
   "tag": "#LYLJUGG"
  },
  "start": "20261124T114527.000Z",

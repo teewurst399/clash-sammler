@@ -1176,11 +1176,66 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#28UVJJY0V",
+   "ath": 19,
+   "d": "#8G8QJJ20",
+   "dth": 19,
+   "dur": 136,
+   "o": 108,
+   "p": 99,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#28UVJJY0V",
+   "ath": 19,
+   "d": "#CLUG2YCJ",
+   "dth": 19,
+   "dur": 124,
+   "o": 109,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#9QQCLYLCL",
+   "ath": 19,
+   "d": "#8G8QJJ20",
+   "dth": 19,
+   "dur": 111,
+   "o": 110,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#9QQCLYLCL",
+   "ath": 19,
+   "d": "#29QUPGGYL",
+   "dth": 19,
+   "dur": 113,
+   "o": 111,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#2QGCULY2G",
+   "ath": 19,
+   "d": "#YJVPGVYC9",
+   "dth": 19,
+   "dur": 180,
+   "o": 112,
+   "p": 99,
+   "s": 2,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 66.95556,
+  "destruction": 69.35555,
   "members": [
    {
     "name": "ROBINJO*ALIHAN",
@@ -1454,7 +1509,7 @@
    }
   ],
   "name": "Eiskalte Engel",
-  "stars": 85,
+  "stars": 90,
   "tag": "#9UCL90RP"
  },
  "end": "20261125T003945.000Z",

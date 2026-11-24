@@ -1319,11 +1319,121 @@
    "p": 98,
    "s": 2,
    "side": "gegner"
+  },
+  {
+   "a": "#YVGGLVVP",
+   "ath": 19,
+   "d": "#2LYYCVC8R",
+   "dth": 19,
+   "dur": 139,
+   "o": 121,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#L82CYVRVG",
+   "ath": 19,
+   "d": "#JRG9RJG0",
+   "dth": 19,
+   "dur": 88,
+   "o": 122,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#L82CYVRVG",
+   "ath": 19,
+   "d": "#2LYYGLRVJ",
+   "dth": 19,
+   "dur": 110,
+   "o": 123,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#2JQU92CC8",
+   "ath": 19,
+   "d": "#9CYRGRG9",
+   "dth": 19,
+   "dur": 13,
+   "o": 124,
+   "p": 17,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#2JQU92CC8",
+   "ath": 19,
+   "d": "#RL9JYPP2",
+   "dth": 19,
+   "dur": 135,
+   "o": 125,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#GQUVCR90",
+   "ath": 19,
+   "d": "#VVYJ9YLQ",
+   "dth": 19,
+   "dur": 86,
+   "o": 126,
+   "p": 37,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#GQUVCR90",
+   "ath": 19,
+   "d": "#9CYRGRG9",
+   "dth": 19,
+   "dur": 28,
+   "o": 127,
+   "p": 37,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#Q90QJVPQC",
+   "ath": 19,
+   "d": "#29JQVQ2PU",
+   "dth": 19,
+   "dur": 119,
+   "o": 128,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#202P8RCGU",
+   "ath": 19,
+   "d": "#9CYRGRG9",
+   "dth": 19,
+   "dur": 103,
+   "o": 129,
+   "p": 51,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#202P8RCGU",
+   "ath": 19,
+   "d": "#9YYYQC9R",
+   "dth": 19,
+   "dur": 96,
+   "o": 130,
+   "p": 47,
+   "s": 1,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 92.22222,
+  "destruction": 94.888885,
   "members": [
    {
     "name": "Louis",
@@ -1597,12 +1707,12 @@
    }
   ],
   "name": "Pokerzone",
-  "stars": 121,
+  "stars": 126,
   "tag": "#2JPJ8J8CQ"
  },
  "end": "20261124T190804.000Z",
  "opponent": {
-  "destruction": 99.77778,
+  "destruction": 100.0,
   "members": [
    {
     "name": "<--CRUSHER-->",
@@ -1876,7 +1986,7 @@
    }
   ],
   "name": "IronSky",
-  "stars": 133,
+  "stars": 135,
   "tag": "#9C9QQJPJ"
  },
  "start": "20261123T190804.000Z",

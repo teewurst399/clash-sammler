@@ -835,11 +835,99 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#UG0RPC9L",
+   "ath": 19,
+   "d": "#PLC9GRCQL",
+   "dth": 19,
+   "dur": 145,
+   "o": 77,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#8Y9G2R0R",
+   "ath": 19,
+   "d": "#Y98P2020",
+   "dth": 19,
+   "dur": 150,
+   "o": 78,
+   "p": 83,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#PPQQ0ULR",
+   "ath": 19,
+   "d": "#LQLU98P2Y",
+   "dth": 19,
+   "dur": 122,
+   "o": 79,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#PLC9GRCQL",
+   "ath": 19,
+   "d": "#J9G0Q2JU",
+   "dth": 19,
+   "dur": 180,
+   "o": 80,
+   "p": 73,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#8GVYL9V9",
+   "ath": 19,
+   "d": "#Y98P2020",
+   "dth": 19,
+   "dur": 141,
+   "o": 81,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#YCQG9Y92",
+   "ath": 18,
+   "d": "#Y2C8PJVCR",
+   "dth": 19,
+   "dur": 166,
+   "o": 82,
+   "p": 89,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#9V9U99G2",
+   "ath": 19,
+   "d": "#Y2C8PJVCR",
+   "dth": 19,
+   "dur": 144,
+   "o": 83,
+   "p": 97,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#CV0GGRYP",
+   "ath": 19,
+   "d": "#Y2C8PJVCR",
+   "dth": 19,
+   "dur": 114,
+   "o": 84,
+   "p": 82,
+   "s": 1,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 67.457146,
+  "destruction": 69.542854,
   "members": [
    {
     "name": "Gsälzbrot",
@@ -1053,12 +1141,12 @@
    }
   ],
   "name": "headstart",
-  "stars": 66,
+  "stars": 68,
   "tag": "#RLQC8QQY"
  },
  "end": "20261124T200735.000Z",
  "opponent": {
-  "destruction": 97.942856,
+  "destruction": 99.91428,
   "members": [
    {
     "name": "Mistery 79",
@@ -1272,7 +1360,7 @@
    }
   ],
   "name": "Fenice Nera",
-  "stars": 101,
+  "stars": 104,
   "tag": "#GGP09R0"
  },
  "start": "20261123T200735.000Z",
