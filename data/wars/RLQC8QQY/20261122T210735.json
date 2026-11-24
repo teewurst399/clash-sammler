@@ -714,6 +714,50 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#QC0YVP8G",
+   "ath": 19,
+   "d": "#LQLU98P2Y",
+   "dth": 19,
+   "dur": 102,
+   "o": 66,
+   "p": 90,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#8Y02C99VU",
+   "ath": 19,
+   "d": "#G89GLQR90",
+   "dth": 12,
+   "dur": 93,
+   "o": 67,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#8Y02C99VU",
+   "ath": 19,
+   "d": "#Y9VRUCJLQ",
+   "dth": 19,
+   "dur": 180,
+   "o": 68,
+   "p": 98,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#8CUUG0LG",
+   "ath": 19,
+   "d": "#L8RCRC2G",
+   "dth": 19,
+   "dur": 105,
+   "o": 69,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -937,7 +981,7 @@
  },
  "end": "20261124T200735.000Z",
  "opponent": {
-  "destruction": 84.11429,
+  "destruction": 89.828575,
   "members": [
    {
     "name": "Mistery 79",
@@ -1151,7 +1195,7 @@
    }
   ],
   "name": "Fenice Nera",
-  "stars": 86,
+  "stars": 92,
   "tag": "#GGP09R0"
  },
  "start": "20261123T200735.000Z",

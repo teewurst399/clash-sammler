@@ -505,11 +505,33 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#QGCUP0YC",
+   "ath": 19,
+   "d": "#LL2U0UQPV",
+   "dth": 19,
+   "dur": 83,
+   "o": 47,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#YVU0G8JP",
+   "ath": 19,
+   "d": "#QPLY9QC9",
+   "dth": 19,
+   "dur": 115,
+   "o": 48,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 56.466667,
+  "destruction": 59.8,
   "members": [
    {
     "name": "×ºkͥyuͣuͫº×",
@@ -693,12 +715,12 @@
    }
   ],
   "name": "Thirdzone",
-  "stars": 50,
+  "stars": 53,
   "tag": "#2GCQLVPR9"
  },
  "end": "20261124T201217.000Z",
  "opponent": {
-  "destruction": 62.0,
+  "destruction": 65.333336,
   "members": [
    {
     "name": "Pascal",
@@ -882,7 +904,7 @@
    }
   ],
   "name": "\"janda lovers\"",
-  "stars": 53,
+  "stars": 56,
   "tag": "#VJRRJQ8Y"
  },
  "start": "20261123T201217.000Z",

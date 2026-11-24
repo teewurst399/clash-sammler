@@ -571,6 +571,17 @@
    "p": 62,
    "s": 2,
    "side": "gegner"
+  },
+  {
+   "a": "#2JP28V9R",
+   "ath": 18,
+   "d": "#GVCG02RQQ",
+   "dth": 18,
+   "dur": 101,
+   "o": 53,
+   "p": 68,
+   "s": 1,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -734,7 +745,7 @@
  },
  "end": "20261124T192518.000Z",
  "opponent": {
-  "destruction": 67.96,
+  "destruction": 70.68,
   "members": [
    {
     "name": "logan",
@@ -888,7 +899,7 @@
    }
   ],
   "name": "Reprisal",
-  "stars": 48,
+  "stars": 49,
   "tag": "#VVY9JLP"
  },
  "start": "20261123T192518.000Z",

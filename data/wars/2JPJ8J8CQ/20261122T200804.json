@@ -1088,11 +1088,99 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#YLQJVYJV0",
+   "ath": 19,
+   "d": "#Q8JGUP8U",
+   "dth": 19,
+   "dur": 98,
+   "o": 100,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#VVYJ9YLQ",
+   "ath": 19,
+   "d": "#YQ0R2Y08C",
+   "dth": 19,
+   "dur": 117,
+   "o": 101,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#29VL00R8P",
+   "ath": 19,
+   "d": "#200QJYY2Q",
+   "dth": 19,
+   "dur": 169,
+   "o": 102,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#YLQJVYJV0",
+   "ath": 19,
+   "d": "#2G200GV8G",
+   "dth": 19,
+   "dur": 136,
+   "o": 103,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#29VL00R8P",
+   "ath": 19,
+   "d": "#L9YCU8J8P",
+   "dth": 19,
+   "dur": 166,
+   "o": 104,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#VVYJ9YLQ",
+   "ath": 19,
+   "d": "#LJ2QYUQG",
+   "dth": 19,
+   "dur": 123,
+   "o": 105,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#J00G9GC",
+   "ath": 19,
+   "d": "#202P8RCGU",
+   "dth": 19,
+   "dur": 180,
+   "o": 106,
+   "p": 99,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#J00G9GC",
+   "ath": 19,
+   "d": "#JRG9RJG0",
+   "dth": 19,
+   "dur": 180,
+   "o": 107,
+   "p": 79,
+   "s": 1,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 65.577774,
+  "destruction": 81.111115,
   "members": [
    {
     "name": "Louis",
@@ -1366,7 +1454,7 @@
    }
   ],
   "name": "Pokerzone",
-  "stars": 86,
+  "stars": 106,
   "tag": "#2JPJ8J8CQ"
  },
  "end": "20261124T190804.000Z",

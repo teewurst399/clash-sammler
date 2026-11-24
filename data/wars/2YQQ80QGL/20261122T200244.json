@@ -1297,11 +1297,55 @@
    "p": 12,
    "s": 1,
    "side": "gegner"
+  },
+  {
+   "a": "#22R8UVVUC",
+   "ath": 19,
+   "d": "#JPCY9P2C",
+   "dth": 19,
+   "dur": 137,
+   "o": 119,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#829J8CCJG",
+   "ath": 19,
+   "d": "#9209J8R9L",
+   "dth": 19,
+   "dur": 20,
+   "o": 120,
+   "p": 14,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#829J8CCJG",
+   "ath": 19,
+   "d": "#8RUU0QLJU",
+   "dth": 19,
+   "dur": 63,
+   "o": 121,
+   "p": 59,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#8YPGU90R",
+   "ath": 19,
+   "d": "#Y2URCCYRQ",
+   "dth": 19,
+   "dur": 91,
+   "o": 122,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 94.577774,
+  "destruction": 96.933334,
   "members": [
    {
     "name": "MOZ.ART",
@@ -1575,7 +1619,7 @@
    }
   ],
   "name": "Firstzone",
-  "stars": 124,
+  "stars": 128,
   "tag": "#2YQQ80QGL"
  },
  "end": "20261124T190244.000Z",

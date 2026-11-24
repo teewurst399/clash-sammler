@@ -648,11 +648,143 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#92QVLGJUV",
+   "ath": 19,
+   "d": "#Q8VPLC2RJ",
+   "dth": 18,
+   "dur": 111,
+   "o": 60,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#QR0UP28V",
+   "ath": 19,
+   "d": "#8JV2LVVRV",
+   "dth": 19,
+   "dur": 146,
+   "o": 61,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#JRVPR0VP",
+   "ath": 19,
+   "d": "#GQJRQ8C8G",
+   "dth": 18,
+   "dur": 81,
+   "o": 62,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#92QVLGJUV",
+   "ath": 19,
+   "d": "#P9PJV8CQ2",
+   "dth": 19,
+   "dur": 123,
+   "o": 63,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#PR0Q8RJ8L",
+   "ath": 19,
+   "d": "#2YRYUVR99",
+   "dth": 19,
+   "dur": 174,
+   "o": 64,
+   "p": 94,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#QPPCG8LR",
+   "ath": 19,
+   "d": "#PGG800ULQ",
+   "dth": 19,
+   "dur": 163,
+   "o": 65,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#8LP9YLY0V",
+   "ath": 19,
+   "d": "#2UCPPR8Q",
+   "dth": 19,
+   "dur": 100,
+   "o": 66,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#GQJRQ8C8G",
+   "ath": 18,
+   "d": "#RCL0PPJJ",
+   "dth": 19,
+   "dur": 174,
+   "o": 67,
+   "p": 96,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#GQJRQ8C8G",
+   "ath": 18,
+   "d": "#Q8YUQGV8",
+   "dth": 19,
+   "dur": 153,
+   "o": 68,
+   "p": 96,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#PR0Q8RJ8L",
+   "ath": 19,
+   "d": "#Q8YUQGV8",
+   "dth": 19,
+   "dur": 140,
+   "o": 69,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#VYJGY98C",
+   "ath": 19,
+   "d": "#9UCVJCU8U",
+   "dth": 19,
+   "dur": 145,
+   "o": 70,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#VYJGY98C",
+   "ath": 19,
+   "d": "#QL099JRLR",
+   "dth": 19,
+   "dur": 173,
+   "o": 71,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 90.333336,
+  "destruction": 93.666664,
   "members": [
    {
     "name": "Der Checker",
@@ -836,12 +968,12 @@
    }
   ],
   "name": "GhostZone",
-  "stars": 79,
+  "stars": 82,
   "tag": "#JPLG8V2C"
  },
  "end": "20261124T204607.000Z",
  "opponent": {
-  "destruction": 75.433334,
+  "destruction": 96.333336,
   "members": [
    {
     "name": "JUANDA",
@@ -1025,7 +1157,7 @@
    }
   ],
   "name": "LaMagiaaa.....™",
-  "stars": 65,
+  "stars": 85,
   "tag": "#CLGU0UQG"
  },
  "start": "20261123T204607.000Z",

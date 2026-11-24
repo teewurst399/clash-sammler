@@ -87,11 +87,110 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#82RLVLLQG",
+   "ath": 19,
+   "d": "#2UCVU9YY9",
+   "dth": 19,
+   "dur": 115,
+   "o": 9,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#82RLVLLQG",
+   "ath": 19,
+   "d": "#2GLQ2GLY9",
+   "dth": 19,
+   "dur": 126,
+   "o": 10,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#8YLY00PU0",
+   "ath": 18,
+   "d": "#R2LQLJ0LR",
+   "dth": 19,
+   "dur": 148,
+   "o": 11,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#9VQ9RUJRG",
+   "ath": 18,
+   "d": "#Q0U20R9Y",
+   "dth": 18,
+   "dur": 98,
+   "o": 12,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#8YLY00PU0",
+   "ath": 18,
+   "d": "#YQCLCGVYV",
+   "dth": 18,
+   "dur": 145,
+   "o": 13,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#9VQ9RUJRG",
+   "ath": 18,
+   "d": "#289PPQ9GV",
+   "dth": 18,
+   "dur": 108,
+   "o": 14,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#LQUP0RCL",
+   "ath": 18,
+   "d": "#Q2V08Y0JY",
+   "dth": 18,
+   "dur": 155,
+   "o": 15,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#YQCLCGVYV",
+   "ath": 18,
+   "d": "#G0PUYJCQ",
+   "dth": 18,
+   "dur": 94,
+   "o": 16,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#YQCLCGVYV",
+   "ath": 18,
+   "d": "#20UYPG89Q",
+   "dth": 18,
+   "dur": 114,
+   "o": 17,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 2.857143,
+  "destruction": 17.142857,
   "members": [
    {
     "name": "vllo",
@@ -305,12 +404,12 @@
    }
   ],
   "name": "Rising Phoenix",
-  "stars": 3,
+  "stars": 18,
   "tag": "#Y9VU09JL"
  },
  "end": "20261125T114527.000Z",
  "opponent": {
-  "destruction": 19.314285,
+  "destruction": 30.742857,
   "members": [
    {
     "name": "Venom",
@@ -524,7 +623,7 @@
    }
   ],
   "name": "Indo Xtreme",
-  "stars": 16,
+  "stars": 28,
   "tag": "#LYLJUGG"
  },
  "start": "20261124T114527.000Z",
