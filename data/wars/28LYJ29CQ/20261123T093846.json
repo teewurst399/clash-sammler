@@ -1308,11 +1308,77 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#RQYPLLQV",
+   "ath": 19,
+   "d": "#8VPP22U2",
+   "dth": 19,
+   "dur": 123,
+   "o": 120,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#Y8CP2CR8J",
+   "ath": 19,
+   "d": "#8VPP22U2",
+   "dth": 19,
+   "dur": 124,
+   "o": 121,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#RQYPLLQV",
+   "ath": 19,
+   "d": "#GCQYC8QL",
+   "dth": 19,
+   "dur": 161,
+   "o": 122,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#P2V0QQCJ2",
+   "ath": 19,
+   "d": "#QVPPJVLJJ",
+   "dth": 19,
+   "dur": 118,
+   "o": 123,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#P2V0QQCJ2",
+   "ath": 19,
+   "d": "#RL0C8R98",
+   "dth": 19,
+   "dur": 132,
+   "o": 124,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#Y8CP2CR8J",
+   "ath": 19,
+   "d": "#GCQYC8QL",
+   "dth": 19,
+   "dur": 178,
+   "o": 125,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 85.666664,
+  "destruction": 90.111115,
   "members": [
    {
     "name": "FL • SKINNYJIMM",
@@ -1586,7 +1652,7 @@
    }
   ],
   "name": "FruchtLabor",
-  "stars": 115,
+  "stars": 121,
   "tag": "#28LYJ29CQ"
  },
  "end": "20261125T083846.000Z",

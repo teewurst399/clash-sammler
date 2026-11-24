@@ -967,11 +967,88 @@
    "p": 86,
    "s": 1,
    "side": "clan"
+  },
+  {
+   "a": "#8UPR9JCQV",
+   "ath": 19,
+   "d": "#8GVYL9V9",
+   "dth": 19,
+   "dur": 161,
+   "o": 89,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#8UPR9JCQV",
+   "ath": 19,
+   "d": "#8VGYQGLRU",
+   "dth": 19,
+   "dur": 169,
+   "o": 90,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#2U2QQUURP",
+   "ath": 19,
+   "d": "#L9PJGJVJ",
+   "dth": 19,
+   "dur": 119,
+   "o": 91,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#2U2QQUURP",
+   "ath": 19,
+   "d": "#8CUUG0LG",
+   "dth": 19,
+   "dur": 123,
+   "o": 92,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#G0CG8GRL",
+   "ath": 19,
+   "d": "#2JRLRCV9P",
+   "dth": 19,
+   "dur": 135,
+   "o": 93,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#G0CG8GRL",
+   "ath": 19,
+   "d": "#YQ9822CP",
+   "dth": 19,
+   "dur": 129,
+   "o": 94,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#R9088VPG",
+   "ath": 19,
+   "d": "#PRUJU9VP",
+   "dth": 19,
+   "dur": 120,
+   "o": 95,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 75.171425,
+  "destruction": 81.685715,
   "members": [
    {
     "name": "Gsälzbrot",
@@ -1185,7 +1262,7 @@
    }
   ],
   "name": "headstart",
-  "stars": 72,
+  "stars": 84,
   "tag": "#RLQC8QQY"
  },
  "end": "20261124T200735.000Z",

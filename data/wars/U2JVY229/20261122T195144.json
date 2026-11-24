@@ -1407,6 +1407,83 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#LPJYR2288",
+   "ath": 19,
+   "d": "#PJ9VGJ0LC",
+   "dth": 19,
+   "dur": 146,
+   "o": 129,
+   "p": 89,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#2PC9RJ8LY",
+   "ath": 19,
+   "d": "#J8LJQ0UY",
+   "dth": 19,
+   "dur": 130,
+   "o": 130,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#QULYVRP2R",
+   "ath": 19,
+   "d": "#UJPQUCJ2",
+   "dth": 19,
+   "dur": 92,
+   "o": 131,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#Q2VV80GU2",
+   "ath": 19,
+   "d": "#20UL0G2YQ",
+   "dth": 19,
+   "dur": 152,
+   "o": 132,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#Q2VV80GU2",
+   "ath": 19,
+   "d": "#UJPQUCJ2",
+   "dth": 19,
+   "dur": 148,
+   "o": 133,
+   "p": 78,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#20UL0G2YQ",
+   "ath": 19,
+   "d": "#Q2YUQL098",
+   "dth": 19,
+   "dur": 180,
+   "o": 134,
+   "p": 93,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#8U8L2J00Y",
+   "ath": 19,
+   "d": "#QYVRC2VG",
+   "dth": 19,
+   "dur": 127,
+   "o": 135,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -1630,7 +1707,7 @@
  },
  "end": "20261124T185144.000Z",
  "opponent": {
-  "destruction": 94.457146,
+  "destruction": 94.828575,
   "members": [
    {
     "name": "⚡️SuddenDeath⚡️",
@@ -1844,11 +1921,11 @@
    }
   ],
   "name": "OpasLuXusSofa",
-  "stars": 94,
+  "stars": 95,
   "tag": "#20LJYU090"
  },
  "start": "20261123T185144.000Z",
- "state": "inWar",
+ "state": "warEnded",
  "teamSize": 35,
  "type": "krieg"
 }

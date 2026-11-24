@@ -1,0 +1,561 @@
+{
+ "attacks": [
+  {
+   "a": "#29PQRJRVR",
+   "ath": 19,
+   "d": "#QUUY0Y088",
+   "dth": 19,
+   "dur": 114,
+   "o": 1,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#RJ800GLP",
+   "ath": 19,
+   "d": "#RL9Y9QJP",
+   "dth": 19,
+   "dur": 138,
+   "o": 2,
+   "p": 65,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#QV9J9CY2L",
+   "ath": 18,
+   "d": "#Q9LJGLJ2",
+   "dth": 19,
+   "dur": 73,
+   "o": 3,
+   "p": 64,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#P2QJPQUJ8",
+   "ath": 19,
+   "d": "#QJRQRG8G",
+   "dth": 19,
+   "dur": 170,
+   "o": 4,
+   "p": 95,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#29PQRJRVR",
+   "ath": 19,
+   "d": "#RVJ0U8R9",
+   "dth": 19,
+   "dur": 115,
+   "o": 5,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  }
+ ],
+ "attacksPerMember": 2,
+ "clan": {
+  "destruction": 9.0,
+  "members": [
+   {
+    "name": "Chiko",
+    "pos": 30,
+    "tag": "#YLGLU8GG",
+    "th": 19
+   },
+   {
+    "name": "ⁱᵃᵐ ꪜᵇᵒᵐᵐᵉˡ",
+    "pos": 1,
+    "tag": "#LURVUPJ2C",
+    "th": 19
+   },
+   {
+    "name": "(Benji):-)",
+    "pos": 15,
+    "tag": "#29PQRJRVR",
+    "th": 19
+   },
+   {
+    "name": "[OP] Mike",
+    "pos": 39,
+    "tag": "#Q9LJGLJ2",
+    "th": 19
+   },
+   {
+    "name": "Tyhon",
+    "pos": 11,
+    "tag": "#P2QJPQUJ8",
+    "th": 19
+   },
+   {
+    "name": "Aster",
+    "pos": 18,
+    "tag": "#JY2V99CR",
+    "th": 19
+   },
+   {
+    "name": "GR33KO",
+    "pos": 40,
+    "tag": "#2P990URC",
+    "th": 19
+   },
+   {
+    "name": "Katakuribtw",
+    "pos": 14,
+    "tag": "#9Q0QLV9Q9",
+    "th": 19
+   },
+   {
+    "name": "Eloy",
+    "pos": 33,
+    "tag": "#YG8GUVGYV",
+    "th": 19
+   },
+   {
+    "name": "Sya",
+    "pos": 31,
+    "tag": "#LJJL8L0",
+    "th": 19
+   },
+   {
+    "name": "Griesgram",
+    "pos": 13,
+    "tag": "#2Y2C02CRJ",
+    "th": 19
+   },
+   {
+    "name": "[GGL] Trixon",
+    "pos": 34,
+    "tag": "#L8LG22J80",
+    "th": 19
+   },
+   {
+    "name": "forsaken",
+    "pos": 26,
+    "tag": "#GR9U2PCU",
+    "th": 19
+   },
+   {
+    "name": "xX_Genki_Xx",
+    "pos": 27,
+    "tag": "#YJGVVRGYP",
+    "th": 19
+   },
+   {
+    "name": "Postman aaaaaaa",
+    "pos": 36,
+    "tag": "#9PP8899VJ",
+    "th": 19
+   },
+   {
+    "name": "ZE⚡️LASSE",
+    "pos": 12,
+    "tag": "#20VYG2LU0",
+    "th": 19
+   },
+   {
+    "name": "NoChance",
+    "pos": 16,
+    "tag": "#YCU2PGY9",
+    "th": 19
+   },
+   {
+    "name": "Nubix",
+    "pos": 2,
+    "tag": "#29P0YJV8C",
+    "th": 19
+   },
+   {
+    "name": "Wifigo",
+    "pos": 6,
+    "tag": "#LGYUYVG0",
+    "th": 19
+   },
+   {
+    "name": "wolfpack",
+    "pos": 21,
+    "tag": "#C09PG9P",
+    "th": 19
+   },
+   {
+    "name": "Roterninja",
+    "pos": 4,
+    "tag": "#2P9C9222P",
+    "th": 19
+   },
+   {
+    "name": "Oogway",
+    "pos": 22,
+    "tag": "#QLGPCQC2",
+    "th": 19
+   },
+   {
+    "name": "bratwurst",
+    "pos": 5,
+    "tag": "#JGYCCCVY",
+    "th": 19
+   },
+   {
+    "name": "★$★AL JOKER★$★",
+    "pos": 24,
+    "tag": "#P0P8CGGJ",
+    "th": 19
+   },
+   {
+    "name": "007 im Auftrag",
+    "pos": 28,
+    "tag": "#2GQ0QJ9GJ",
+    "th": 19
+   },
+   {
+    "name": "BitcoinKing",
+    "pos": 8,
+    "tag": "#GJ88QJG8V",
+    "th": 19
+   },
+   {
+    "name": "Milo",
+    "pos": 23,
+    "tag": "#GLUL2CCV",
+    "th": 19
+   },
+   {
+    "name": "Nico's Donator",
+    "pos": 38,
+    "tag": "#G0VRYC8YY",
+    "th": 19
+   },
+   {
+    "name": "ItzNik",
+    "pos": 25,
+    "tag": "#GP9RYGVRR",
+    "th": 19
+   },
+   {
+    "name": "[GGL] Lompii37",
+    "pos": 29,
+    "tag": "#8YPP0JY8V",
+    "th": 19
+   },
+   {
+    "name": "Tobi",
+    "pos": 19,
+    "tag": "#L29V9VLG0",
+    "th": 19
+   },
+   {
+    "name": ".  .",
+    "pos": 37,
+    "tag": "#2Y9YU0CQR",
+    "th": 19
+   },
+   {
+    "name": "meli",
+    "pos": 32,
+    "tag": "#RJ800GLP",
+    "th": 19
+   },
+   {
+    "name": "Tru3_Pa1N-_-",
+    "pos": 20,
+    "tag": "#9229JGPG2",
+    "th": 19
+   },
+   {
+    "name": "killer",
+    "pos": 17,
+    "tag": "#Y0QLJL0LY",
+    "th": 19
+   },
+   {
+    "name": "HortMeinWohnort",
+    "pos": 7,
+    "tag": "#LLRUPPGYP",
+    "th": 19
+   },
+   {
+    "name": "requiem",
+    "pos": 35,
+    "tag": "#YJVU9QUY",
+    "th": 19
+   },
+   {
+    "name": "Try/It",
+    "pos": 3,
+    "tag": "#9LRQUY0C8",
+    "th": 19
+   },
+   {
+    "name": "HZN✨Passi✨",
+    "pos": 9,
+    "tag": "#L8Q2QPJVL",
+    "th": 19
+   },
+   {
+    "name": "ergxist",
+    "pos": 10,
+    "tag": "#8Y9VGQYLQ",
+    "th": 19
+   }
+  ],
+  "name": "GermanGladiator",
+  "stars": 10,
+  "tag": "#2Y2L0J20V"
+ },
+ "end": "20261125T181722.000Z",
+ "opponent": {
+  "destruction": 1.6,
+  "members": [
+   {
+    "name": "Viridis",
+    "pos": 39,
+    "tag": "#QV9J9CY2L",
+    "th": 18
+   },
+   {
+    "name": "RFC1010",
+    "pos": 23,
+    "tag": "#RYCJ0Y99",
+    "th": 19
+   },
+   {
+    "name": "HutchHank",
+    "pos": 3,
+    "tag": "#208G80VQC",
+    "th": 19
+   },
+   {
+    "name": "Rondog01",
+    "pos": 28,
+    "tag": "#8GGU0G8L",
+    "th": 19
+   },
+   {
+    "name": "B00TSY C0LL1NS",
+    "pos": 21,
+    "tag": "#RL99L8LL",
+    "th": 19
+   },
+   {
+    "name": "~FaDeL~",
+    "pos": 9,
+    "tag": "#88Q8CGLGJ",
+    "th": 19
+   },
+   {
+    "name": "Åbë Frômãn",
+    "pos": 5,
+    "tag": "#YYVL9922",
+    "th": 19
+   },
+   {
+    "name": "General Mac",
+    "pos": 36,
+    "tag": "#2CRU99UG",
+    "th": 19
+   },
+   {
+    "name": "Astoria",
+    "pos": 11,
+    "tag": "#YY0RYV8U",
+    "th": 19
+   },
+   {
+    "name": "Verlag",
+    "pos": 1,
+    "tag": "#RL9Y9QJP",
+    "th": 19
+   },
+   {
+    "name": "Amir ali",
+    "pos": 35,
+    "tag": "#LVYLUVCRP",
+    "th": 19
+   },
+   {
+    "name": "figure500",
+    "pos": 7,
+    "tag": "#YPRY8Y2L",
+    "th": 19
+   },
+   {
+    "name": "Kraze ky",
+    "pos": 27,
+    "tag": "#990U8RUV",
+    "th": 19
+   },
+   {
+    "name": "INFERNO",
+    "pos": 26,
+    "tag": "#9VUGRGG2V",
+    "th": 19
+   },
+   {
+    "name": "beans",
+    "pos": 4,
+    "tag": "#Q9PUU92LC",
+    "th": 19
+   },
+   {
+    "name": "Kurticus",
+    "pos": 2,
+    "tag": "#QJRQRG8G",
+    "th": 19
+   },
+   {
+    "name": "C0N3P1N3™",
+    "pos": 14,
+    "tag": "#2988ULLCJ",
+    "th": 19
+   },
+   {
+    "name": "! SEUN",
+    "pos": 38,
+    "tag": "#82CU920QP",
+    "th": 18
+   },
+   {
+    "name": "bigbubdizzle",
+    "pos": 19,
+    "tag": "#8UJUCJ00",
+    "th": 19
+   },
+   {
+    "name": "jon",
+    "pos": 16,
+    "tag": "#JQJJ9L9L",
+    "th": 19
+   },
+   {
+    "name": "*Kt_mn*",
+    "pos": 40,
+    "tag": "#RJQUCPP8",
+    "th": 19
+   },
+   {
+    "name": "TERROR",
+    "pos": 29,
+    "tag": "#2PL20V0LQ",
+    "th": 19
+   },
+   {
+    "name": "brandon",
+    "pos": 22,
+    "tag": "#QUUY0Y088",
+    "th": 19
+   },
+   {
+    "name": "King Gladiator",
+    "pos": 12,
+    "tag": "#2VJRJGV9",
+    "th": 19
+   },
+   {
+    "name": "Kendo Nagasaki",
+    "pos": 37,
+    "tag": "#20PG008JY",
+    "th": 19
+   },
+   {
+    "name": "rainier",
+    "pos": 34,
+    "tag": "#R988VVJ",
+    "th": 19
+   },
+   {
+    "name": "Bigcrazy",
+    "pos": 8,
+    "tag": "#28PR20U0G",
+    "th": 19
+   },
+   {
+    "name": "#1 bosshog",
+    "pos": 10,
+    "tag": "#RVJ0U8R9",
+    "th": 19
+   },
+   {
+    "name": "CHIRAG GUPTA",
+    "pos": 25,
+    "tag": "#80L9GUCR0",
+    "th": 19
+   },
+   {
+    "name": "Fetz",
+    "pos": 6,
+    "tag": "#8U2LUJCC",
+    "th": 19
+   },
+   {
+    "name": "TheLegend27",
+    "pos": 18,
+    "tag": "#8R9VJVC9Y",
+    "th": 19
+   },
+   {
+    "name": "dman",
+    "pos": 31,
+    "tag": "#Y8JQJL882",
+    "th": 19
+   },
+   {
+    "name": "⚔SAEED⚔",
+    "pos": 33,
+    "tag": "#YCP2YP0U2",
+    "th": 19
+   },
+   {
+    "name": "stirling",
+    "pos": 15,
+    "tag": "#PLVLG8UJ",
+    "th": 19
+   },
+   {
+    "name": "Crazybaby",
+    "pos": 32,
+    "tag": "#QVCYQQP2P",
+    "th": 19
+   },
+   {
+    "name": "dotu",
+    "pos": 13,
+    "tag": "#99999PQ",
+    "th": 19
+   },
+   {
+    "name": "LubsTheTubs",
+    "pos": 24,
+    "tag": "#PJJ908PU0",
+    "th": 19
+   },
+   {
+    "name": "Larry Grapesoda",
+    "pos": 20,
+    "tag": "#2JGQJC0CG",
+    "th": 19
+   },
+   {
+    "name": "Spooks",
+    "pos": 30,
+    "tag": "#LU2CVYJQ9",
+    "th": 19
+   },
+   {
+    "name": "boromir",
+    "pos": 17,
+    "tag": "#L828GG8JY",
+    "th": 19
+   }
+  ],
+  "name": "808 Beach",
+  "stars": 2,
+  "tag": "#GVVVJL8R"
+ },
+ "start": "20261124T181722.000Z",
+ "state": "inWar",
+ "teamSize": 40,
+ "type": "krieg"
+}

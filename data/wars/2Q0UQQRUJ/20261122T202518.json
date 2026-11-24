@@ -780,6 +780,138 @@
    "p": 27,
    "s": 1,
    "side": "clan"
+  },
+  {
+   "a": "#YRQ8RLPLY",
+   "ath": 19,
+   "d": "#GG9QUVJRL",
+   "dth": 18,
+   "dur": 127,
+   "o": 72,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#YRQ8RLPLY",
+   "ath": 19,
+   "d": "#GY28UUUY9",
+   "dth": 19,
+   "dur": 136,
+   "o": 73,
+   "p": 83,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#29ULP8GGV",
+   "ath": 19,
+   "d": "#QVV9VPQC2",
+   "dth": 19,
+   "dur": 172,
+   "o": 74,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#29ULP8GGV",
+   "ath": 19,
+   "d": "#G9GPGRQ00",
+   "dth": 19,
+   "dur": 146,
+   "o": 75,
+   "p": 88,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#9C9LJ8YCL",
+   "ath": 19,
+   "d": "#2RY9JRC9",
+   "dth": 19,
+   "dur": 153,
+   "o": 76,
+   "p": 98,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#9C9LJ8YCL",
+   "ath": 19,
+   "d": "#G9GPGRQ00",
+   "dth": 19,
+   "dur": 174,
+   "o": 77,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#GVCG02RQQ",
+   "ath": 18,
+   "d": "#YCJ02U0CQ",
+   "dth": 18,
+   "dur": 129,
+   "o": 78,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#VGL2QJV0",
+   "ath": 19,
+   "d": "#89RR0RCCV",
+   "dth": 19,
+   "dur": 131,
+   "o": 79,
+   "p": 59,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#VGL2QJV0",
+   "ath": 19,
+   "d": "#GY28UUUY9",
+   "dth": 19,
+   "dur": 123,
+   "o": 80,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#2GGLYRVG",
+   "ath": 19,
+   "d": "#2RY9JRC9",
+   "dth": 19,
+   "dur": 101,
+   "o": 81,
+   "p": 63,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#V899JLRY",
+   "ath": 19,
+   "d": "#GLCVJJP8G",
+   "dth": 19,
+   "dur": 153,
+   "o": 82,
+   "p": 87,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#V899JLRY",
+   "ath": 19,
+   "d": "#PR8R0L29U",
+   "dth": 19,
+   "dur": 109,
+   "o": 83,
+   "p": 65,
+   "s": 2,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -943,7 +1075,7 @@
  },
  "end": "20261124T192518.000Z",
  "opponent": {
-  "destruction": 77.72,
+  "destruction": 97.64,
   "members": [
    {
     "name": "logan",
@@ -1097,7 +1229,7 @@
    }
   ],
   "name": "Reprisal",
-  "stars": 55,
+  "stars": 69,
   "tag": "#VVY9JLP"
  },
  "start": "20261123T192518.000Z",

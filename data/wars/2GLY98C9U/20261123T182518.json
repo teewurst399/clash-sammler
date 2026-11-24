@@ -21,11 +21,55 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#QGG0Y2P9L",
+   "ath": 19,
+   "d": "#G0GGJ9P",
+   "dth": 19,
+   "dur": 137,
+   "o": 3,
+   "p": 90,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#Y22QYU90P",
+   "ath": 19,
+   "d": "#P9UG90C98",
+   "dth": 19,
+   "dur": 122,
+   "o": 4,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#Y22QYU90P",
+   "ath": 19,
+   "d": "#22C9VGRUR",
+   "dth": 19,
+   "dur": 132,
+   "o": 5,
+   "p": 99,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#9GYQJJRPL",
+   "ath": 14,
+   "d": "#G0JJJL290",
+   "dth": 14,
+   "dur": 163,
+   "o": 6,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 2.857143,
+  "destruction": 11.4,
   "members": [
    {
     "name": "JonyNation",
@@ -239,12 +283,12 @@
    }
   ],
   "name": "#Black Stone# 5",
-  "stars": 3,
+  "stars": 11,
   "tag": "#2GLY98C9U"
  },
  "end": "20261125T172518.000Z",
  "opponent": {
-  "destruction": 2.857143,
+  "destruction": 5.428571,
   "members": [
    {
     "name": "Akay_92",
@@ -458,7 +502,7 @@
    }
   ],
   "name": "LỒNG CHIM VÁC",
-  "stars": 3,
+  "stars": 4,
   "tag": "#2LJ209GUG"
  },
  "start": "20261124T172518.000Z",
