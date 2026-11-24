@@ -934,11 +934,110 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#8JLRQ20C",
+   "ath": 19,
+   "d": "#2C9CGPQUY",
+   "dth": 19,
+   "dur": 140,
+   "o": 86,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#9J9UG9U0J",
+   "ath": 19,
+   "d": "#29LYPQJV2",
+   "dth": 19,
+   "dur": 150,
+   "o": 87,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#U0J8CRQ9",
+   "ath": 19,
+   "d": "#JJRC0CRC",
+   "dth": 19,
+   "dur": 104,
+   "o": 88,
+   "p": 83,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#U0J8CRQ9",
+   "ath": 19,
+   "d": "#Y982G9Q",
+   "dth": 19,
+   "dur": 107,
+   "o": 89,
+   "p": 73,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#2V9L0G8J",
+   "ath": 19,
+   "d": "#292QCQGC",
+   "dth": 19,
+   "dur": 149,
+   "o": 90,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#2V9L0G8J",
+   "ath": 19,
+   "d": "#9LQY8PCCC",
+   "dth": 19,
+   "dur": 180,
+   "o": 91,
+   "p": 96,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#9R2GCULGP",
+   "ath": 19,
+   "d": "#9LQY8PCCC",
+   "dth": 19,
+   "dur": 119,
+   "o": 92,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#9R2GCULGP",
+   "ath": 19,
+   "d": "#2VGUQ8V9U",
+   "dth": 19,
+   "dur": 104,
+   "o": 93,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#8UYLG880",
+   "ath": 19,
+   "d": "#LQCGLUCQ",
+   "dth": 19,
+   "dur": 163,
+   "o": 94,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 64.08889,
+  "destruction": 70.755554,
   "members": [
    {
     "name": "MOZ.ART",
@@ -1212,12 +1311,12 @@
    }
   ],
   "name": "Firstzone",
-  "stars": 84,
+  "stars": 93,
   "tag": "#2YQQ80QGL"
  },
  "end": "20261124T190244.000Z",
  "opponent": {
-  "destruction": 93.22222,
+  "destruction": 99.022224,
   "members": [
    {
     "name": "EpheSuS",
@@ -1491,7 +1590,7 @@
    }
   ],
   "name": "THIS IS TURK",
-  "stars": 124,
+  "stars": 133,
   "tag": "#8L2UPV8L"
  },
  "start": "20261123T190244.000Z",

@@ -648,11 +648,88 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#YYC2GGR28",
+   "ath": 19,
+   "d": "#R08Q0G9R",
+   "dth": 19,
+   "dur": 148,
+   "o": 60,
+   "p": 69,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#9UQ0J0UVP",
+   "ath": 19,
+   "d": "#2R9QQLJLU",
+   "dth": 19,
+   "dur": 116,
+   "o": 61,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#9UQ0J0UVP",
+   "ath": 19,
+   "d": "#G00PJJLYC",
+   "dth": 19,
+   "dur": 153,
+   "o": 62,
+   "p": 80,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#YCUC8P2C",
+   "ath": 19,
+   "d": "#2Y2RL22CV",
+   "dth": 19,
+   "dur": 113,
+   "o": 63,
+   "p": 93,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#899RYPGVJ",
+   "ath": 19,
+   "d": "#908PQ2VQ",
+   "dth": 19,
+   "dur": 144,
+   "o": 64,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#899RYPGVJ",
+   "ath": 19,
+   "d": "#JPC9JCJJ",
+   "dth": 19,
+   "dur": 107,
+   "o": 65,
+   "p": 66,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#G00PJJLYC",
+   "ath": 19,
+   "d": "#9P0LRCPR",
+   "dth": 19,
+   "dur": 163,
+   "o": 66,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 26.466667,
+  "destruction": 32.97778,
   "members": [
    {
     "name": "ROBINJO*ALIHAN",
@@ -926,12 +1003,12 @@
    }
   ],
   "name": "Eiskalte Engel",
-  "stars": 34,
+  "stars": 42,
   "tag": "#9UCL90RP"
  },
  "end": "20261125T003945.000Z",
  "opponent": {
-  "destruction": 82.755554,
+  "destruction": 84.68889,
   "members": [
    {
     "name": "Evan o Mighty",
@@ -1205,7 +1282,7 @@
    }
   ],
   "name": "\"THE_FREEDOM\"",
-  "stars": 102,
+  "stars": 107,
   "tag": "#9RLJCCYL"
  },
  "start": "20261124T003945.000Z",

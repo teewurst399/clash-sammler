@@ -615,6 +615,105 @@
    "p": 95,
    "s": 1,
    "side": "gegner"
+  },
+  {
+   "a": "#Y092YUGJ8",
+   "ath": 19,
+   "d": "#G9VR0CPGU",
+   "dth": 19,
+   "dur": 159,
+   "o": 57,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#8YCPG9CLG",
+   "ath": 17,
+   "d": "#L8CVRL8C",
+   "dth": 19,
+   "dur": 117,
+   "o": 58,
+   "p": 32,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#8YCPG9CLG",
+   "ath": 17,
+   "d": "#GCU2YPJ2U",
+   "dth": 19,
+   "dur": 90,
+   "o": 59,
+   "p": 58,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#Y092YUGJ8",
+   "ath": 19,
+   "d": "#YYRCJ2GR8",
+   "dth": 19,
+   "dur": 159,
+   "o": 60,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#YLJG00PRR",
+   "ath": 19,
+   "d": "#QJLJU2UYY",
+   "dth": 19,
+   "dur": 136,
+   "o": 61,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#YLJG00PRR",
+   "ath": 19,
+   "d": "#G9VR0CPGU",
+   "dth": 19,
+   "dur": 163,
+   "o": 62,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#L2QPU9YJP",
+   "ath": 19,
+   "d": "#GLJCCRYG",
+   "dth": 19,
+   "dur": 143,
+   "o": 63,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#PL9PYRCVG",
+   "ath": 19,
+   "d": "#8UQVGVVLY",
+   "dth": 19,
+   "dur": 180,
+   "o": 64,
+   "p": 99,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#L2QPU9YJP",
+   "ath": 19,
+   "d": "#GRVY0YC2R",
+   "dth": 19,
+   "dur": 144,
+   "o": 65,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -778,7 +877,7 @@
  },
  "end": "20261124T175717.000Z",
  "opponent": {
-  "destruction": 97.36,
+  "destruction": 100.0,
   "members": [
    {
     "name": "fury",
@@ -932,7 +1031,7 @@
    }
   ],
   "name": "Perfect in war!",
-  "stars": 72,
+  "stars": 75,
   "tag": "#L88UJ8JC"
  },
  "start": "20261123T175717.000Z",

@@ -516,11 +516,77 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#YU0L08UL2",
+   "ath": 19,
+   "d": "#8GVYL9V9",
+   "dth": 19,
+   "dur": 135,
+   "o": 48,
+   "p": 69,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#8VGYQGLRU",
+   "ath": 19,
+   "d": "#R8RLRU98",
+   "dth": 19,
+   "dur": 116,
+   "o": 49,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#8U9PQU0V",
+   "ath": 19,
+   "d": "#2U2QQUURP",
+   "dth": 19,
+   "dur": 139,
+   "o": 50,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#CV0GGRYP",
+   "ath": 19,
+   "d": "#YU0L08UL2",
+   "dth": 19,
+   "dur": 115,
+   "o": 51,
+   "p": 74,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#UG0RPC9L",
+   "ath": 19,
+   "d": "#G0CG8GRL",
+   "dth": 19,
+   "dur": 173,
+   "o": 52,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#PCU2LC2CP",
+   "ath": 19,
+   "d": "#PJUYQCP",
+   "dth": 19,
+   "dur": 99,
+   "o": 53,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 51.17143,
+  "destruction": 53.142857,
   "members": [
    {
     "name": "Gsälzbrot",
@@ -734,12 +800,12 @@
    }
   ],
   "name": "headstart",
-  "stars": 53,
+  "stars": 54,
   "tag": "#RLQC8QQY"
  },
  "end": "20261124T200735.000Z",
  "opponent": {
-  "destruction": 62.0,
+  "destruction": 72.77143,
   "members": [
    {
     "name": "Mistery 79",
@@ -953,7 +1019,7 @@
    }
   ],
   "name": "Fenice Nera",
-  "stars": 62,
+  "stars": 74,
   "tag": "#GGP09R0"
  },
  "start": "20261123T200735.000Z",
