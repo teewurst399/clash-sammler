@@ -54,11 +54,88 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#LGJ9P9VRJ",
+   "ath": 19,
+   "d": "#L2GRUYVJP",
+   "dth": 19,
+   "dur": 146,
+   "o": 6,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#LGJ9P9VRJ",
+   "ath": 19,
+   "d": "#V2CYCLR",
+   "dth": 19,
+   "dur": 148,
+   "o": 7,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#RCR8CJ9J",
+   "ath": 19,
+   "d": "#GLYRQRCJ",
+   "dth": 19,
+   "dur": 103,
+   "o": 8,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#RCR8CJ9J",
+   "ath": 19,
+   "d": "#RQQLVCR2",
+   "dth": 19,
+   "dur": 177,
+   "o": 9,
+   "p": 82,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#L990G9UC",
+   "ath": 19,
+   "d": "#99RPV9GVV",
+   "dth": 19,
+   "dur": 114,
+   "o": 10,
+   "p": 71,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#2G2GRGCR",
+   "ath": 19,
+   "d": "#2UP9G09P",
+   "dth": 19,
+   "dur": 124,
+   "o": 11,
+   "p": 54,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#YU9CP9JU0",
+   "ath": 19,
+   "d": "#RGYJC0VP",
+   "dth": 19,
+   "dur": 108,
+   "o": 12,
+   "p": 85,
+   "s": 2,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 7.68,
+  "destruction": 22.96,
   "members": [
    {
     "name": "DΔツLion",
@@ -212,12 +289,12 @@
    }
   ],
   "name": "Dark Angel",
-  "stars": 5,
+  "stars": 16,
   "tag": "#2JJG9RLY8"
  },
  "end": "20261125T192942.000Z",
  "opponent": {
-  "destruction": 12.0,
+  "destruction": 17.0,
   "members": [
    {
     "name": "GreatGuardian",
@@ -371,7 +448,7 @@
    }
   ],
   "name": "alte Säcke",
-  "stars": 9,
+  "stars": 12,
   "tag": "#PP20R88J"
  },
  "start": "20261124T192942.000Z",

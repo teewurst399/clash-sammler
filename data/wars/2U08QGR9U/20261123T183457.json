@@ -472,11 +472,110 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#PVCQ2QCC",
+   "ath": 19,
+   "d": "#2YPYJGY0C",
+   "dth": 19,
+   "dur": 122,
+   "o": 44,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#G0JVP2G80",
+   "ath": 19,
+   "d": "#L9C0GQRGV",
+   "dth": 19,
+   "dur": 127,
+   "o": 45,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#RJLR0U0G",
+   "ath": 19,
+   "d": "#8GQ9VRC28",
+   "dth": 19,
+   "dur": 145,
+   "o": 46,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#G98RPYQ9",
+   "ath": 19,
+   "d": "#2Y8L8PJ80",
+   "dth": 19,
+   "dur": 180,
+   "o": 47,
+   "p": 90,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#G0JVP2G80",
+   "ath": 19,
+   "d": "#LYPGJVGVG",
+   "dth": 19,
+   "dur": 144,
+   "o": 48,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#RJLR0U0G",
+   "ath": 19,
+   "d": "#9JG0L89R",
+   "dth": 19,
+   "dur": 112,
+   "o": 49,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#L89CLYPUR",
+   "ath": 18,
+   "d": "#2Y8L8PJ80",
+   "dth": 19,
+   "dur": 97,
+   "o": 50,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#JGRVYL9U",
+   "ath": 19,
+   "d": "#G9U0UQY8L",
+   "dth": 19,
+   "dur": 104,
+   "o": 51,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#JGRVYL9U",
+   "ath": 19,
+   "d": "#CP02PPCY",
+   "dth": 19,
+   "dur": 145,
+   "o": 52,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 23.933332,
+  "destruction": 28.88889,
   "members": [
    {
     "name": "FL • Kaiser",
@@ -750,12 +849,12 @@
    }
   ],
   "name": "Obstgarten",
-  "stars": 32,
+  "stars": 39,
   "tag": "#2U08QGR9U"
  },
  "end": "20261125T173457.000Z",
  "opponent": {
-  "destruction": 51.11111,
+  "destruction": 62.22222,
   "members": [
    {
     "name": "~@N|]R€¥~",
@@ -1029,7 +1128,7 @@
    }
   ],
   "name": "Україна",
-  "stars": 69,
+  "stars": 84,
   "tag": "#U08RJ88Y"
  },
  "start": "20261124T173457.000Z",

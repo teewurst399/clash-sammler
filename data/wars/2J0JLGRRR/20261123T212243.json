@@ -1,0 +1,370 @@
+{
+ "attacks": [
+  {
+   "a": "#89299QPG0",
+   "ath": 15,
+   "d": "#R289RQQCP",
+   "dth": 18,
+   "dur": 113,
+   "o": 1,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#89299QPG0",
+   "ath": 15,
+   "d": "#GGVRLYV2L",
+   "dth": 17,
+   "dur": 180,
+   "o": 2,
+   "p": 98,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#YC0P89CGJ",
+   "ath": 17,
+   "d": "#R0RVL0QVQ",
+   "dth": 15,
+   "dur": 166,
+   "o": 3,
+   "p": 94,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#YC0P89CGJ",
+   "ath": 17,
+   "d": "#QCVGU8P9V",
+   "dth": 15,
+   "dur": 98,
+   "o": 4,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  }
+ ],
+ "attacksPerMember": 2,
+ "clan": {
+  "destruction": 15.68,
+  "members": [
+   {
+    "name": "G!B Badoomi",
+    "pos": 25,
+    "tag": "#GUR0UCJGJ",
+    "th": 3
+   },
+   {
+    "name": "Olde",
+    "pos": 23,
+    "tag": "#LQL9P0CVJ",
+    "th": 10
+   },
+   {
+    "name": "mobe2",
+    "pos": 12,
+    "tag": "#YC08Q0CV",
+    "th": 16
+   },
+   {
+    "name": "G!B Badoom 2.0",
+    "pos": 17,
+    "tag": "#QY0CUGGYR",
+    "th": 14
+   },
+   {
+    "name": "Sintai",
+    "pos": 4,
+    "tag": "#GC9UYCQVY",
+    "th": 17
+   },
+   {
+    "name": "Cheeseburger",
+    "pos": 13,
+    "tag": "#CRG2JP0Y",
+    "th": 16
+   },
+   {
+    "name": "DETROX lll",
+    "pos": 8,
+    "tag": "#89299QPG0",
+    "th": 15
+   },
+   {
+    "name": "G!B Badoooom",
+    "pos": 24,
+    "tag": "#R2CLJ2P9L",
+    "th": 4
+   },
+   {
+    "name": "Tainis",
+    "pos": 14,
+    "tag": "#GUQRRUVL2",
+    "th": 15
+   },
+   {
+    "name": "FeaR‘s Empire",
+    "pos": 5,
+    "tag": "#98VQ90GQJ",
+    "th": 17
+   },
+   {
+    "name": "King Devil",
+    "pos": 9,
+    "tag": "#8JL0VV0GL",
+    "th": 15
+   },
+   {
+    "name": "M.S.M1",
+    "pos": 10,
+    "tag": "#GQLU99U2C",
+    "th": 18
+   },
+   {
+    "name": "Neymar Jr 10",
+    "pos": 1,
+    "tag": "#LGUPGVJ8R",
+    "th": 18
+   },
+   {
+    "name": "ANTIOPE",
+    "pos": 20,
+    "tag": "#GVR82GCQU",
+    "th": 12
+   },
+   {
+    "name": "⚡️FeaR‘sReign⚡️",
+    "pos": 15,
+    "tag": "#YC0P89CGJ",
+    "th": 17
+   },
+   {
+    "name": "G!B Fenta",
+    "pos": 18,
+    "tag": "#GV2YPJQPC",
+    "th": 13
+   },
+   {
+    "name": "Annie 2.0",
+    "pos": 7,
+    "tag": "#LRRRJ0QJG",
+    "th": 16
+   },
+   {
+    "name": "⚔️Simon ⚔️",
+    "pos": 3,
+    "tag": "#QJYCY0CJC",
+    "th": 17
+   },
+   {
+    "name": "Paul☃️3",
+    "pos": 16,
+    "tag": "#R9CP02GCY",
+    "th": 17
+   },
+   {
+    "name": "FeaRedNighTmare",
+    "pos": 21,
+    "tag": "#R82G2YU8L",
+    "th": 10
+   },
+   {
+    "name": "Yanick",
+    "pos": 6,
+    "tag": "#GV9LV9QQL",
+    "th": 16
+   },
+   {
+    "name": "Meta",
+    "pos": 11,
+    "tag": "#R08VJLYCL",
+    "th": 15
+   },
+   {
+    "name": "Feuertost261",
+    "pos": 22,
+    "tag": "#R9VUQV2GJ",
+    "th": 11
+   },
+   {
+    "name": "G!B Reshiram",
+    "pos": 2,
+    "tag": "#GPLRJ0G9Q",
+    "th": 18
+   },
+   {
+    "name": "DiaVándy",
+    "pos": 19,
+    "tag": "#GUQJP2282",
+    "th": 13
+   }
+  ],
+  "name": "Get Smurfed!",
+  "stars": 10,
+  "tag": "#2J0JLGRRR"
+ },
+ "end": "20261125T202243.000Z",
+ "opponent": {
+  "destruction": 0.0,
+  "members": [
+   {
+    "name": "MKNSZ",
+    "pos": 11,
+    "tag": "#R0RVL0QVQ",
+    "th": 15
+   },
+   {
+    "name": "ateşnecati",
+    "pos": 9,
+    "tag": "#R28VGJQUL",
+    "th": 16
+   },
+   {
+    "name": "IM PARA THOR",
+    "pos": 2,
+    "tag": "#GYQJ22U8G",
+    "th": 18
+   },
+   {
+    "name": "••KocaKurT••",
+    "pos": 6,
+    "tag": "#QV8LJJ028",
+    "th": 17
+   },
+   {
+    "name": "IM PARA THOR",
+    "pos": 7,
+    "tag": "#GGVRLYV2L",
+    "th": 17
+   },
+   {
+    "name": "Xecutioner",
+    "pos": 19,
+    "tag": "#8CJU0R08V",
+    "th": 13
+   },
+   {
+    "name": "Mr.smoke",
+    "pos": 15,
+    "tag": "#GV0C02YGU",
+    "th": 14
+   },
+   {
+    "name": "ADAMBADRADDINE",
+    "pos": 20,
+    "tag": "#YPUGCQVR0",
+    "th": 13
+   },
+   {
+    "name": "ATAKAN50",
+    "pos": 5,
+    "tag": "#Q9LVCRJ02",
+    "th": 17
+   },
+   {
+    "name": "Ahmet33",
+    "pos": 10,
+    "tag": "#R289RQQCP",
+    "th": 18
+   },
+   {
+    "name": "osisi66",
+    "pos": 21,
+    "tag": "#G29PJPCRU",
+    "th": 13
+   },
+   {
+    "name": "forman02",
+    "pos": 12,
+    "tag": "#QCVGU8P9V",
+    "th": 15
+   },
+   {
+    "name": "Öfkeli",
+    "pos": 25,
+    "tag": "#RYUCCJYQY",
+    "th": 4
+   },
+   {
+    "name": "TABUTCU68",
+    "pos": 14,
+    "tag": "#99JGJQYVU",
+    "th": 14
+   },
+   {
+    "name": "furkan",
+    "pos": 17,
+    "tag": "#9YPY02UGQ",
+    "th": 13
+   },
+   {
+    "name": "OSMANLI İMP",
+    "pos": 24,
+    "tag": "#L2C2280CU",
+    "th": 8
+   },
+   {
+    "name": "KuRnaZ_PanDa",
+    "pos": 4,
+    "tag": "#Q9J8PVY88",
+    "th": 18
+   },
+   {
+    "name": "Cocobil",
+    "pos": 13,
+    "tag": "#GUJ9VLYP0",
+    "th": 15
+   },
+   {
+    "name": "TC✴GÖKBÖRÜ",
+    "pos": 3,
+    "tag": "#82YG989CG",
+    "th": 18
+   },
+   {
+    "name": "Şef",
+    "pos": 1,
+    "tag": "#8P9VVY9R8",
+    "th": 18
+   },
+   {
+    "name": "İsmail kangal",
+    "pos": 8,
+    "tag": "#G0CL2RUC8",
+    "th": 16
+   },
+   {
+    "name": "ömer kangal",
+    "pos": 22,
+    "tag": "#QRP8YCQRP",
+    "th": 9
+   },
+   {
+    "name": "Hulusi",
+    "pos": 16,
+    "tag": "#8VQVYUUJU",
+    "th": 14
+   },
+   {
+    "name": "melih",
+    "pos": 23,
+    "tag": "#GCG0JYL0G",
+    "th": 9
+   },
+   {
+    "name": "HÜSEYİN",
+    "pos": 18,
+    "tag": "#8CR0ULULL",
+    "th": 13
+   }
+  ],
+  "name": "ANTİTERÖR CLÜP",
+  "stars": 0,
+  "tag": "#JYQVPCC8"
+ },
+ "start": "20261124T202243.000Z",
+ "state": "inWar",
+ "teamSize": 25,
+ "type": "krieg"
+}

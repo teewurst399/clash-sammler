@@ -54,11 +54,220 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#PJPL2LCV",
+   "ath": 19,
+   "d": "#LRCLRV9CP",
+   "dth": 19,
+   "dur": 175,
+   "o": 6,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#98QL8CJC2",
+   "ath": 19,
+   "d": "#RYYCU889",
+   "dth": 19,
+   "dur": 144,
+   "o": 7,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#98QL8CJC2",
+   "ath": 19,
+   "d": "#YUGPPJ92R",
+   "dth": 19,
+   "dur": 130,
+   "o": 8,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#Q29R0UQ2J",
+   "ath": 19,
+   "d": "#8029PCUP",
+   "dth": 19,
+   "dur": 160,
+   "o": 9,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#9L0UL8GVU",
+   "ath": 19,
+   "d": "#YRPJLJPLR",
+   "dth": 19,
+   "dur": 139,
+   "o": 10,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#Q29R0UQ2J",
+   "ath": 19,
+   "d": "#RL98GUGJ",
+   "dth": 19,
+   "dur": 144,
+   "o": 11,
+   "p": 84,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#9L0UL8GVU",
+   "ath": 19,
+   "d": "#8YLRURV00",
+   "dth": 19,
+   "dur": 144,
+   "o": 12,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#8022L2QRP",
+   "ath": 19,
+   "d": "#909C2PCQG",
+   "dth": 19,
+   "dur": 127,
+   "o": 13,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#8CJ0YG8JR",
+   "ath": 19,
+   "d": "#9L0UL8GVU",
+   "dth": 19,
+   "dur": 180,
+   "o": 14,
+   "p": 89,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#8CJ0YG8JR",
+   "ath": 19,
+   "d": "#RL98GUGJ",
+   "dth": 19,
+   "dur": 160,
+   "o": 15,
+   "p": 97,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#YUVCJYYQY",
+   "ath": 19,
+   "d": "#9L0UL8GVU",
+   "dth": 19,
+   "dur": 165,
+   "o": 16,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#20CYRJ8VQ",
+   "ath": 19,
+   "d": "#2YVY9QLYY",
+   "dth": 19,
+   "dur": 128,
+   "o": 17,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#YUVCJYYQY",
+   "ath": 19,
+   "d": "#RL98GUGJ",
+   "dth": 19,
+   "dur": 154,
+   "o": 18,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#20CYRJ8VQ",
+   "ath": 19,
+   "d": "#GJL29928",
+   "dth": 19,
+   "dur": 120,
+   "o": 19,
+   "p": 72,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#9YCL0PRU",
+   "ath": 19,
+   "d": "#L9GYJ8RQ9",
+   "dth": 19,
+   "dur": 180,
+   "o": 20,
+   "p": 94,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#9YCL0PRU",
+   "ath": 19,
+   "d": "#QV8YG2UL",
+   "dth": 19,
+   "dur": 164,
+   "o": 21,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#LVG20G9V0",
+   "ath": 19,
+   "d": "#2808Y8QY0",
+   "dth": 19,
+   "dur": 132,
+   "o": 22,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#9YP28RYPC",
+   "ath": 19,
+   "d": "#PQ9800Q02",
+   "dth": 19,
+   "dur": 155,
+   "o": 23,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#LVG20G9V0",
+   "ath": 19,
+   "d": "#YRLLRLV",
+   "dth": 19,
+   "dur": 161,
+   "o": 24,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 9.925,
+  "destruction": 15.0,
   "members": [
    {
     "name": "DTA Insomniac",
@@ -302,12 +511,12 @@
    }
   ],
   "name": "Beerenbrüder",
-  "stars": 11,
+  "stars": 18,
   "tag": "#2YGLUYJPR"
  },
  "end": "20261125T193502.000Z",
  "opponent": {
-  "destruction": 2.5,
+  "destruction": 34.15,
   "members": [
    {
     "name": "alasmar",
@@ -551,7 +760,7 @@
    }
   ],
   "name": "⛓️THE⚔️GANG.III",
-  "stars": 3,
+  "stars": 40,
   "tag": "#2QUCLLPGJ"
  },
  "start": "20261124T193502.000Z",

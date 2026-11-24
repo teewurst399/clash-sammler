@@ -252,11 +252,253 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#28JGLUVVJ",
+   "ath": 19,
+   "d": "#90PUQL00J",
+   "dth": 19,
+   "dur": 162,
+   "o": 24,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#92PR0RYG8",
+   "ath": 19,
+   "d": "#20JUC909Q",
+   "dth": 19,
+   "dur": 103,
+   "o": 25,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#92PR0RYG8",
+   "ath": 19,
+   "d": "#VVJC98LL",
+   "dth": 19,
+   "dur": 81,
+   "o": 26,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#RQ2CGRVY",
+   "ath": 19,
+   "d": "#2RG200R0C",
+   "dth": 19,
+   "dur": 136,
+   "o": 27,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#RQ2CGRVY",
+   "ath": 19,
+   "d": "#8YQVG22JC",
+   "dth": 19,
+   "dur": 137,
+   "o": 28,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#220CCCQ",
+   "ath": 19,
+   "d": "#YQPQVC8J",
+   "dth": 19,
+   "dur": 151,
+   "o": 29,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#R920RLQ",
+   "ath": 19,
+   "d": "#JV2PV",
+   "dth": 19,
+   "dur": 132,
+   "o": 30,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#2Y02GC80Y",
+   "ath": 19,
+   "d": "#9C8GU8R0",
+   "dth": 19,
+   "dur": 116,
+   "o": 31,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#220CCCQ",
+   "ath": 19,
+   "d": "#PUPRGV8",
+   "dth": 19,
+   "dur": 101,
+   "o": 32,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#G0V9PL2P",
+   "ath": 19,
+   "d": "#8UQYPCY09",
+   "dth": 19,
+   "dur": 121,
+   "o": 33,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#2Y02GC80Y",
+   "ath": 19,
+   "d": "#LCYLR980G",
+   "dth": 19,
+   "dur": 110,
+   "o": 34,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#G0V9PL2P",
+   "ath": 19,
+   "d": "#29V2UVG9R",
+   "dth": 19,
+   "dur": 138,
+   "o": 35,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#R920RLQ",
+   "ath": 19,
+   "d": "#Q9GUQ0J2Q",
+   "dth": 19,
+   "dur": 105,
+   "o": 36,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#2PRGP8VU",
+   "ath": 19,
+   "d": "#28J8UUPLV",
+   "dth": 19,
+   "dur": 103,
+   "o": 37,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#2PRGP8VU",
+   "ath": 19,
+   "d": "#2Y02GC80Y",
+   "dth": 19,
+   "dur": 125,
+   "o": 38,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#P00LGL02L",
+   "ath": 19,
+   "d": "#PQ0LJ9UL9",
+   "dth": 19,
+   "dur": 150,
+   "o": 39,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#2Y9VUY02L",
+   "ath": 19,
+   "d": "#2P99R2VRR",
+   "dth": 19,
+   "dur": 157,
+   "o": 40,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#20LCQQ9LY",
+   "ath": 19,
+   "d": "#28JGLUVVJ",
+   "dth": 19,
+   "dur": 147,
+   "o": 41,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#P00LGL02L",
+   "ath": 19,
+   "d": "#2Y9VUY02L",
+   "dth": 19,
+   "dur": 137,
+   "o": 42,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#2Y9VUY02L",
+   "ath": 19,
+   "d": "#YV8JJC9RQ",
+   "dth": 19,
+   "dur": 152,
+   "o": 43,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#20LCQQ9LY",
+   "ath": 19,
+   "d": "#8UJ88LPC",
+   "dth": 19,
+   "dur": 148,
+   "o": 44,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#YV8JJC9RQ",
+   "ath": 19,
+   "d": "#PPLYUJLR",
+   "dth": 19,
+   "dur": 165,
+   "o": 45,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 26.0,
+  "destruction": 50.0,
   "members": [
    {
     "name": "Hunga Munga",
@@ -560,12 +802,12 @@
    }
   ],
   "name": "Get Buttered!",
-  "stars": 39,
+  "stars": 75,
   "tag": "#2R98Y8YUJ"
  },
  "end": "20261125T190707.000Z",
  "opponent": {
-  "destruction": 12.0,
+  "destruction": 32.0,
   "members": [
    {
     "name": "➡️ＮＥＧＡＲ",
@@ -869,7 +1111,7 @@
    }
   ],
   "name": "Arrow",
-  "stars": 18,
+  "stars": 48,
   "tag": "#PQU9YQCQ"
  },
  "start": "20261124T190707.000Z",

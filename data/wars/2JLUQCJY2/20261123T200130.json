@@ -21,11 +21,55 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#YULURQJ0R",
+   "ath": 19,
+   "d": "#2P229URGG",
+   "dth": 19,
+   "dur": 149,
+   "o": 3,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#YULURQJ0R",
+   "ath": 19,
+   "d": "#880RY0R2U",
+   "dth": 19,
+   "dur": 134,
+   "o": 4,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#UQQGLYP",
+   "ath": 19,
+   "d": "#VPJUJCUC",
+   "dth": 19,
+   "dur": 156,
+   "o": 5,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#UQQGLYP",
+   "ath": 19,
+   "d": "#R0U90QR8",
+   "dth": 19,
+   "dur": 152,
+   "o": 6,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 10.0,
+  "destruction": 30.0,
   "members": [
    {
     "name": "アナーキー.Vex♠️",
@@ -149,7 +193,7 @@
    }
   ],
   "name": "WardenWalkers",
-  "stars": 6,
+  "stars": 18,
   "tag": "#2JLUQCJY2"
  },
  "end": "20261125T190130.000Z",

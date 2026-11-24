@@ -76,11 +76,77 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#LCC8CCGCY",
+   "ath": 19,
+   "d": "#L0CRP2J28",
+   "dth": 19,
+   "dur": 145,
+   "o": 8,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#GQ0UY9CL",
+   "ath": 19,
+   "d": "#LGQ9P8R9C",
+   "dth": 19,
+   "dur": 142,
+   "o": 9,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#PJC9VU2UG",
+   "ath": 19,
+   "d": "#28G822PRP",
+   "dth": 19,
+   "dur": 150,
+   "o": 10,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#LU0U0PJ9V",
+   "ath": 17,
+   "d": "#PVLYGYC8Y",
+   "dth": 18,
+   "dur": 101,
+   "o": 11,
+   "p": 54,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#LU0U0PJ9V",
+   "ath": 17,
+   "d": "#YJPUQVUJL",
+   "dth": 19,
+   "dur": 119,
+   "o": 12,
+   "p": 59,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#8PY2QUCCY",
+   "ath": 19,
+   "d": "#P0L8LC828",
+   "dth": 19,
+   "dur": 180,
+   "o": 13,
+   "p": 81,
+   "s": 2,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 19.28,
+  "destruction": 27.28,
   "members": [
    {
     "name": "Herold",
@@ -234,12 +300,12 @@
    }
   ],
   "name": "German⚡️Elite™️",
-  "stars": 14,
+  "stars": 20,
   "tag": "#29RCYPYVU"
  },
  "end": "20261125T192312.000Z",
  "opponent": {
-  "destruction": 8.0,
+  "destruction": 19.76,
   "members": [
    {
     "name": "Sir Andre",
@@ -393,7 +459,7 @@
    }
   ],
   "name": "Joe‘s Home",
-  "stars": 6,
+  "stars": 15,
   "tag": "#2GRGC0Q0P"
  },
  "start": "20261124T192312.000Z",

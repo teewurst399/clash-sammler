@@ -263,11 +263,132 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#P0P8CGGJ",
+   "ath": 19,
+   "d": "#YYVL9922",
+   "dth": 19,
+   "dur": 95,
+   "o": 25,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#JY2V99CR",
+   "ath": 19,
+   "d": "#2988ULLCJ",
+   "dth": 19,
+   "dur": 146,
+   "o": 26,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#2P990URC",
+   "ath": 19,
+   "d": "#20PG008JY",
+   "dth": 19,
+   "dur": 115,
+   "o": 27,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#P0P8CGGJ",
+   "ath": 19,
+   "d": "#8U2LUJCC",
+   "dth": 19,
+   "dur": 113,
+   "o": 28,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#9LRQUY0C8",
+   "ath": 19,
+   "d": "#YY0RYV8U",
+   "dth": 19,
+   "dur": 142,
+   "o": 29,
+   "p": 93,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#2P990URC",
+   "ath": 19,
+   "d": "#2PL20V0LQ",
+   "dth": 19,
+   "dur": 142,
+   "o": 30,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#9LRQUY0C8",
+   "ath": 19,
+   "d": "#2VJRJGV9",
+   "dth": 19,
+   "dur": 132,
+   "o": 31,
+   "p": 93,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#9VUGRGG2V",
+   "ath": 19,
+   "d": "#GR9U2PCU",
+   "dth": 19,
+   "dur": 139,
+   "o": 32,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#8YPP0JY8V",
+   "ath": 19,
+   "d": "#YPRY8Y2L",
+   "dth": 19,
+   "dur": 132,
+   "o": 33,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#8YPP0JY8V",
+   "ath": 19,
+   "d": "#YY0RYV8U",
+   "dth": 19,
+   "dur": 180,
+   "o": 34,
+   "p": 96,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#YPRY8Y2L",
+   "ath": 19,
+   "d": "#G0VRYC8YY",
+   "dth": 19,
+   "dur": 180,
+   "o": 35,
+   "p": 85,
+   "s": 2,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 38.125,
+  "destruction": 51.425,
   "members": [
    {
     "name": "Chiko",
@@ -511,12 +632,12 @@
    }
   ],
   "name": "GermanGladiator",
-  "stars": 42,
+  "stars": 59,
   "tag": "#2Y2L0J20V"
  },
  "end": "20261125T181722.000Z",
  "opponent": {
-  "destruction": 11.8,
+  "destruction": 16.425,
   "members": [
    {
     "name": "Viridis",
@@ -760,7 +881,7 @@
    }
   ],
   "name": "808 Beach",
-  "stars": 12,
+  "stars": 17,
   "tag": "#GVVVJL8R"
  },
  "start": "20261124T181722.000Z",

@@ -1143,11 +1143,143 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#YQ2VL0VJ9",
+   "ath": 19,
+   "d": "#82VUVJR08",
+   "dth": 19,
+   "dur": 109,
+   "o": 105,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#QU99UYUYV",
+   "ath": 18,
+   "d": "#8V2929802",
+   "dth": 19,
+   "dur": 104,
+   "o": 106,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#YGC2P8QUR",
+   "ath": 19,
+   "d": "#2LCL90JP2",
+   "dth": 19,
+   "dur": 122,
+   "o": 107,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#28JPJCYUV",
+   "ath": 19,
+   "d": "#LQQ2GC80",
+   "dth": 19,
+   "dur": 147,
+   "o": 108,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#YGC2P8QUR",
+   "ath": 19,
+   "d": "#290LYUGY0",
+   "dth": 19,
+   "dur": 113,
+   "o": 109,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#28JPJCYUV",
+   "ath": 19,
+   "d": "#8820PURPL",
+   "dth": 19,
+   "dur": 142,
+   "o": 110,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#LC2VLRCCG",
+   "ath": 19,
+   "d": "#PG9CP8J0",
+   "dth": 19,
+   "dur": 128,
+   "o": 111,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#LC2VLRCCG",
+   "ath": 19,
+   "d": "#8PLQ8UQRL",
+   "dth": 19,
+   "dur": 166,
+   "o": 112,
+   "p": 92,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#G0CQJJ8R",
+   "ath": 19,
+   "d": "#8PLQ8UQRL",
+   "dth": 19,
+   "dur": 139,
+   "o": 113,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#G0CQJJ8R",
+   "ath": 19,
+   "d": "#22UG90UQ8",
+   "dth": 19,
+   "dur": 137,
+   "o": 114,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#YJ9J0UQCG",
+   "ath": 19,
+   "d": "#8PRC0YVU",
+   "dth": 19,
+   "dur": 117,
+   "o": 115,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#YJ9J0UQCG",
+   "ath": 19,
+   "d": "#P2CYQCJQP",
+   "dth": 19,
+   "dur": 118,
+   "o": 116,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 62.0,
+  "destruction": 82.0,
   "members": [
    {
     "name": "“Wolfi”",
@@ -1451,12 +1583,12 @@
    }
   ],
   "name": "Confusion",
-  "stars": 93,
+  "stars": 123,
   "tag": "#2QU9JJYP"
  },
  "end": "20261125T054706.000Z",
  "opponent": {
-  "destruction": 93.72,
+  "destruction": 93.94,
   "members": [
    {
     "name": "KTLB ⚡ RAIZEN",
@@ -1760,7 +1892,7 @@
    }
   ],
   "name": "KATILINGBAN",
-  "stars": 138,
+  "stars": 140,
   "tag": "#9V8JQQR2"
  },
  "start": "20261124T054706.000Z",

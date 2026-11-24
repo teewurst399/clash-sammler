@@ -109,11 +109,154 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#28UGQ09LG",
+   "ath": 19,
+   "d": "#9VCRY99P",
+   "dth": 19,
+   "dur": 172,
+   "o": 11,
+   "p": 94,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#28UGQ09LG",
+   "ath": 19,
+   "d": "#JL0QU2UQ",
+   "dth": 19,
+   "dur": 174,
+   "o": 12,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#PJU2UQ0P",
+   "ath": 19,
+   "d": "#8YYLGYR2Q",
+   "dth": 19,
+   "dur": 140,
+   "o": 13,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#QPPLVLQGP",
+   "ath": 19,
+   "d": "#2V2U22R2",
+   "dth": 19,
+   "dur": 164,
+   "o": 14,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#QPPLVLQGP",
+   "ath": 19,
+   "d": "#29QR02VPR",
+   "dth": 19,
+   "dur": 136,
+   "o": 15,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#JL0QU2UQ",
+   "ath": 19,
+   "d": "#PJU2UQ0P",
+   "dth": 19,
+   "dur": 129,
+   "o": 16,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#82P2RPLU9",
+   "ath": 19,
+   "d": "#PY89UPY92",
+   "dth": 19,
+   "dur": 180,
+   "o": 17,
+   "p": 99,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#JLVVQJV8",
+   "ath": 19,
+   "d": "#RQJ2P2LV",
+   "dth": 19,
+   "dur": 138,
+   "o": 18,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#82P2RPLU9",
+   "ath": 19,
+   "d": "#PCYLUQJQ",
+   "dth": 19,
+   "dur": 131,
+   "o": 19,
+   "p": 93,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#YY9YUGY9U",
+   "ath": 19,
+   "d": "#RGU82RQG",
+   "dth": 19,
+   "dur": 128,
+   "o": 20,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#JLVVQJV8",
+   "ath": 19,
+   "d": "#Q92V9GRYJ",
+   "dth": 19,
+   "dur": 151,
+   "o": 21,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#JL0QU2UQ",
+   "ath": 19,
+   "d": "#G20C208LP",
+   "dth": 19,
+   "dur": 137,
+   "o": 22,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#YY9YUGY9U",
+   "ath": 19,
+   "d": "#28UGQ09LG",
+   "dth": 19,
+   "dur": 135,
+   "o": 23,
+   "p": 81,
+   "s": 2,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 16.875,
+  "destruction": 21.9,
   "members": [
    {
     "name": "s3m",
@@ -357,12 +500,12 @@
    }
   ],
   "name": "#Black Stone# 2",
-  "stars": 19,
+  "stars": 25,
   "tag": "#282PGVRRJ"
  },
  "end": "20261125T185502.000Z",
  "opponent": {
-  "destruction": 7.5,
+  "destruction": 31.825,
   "members": [
    {
     "name": "Sezer",
@@ -606,7 +749,7 @@
    }
   ],
   "name": "KARA SANCAK",
-  "stars": 9,
+  "stars": 35,
   "tag": "#2RU29PGR0"
  },
  "start": "20261124T185502.000Z",
