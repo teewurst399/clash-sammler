@@ -901,11 +901,44 @@
    "p": 72,
    "s": 2,
    "side": "clan"
+  },
+  {
+   "a": "#PCC88U2L",
+   "ath": 19,
+   "d": "#29LYPQJV2",
+   "dth": 19,
+   "dur": 180,
+   "o": 83,
+   "p": 96,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#PCC88U2L",
+   "ath": 19,
+   "d": "#LPYYY2VUL",
+   "dth": 19,
+   "dur": 126,
+   "o": 84,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#LP0LVY99Q",
+   "ath": 19,
+   "d": "#2J9GUQ20",
+   "dth": 19,
+   "dur": 168,
+   "o": 85,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 61.866665,
+  "destruction": 64.08889,
   "members": [
    {
     "name": "MOZ.ART",
@@ -1179,12 +1212,12 @@
    }
   ],
   "name": "Firstzone",
-  "stars": 81,
+  "stars": 84,
   "tag": "#2YQQ80QGL"
  },
  "end": "20261124T190244.000Z",
  "opponent": {
-  "destruction": 88.86667,
+  "destruction": 93.22222,
   "members": [
    {
     "name": "EpheSuS",
@@ -1458,7 +1491,7 @@
    }
   ],
   "name": "THIS IS TURK",
-  "stars": 119,
+  "stars": 124,
   "tag": "#8L2UPV8L"
  },
  "start": "20261123T190244.000Z",

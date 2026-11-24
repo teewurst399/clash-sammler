@@ -428,11 +428,22 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#20Y9C2CYL",
+   "ath": 19,
+   "d": "#YCJ02U0CQ",
+   "dth": 18,
+   "dur": 90,
+   "o": 40,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 55.72,
+  "destruction": 59.72,
   "members": [
    {
     "name": "28",
@@ -586,7 +597,7 @@
    }
   ],
   "name": "Sigmazone",
-  "stars": 39,
+  "stars": 42,
   "tag": "#2Q0UQQRUJ"
  },
  "end": "20261124T192518.000Z",

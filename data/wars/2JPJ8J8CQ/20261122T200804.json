@@ -857,6 +857,17 @@
    "p": 81,
    "s": 2,
    "side": "clan"
+  },
+  {
+   "a": "#2CRQUCQPU",
+   "ath": 19,
+   "d": "#UULCYVRR",
+   "dth": 19,
+   "dur": 180,
+   "o": 79,
+   "p": 81,
+   "s": 2,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -1140,7 +1151,7 @@
  },
  "end": "20261124T190804.000Z",
  "opponent": {
-  "destruction": 84.71111,
+  "destruction": 86.51111,
   "members": [
    {
     "name": "<--CRUSHER-->",
@@ -1414,7 +1425,7 @@
    }
   ],
   "name": "IronSky",
-  "stars": 110,
+  "stars": 112,
   "tag": "#9C9QQJPJ"
  },
  "start": "20261123T190804.000Z",

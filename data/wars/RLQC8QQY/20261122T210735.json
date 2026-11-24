@@ -406,11 +406,121 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#8LQRLLCQ2",
+   "ath": 18,
+   "d": "#UCRCCCGU",
+   "dth": 18,
+   "dur": 129,
+   "o": 38,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#J9G0Q2JU",
+   "ath": 19,
+   "d": "#R9088VPG",
+   "dth": 19,
+   "dur": 173,
+   "o": 39,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#8LQRLLCQ2",
+   "ath": 18,
+   "d": "#JJ9QP9LP",
+   "dth": 19,
+   "dur": 129,
+   "o": 40,
+   "p": 84,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#2C2YLLVY",
+   "ath": 19,
+   "d": "#JJ9QP9LP",
+   "dth": 19,
+   "dur": 118,
+   "o": 41,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#2JRLRCV9P",
+   "ath": 19,
+   "d": "#QQCRLCQ",
+   "dth": 19,
+   "dur": 161,
+   "o": 42,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#2C2YLLVY",
+   "ath": 19,
+   "d": "#9VUVUYJR",
+   "dth": 19,
+   "dur": 161,
+   "o": 43,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#J9G0Q2JU",
+   "ath": 19,
+   "d": "#JR0RPUYG",
+   "dth": 18,
+   "dur": 132,
+   "o": 44,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#8GVYL9V9",
+   "ath": 19,
+   "d": "#2RCCY0V2P",
+   "dth": 19,
+   "dur": 100,
+   "o": 45,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#8Y9G2R0R",
+   "ath": 19,
+   "d": "#2PGVQV22U",
+   "dth": 19,
+   "dur": 144,
+   "o": 46,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#YU0L08UL2",
+   "ath": 19,
+   "d": "#2J9VL28QQ",
+   "dth": 19,
+   "dur": 178,
+   "o": 47,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 48.314285,
+  "destruction": 51.17143,
   "members": [
    {
     "name": "Gsälzbrot",
@@ -624,12 +734,12 @@
    }
   ],
   "name": "headstart",
-  "stars": 50,
+  "stars": 53,
   "tag": "#RLQC8QQY"
  },
  "end": "20261124T200735.000Z",
  "opponent": {
-  "destruction": 45.085712,
+  "destruction": 62.0,
   "members": [
    {
     "name": "Mistery 79",
@@ -843,7 +953,7 @@
    }
   ],
   "name": "Fenice Nera",
-  "stars": 44,
+  "stars": 62,
   "tag": "#GGP09R0"
  },
  "start": "20261123T200735.000Z",

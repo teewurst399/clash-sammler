@@ -769,6 +769,17 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#QQQ9JGPVV",
+   "ath": 19,
+   "d": "#LC0J8U8C2",
+   "dth": 19,
+   "dur": 155,
+   "o": 71,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -1052,7 +1063,7 @@
  },
  "end": "20261124T180324.000Z",
  "opponent": {
-  "destruction": 79.68889,
+  "destruction": 81.91111,
   "members": [
    {
     "name": "Patrón",
@@ -1326,7 +1337,7 @@
    }
   ],
   "name": "Throne_of_SRG",
-  "stars": 107,
+  "stars": 110,
   "tag": "#2CU98J0CU"
  },
  "start": "20261123T180324.000Z",
