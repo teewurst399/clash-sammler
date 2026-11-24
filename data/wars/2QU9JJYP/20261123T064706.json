@@ -1033,11 +1033,121 @@
    "p": 89,
    "s": 1,
    "side": "gegner"
+  },
+  {
+   "a": "#PYJJLUYRV",
+   "ath": 19,
+   "d": "#8QGRGYCP2",
+   "dth": 19,
+   "dur": 115,
+   "o": 95,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#YCLGPG2V",
+   "ath": 19,
+   "d": "#LQ2QPC08U",
+   "dth": 19,
+   "dur": 114,
+   "o": 96,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#YCLGPG2V",
+   "ath": 19,
+   "d": "#2JQRRQRL",
+   "dth": 19,
+   "dur": 82,
+   "o": 97,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#PYJJLUYRV",
+   "ath": 19,
+   "d": "#9URJGYCV",
+   "dth": 19,
+   "dur": 154,
+   "o": 98,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#LU0RV9YRG",
+   "ath": 19,
+   "d": "#8GU8JVQ9R",
+   "dth": 19,
+   "dur": 166,
+   "o": 99,
+   "p": 97,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#LU0RV9YRG",
+   "ath": 19,
+   "d": "#28JPJCYUV",
+   "dth": 19,
+   "dur": 137,
+   "o": 100,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#LQ2QPC08U",
+   "ath": 19,
+   "d": "#CQQJUUQY",
+   "dth": 19,
+   "dur": 144,
+   "o": 101,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#RLUQL9U9",
+   "ath": 19,
+   "d": "#PLCU8YYG9",
+   "dth": 19,
+   "dur": 97,
+   "o": 102,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#R90G2GJQ",
+   "ath": 19,
+   "d": "#YCLGPG2V",
+   "dth": 19,
+   "dur": 154,
+   "o": 103,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#YQ2VL0VJ9",
+   "ath": 19,
+   "d": "#RLUQL9U9",
+   "dth": 19,
+   "dur": 121,
+   "o": 104,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 52.0,
+  "destruction": 62.0,
   "members": [
    {
     "name": "“Wolfi”",
@@ -1341,12 +1451,12 @@
    }
   ],
   "name": "Confusion",
-  "stars": 78,
+  "stars": 93,
   "tag": "#2QU9JJYP"
  },
  "end": "20261125T054706.000Z",
  "opponent": {
-  "destruction": 83.78,
+  "destruction": 93.72,
   "members": [
    {
     "name": "KTLB ⚡ RAIZEN",
@@ -1650,7 +1760,7 @@
    }
   ],
   "name": "KATILINGBAN",
-  "stars": 124,
+  "stars": 138,
   "tag": "#9V8JQQR2"
  },
  "start": "20261124T054706.000Z",

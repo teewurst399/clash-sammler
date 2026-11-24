@@ -54,11 +54,220 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#QV9J9CY2L",
+   "ath": 18,
+   "d": "#2P990URC",
+   "dth": 19,
+   "dur": 65,
+   "o": 6,
+   "p": 56,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#P2QJPQUJ8",
+   "ath": 19,
+   "d": "#99999PQ",
+   "dth": 19,
+   "dur": 111,
+   "o": 7,
+   "p": 68,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#80L9GUCR0",
+   "ath": 19,
+   "d": "#P2QJPQUJ8",
+   "dth": 19,
+   "dur": 139,
+   "o": 8,
+   "p": 76,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#JGYCCCVY",
+   "ath": 19,
+   "d": "#8U2LUJCC",
+   "dth": 19,
+   "dur": 104,
+   "o": 9,
+   "p": 82,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#JGYCCCVY",
+   "ath": 19,
+   "d": "#YPRY8Y2L",
+   "dth": 19,
+   "dur": 91,
+   "o": 10,
+   "p": 92,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#80L9GUCR0",
+   "ath": 19,
+   "d": "#P0P8CGGJ",
+   "dth": 19,
+   "dur": 167,
+   "o": 11,
+   "p": 79,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#QUUY0Y088",
+   "ath": 19,
+   "d": "#LURVUPJ2C",
+   "dth": 19,
+   "dur": 180,
+   "o": 12,
+   "p": 97,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#Y0QLJL0LY",
+   "ath": 19,
+   "d": "#208G80VQC",
+   "dth": 19,
+   "dur": 95,
+   "o": 13,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#QUUY0Y088",
+   "ath": 19,
+   "d": "#29P0YJV8C",
+   "dth": 19,
+   "dur": 175,
+   "o": 14,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#Y0QLJL0LY",
+   "ath": 19,
+   "d": "#RL9Y9QJP",
+   "dth": 19,
+   "dur": 110,
+   "o": 15,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#2Y9YU0CQR",
+   "ath": 19,
+   "d": "#82CU920QP",
+   "dth": 18,
+   "dur": 119,
+   "o": 16,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#YG8GUVGYV",
+   "ath": 19,
+   "d": "#YCP2YP0U2",
+   "dth": 19,
+   "dur": 85,
+   "o": 17,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#2Y9YU0CQR",
+   "ath": 19,
+   "d": "#QV9J9CY2L",
+   "dth": 18,
+   "dur": 113,
+   "o": 18,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#YG8GUVGYV",
+   "ath": 19,
+   "d": "#9VUGRGG2V",
+   "dth": 19,
+   "dur": 82,
+   "o": 19,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#LLRUPPGYP",
+   "ath": 19,
+   "d": "#Q9PUU92LC",
+   "dth": 19,
+   "dur": 158,
+   "o": 20,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#LLRUPPGYP",
+   "ath": 19,
+   "d": "#YYVL9922",
+   "dth": 19,
+   "dur": 149,
+   "o": 21,
+   "p": 83,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#YLGLU8GG",
+   "ath": 19,
+   "d": "#28PR20U0G",
+   "dth": 19,
+   "dur": 129,
+   "o": 22,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#RJ800GLP",
+   "ath": 19,
+   "d": "#QJRQRG8G",
+   "dth": 19,
+   "dur": 151,
+   "o": 23,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#YLGLU8GG",
+   "ath": 19,
+   "d": "#88Q8CGLGJ",
+   "dth": 19,
+   "dur": 148,
+   "o": 24,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 9.0,
+  "destruction": 38.125,
   "members": [
    {
     "name": "Chiko",
@@ -302,12 +511,12 @@
    }
   ],
   "name": "GermanGladiator",
-  "stars": 10,
+  "stars": 42,
   "tag": "#2Y2L0J20V"
  },
  "end": "20261125T181722.000Z",
  "opponent": {
-  "destruction": 1.6,
+  "destruction": 11.8,
   "members": [
    {
     "name": "Viridis",
@@ -551,7 +760,7 @@
    }
   ],
   "name": "808 Beach",
-  "stars": 2,
+  "stars": 12,
   "tag": "#GVVVJL8R"
  },
  "start": "20261124T181722.000Z",

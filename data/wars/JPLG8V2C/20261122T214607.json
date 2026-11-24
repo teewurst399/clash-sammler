@@ -1055,11 +1055,143 @@
    "p": 33,
    "s": 1,
    "side": "gegner"
+  },
+  {
+   "a": "#URC8VQYJ",
+   "ath": 18,
+   "d": "#2YRYUVR99",
+   "dth": 19,
+   "dur": 165,
+   "o": 97,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#URC8VQYJ",
+   "ath": 18,
+   "d": "#8UP0U0JC2",
+   "dth": 19,
+   "dur": 157,
+   "o": 98,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#2YRYUVR99",
+   "ath": 19,
+   "d": "#QPPCG8LR",
+   "dth": 19,
+   "dur": 123,
+   "o": 99,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#8UP0U0JC2",
+   "ath": 19,
+   "d": "#Y982CPUQ9",
+   "dth": 19,
+   "dur": 180,
+   "o": 100,
+   "p": 60,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#2YRYUVR99",
+   "ath": 19,
+   "d": "#2C88Q2PQ0",
+   "dth": 19,
+   "dur": 12,
+   "o": 101,
+   "p": 6,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#8UP0U0JC2",
+   "ath": 19,
+   "d": "#QR0UP28V",
+   "dth": 19,
+   "dur": 180,
+   "o": 102,
+   "p": 72,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#2UVGVRQP",
+   "ath": 19,
+   "d": "#2C88Q2PQ0",
+   "dth": 19,
+   "dur": 13,
+   "o": 103,
+   "p": 9,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#2PPJR8QV",
+   "ath": 19,
+   "d": "#Y982CPUQ9",
+   "dth": 19,
+   "dur": 180,
+   "o": 104,
+   "p": 68,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#2PPJR8QV",
+   "ath": 19,
+   "d": "#2C88Q2PQ0",
+   "dth": 19,
+   "dur": 180,
+   "o": 105,
+   "p": 78,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#8JV2LVVRV",
+   "ath": 19,
+   "d": "#VYJGY98C",
+   "dth": 19,
+   "dur": 33,
+   "o": 106,
+   "p": 41,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#2UVGVRQP",
+   "ath": 19,
+   "d": "#VYJGY98C",
+   "dth": 19,
+   "dur": 16,
+   "o": 107,
+   "p": 8,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#8JV2LVVRV",
+   "ath": 19,
+   "d": "#Y982CPUQ9",
+   "dth": 19,
+   "dur": 36,
+   "o": 108,
+   "p": 41,
+   "s": 1,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 99.96667,
+  "destruction": 100.0,
   "members": [
    {
     "name": "Der Checker",
@@ -1243,7 +1375,7 @@
    }
   ],
   "name": "GhostZone",
-  "stars": 89,
+  "stars": 90,
   "tag": "#JPLG8V2C"
  },
  "end": "20261124T204607.000Z",

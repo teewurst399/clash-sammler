@@ -1506,11 +1506,110 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#L0VVV9C0Q",
+   "ath": 19,
+   "d": "#P800V02VC",
+   "dth": 19,
+   "dur": 161,
+   "o": 138,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#UP9GCCJJ",
+   "ath": 19,
+   "d": "#GQJGVGRJ",
+   "dth": 19,
+   "dur": 134,
+   "o": 139,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#8LCG9CPQJ",
+   "ath": 19,
+   "d": "#QVPY82PP",
+   "dth": 19,
+   "dur": 174,
+   "o": 140,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#8LCG9CPQJ",
+   "ath": 19,
+   "d": "#80PR9PG29",
+   "dth": 19,
+   "dur": 180,
+   "o": 141,
+   "p": 84,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#2PV0P2JY",
+   "ath": 19,
+   "d": "#G90GVPQJR",
+   "dth": 19,
+   "dur": 180,
+   "o": 142,
+   "p": 96,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#9LJPJQQPQ",
+   "ath": 19,
+   "d": "#PYC9YJVR",
+   "dth": 19,
+   "dur": 145,
+   "o": 143,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#2PV0P2JY",
+   "ath": 19,
+   "d": "#RLGJJRYQ",
+   "dth": 19,
+   "dur": 156,
+   "o": 144,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#YVUCUC2",
+   "ath": 19,
+   "d": "#28U99CVLP",
+   "dth": 19,
+   "dur": 133,
+   "o": 145,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#9LJPJQQPQ",
+   "ath": 19,
+   "d": "#J008PV2V",
+   "dth": 19,
+   "dur": 130,
+   "o": 146,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 95.111115,
+  "destruction": 98.31111,
   "members": [
    {
     "name": "ROBINJO*ALIHAN",
@@ -1784,7 +1883,7 @@
    }
   ],
   "name": "Eiskalte Engel",
-  "stars": 123,
+  "stars": 130,
   "tag": "#9UCL90RP"
  },
  "end": "20261125T003945.000Z",

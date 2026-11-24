@@ -1044,11 +1044,275 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#R9088VPG",
+   "ath": 19,
+   "d": "#LLUU90L0V",
+   "dth": 19,
+   "dur": 145,
+   "o": 96,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#9GUPL9JL2",
+   "ath": 19,
+   "d": "#PPQQ0ULR",
+   "dth": 19,
+   "dur": 168,
+   "o": 97,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#PRUJU9VP",
+   "ath": 19,
+   "d": "#Y2C8PJVCR",
+   "dth": 19,
+   "dur": 111,
+   "o": 98,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#9GUPL9JL2",
+   "ath": 19,
+   "d": "#92LVR8YL",
+   "dth": 19,
+   "dur": 142,
+   "o": 99,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#C2LRPPRY",
+   "ath": 19,
+   "d": "#2YPPPG2L0",
+   "dth": 19,
+   "dur": 114,
+   "o": 100,
+   "p": 77,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#QQCRLCQ",
+   "ath": 19,
+   "d": "#C2LRPPRY",
+   "dth": 19,
+   "dur": 127,
+   "o": 101,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#QQCRLCQ",
+   "ath": 19,
+   "d": "#8JLRYRV0G",
+   "dth": 19,
+   "dur": 141,
+   "o": 102,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#2YPPPG2L0",
+   "ath": 19,
+   "d": "#J9G0Q2JU",
+   "dth": 19,
+   "dur": 136,
+   "o": 103,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#2JRC8LG2",
+   "ath": 19,
+   "d": "#G89GLQR90",
+   "dth": 12,
+   "dur": 136,
+   "o": 104,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#2J92RJYY",
+   "ath": 19,
+   "d": "#GJCP2RGPV",
+   "dth": 18,
+   "dur": 107,
+   "o": 105,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#2YPPPG2L0",
+   "ath": 19,
+   "d": "#8Y02C99VU",
+   "dth": 19,
+   "dur": 135,
+   "o": 106,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#Y9VRUCJLQ",
+   "ath": 19,
+   "d": "#YCQG9Y92",
+   "dth": 18,
+   "dur": 120,
+   "o": 107,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#2J92RJYY",
+   "ath": 19,
+   "d": "#2UVY802JC",
+   "dth": 18,
+   "dur": 122,
+   "o": 108,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#JJ9QP9LP",
+   "ath": 19,
+   "d": "#PVCV0LRPY",
+   "dth": 19,
+   "dur": 11,
+   "o": 109,
+   "p": 22,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#JJ9QP9LP",
+   "ath": 19,
+   "d": "#RJ2C2YV",
+   "dth": 19,
+   "dur": 14,
+   "o": 110,
+   "p": 21,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#LQLU98P2Y",
+   "ath": 19,
+   "d": "#PVCV0LRPY",
+   "dth": 19,
+   "dur": 16,
+   "o": 111,
+   "p": 18,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#LQLU98P2Y",
+   "ath": 19,
+   "d": "#RJ2C2YV",
+   "dth": 19,
+   "dur": 14,
+   "o": 112,
+   "p": 11,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#Y98P2020",
+   "ath": 19,
+   "d": "#PVCV0LRPY",
+   "dth": 19,
+   "dur": 10,
+   "o": 113,
+   "p": 27,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#2RCCY0V2P",
+   "ath": 19,
+   "d": "#RJ2C2YV",
+   "dth": 19,
+   "dur": 38,
+   "o": 114,
+   "p": 13,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#2RCCY0V2P",
+   "ath": 19,
+   "d": "#PVCV0LRPY",
+   "dth": 19,
+   "dur": 19,
+   "o": 115,
+   "p": 12,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#Y98P2020",
+   "ath": 19,
+   "d": "#RJ2C2YV",
+   "dth": 19,
+   "dur": 14,
+   "o": 116,
+   "p": 15,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#U2VGY99G",
+   "ath": 19,
+   "d": "#PVCV0LRPY",
+   "dth": 19,
+   "dur": 21,
+   "o": 117,
+   "p": 14,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#U2VGY99G",
+   "ath": 19,
+   "d": "#RJ2C2YV",
+   "dth": 19,
+   "dur": 19,
+   "o": 118,
+   "p": 9,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#YCQG9Y92",
+   "ath": 18,
+   "d": "#JJ9QP9LP",
+   "dth": 19,
+   "dur": 180,
+   "o": 119,
+   "p": 84,
+   "s": 2,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 81.685715,
+  "destruction": 100.0,
   "members": [
    {
     "name": "Gsälzbrot",
@@ -1262,12 +1526,12 @@
    }
   ],
   "name": "headstart",
-  "stars": 84,
+  "stars": 105,
   "tag": "#RLQC8QQY"
  },
  "end": "20261124T200735.000Z",
  "opponent": {
-  "destruction": 99.91428,
+  "destruction": 100.0,
   "members": [
    {
     "name": "Mistery 79",
@@ -1481,11 +1745,11 @@
    }
   ],
   "name": "Fenice Nera",
-  "stars": 104,
+  "stars": 105,
   "tag": "#GGP09R0"
  },
  "start": "20261123T200735.000Z",
- "state": "inWar",
+ "state": "warEnded",
  "teamSize": 35,
  "type": "krieg"
 }

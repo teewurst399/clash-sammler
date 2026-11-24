@@ -252,11 +252,253 @@
    "p": 90,
    "s": 2,
    "side": "gegner"
+  },
+  {
+   "a": "#LLV0JQJRL",
+   "ath": 19,
+   "d": "#8LGQ2UGPY",
+   "dth": 19,
+   "dur": 180,
+   "o": 24,
+   "p": 91,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#YG998JQ29",
+   "ath": 19,
+   "d": "#P00RLV9Q",
+   "dth": 19,
+   "dur": 150,
+   "o": 25,
+   "p": 80,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#20YUUJ90P",
+   "ath": 19,
+   "d": "#8GR08QLPL",
+   "dth": 19,
+   "dur": 162,
+   "o": 26,
+   "p": 86,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#8QU00CCRL",
+   "ath": 19,
+   "d": "#PLJV8CLRQ",
+   "dth": 19,
+   "dur": 101,
+   "o": 27,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#LVCPUY8CL",
+   "ath": 19,
+   "d": "#YCJGQRJVR",
+   "dth": 19,
+   "dur": 127,
+   "o": 28,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#PG20C8888",
+   "ath": 19,
+   "d": "#2V00CYVQP",
+   "dth": 19,
+   "dur": 162,
+   "o": 29,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#8QU00CCRL",
+   "ath": 19,
+   "d": "#C9PQLUR0",
+   "dth": 19,
+   "dur": 111,
+   "o": 30,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#22Q0LC0C8",
+   "ath": 19,
+   "d": "#P00RLV9Q",
+   "dth": 19,
+   "dur": 137,
+   "o": 31,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#VR2YR0U8",
+   "ath": 19,
+   "d": "#L9U9CP0CQ",
+   "dth": 19,
+   "dur": 115,
+   "o": 32,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#LLV0JQJRL",
+   "ath": 19,
+   "d": "#Y8CQUYUQ",
+   "dth": 19,
+   "dur": 150,
+   "o": 33,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#PG20C8888",
+   "ath": 19,
+   "d": "#9899820C",
+   "dth": 19,
+   "dur": 140,
+   "o": 34,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#Y90YU9RQ",
+   "ath": 19,
+   "d": "#PGPJUCQR8",
+   "dth": 19,
+   "dur": 166,
+   "o": 35,
+   "p": 89,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#L20L98Y",
+   "ath": 19,
+   "d": "#9UVPU8CUG",
+   "dth": 19,
+   "dur": 135,
+   "o": 36,
+   "p": 64,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#LVCPUY8CL",
+   "ath": 19,
+   "d": "#PLUUYLU0Q",
+   "dth": 19,
+   "dur": 127,
+   "o": 37,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#8PRYLYGGY",
+   "ath": 19,
+   "d": "#QLPP2LPQG",
+   "dth": 19,
+   "dur": 139,
+   "o": 38,
+   "p": 84,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#VR2YR0U8",
+   "ath": 19,
+   "d": "#GQQ02YVY",
+   "dth": 19,
+   "dur": 180,
+   "o": 39,
+   "p": 99,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#L9200P80L",
+   "ath": 19,
+   "d": "#20VV2VR2V",
+   "dth": 19,
+   "dur": 142,
+   "o": 40,
+   "p": 93,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#L9200P80L",
+   "ath": 19,
+   "d": "#8GR08QLPL",
+   "dth": 19,
+   "dur": 99,
+   "o": 41,
+   "p": 83,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#9GJ8GL29P",
+   "ath": 19,
+   "d": "#LY9GPVU88",
+   "dth": 19,
+   "dur": 173,
+   "o": 42,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#9GJ8GL29P",
+   "ath": 19,
+   "d": "#GVV89RLC",
+   "dth": 19,
+   "dur": 144,
+   "o": 43,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#QLPP2LPQG",
+   "ath": 19,
+   "d": "#PG20C8888",
+   "dth": 19,
+   "dur": 180,
+   "o": 44,
+   "p": 86,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#QLPP2LPQG",
+   "ath": 19,
+   "d": "#LLV0JQJRL",
+   "dth": 19,
+   "dur": 148,
+   "o": 45,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 0.0,
+  "destruction": 4.65,
   "members": [
    {
     "name": "Fighter",
@@ -500,12 +742,12 @@
    }
   ],
   "name": "#Black Stone#",
-  "stars": 0,
+  "stars": 5,
   "tag": "#Y898LCJ0"
  },
  "end": "20261125T180442.000Z",
  "opponent": {
-  "destruction": 48.025,
+  "destruction": 84.475,
   "members": [
    {
     "name": "iskender",
@@ -749,7 +991,7 @@
    }
   ],
   "name": "MADE in TURKEY",
-  "stars": 55,
+  "stars": 94,
   "tag": "#VRPYLG"
  },
  "start": "20261124T180442.000Z",

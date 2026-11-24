@@ -157,7 +157,7 @@
   "tag": "#2LGP8QGRP"
  },
  "start": "20261123T191742.000Z",
- "state": "inWar",
+ "state": "warEnded",
  "teamSize": 5,
  "type": "krieg"
 }

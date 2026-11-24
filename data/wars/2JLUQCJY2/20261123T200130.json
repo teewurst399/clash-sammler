@@ -1,0 +1,288 @@
+{
+ "attacks": [
+  {
+   "a": "#Y2Q0GC08",
+   "ath": 19,
+   "d": "#9P00UC9P9",
+   "dth": 19,
+   "dur": 129,
+   "o": 1,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#Y2Q0GC08",
+   "ath": 19,
+   "d": "#98YPQRUG8",
+   "dth": 19,
+   "dur": 88,
+   "o": 2,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  }
+ ],
+ "attacksPerMember": 2,
+ "clan": {
+  "destruction": 10.0,
+  "members": [
+   {
+    "name": "アナーキー.Vex♠️",
+    "pos": 7,
+    "tag": "#JVQCG09L",
+    "th": 19
+   },
+   {
+    "name": "Tobi",
+    "pos": 3,
+    "tag": "#Y2Q0GC08",
+    "th": 19
+   },
+   {
+    "name": "Drecksack24",
+    "pos": 14,
+    "tag": "#YPP0RRUC",
+    "th": 18
+   },
+   {
+    "name": "finley",
+    "pos": 5,
+    "tag": "#ULYVYGCV",
+    "th": 19
+   },
+   {
+    "name": "アナーキー.Vex♣️",
+    "pos": 8,
+    "tag": "#8CCUV9G9V",
+    "th": 19
+   },
+   {
+    "name": "littleStar",
+    "pos": 16,
+    "tag": "#8JV89UU2P",
+    "th": 18
+   },
+   {
+    "name": "lightStar",
+    "pos": 18,
+    "tag": "#GURG9QPRV",
+    "th": 9
+   },
+   {
+    "name": "Vex",
+    "pos": 20,
+    "tag": "#R89YUUQP9",
+    "th": 3
+   },
+   {
+    "name": "TAMIKO",
+    "pos": 13,
+    "tag": "#8LC80LU8Y",
+    "th": 18
+   },
+   {
+    "name": "Timon",
+    "pos": 12,
+    "tag": "#PUGU829Q",
+    "th": 18
+   },
+   {
+    "name": "アナーキー.Vex♦️",
+    "pos": 10,
+    "tag": "#2VRLRQULU",
+    "th": 19
+   },
+   {
+    "name": "LORD NH",
+    "pos": 2,
+    "tag": "#UQQGLYP",
+    "th": 19
+   },
+   {
+    "name": "threeStar",
+    "pos": 9,
+    "tag": "#Q9UL92QP9",
+    "th": 19
+   },
+   {
+    "name": "アナーキー.Vex♥️",
+    "pos": 6,
+    "tag": "#LVJ9UQLPV",
+    "th": 19
+   },
+   {
+    "name": "finleyy",
+    "pos": 15,
+    "tag": "#QQC929CVU",
+    "th": 18
+   },
+   {
+    "name": "leon",
+    "pos": 17,
+    "tag": "#LGVUU28RR",
+    "th": 14
+   },
+   {
+    "name": "$ LORD NH $",
+    "pos": 1,
+    "tag": "#YULURQJ0R",
+    "th": 19
+   },
+   {
+    "name": "StarBoy",
+    "pos": 11,
+    "tag": "#QVJJVQGL",
+    "th": 19
+   },
+   {
+    "name": "miniStar",
+    "pos": 19,
+    "tag": "#GJ2V9L09V",
+    "th": 8
+   },
+   {
+    "name": "twoStar",
+    "pos": 4,
+    "tag": "#YJJ0CRJ0V",
+    "th": 19
+   }
+  ],
+  "name": "WardenWalkers",
+  "stars": 6,
+  "tag": "#2JLUQCJY2"
+ },
+ "end": "20261125T190130.000Z",
+ "opponent": {
+  "destruction": 0.0,
+  "members": [
+   {
+    "name": "Amar",
+    "pos": 9,
+    "tag": "#G202Q0U0G",
+    "th": 19
+   },
+   {
+    "name": "JR. MOMO",
+    "pos": 11,
+    "tag": "#8Y090YPPC",
+    "th": 18
+   },
+   {
+    "name": "MADARA_UCHIHA⚛️",
+    "pos": 6,
+    "tag": "#R0U90QR8",
+    "th": 19
+   },
+   {
+    "name": "lycan",
+    "pos": 10,
+    "tag": "#2Y9YCC29",
+    "th": 18
+   },
+   {
+    "name": "Z⊙R⊙",
+    "pos": 7,
+    "tag": "#2LL0VQ8Y",
+    "th": 19
+   },
+   {
+    "name": "JN⚡️BABIN⚡️",
+    "pos": 12,
+    "tag": "#PC8VVG2QY",
+    "th": 19
+   },
+   {
+    "name": "NAMELESS",
+    "pos": 17,
+    "tag": "#80UQJ9RL2",
+    "th": 19
+   },
+   {
+    "name": "✌️Xacmazli✌️",
+    "pos": 13,
+    "tag": "#GLR0CJ9J",
+    "th": 18
+   },
+   {
+    "name": "D€l@¥ N● M●r€",
+    "pos": 8,
+    "tag": "#80J888RG2",
+    "th": 19
+   },
+   {
+    "name": "⚔️ Gm keshab ⚔️",
+    "pos": 14,
+    "tag": "#PCJJQJ8PU",
+    "th": 19
+   },
+   {
+    "name": "JOEY",
+    "pos": 4,
+    "tag": "#880RY0R2U",
+    "th": 19
+   },
+   {
+    "name": "Dave",
+    "pos": 1,
+    "tag": "#9P00UC9P9",
+    "th": 19
+   },
+   {
+    "name": "SAMIR RAI",
+    "pos": 19,
+    "tag": "#GUG8088GQ",
+    "th": 14
+   },
+   {
+    "name": "{R}O{S}H{A}N",
+    "pos": 20,
+    "tag": "#GVRJ88LJ9",
+    "th": 14
+   },
+   {
+    "name": "Ri Sh Ad",
+    "pos": 16,
+    "tag": "#L0LQLC2JJ",
+    "th": 18
+   },
+   {
+    "name": "333❤️❤️❤️LEGEND",
+    "pos": 18,
+    "tag": "#2VV0RQCR8",
+    "th": 19
+   },
+   {
+    "name": "Clasher",
+    "pos": 2,
+    "tag": "#98YPQRUG8",
+    "th": 19
+   },
+   {
+    "name": "mahesh",
+    "pos": 3,
+    "tag": "#2P229URGG",
+    "th": 19
+   },
+   {
+    "name": "hunter*",
+    "pos": 5,
+    "tag": "#VPJUJCUC",
+    "th": 19
+   },
+   {
+    "name": "dr. d34tH",
+    "pos": 15,
+    "tag": "#YRRYG0URQ",
+    "th": 18
+   }
+  ],
+  "name": "JR.NEPALI ALL☆☆",
+  "stars": 0,
+  "tag": "#LPR2RY08"
+ },
+ "start": "20261124T190130.000Z",
+ "state": "inWar",
+ "teamSize": 20,
+ "type": "krieg"
+}

@@ -1,0 +1,381 @@
+{
+ "attacks": [
+  {
+   "a": "#GLYRQRCJ",
+   "ath": 19,
+   "d": "#22Y2ULG9U",
+   "dth": 19,
+   "dur": 114,
+   "o": 1,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#9QC9PJQQ",
+   "ath": 19,
+   "d": "#UV0928LJ",
+   "dth": 19,
+   "dur": 91,
+   "o": 2,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#GLYRQRCJ",
+   "ath": 19,
+   "d": "#Q88LJQ29P",
+   "dth": 19,
+   "dur": 112,
+   "o": 3,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#PURQQVV8P",
+   "ath": 19,
+   "d": "#RGYJC0VP",
+   "dth": 19,
+   "dur": 180,
+   "o": 4,
+   "p": 92,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#L990G9UC",
+   "ath": 19,
+   "d": "#PRL0LJC8P",
+   "dth": 19,
+   "dur": 127,
+   "o": 5,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  }
+ ],
+ "attacksPerMember": 2,
+ "clan": {
+  "destruction": 7.68,
+  "members": [
+   {
+    "name": "DΔツLion",
+    "pos": 9,
+    "tag": "#UV9PGG0",
+    "th": 19
+   },
+   {
+    "name": "youtox",
+    "pos": 14,
+    "tag": "#VUCJCYRL",
+    "th": 19
+   },
+   {
+    "name": "DΔツ❺taff⑧uLL",
+    "pos": 21,
+    "tag": "#9QC9PJQQ",
+    "th": 19
+   },
+   {
+    "name": "DΔツak1402;)",
+    "pos": 16,
+    "tag": "#RCR8CJ9J",
+    "th": 19
+   },
+   {
+    "name": "○JOY○",
+    "pos": 18,
+    "tag": "#LGJ9P9VRJ",
+    "th": 19
+   },
+   {
+    "name": "Boshi",
+    "pos": 7,
+    "tag": "#22Y2ULG9U",
+    "th": 19
+   },
+   {
+    "name": "jonas",
+    "pos": 3,
+    "tag": "#VP98L0GR",
+    "th": 19
+   },
+   {
+    "name": "DΔツkaj",
+    "pos": 15,
+    "tag": "#LL0PJCUG",
+    "th": 19
+   },
+   {
+    "name": "DΔツLappo",
+    "pos": 11,
+    "tag": "#YU9CP9JU0",
+    "th": 19
+   },
+   {
+    "name": "DΔヅ⚡️Proxi⚡️",
+    "pos": 2,
+    "tag": "#99RPV9GVV",
+    "th": 19
+   },
+   {
+    "name": "TheDreamer",
+    "pos": 24,
+    "tag": "#LU90RRRQV",
+    "th": 18
+   },
+   {
+    "name": "DΔツlisa",
+    "pos": 1,
+    "tag": "#PRL0LJC8P",
+    "th": 19
+   },
+   {
+    "name": "Prince of Clans",
+    "pos": 12,
+    "tag": "#2UP9G09P",
+    "th": 19
+   },
+   {
+    "name": "DΔツ Diaz",
+    "pos": 23,
+    "tag": "#V9YPURVY",
+    "th": 19
+   },
+   {
+    "name": "Rolfi",
+    "pos": 25,
+    "tag": "#YULUCPPRY",
+    "th": 19
+   },
+   {
+    "name": "DΔツ Venom",
+    "pos": 17,
+    "tag": "#88GGJYJY0",
+    "th": 19
+   },
+   {
+    "name": "Maxi",
+    "pos": 13,
+    "tag": "#GJQVGJL2",
+    "th": 19
+   },
+   {
+    "name": "The Lion King",
+    "pos": 10,
+    "tag": "#YCJ9UUJRG",
+    "th": 19
+   },
+   {
+    "name": "Haferflocken",
+    "pos": 6,
+    "tag": "#2QJCPL8GR",
+    "th": 19
+   },
+   {
+    "name": "Paul 二",
+    "pos": 22,
+    "tag": "#GPPUQCVQJ",
+    "th": 19
+   },
+   {
+    "name": "DΔツCHRIS",
+    "pos": 4,
+    "tag": "#PURQQVV8P",
+    "th": 19
+   },
+   {
+    "name": "#sir#",
+    "pos": 20,
+    "tag": "#PQR08CRJR",
+    "th": 19
+   },
+   {
+    "name": "Nougat",
+    "pos": 19,
+    "tag": "#Q88LJQ29P",
+    "th": 19
+   },
+   {
+    "name": "DΔツBacon",
+    "pos": 8,
+    "tag": "#QCL0GJVV0",
+    "th": 19
+   },
+   {
+    "name": "DΔヅ⚡️Proxi 2⚡️",
+    "pos": 5,
+    "tag": "#YJC99UCVR",
+    "th": 19
+   }
+  ],
+  "name": "Dark Angel",
+  "stars": 5,
+  "tag": "#2JJG9RLY8"
+ },
+ "end": "20261125T192942.000Z",
+ "opponent": {
+  "destruction": 12.0,
+  "members": [
+   {
+    "name": "GreatGuardian",
+    "pos": 4,
+    "tag": "#GLYRQRCJ",
+    "th": 19
+   },
+   {
+    "name": "Denis",
+    "pos": 12,
+    "tag": "#RL9ULYGU",
+    "th": 19
+   },
+   {
+    "name": "Bestia Negra",
+    "pos": 14,
+    "tag": "#8Q8LQJG9",
+    "th": 19
+   },
+   {
+    "name": "Schwabi63",
+    "pos": 7,
+    "tag": "#RQQLVCR2",
+    "th": 19
+   },
+   {
+    "name": "blackbird",
+    "pos": 24,
+    "tag": "#8VGC0CUP",
+    "th": 18
+   },
+   {
+    "name": "jamaricoZH",
+    "pos": 6,
+    "tag": "#9200LQC8",
+    "th": 19
+   },
+   {
+    "name": "zacke",
+    "pos": 23,
+    "tag": "#JGVP0VGL",
+    "th": 19
+   },
+   {
+    "name": "Marius",
+    "pos": 25,
+    "tag": "#UJ9VCRYG",
+    "th": 19
+   },
+   {
+    "name": "MIGHTY \"M\"",
+    "pos": 18,
+    "tag": "#CGQ8PVGQ",
+    "th": 19
+   },
+   {
+    "name": "Snoopy",
+    "pos": 1,
+    "tag": "#UV0928LJ",
+    "th": 19
+   },
+   {
+    "name": "Nico",
+    "pos": 17,
+    "tag": "#22R2CG8GL",
+    "th": 19
+   },
+   {
+    "name": "®obℹn",
+    "pos": 8,
+    "tag": "#2JCQ9LPG",
+    "th": 19
+   },
+   {
+    "name": "$Ternc6en",
+    "pos": 22,
+    "tag": "#28PVCVCPP",
+    "th": 19
+   },
+   {
+    "name": "tomtravel1",
+    "pos": 15,
+    "tag": "#2CGQL2G",
+    "th": 19
+   },
+   {
+    "name": "SoftDrink87",
+    "pos": 10,
+    "tag": "#2G2GRGCR",
+    "th": 19
+   },
+   {
+    "name": "Kaigawa",
+    "pos": 13,
+    "tag": "#L990G9UC",
+    "th": 19
+   },
+   {
+    "name": "Held_der_Welt",
+    "pos": 2,
+    "tag": "#RGYJC0VP",
+    "th": 19
+   },
+   {
+    "name": "Silverhawky",
+    "pos": 9,
+    "tag": "#9VYYJCQ88",
+    "th": 19
+   },
+   {
+    "name": "Skl0rzi",
+    "pos": 20,
+    "tag": "#QPPJC9YC",
+    "th": 19
+   },
+   {
+    "name": "Jean",
+    "pos": 16,
+    "tag": "#ULVL8998",
+    "th": 19
+   },
+   {
+    "name": "★King★Louie★",
+    "pos": 5,
+    "tag": "#V2CYCLR",
+    "th": 19
+   },
+   {
+    "name": "sacalobra",
+    "pos": 19,
+    "tag": "#GVVPCRRQ",
+    "th": 19
+   },
+   {
+    "name": "Gero",
+    "pos": 21,
+    "tag": "#8JCUU99VV",
+    "th": 19
+   },
+   {
+    "name": "gero",
+    "pos": 3,
+    "tag": "#L2GRUYVJP",
+    "th": 19
+   },
+   {
+    "name": "Toko",
+    "pos": 11,
+    "tag": "#G9CGVQYQY",
+    "th": 19
+   }
+  ],
+  "name": "alte Säcke",
+  "stars": 9,
+  "tag": "#PP20R88J"
+ },
+ "start": "20261124T192942.000Z",
+ "state": "inWar",
+ "teamSize": 25,
+ "type": "krieg"
+}

@@ -1,0 +1,403 @@
+{
+ "attacks": [
+  {
+   "a": "#QCPYL82C0",
+   "ath": 15,
+   "d": "#G8CQ80VQL",
+   "dth": 12,
+   "dur": 96,
+   "o": 1,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#LGQ9P8R9C",
+   "ath": 19,
+   "d": "#2JP9GCLJG",
+   "dth": 19,
+   "dur": 90,
+   "o": 2,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#LGQ9P8R9C",
+   "ath": 19,
+   "d": "#8U80UUVRR",
+   "dth": 19,
+   "dur": 136,
+   "o": 3,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#8GRLUP99",
+   "ath": 19,
+   "d": "#PV9PQY0G",
+   "dth": 19,
+   "dur": 165,
+   "o": 4,
+   "p": 82,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#8GRLUP99",
+   "ath": 19,
+   "d": "#8PY2QUCCY",
+   "dth": 19,
+   "dur": 150,
+   "o": 5,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#LCC8CCGCY",
+   "ath": 19,
+   "d": "#GQ0UY9CL",
+   "dth": 19,
+   "dur": 126,
+   "o": 6,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#GQ0UY9CL",
+   "ath": 19,
+   "d": "#YUPG8PVYJ",
+   "dth": 19,
+   "dur": 135,
+   "o": 7,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  }
+ ],
+ "attacksPerMember": 2,
+ "clan": {
+  "destruction": 19.28,
+  "members": [
+   {
+    "name": "Herold",
+    "pos": 19,
+    "tag": "#YQUV2YVRL",
+    "th": 19
+   },
+   {
+    "name": "beni 2",
+    "pos": 24,
+    "tag": "#PVLYGYC8Y",
+    "th": 18
+   },
+   {
+    "name": "G⚡️E꧁☞︎ㄥ乇ㄖ几☜︎꧂",
+    "pos": 21,
+    "tag": "#Y02PQCJPV",
+    "th": 19
+   },
+   {
+    "name": "P21 Adiii_",
+    "pos": 12,
+    "tag": "#PRPPJLV",
+    "th": 19
+   },
+   {
+    "name": "⚡⚡Niclas⚡⚡",
+    "pos": 22,
+    "tag": "#YJPUQVUJL",
+    "th": 19
+   },
+   {
+    "name": "chris",
+    "pos": 16,
+    "tag": "#LRLVV0P",
+    "th": 19
+   },
+   {
+    "name": "Si Las Vegas",
+    "pos": 10,
+    "tag": "#RUYUU9G",
+    "th": 19
+   },
+   {
+    "name": "jdizzle",
+    "pos": 23,
+    "tag": "#GCC8LVL",
+    "th": 19
+   },
+   {
+    "name": "the king",
+    "pos": 11,
+    "tag": "#8GVC80QV9",
+    "th": 19
+   },
+   {
+    "name": "CommanderK",
+    "pos": 8,
+    "tag": "#2YG098U0",
+    "th": 19
+   },
+   {
+    "name": "daniel",
+    "pos": 14,
+    "tag": "#LUGPYLUP",
+    "th": 19
+   },
+   {
+    "name": "zipfe",
+    "pos": 4,
+    "tag": "#8GRLUP99",
+    "th": 19
+   },
+   {
+    "name": "G⚡️E Leo",
+    "pos": 6,
+    "tag": "#GPLYGPVR",
+    "th": 19
+   },
+   {
+    "name": "⚡Niclas⚡",
+    "pos": 5,
+    "tag": "#P0L8LC828",
+    "th": 19
+   },
+   {
+    "name": "zipfe2",
+    "pos": 2,
+    "tag": "#LGQ9P8R9C",
+    "th": 19
+   },
+   {
+    "name": "G⚡️E꧁ㄥ乇ㄖ刀②.⓪꧂",
+    "pos": 20,
+    "tag": "#8QCC82C28",
+    "th": 19
+   },
+   {
+    "name": "Invader",
+    "pos": 15,
+    "tag": "#QVRV8J9R9",
+    "th": 19
+   },
+   {
+    "name": "the king",
+    "pos": 13,
+    "tag": "#8CUYY0V2U",
+    "th": 19
+   },
+   {
+    "name": "G⚡️E Astaroth 2",
+    "pos": 18,
+    "tag": "#G20V0YGU8",
+    "th": 19
+   },
+   {
+    "name": "Ausbilder blödi",
+    "pos": 17,
+    "tag": "#PJC9VU2UG",
+    "th": 19
+   },
+   {
+    "name": "⚡️pizzabote⚡️",
+    "pos": 1,
+    "tag": "#YUPG8PVYJ",
+    "th": 19
+   },
+   {
+    "name": "G⚡️E Astaroth",
+    "pos": 7,
+    "tag": "#PPVJRVUP8",
+    "th": 19
+   },
+   {
+    "name": "stefan",
+    "pos": 3,
+    "tag": "#LCC8CCGCY",
+    "th": 19
+   },
+   {
+    "name": "beni",
+    "pos": 9,
+    "tag": "#8R8PP8G0J",
+    "th": 19
+   },
+   {
+    "name": "G⚡️E Leo 6.0",
+    "pos": 25,
+    "tag": "#G8CQ80VQL",
+    "th": 12
+   }
+  ],
+  "name": "German⚡️Elite™️",
+  "stars": 14,
+  "tag": "#29RCYPYVU"
+ },
+ "end": "20261125T192312.000Z",
+ "opponent": {
+  "destruction": 8.0,
+  "members": [
+   {
+    "name": "Sir Andre",
+    "pos": 9,
+    "tag": "#9VQVVQC9",
+    "th": 19
+   },
+   {
+    "name": "Felix",
+    "pos": 3,
+    "tag": "#PV9PQY0G",
+    "th": 19
+   },
+   {
+    "name": "DoNotClick",
+    "pos": 5,
+    "tag": "#GQ0UY9CL",
+    "th": 19
+   },
+   {
+    "name": "WS⚔️Elxis",
+    "pos": 22,
+    "tag": "#8JUUPV8QG",
+    "th": 17
+   },
+   {
+    "name": "Maik",
+    "pos": 14,
+    "tag": "#9RPJRVVR",
+    "th": 19
+   },
+   {
+    "name": "Teagler",
+    "pos": 16,
+    "tag": "#9G8UR8V2C",
+    "th": 19
+   },
+   {
+    "name": "TREBOR",
+    "pos": 10,
+    "tag": "#2LVPQ22Q0",
+    "th": 19
+   },
+   {
+    "name": "⚡️MiniJoe",
+    "pos": 25,
+    "tag": "#QCPYL82C0",
+    "th": 15
+   },
+   {
+    "name": "Cmdr Andre",
+    "pos": 24,
+    "tag": "#YCPRC8YVV",
+    "th": 16
+   },
+   {
+    "name": "☆.F.Y.R.☆",
+    "pos": 15,
+    "tag": "#GV2Q82L0",
+    "th": 19
+   },
+   {
+    "name": "BATTLE ANGEL",
+    "pos": 21,
+    "tag": "#28G822PRP",
+    "th": 19
+   },
+   {
+    "name": "WIDUKIND",
+    "pos": 13,
+    "tag": "#UG8UVVYU",
+    "th": 19
+   },
+   {
+    "name": "ꨄEvandar༆",
+    "pos": 8,
+    "tag": "#VYU80YU",
+    "th": 19
+   },
+   {
+    "name": "死 Aqua",
+    "pos": 20,
+    "tag": "#2QCY99R0",
+    "th": 19
+   },
+   {
+    "name": "Felix 2",
+    "pos": 7,
+    "tag": "#QRQ209R09",
+    "th": 19
+   },
+   {
+    "name": "pillenditze",
+    "pos": 2,
+    "tag": "#2JP9GCLJG",
+    "th": 19
+   },
+   {
+    "name": "Quotenmann",
+    "pos": 19,
+    "tag": "#8QPYYGP9C",
+    "th": 19
+   },
+   {
+    "name": "Ossi",
+    "pos": 11,
+    "tag": "#PP089QP9P",
+    "th": 19
+   },
+   {
+    "name": "kimpfi",
+    "pos": 12,
+    "tag": "#8YRCRVR20",
+    "th": 19
+   },
+   {
+    "name": "⚡️Joe⚡️",
+    "pos": 4,
+    "tag": "#8PY2QUCCY",
+    "th": 19
+   },
+   {
+    "name": "Lord Mo",
+    "pos": 17,
+    "tag": "#9GPP9LPY",
+    "th": 19
+   },
+   {
+    "name": "Wüstenblume",
+    "pos": 23,
+    "tag": "#LU0U0PJ9V",
+    "th": 17
+   },
+   {
+    "name": "⚡️Little Joe⚡️",
+    "pos": 6,
+    "tag": "#L0CRP2J28",
+    "th": 19
+   },
+   {
+    "name": "DΔツOssi",
+    "pos": 1,
+    "tag": "#8U80UUVRR",
+    "th": 19
+   },
+   {
+    "name": "Netter Mann",
+    "pos": 18,
+    "tag": "#8CLU0GP0U",
+    "th": 19
+   }
+  ],
+  "name": "Joe‘s Home",
+  "stars": 6,
+  "tag": "#2GRGC0Q0P"
+ },
+ "start": "20261124T192312.000Z",
+ "state": "inWar",
+ "teamSize": 25,
+ "type": "krieg"
+}

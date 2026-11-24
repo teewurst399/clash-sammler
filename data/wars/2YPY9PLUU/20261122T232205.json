@@ -681,11 +681,264 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#JLC2VQPU",
+   "ath": 19,
+   "d": "#GLPGVGC9R",
+   "dth": 19,
+   "dur": 87,
+   "o": 63,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#9JPLVQ8RJ",
+   "ath": 19,
+   "d": "#GVG88CCC8",
+   "dth": 14,
+   "dur": 98,
+   "o": 64,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#9JPLVQ8RJ",
+   "ath": 19,
+   "d": "#GVVJRPYG",
+   "dth": 19,
+   "dur": 6,
+   "o": 65,
+   "p": 4,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#2YGV29JGR",
+   "ath": 19,
+   "d": "#GVVJRPYG",
+   "dth": 19,
+   "dur": 6,
+   "o": 66,
+   "p": 8,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#2YGV29JGR",
+   "ath": 19,
+   "d": "#98RPVUY8J",
+   "dth": 19,
+   "dur": 17,
+   "o": 67,
+   "p": 16,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#QQJYRLJG2",
+   "ath": 19,
+   "d": "#GVVJRPYG",
+   "dth": 19,
+   "dur": 17,
+   "o": 68,
+   "p": 13,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#L90Q8GGC2",
+   "ath": 19,
+   "d": "#LGCPRQYJ",
+   "dth": 19,
+   "dur": 102,
+   "o": 69,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#L90Q8GGC2",
+   "ath": 19,
+   "d": "#2PVG9YG02",
+   "dth": 19,
+   "dur": 106,
+   "o": 70,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#Q8RPYQ9VC",
+   "ath": 19,
+   "d": "#GVVJRPYG",
+   "dth": 19,
+   "dur": 7,
+   "o": 71,
+   "p": 7,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#Q8RPYQ9VC",
+   "ath": 19,
+   "d": "#GQPVVCQP0",
+   "dth": 19,
+   "dur": 16,
+   "o": 72,
+   "p": 14,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#QQJYRLJG2",
+   "ath": 19,
+   "d": "#GQPVVCQP0",
+   "dth": 19,
+   "dur": 29,
+   "o": 73,
+   "p": 32,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#G0QVL28RJ",
+   "ath": 19,
+   "d": "#20JGLU9PP",
+   "dth": 19,
+   "dur": 177,
+   "o": 74,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#Y9Q2JUL9",
+   "ath": 19,
+   "d": "#98RPVUY8J",
+   "dth": 19,
+   "dur": 25,
+   "o": 75,
+   "p": 18,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#Y9Q2JUL9",
+   "ath": 19,
+   "d": "#82J2PQV8R",
+   "dth": 19,
+   "dur": 7,
+   "o": 76,
+   "p": 5,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#G0QVL28RJ",
+   "ath": 19,
+   "d": "#GY09JUL98",
+   "dth": 19,
+   "dur": 152,
+   "o": 77,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#LGCPRQYJ",
+   "ath": 19,
+   "d": "#9R922C9VJ",
+   "dth": 19,
+   "dur": 30,
+   "o": 78,
+   "p": 58,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#LGCPRQYJ",
+   "ath": 19,
+   "d": "#2VLG2YPYP",
+   "dth": 19,
+   "dur": 30,
+   "o": 79,
+   "p": 57,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#2JC92JYCQ",
+   "ath": 19,
+   "d": "#9QRV2GR",
+   "dth": 19,
+   "dur": 172,
+   "o": 80,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#YQRJ9JCU",
+   "ath": 19,
+   "d": "#QQJYRLJG2",
+   "dth": 19,
+   "dur": 160,
+   "o": 81,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#2JC92JYCQ",
+   "ath": 19,
+   "d": "#LURR922JY",
+   "dth": 19,
+   "dur": 180,
+   "o": 82,
+   "p": 98,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#9R922C9VJ",
+   "ath": 19,
+   "d": "#9V20J9PJ9",
+   "dth": 19,
+   "dur": 167,
+   "o": 83,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#YQRJ9JCU",
+   "ath": 19,
+   "d": "#CVC00QYR",
+   "dth": 19,
+   "dur": 168,
+   "o": 84,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#R02JGQ9G0",
+   "ath": 19,
+   "d": "#9QLYQPP2",
+   "dth": 19,
+   "dur": 150,
+   "o": 85,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 94.28571,
+  "destruction": 100.0,
   "members": [
    {
     "name": "xXStelioXx",
@@ -899,12 +1152,12 @@
    }
   ],
   "name": "Endzone",
-  "stars": 99,
+  "stars": 105,
   "tag": "#2YPY9PLUU"
  },
  "end": "20261124T222205.000Z",
  "opponent": {
-  "destruction": 51.342857,
+  "destruction": 73.34286,
   "members": [
    {
     "name": "KENNETH",
@@ -1118,7 +1371,7 @@
    }
   ],
   "name": "CLAN INFERNAL",
-  "stars": 49,
+  "stars": 73,
   "tag": "#YLP2L0LP"
  },
  "start": "20261123T222205.000Z",
