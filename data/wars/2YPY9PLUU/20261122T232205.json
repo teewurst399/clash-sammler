@@ -296,11 +296,33 @@
    "p": 39,
    "s": 1,
    "side": "gegner"
+  },
+  {
+   "a": "#GVG88CCC8",
+   "ath": 14,
+   "d": "#QQJYRLJG2",
+   "dth": 19,
+   "dur": 74,
+   "o": 28,
+   "p": 49,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#22YYQRQV9",
+   "ath": 19,
+   "d": "#L90Q8GGC2",
+   "dth": 19,
+   "dur": 156,
+   "o": 29,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 48.54286,
+  "destruction": 51.4,
   "members": [
    {
     "name": "xXStelioXx",
@@ -514,12 +536,12 @@
    }
   ],
   "name": "Endzone",
-  "stars": 50,
+  "stars": 53,
   "tag": "#2YPY9PLUU"
  },
  "end": "20261124T222205.000Z",
  "opponent": {
-  "destruction": 21.285715,
+  "destruction": 22.685715,
   "members": [
    {
     "name": "KENNETH",
@@ -733,7 +755,7 @@
    }
   ],
   "name": "CLAN INFERNAL",
-  "stars": 16,
+  "stars": 17,
   "tag": "#YLP2L0LP"
  },
  "start": "20261123T222205.000Z",

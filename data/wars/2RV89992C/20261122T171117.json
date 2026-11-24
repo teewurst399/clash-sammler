@@ -582,6 +582,83 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#QCJRGPY8V",
+   "ath": 18,
+   "d": "#YV8P0R09U",
+   "dth": 18,
+   "dur": 180,
+   "o": 54,
+   "p": 97,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#QULJ02JGC",
+   "ath": 17,
+   "d": "#YRYQ2V8R8",
+   "dth": 17,
+   "dur": 97,
+   "o": 55,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#QCJRGPY8V",
+   "ath": 18,
+   "d": "#PU0VL2QQ9",
+   "dth": 18,
+   "dur": 142,
+   "o": 56,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#PCRG92RUY",
+   "ath": 19,
+   "d": "#GG0QY2QRQ",
+   "dth": 18,
+   "dur": 132,
+   "o": 57,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#PCRG92RUY",
+   "ath": 19,
+   "d": "#GRJVP9Q99",
+   "dth": 17,
+   "dur": 127,
+   "o": 58,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#Q22GVPCGU",
+   "ath": 18,
+   "d": "#GC9VGU0LL",
+   "dth": 18,
+   "dur": 180,
+   "o": 59,
+   "p": 97,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#Q22GVPCGU",
+   "ath": 18,
+   "d": "#YV8P0R09U",
+   "dth": 18,
+   "dur": 124,
+   "o": 60,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -835,7 +912,7 @@
  },
  "end": "20261124T161117.000Z",
  "opponent": {
-  "destruction": 59.475,
+  "destruction": 74.4,
   "members": [
    {
     "name": "Nikhil™️",
@@ -1079,7 +1156,7 @@
    }
   ],
   "name": "MARATHA 2",
-  "stars": 65,
+  "stars": 81,
   "tag": "#28CYPCCGJ"
  },
  "start": "20261123T161117.000Z",

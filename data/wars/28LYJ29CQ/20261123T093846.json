@@ -1,0 +1,665 @@
+{
+ "attacks": [
+  {
+   "a": "#RYUUPP88",
+   "ath": 19,
+   "d": "#9PRJ2JU2",
+   "dth": 19,
+   "dur": 169,
+   "o": 1,
+   "p": 83,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#2GVJVYUJP",
+   "ath": 19,
+   "d": "#8VPP22U2",
+   "dth": 19,
+   "dur": 135,
+   "o": 2,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#LQQJ9L9QY",
+   "ath": 19,
+   "d": "#RQYPLLQV",
+   "dth": 19,
+   "dur": 180,
+   "o": 3,
+   "p": 91,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#RYUUPP88",
+   "ath": 19,
+   "d": "#QCQPG9L8G",
+   "dth": 19,
+   "dur": 143,
+   "o": 4,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#22UUUJ2GL",
+   "ath": 19,
+   "d": "#8J9LVQLJJ",
+   "dth": 19,
+   "dur": 162,
+   "o": 5,
+   "p": 95,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#2GVJVYUJP",
+   "ath": 19,
+   "d": "#GCQYC8QL",
+   "dth": 19,
+   "dur": 127,
+   "o": 6,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#LQQJ9L9QY",
+   "ath": 19,
+   "d": "#G2U20Q229",
+   "dth": 19,
+   "dur": 145,
+   "o": 7,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#8VPP22U2",
+   "ath": 19,
+   "d": "#8RRJL92LG",
+   "dth": 19,
+   "dur": 82,
+   "o": 8,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#QVYCGPPL0",
+   "ath": 19,
+   "d": "#R9JCLCVP",
+   "dth": 19,
+   "dur": 139,
+   "o": 9,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  }
+ ],
+ "attacksPerMember": 2,
+ "clan": {
+  "destruction": 10.533334,
+  "members": [
+   {
+    "name": "FL • SKINNYJIMM",
+    "pos": 18,
+    "tag": "#2CQCUYGU",
+    "th": 19
+   },
+   {
+    "name": "FL • Milkatrix",
+    "pos": 12,
+    "tag": "#G9RLGJJU",
+    "th": 19
+   },
+   {
+    "name": "░S░a░m░o²",
+    "pos": 17,
+    "tag": "#GPY0LC9",
+    "th": 19
+   },
+   {
+    "name": "山凡尺乚ロ尺刀",
+    "pos": 41,
+    "tag": "#8J9LVQLJJ",
+    "th": 19
+   },
+   {
+    "name": "⭕️Caz⭕️",
+    "pos": 8,
+    "tag": "#PQ9GVJ9GJ",
+    "th": 19
+   },
+   {
+    "name": "Aurelius.",
+    "pos": 34,
+    "tag": "#9LQ9V0LC",
+    "th": 19
+   },
+   {
+    "name": "NXT MVRX",
+    "pos": 19,
+    "tag": "#28JRRV9G9",
+    "th": 19
+   },
+   {
+    "name": "FL • NoName",
+    "pos": 24,
+    "tag": "#2G02080V2",
+    "th": 19
+   },
+   {
+    "name": "Mats",
+    "pos": 2,
+    "tag": "#GCQYC8QL",
+    "th": 19
+   },
+   {
+    "name": "INQ⚡️Jannik",
+    "pos": 42,
+    "tag": "#8VP98P2",
+    "th": 19
+   },
+   {
+    "name": "FL • Max",
+    "pos": 16,
+    "tag": "#YLRR0LQPY",
+    "th": 19
+   },
+   {
+    "name": "Tyron",
+    "pos": 38,
+    "tag": "#8C8RP02U",
+    "th": 19
+   },
+   {
+    "name": "BlackZero0815",
+    "pos": 33,
+    "tag": "#22J8GYP8L",
+    "th": 19
+   },
+   {
+    "name": "Bluefame2",
+    "pos": 20,
+    "tag": "#G82G8J2V2",
+    "th": 19
+   },
+   {
+    "name": "FL • BluuBerry",
+    "pos": 37,
+    "tag": "#YLL080LG",
+    "th": 19
+   },
+   {
+    "name": "Maiko24",
+    "pos": 3,
+    "tag": "#JCUJJ2P0",
+    "th": 19
+   },
+   {
+    "name": "⚡Julian⚡",
+    "pos": 35,
+    "tag": "#PGL8RJ00V",
+    "th": 19
+   },
+   {
+    "name": "ByChrisiYT",
+    "pos": 36,
+    "tag": "#RYUUPP88",
+    "th": 19
+   },
+   {
+    "name": "Obsi",
+    "pos": 22,
+    "tag": "#GCJV29VY",
+    "th": 19
+   },
+   {
+    "name": "Simske593 F2P",
+    "pos": 39,
+    "tag": "#LGGQL82LG",
+    "th": 19
+   },
+   {
+    "name": "BlueFame",
+    "pos": 21,
+    "tag": "#G0RCVCC",
+    "th": 19
+   },
+   {
+    "name": "julian",
+    "pos": 5,
+    "tag": "#QGPLG8QR",
+    "th": 19
+   },
+   {
+    "name": "MiniObsi",
+    "pos": 40,
+    "tag": "#JUJ9QCUR",
+    "th": 19
+   },
+   {
+    "name": "Dunklerkristall",
+    "pos": 27,
+    "tag": "#8QQ8U9P88",
+    "th": 19
+   },
+   {
+    "name": "FunnyFrog",
+    "pos": 10,
+    "tag": "#2QGCPVJV2",
+    "th": 19
+   },
+   {
+    "name": "Nico",
+    "pos": 29,
+    "tag": "#Q8UQUULP",
+    "th": 19
+   },
+   {
+    "name": "Philip",
+    "pos": 31,
+    "tag": "#2RYJGPJ8",
+    "th": 19
+   },
+   {
+    "name": "HendrikLamaar",
+    "pos": 14,
+    "tag": "#98G9RQLYG",
+    "th": 19
+   },
+   {
+    "name": "Aurelius",
+    "pos": 11,
+    "tag": "#8QU2V2Y",
+    "th": 19
+   },
+   {
+    "name": "FL • / Maxi™ \\",
+    "pos": 1,
+    "tag": "#8VPP22U2",
+    "th": 19
+   },
+   {
+    "name": "D4M4GE",
+    "pos": 9,
+    "tag": "#R9JCLCVP",
+    "th": 19
+   },
+   {
+    "name": "-+ HUNTER +-",
+    "pos": 4,
+    "tag": "#2YVQ90GL",
+    "th": 19
+   },
+   {
+    "name": "макс",
+    "pos": 28,
+    "tag": "#P2V0QQCJ2",
+    "th": 19
+   },
+   {
+    "name": "Chrizz Khalifa",
+    "pos": 32,
+    "tag": "#LQQJ9L9QY",
+    "th": 19
+   },
+   {
+    "name": "FL • Sandman",
+    "pos": 44,
+    "tag": "#PUVPC2V2C",
+    "th": 19
+   },
+   {
+    "name": "J҉O҉K҉E҉R҉",
+    "pos": 23,
+    "tag": "#Q0R9QPCJV",
+    "th": 19
+   },
+   {
+    "name": "Louvre",
+    "pos": 45,
+    "tag": "#QC8Q29289",
+    "th": 16
+   },
+   {
+    "name": "Sts™",
+    "pos": 15,
+    "tag": "#8L0LJ9YQL",
+    "th": 19
+   },
+   {
+    "name": "FL • ϟ×STORM↯",
+    "pos": 6,
+    "tag": "#8LQGYYVP",
+    "th": 19
+   },
+   {
+    "name": "AtiGaming9",
+    "pos": 43,
+    "tag": "#QU8JCYPUG",
+    "th": 19
+   },
+   {
+    "name": "Kaito™️",
+    "pos": 13,
+    "tag": "#PVVPQ8JR9",
+    "th": 19
+   },
+   {
+    "name": "Shah Ati✓",
+    "pos": 25,
+    "tag": "#20GCPRV0R",
+    "th": 19
+   },
+   {
+    "name": "FL • MVRX",
+    "pos": 26,
+    "tag": "#YUCPJ2UJ8",
+    "th": 19
+   },
+   {
+    "name": "FL • SASND",
+    "pos": 7,
+    "tag": "#8UC9C280U",
+    "th": 19
+   },
+   {
+    "name": "Omega",
+    "pos": 30,
+    "tag": "#P92VRLYRC",
+    "th": 19
+   }
+  ],
+  "name": "FruchtLabor",
+  "stars": 13,
+  "tag": "#28LYJ29CQ"
+ },
+ "end": "20261125T083846.000Z",
+ "opponent": {
+  "destruction": 8.777778,
+  "members": [
+   {
+    "name": "欢乐兄弟 ♂️ B.K",
+    "pos": 31,
+    "tag": "#LJ9U99UL",
+    "th": 19
+   },
+   {
+    "name": "胡一刀",
+    "pos": 16,
+    "tag": "#QUGYVCQU",
+    "th": 19
+   },
+   {
+    "name": "Nikk ng",
+    "pos": 30,
+    "tag": "#J92P22U2",
+    "th": 19
+   },
+   {
+    "name": "欢乐兄弟 ♀️ AQ",
+    "pos": 34,
+    "tag": "#9PRJ2JU2",
+    "th": 19
+   },
+   {
+    "name": "神祇",
+    "pos": 14,
+    "tag": "#L08PVRUJL",
+    "th": 19
+   },
+   {
+    "name": "欢乐兄弟¥亚当¥",
+    "pos": 17,
+    "tag": "#8YR98VL9",
+    "th": 19
+   },
+   {
+    "name": "FancypokerGW",
+    "pos": 8,
+    "tag": "#PRV9JLGP",
+    "th": 19
+   },
+   {
+    "name": "卧龙庄",
+    "pos": 10,
+    "tag": "#GQRYCGGLG",
+    "th": 19
+   },
+   {
+    "name": "萌猫",
+    "pos": 40,
+    "tag": "#P2U0LQJR0",
+    "th": 19
+   },
+   {
+    "name": "天下好大雪",
+    "pos": 11,
+    "tag": "#Y9PR2QU9",
+    "th": 19
+   },
+   {
+    "name": "火箭龟",
+    "pos": 13,
+    "tag": "#QRYG08LL8",
+    "th": 19
+   },
+   {
+    "name": "王子",
+    "pos": 22,
+    "tag": "#9V0LYVG9",
+    "th": 19
+   },
+   {
+    "name": "狠狠地",
+    "pos": 37,
+    "tag": "#LJCUGY8PG",
+    "th": 19
+   },
+   {
+    "name": "倾听",
+    "pos": 29,
+    "tag": "#QUJUY0CQ9",
+    "th": 19
+   },
+   {
+    "name": "中途岛",
+    "pos": 12,
+    "tag": "#22JJQ8YUG",
+    "th": 19
+   },
+   {
+    "name": "熊啊巴",
+    "pos": 33,
+    "tag": "#QCQPG9L8G",
+    "th": 19
+   },
+   {
+    "name": "欢乐兄弟¥霸王¥",
+    "pos": 32,
+    "tag": "#QVYCGPPL0",
+    "th": 19
+   },
+   {
+    "name": "Clash of Codes",
+    "pos": 5,
+    "tag": "#8LQ89P8",
+    "th": 19
+   },
+   {
+    "name": "夜狼",
+    "pos": 24,
+    "tag": "#QVPPJVLJJ",
+    "th": 19
+   },
+   {
+    "name": "英雄聯盟",
+    "pos": 6,
+    "tag": "#2GVJVYUJP",
+    "th": 19
+   },
+   {
+    "name": "niku",
+    "pos": 3,
+    "tag": "#8RRJL92LG",
+    "th": 19
+   },
+   {
+    "name": "天晴",
+    "pos": 25,
+    "tag": "#GYG2PP88Y",
+    "th": 19
+   },
+   {
+    "name": "✨天使与魔鬼✨",
+    "pos": 38,
+    "tag": "#22UUUJ2GL",
+    "th": 19
+   },
+   {
+    "name": "Dee",
+    "pos": 26,
+    "tag": "#RL0C8R98",
+    "th": 19
+   },
+   {
+    "name": "凱凱",
+    "pos": 42,
+    "tag": "#2C0VLRYCJ",
+    "th": 19
+   },
+   {
+    "name": "鐵木蘭",
+    "pos": 18,
+    "tag": "#YR98LP8QR",
+    "th": 19
+   },
+   {
+    "name": "黑桃♠️K",
+    "pos": 7,
+    "tag": "#L2L28U0L",
+    "th": 19
+   },
+   {
+    "name": "Minsittaung",
+    "pos": 1,
+    "tag": "#RQYPLLQV",
+    "th": 19
+   },
+   {
+    "name": "⛩️·Yuzu-Soft·⛩️",
+    "pos": 21,
+    "tag": "#YQ0J9VPLV",
+    "th": 19
+   },
+   {
+    "name": "geekan",
+    "pos": 43,
+    "tag": "#YURLY2VVG",
+    "th": 19
+   },
+   {
+    "name": "东华小零食",
+    "pos": 2,
+    "tag": "#G2U20Q229",
+    "th": 19
+   },
+   {
+    "name": "小灰灰",
+    "pos": 23,
+    "tag": "#G2U8JQPPV",
+    "th": 19
+   },
+   {
+    "name": "劫戈",
+    "pos": 35,
+    "tag": "#GJURLJJ8R",
+    "th": 19
+   },
+   {
+    "name": "欢乐兄弟⭐魚",
+    "pos": 9,
+    "tag": "#QCV80R0Y0",
+    "th": 19
+   },
+   {
+    "name": "SHARK ✨ Leo",
+    "pos": 20,
+    "tag": "#Y8CP2CR8J",
+    "th": 19
+   },
+   {
+    "name": "真情",
+    "pos": 41,
+    "tag": "#QPCC90YL",
+    "th": 19
+   },
+   {
+    "name": "耳树颢",
+    "pos": 27,
+    "tag": "#G99CJ982L",
+    "th": 19
+   },
+   {
+    "name": "EndingScene❤️",
+    "pos": 36,
+    "tag": "#LQYU2YVQC",
+    "th": 19
+   },
+   {
+    "name": "人二",
+    "pos": 15,
+    "tag": "#QC2UCJG0C",
+    "th": 19
+   },
+   {
+    "name": "玩家",
+    "pos": 39,
+    "tag": "#G2GLU82C0",
+    "th": 19
+   },
+   {
+    "name": "Devil✨花只两₯丶⚛",
+    "pos": 44,
+    "tag": "#2RQR0RJ2L",
+    "th": 19
+   },
+   {
+    "name": "欢乐兄弟⭐Lucky 魚",
+    "pos": 45,
+    "tag": "#QGPRPCPPP",
+    "th": 18
+   },
+   {
+    "name": "mc.cooger",
+    "pos": 4,
+    "tag": "#G8C8LLRPR",
+    "th": 19
+   },
+   {
+    "name": "⛩️·Yuzu-Soft·⛩️",
+    "pos": 28,
+    "tag": "#G90UCRP8Q",
+    "th": 19
+   },
+   {
+    "name": "jog",
+    "pos": 19,
+    "tag": "#8R2CYCQQQ",
+    "th": 19
+   }
+  ],
+  "name": "欢乐兄弟",
+  "stars": 11,
+  "tag": "#8QY9CQUY"
+ },
+ "start": "20261124T083846.000Z",
+ "state": "inWar",
+ "teamSize": 45,
+ "type": "krieg"
+}
