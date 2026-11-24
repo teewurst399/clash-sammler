@@ -505,6 +505,28 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#8CQ9000G",
+   "ath": 19,
+   "d": "#R2LLJQLP",
+   "dth": 19,
+   "dur": 114,
+   "o": 47,
+   "p": 57,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#8CQ9000G",
+   "ath": 19,
+   "d": "#220Q0JU8U",
+   "dth": 19,
+   "dur": 180,
+   "o": 48,
+   "p": 97,
+   "s": 2,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -758,7 +780,7 @@
  },
  "end": "20261125T200012.000Z",
  "opponent": {
-  "destruction": 55.0,
+  "destruction": 58.85,
   "members": [
    {
     "name": "RNLMC",
@@ -1002,7 +1024,7 @@
    }
   ],
   "name": "Dutch Legion 3",
-  "stars": 66,
+  "stars": 70,
   "tag": "#28UYR0CVU"
  },
  "start": "20261124T200012.000Z",

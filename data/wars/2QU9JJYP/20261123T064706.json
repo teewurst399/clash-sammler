@@ -1385,11 +1385,77 @@
    "p": 79,
    "s": 2,
    "side": "clan"
+  },
+  {
+   "a": "#YCV2R8L2",
+   "ath": 19,
+   "d": "#LRJ9UGRYG",
+   "dth": 13,
+   "dur": 108,
+   "o": 127,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#8820PURPL",
+   "ath": 19,
+   "d": "#P2P0QR89P",
+   "dth": 19,
+   "dur": 116,
+   "o": 128,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#QQUVV0PQP",
+   "ath": 19,
+   "d": "#YYUV9Y29",
+   "dth": 19,
+   "dur": 12,
+   "o": 129,
+   "p": 55,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#QQUVV0PQP",
+   "ath": 19,
+   "d": "#2VY9VUU00",
+   "dth": 19,
+   "dur": 14,
+   "o": 130,
+   "p": 55,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#Q9LCPJ0PR",
+   "ath": 19,
+   "d": "#YYUV9Y29",
+   "dth": 19,
+   "dur": 4,
+   "o": 131,
+   "p": 3,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#Q9LCPJ0PR",
+   "ath": 19,
+   "d": "#PG0CPP0YJ",
+   "dth": 19,
+   "dur": 5,
+   "o": 132,
+   "p": 3,
+   "s": 1,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 98.0,
+  "destruction": 100.0,
   "members": [
    {
     "name": "“Wolfi”",
@@ -1693,12 +1759,12 @@
    }
   ],
   "name": "Confusion",
-  "stars": 147,
+  "stars": 150,
   "tag": "#2QU9JJYP"
  },
  "end": "20261125T054706.000Z",
  "opponent": {
-  "destruction": 93.94,
+  "destruction": 95.94,
   "members": [
    {
     "name": "KTLB ⚡ RAIZEN",
@@ -2002,7 +2068,7 @@
    }
   ],
   "name": "KATILINGBAN",
-  "stars": 140,
+  "stars": 143,
   "tag": "#9V8JQQR2"
  },
  "start": "20261124T054706.000Z",

@@ -351,6 +351,116 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#YVGVGL98G",
+   "ath": 19,
+   "d": "#2G9Q9JVJ",
+   "dth": 19,
+   "dur": 129,
+   "o": 33,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#YVGVGL98G",
+   "ath": 19,
+   "d": "#C92CGVCQ",
+   "dth": 19,
+   "dur": 157,
+   "o": 34,
+   "p": 90,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#8R8VVJ0V8",
+   "ath": 19,
+   "d": "#RPUGV8VV",
+   "dth": 19,
+   "dur": 118,
+   "o": 35,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#2V802QR80",
+   "ath": 19,
+   "d": "#9GCQGPJQJ",
+   "dth": 19,
+   "dur": 144,
+   "o": 36,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#8R8VVJ0V8",
+   "ath": 19,
+   "d": "#GVRYC8U",
+   "dth": 19,
+   "dur": 86,
+   "o": 37,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#2V802QR80",
+   "ath": 19,
+   "d": "#UJ028R80",
+   "dth": 19,
+   "dur": 154,
+   "o": 38,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#YJVJLY8Q",
+   "ath": 19,
+   "d": "#LR892PRCC",
+   "dth": 19,
+   "dur": 141,
+   "o": 39,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#YJVJLY8Q",
+   "ath": 19,
+   "d": "#GP008J22",
+   "dth": 19,
+   "dur": 154,
+   "o": 40,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#JG892C8",
+   "ath": 19,
+   "d": "#Y00YPJUG",
+   "dth": 19,
+   "dur": 168,
+   "o": 41,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#JG892C8",
+   "ath": 19,
+   "d": "#PYQU08UVR",
+   "dth": 19,
+   "dur": 132,
+   "o": 42,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -604,7 +714,7 @@
  },
  "end": "20261125T203321.000Z",
  "opponent": {
-  "destruction": 19.55,
+  "destruction": 44.3,
   "members": [
    {
     "name": "Warlock",
@@ -848,7 +958,7 @@
    }
   ],
   "name": "CLB Unity",
-  "stars": 22,
+  "stars": 51,
   "tag": "#2CQVJ9GCG"
  },
  "start": "20261124T203321.000Z",

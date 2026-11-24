@@ -527,6 +527,39 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#YUUG92V0",
+   "ath": 19,
+   "d": "#RY9Q8L8V",
+   "dth": 19,
+   "dur": 110,
+   "o": 49,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#QRVVYPC9",
+   "ath": 19,
+   "d": "#P2R8VJURL",
+   "dth": 19,
+   "dur": 112,
+   "o": 50,
+   "p": 79,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#QRVVYPC9",
+   "ath": 19,
+   "d": "#2PUCJUVQ0",
+   "dth": 19,
+   "dur": 104,
+   "o": 51,
+   "p": 74,
+   "s": 2,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -780,7 +813,7 @@
  },
  "end": "20261125T191702.000Z",
  "opponent": {
-  "destruction": 63.35,
+  "destruction": 67.4,
   "members": [
    {
     "name": "LeroyT",
@@ -1024,7 +1057,7 @@
    }
   ],
   "name": "Class of Clans!",
-  "stars": 74,
+  "stars": 79,
   "tag": "#2G9QQVV2"
  },
  "start": "20261124T191702.000Z",

@@ -54,6 +54,39 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#2GUQPJ2V2",
+   "ath": 19,
+   "d": "#L8GCGYJ",
+   "dth": 18,
+   "dur": 135,
+   "o": 6,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#2ULLUJ0RL",
+   "ath": 19,
+   "d": "#8QYV8VULV",
+   "dth": 18,
+   "dur": 110,
+   "o": 7,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#2ULLUJ0RL",
+   "ath": 19,
+   "d": "#G90QC2RP9",
+   "dth": 18,
+   "dur": 109,
+   "o": 8,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -217,7 +250,7 @@
  },
  "end": "20261125T205943.000Z",
  "opponent": {
-  "destruction": 20.0,
+  "destruction": 32.0,
   "members": [
    {
     "name": "variant",
@@ -371,7 +404,7 @@
    }
   ],
   "name": "هوگ عاشق",
-  "stars": 15,
+  "stars": 24,
   "tag": "#Q2PCUUQ9"
  },
  "start": "20261124T205943.000Z",

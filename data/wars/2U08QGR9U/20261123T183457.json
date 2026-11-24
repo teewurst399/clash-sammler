@@ -626,11 +626,44 @@
    "p": 83,
    "s": 2,
    "side": "clan"
+  },
+  {
+   "a": "#9JCJ009G0",
+   "ath": 19,
+   "d": "#QPJRY9YRQ",
+   "dth": 15,
+   "dur": 68,
+   "o": 58,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#L9J8RQLQ2",
+   "ath": 19,
+   "d": "#8P9LUYJ2C",
+   "dth": 19,
+   "dur": 167,
+   "o": 59,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#9JCJ009G0",
+   "ath": 19,
+   "d": "#QVR008R08",
+   "dth": 17,
+   "dur": 79,
+   "o": 60,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 37.4,
+  "destruction": 39.622223,
   "members": [
    {
     "name": "FL • Kaiser",
@@ -904,12 +937,12 @@
    }
   ],
   "name": "Obstgarten",
-  "stars": 50,
+  "stars": 53,
   "tag": "#2U08QGR9U"
  },
  "end": "20261125T173457.000Z",
  "opponent": {
-  "destruction": 63.555557,
+  "destruction": 68.0,
   "members": [
    {
     "name": "~@N|]R€¥~",
@@ -1183,7 +1216,7 @@
    }
   ],
   "name": "Україна",
-  "stars": 86,
+  "stars": 92,
   "tag": "#U08RJ88Y"
  },
  "start": "20261124T173457.000Z",

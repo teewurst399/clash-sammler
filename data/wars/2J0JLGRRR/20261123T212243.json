@@ -131,11 +131,66 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#GUQRRUVL2",
+   "ath": 15,
+   "d": "#8VQVYUUJU",
+   "dth": 14,
+   "dur": 136,
+   "o": 13,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#99JGJQYVU",
+   "ath": 14,
+   "d": "#GV2YPJQPC",
+   "dth": 13,
+   "dur": 95,
+   "o": 14,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#QY0CUGGYR",
+   "ath": 14,
+   "d": "#9YPY02UGQ",
+   "dth": 13,
+   "dur": 120,
+   "o": 15,
+   "p": 94,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#99JGJQYVU",
+   "ath": 14,
+   "d": "#GUQJP2282",
+   "dth": 13,
+   "dur": 118,
+   "o": 16,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#QY0CUGGYR",
+   "ath": 14,
+   "d": "#8CR0ULULL",
+   "dth": 13,
+   "dur": 132,
+   "o": 17,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 43.12,
+  "destruction": 54.88,
   "members": [
    {
     "name": "G!B Badoomi",
@@ -289,12 +344,12 @@
    }
   ],
   "name": "Get Smurfed!",
-  "stars": 30,
+  "stars": 38,
   "tag": "#2J0JLGRRR"
  },
  "end": "20261125T202243.000Z",
  "opponent": {
-  "destruction": 4.0,
+  "destruction": 12.0,
   "members": [
    {
     "name": "MKNSZ",
@@ -448,7 +503,7 @@
    }
   ],
   "name": "ANTİTERÖR CLÜP",
-  "stars": 3,
+  "stars": 9,
   "tag": "#JYQVPCC8"
  },
  "start": "20261124T202243.000Z",

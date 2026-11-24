@@ -241,6 +241,83 @@
    "p": 97,
    "s": 2,
    "side": "gegner"
+  },
+  {
+   "a": "#2QCY99R0",
+   "ath": 19,
+   "d": "#8QCC82C28",
+   "dth": 19,
+   "dur": 180,
+   "o": 23,
+   "p": 90,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#8CLU0GP0U",
+   "ath": 19,
+   "d": "#YJPUQVUJL",
+   "dth": 19,
+   "dur": 121,
+   "o": 24,
+   "p": 66,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#2JP9GCLJG",
+   "ath": 19,
+   "d": "#8QCC82C28",
+   "dth": 19,
+   "dur": 122,
+   "o": 25,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#9VQVVQC9",
+   "ath": 19,
+   "d": "#PPVJRVUP8",
+   "dth": 19,
+   "dur": 132,
+   "o": 26,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#9VQVVQC9",
+   "ath": 19,
+   "d": "#8R8PP8G0J",
+   "dth": 19,
+   "dur": 101,
+   "o": 27,
+   "p": 75,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#2JP9GCLJG",
+   "ath": 19,
+   "d": "#QVRV8J9R9",
+   "dth": 19,
+   "dur": 122,
+   "o": 28,
+   "p": 76,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#8QPYYGP9C",
+   "ath": 19,
+   "d": "#PJC9VU2UG",
+   "dth": 19,
+   "dur": 168,
+   "o": 29,
+   "p": 85,
+   "s": 2,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -404,7 +481,7 @@
  },
  "end": "20261125T192312.000Z",
  "opponent": {
-  "destruction": 47.72,
+  "destruction": 65.44,
   "members": [
    {
     "name": "Sir Andre",
@@ -558,7 +635,7 @@
    }
   ],
   "name": "Joe‘s Home",
-  "stars": 34,
+  "stars": 45,
   "tag": "#2GRGC0Q0P"
  },
  "start": "20261124T192312.000Z",

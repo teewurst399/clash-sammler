@@ -439,11 +439,121 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#QVR098PJQ",
+   "ath": 19,
+   "d": "#2LJRVPP8Y",
+   "dth": 19,
+   "dur": 108,
+   "o": 41,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#QVR098PJQ",
+   "ath": 19,
+   "d": "#P0PLRVJGL",
+   "dth": 19,
+   "dur": 116,
+   "o": 42,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#9JP2LJR9",
+   "ath": 19,
+   "d": "#822QCGY2J",
+   "dth": 19,
+   "dur": 112,
+   "o": 43,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#8YL89PLVR",
+   "ath": 19,
+   "d": "#8JJRRQRLJ",
+   "dth": 19,
+   "dur": 159,
+   "o": 44,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#9JP2LJR9",
+   "ath": 19,
+   "d": "#9CUGC9JY8",
+   "dth": 19,
+   "dur": 121,
+   "o": 45,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#9CY0P0VYJ",
+   "ath": 19,
+   "d": "#L0JQ2RCUL",
+   "dth": 19,
+   "dur": 134,
+   "o": 46,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#9CY0P0VYJ",
+   "ath": 19,
+   "d": "#YPYUULPG2",
+   "dth": 19,
+   "dur": 134,
+   "o": 47,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#U2JPGRL",
+   "ath": 19,
+   "d": "#8JJULGJYG",
+   "dth": 19,
+   "dur": 165,
+   "o": 48,
+   "p": 90,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#8L0VG0Q22",
+   "ath": 19,
+   "d": "#9JPGGJC0Y",
+   "dth": 19,
+   "dur": 138,
+   "o": 49,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#8L0VG0Q22",
+   "ath": 19,
+   "d": "#UQ298J9R",
+   "dth": 19,
+   "dur": 180,
+   "o": 50,
+   "p": 95,
+   "s": 2,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 45.8,
+  "destruction": 57.2,
   "members": [
    {
     "name": "EG⚡️KING",
@@ -717,12 +827,12 @@
    }
   ],
   "name": "Get Cooked!",
-  "stars": 58,
+  "stars": 75,
   "tag": "#2J922VYQ0"
  },
  "end": "20261125T190127.000Z",
  "opponent": {
-  "destruction": 21.688889,
+  "destruction": 26.022223,
   "members": [
    {
     "name": "Mohammad Yeasin",
@@ -996,7 +1106,7 @@
    }
   ],
   "name": "DEATH CARNIVAL",
-  "stars": 28,
+  "stars": 33,
   "tag": "#CV999J2"
  },
  "start": "20261124T190127.000Z",

@@ -384,11 +384,110 @@
    "p": 89,
    "s": 2,
    "side": "clan"
+  },
+  {
+   "a": "#9JR2CRCQQ",
+   "ath": 19,
+   "d": "#2RUPRGV28",
+   "dth": 19,
+   "dur": 140,
+   "o": 36,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#908L8UCP0",
+   "ath": 19,
+   "d": "#8UQQLYYG9",
+   "dth": 19,
+   "dur": 147,
+   "o": 37,
+   "p": 88,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#80U82QP98",
+   "ath": 19,
+   "d": "#CYQCGPV0",
+   "dth": 19,
+   "dur": 152,
+   "o": 38,
+   "p": 90,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#908L8UCP0",
+   "ath": 19,
+   "d": "#L88YLLURR",
+   "dth": 19,
+   "dur": 166,
+   "o": 39,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#LG08Q9CYR",
+   "ath": 19,
+   "d": "#QGVY9QVQC",
+   "dth": 19,
+   "dur": 90,
+   "o": 40,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#80U82QP98",
+   "ath": 19,
+   "d": "#QPU9C029L",
+   "dth": 19,
+   "dur": 148,
+   "o": 41,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#8G2J28VU2",
+   "ath": 19,
+   "d": "#RU9QJUL8",
+   "dth": 19,
+   "dur": 130,
+   "o": 42,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#8G2J28VU2",
+   "ath": 19,
+   "d": "#LL99G0RJR",
+   "dth": 19,
+   "dur": 140,
+   "o": 43,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#20PJ02GC2",
+   "ath": 19,
+   "d": "#8G0C9YCYG",
+   "dth": 19,
+   "dur": 153,
+   "o": 44,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 19.666666,
+  "destruction": 24.11111,
   "members": [
    {
     "name": "RB",
@@ -662,12 +761,12 @@
    }
   ],
   "name": "Legacy",
-  "stars": 24,
+  "stars": 30,
   "tag": "#2RQR02LJR"
  },
  "end": "20261125T203507.000Z",
  "opponent": {
-  "destruction": 46.288887,
+  "destruction": 61.355556,
   "members": [
    {
     "name": "MjolniR",
@@ -941,7 +1040,7 @@
    }
   ],
   "name": "ATATÜRK",
-  "stars": 61,
+  "stars": 80,
   "tag": "#2P9LV098Y"
  },
  "start": "20261124T203507.000Z",

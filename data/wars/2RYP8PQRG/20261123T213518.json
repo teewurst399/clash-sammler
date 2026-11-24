@@ -186,11 +186,231 @@
    "p": 74,
    "s": 2,
    "side": "gegner"
+  },
+  {
+   "a": "#2RCLC0LL",
+   "ath": 19,
+   "d": "#Q99VQU9R",
+   "dth": 19,
+   "dur": 92,
+   "o": 18,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#L99JJ2VV0",
+   "ath": 19,
+   "d": "#YC2UYJC90",
+   "dth": 19,
+   "dur": 137,
+   "o": 19,
+   "p": 86,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#2RCLC0LL",
+   "ath": 19,
+   "d": "#RL88U0JU",
+   "dth": 19,
+   "dur": 124,
+   "o": 20,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#2QRCRPVJ",
+   "ath": 19,
+   "d": "#VCY8GLPL",
+   "dth": 19,
+   "dur": 180,
+   "o": 21,
+   "p": 83,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#8YU9Y9L9",
+   "ath": 19,
+   "d": "#22CJJV8JQ",
+   "dth": 19,
+   "dur": 118,
+   "o": 22,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#28JPJPRUG",
+   "ath": 19,
+   "d": "#L9GP9LC2L",
+   "dth": 19,
+   "dur": 180,
+   "o": 23,
+   "p": 90,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#8YU9Y9L9",
+   "ath": 19,
+   "d": "#88PQRP0VG",
+   "dth": 19,
+   "dur": 92,
+   "o": 24,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#L99JJ2VV0",
+   "ath": 19,
+   "d": "#YU2GPJCG",
+   "dth": 19,
+   "dur": 162,
+   "o": 25,
+   "p": 91,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#GVLYVJL8",
+   "ath": 19,
+   "d": "#LL2VCY92",
+   "dth": 19,
+   "dur": 180,
+   "o": 26,
+   "p": 88,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#GVLYVJL8",
+   "ath": 19,
+   "d": "#80QJ0VGPC",
+   "dth": 19,
+   "dur": 170,
+   "o": 27,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#2200Q882U",
+   "ath": 19,
+   "d": "#G2GPC0UPJ",
+   "dth": 19,
+   "dur": 180,
+   "o": 28,
+   "p": 73,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#2VUQR0R9P",
+   "ath": 19,
+   "d": "#2JJJQVUL",
+   "dth": 19,
+   "dur": 91,
+   "o": 29,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#9R2UL0RCU",
+   "ath": 19,
+   "d": "#8GGYYJ0LQ",
+   "dth": 19,
+   "dur": 118,
+   "o": 30,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#2VUQR0R9P",
+   "ath": 19,
+   "d": "#QQJYRLUL",
+   "dth": 19,
+   "dur": 120,
+   "o": 31,
+   "p": 90,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#J0V09RVQ",
+   "ath": 19,
+   "d": "#2RCLC0LL",
+   "dth": 19,
+   "dur": 158,
+   "o": 32,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#J0V09RVQ",
+   "ath": 19,
+   "d": "#P29YRVGJ",
+   "dth": 19,
+   "dur": 133,
+   "o": 33,
+   "p": 85,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#Y90UU0QQ",
+   "ath": 19,
+   "d": "#Q9Y0VJRP",
+   "dth": 19,
+   "dur": 120,
+   "o": 34,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#Q99VQU9R",
+   "ath": 19,
+   "d": "#YQVCG0U2G",
+   "dth": 19,
+   "dur": 144,
+   "o": 35,
+   "p": 82,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#Q99VQU9R",
+   "ath": 19,
+   "d": "#9902CQR0",
+   "dth": 19,
+   "dur": 105,
+   "o": 36,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#2092U80PR",
+   "ath": 19,
+   "d": "#G80YPQ2CR",
+   "dth": 19,
+   "dur": 129,
+   "o": 37,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 17.057142,
+  "destruction": 44.62857,
   "members": [
    {
     "name": "FL • ZΞЯБΞЯЦS³",
@@ -404,12 +624,12 @@
    }
   ],
   "name": "FruchtLabörchen",
-  "stars": 16,
+  "stars": 42,
   "tag": "#2RYP8PQRG"
  },
  "end": "20261125T203518.000Z",
  "opponent": {
-  "destruction": 26.542856,
+  "destruction": 50.228573,
   "members": [
    {
     "name": "Orphy2201",
@@ -623,7 +843,7 @@
    }
   ],
   "name": "les loges",
-  "stars": 24,
+  "stars": 46,
   "tag": "#9PPLQQR0"
  },
  "start": "20261124T203518.000Z",

@@ -362,11 +362,110 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#9G9GRLJ0",
+   "ath": 19,
+   "d": "#QJV8UUGRJ",
+   "dth": 19,
+   "dur": 180,
+   "o": 34,
+   "p": 87,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#9VVPVLVL",
+   "ath": 19,
+   "d": "#9G9GRLJ0",
+   "dth": 19,
+   "dur": 180,
+   "o": 35,
+   "p": 95,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#Y9UQCC9VQ",
+   "ath": 19,
+   "d": "#89P99RGG8",
+   "dth": 19,
+   "dur": 95,
+   "o": 36,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#Y9UQCC9VQ",
+   "ath": 19,
+   "d": "#LG2UY8U",
+   "dth": 19,
+   "dur": 103,
+   "o": 37,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#R2Q8UU9U",
+   "ath": 19,
+   "d": "#PCLLQJ80",
+   "dth": 19,
+   "dur": 154,
+   "o": 38,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#R2Q8UU9U",
+   "ath": 19,
+   "d": "#LQJ09U8U",
+   "dth": 19,
+   "dur": 180,
+   "o": 39,
+   "p": 97,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#282PC29VU",
+   "ath": 19,
+   "d": "#YVUUVCVG8",
+   "dth": 19,
+   "dur": 180,
+   "o": 40,
+   "p": 98,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#2RCCJRPPG",
+   "ath": 19,
+   "d": "#8GR0P9UQL",
+   "dth": 19,
+   "dur": 167,
+   "o": 41,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#282PC29VU",
+   "ath": 19,
+   "d": "#9YU2QR9GV",
+   "dth": 19,
+   "dur": 159,
+   "o": 42,
+   "p": 77,
+   "s": 2,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 32.225,
+  "destruction": 44.525,
   "members": [
    {
     "name": "WB Teewurst",
@@ -610,12 +709,12 @@
    }
   ],
   "name": "Wurstbude",
-  "stars": 35,
+  "stars": 48,
   "tag": "#2LCGGC22L"
  },
  "end": "20261125T193822.000Z",
  "opponent": {
-  "destruction": 33.5,
+  "destruction": 40.375,
   "members": [
    {
     "name": "vendinois",
@@ -859,7 +958,7 @@
    }
   ],
   "name": "LES FINES LAMES",
-  "stars": 37,
+  "stars": 45,
   "tag": "#LRCPYQU"
  },
  "start": "20261124T193822.000Z",
