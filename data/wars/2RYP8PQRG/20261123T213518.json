@@ -780,11 +780,99 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#2QRCRPVJ",
+   "ath": 19,
+   "d": "#L9GP9LC2L",
+   "dth": 19,
+   "dur": 180,
+   "o": 72,
+   "p": 96,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#8LYJLUP8",
+   "ath": 19,
+   "d": "#2QRCRPVJ",
+   "dth": 19,
+   "dur": 139,
+   "o": 73,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#8VU22VUY",
+   "ath": 19,
+   "d": "#UJ9R2R20",
+   "dth": 19,
+   "dur": 180,
+   "o": 74,
+   "p": 89,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#8LYJLUP8",
+   "ath": 19,
+   "d": "#J0V09RVQ",
+   "dth": 19,
+   "dur": 106,
+   "o": 75,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#YQVCG0U2G",
+   "ath": 19,
+   "d": "#Y8YVC9U9",
+   "dth": 19,
+   "dur": 131,
+   "o": 76,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#YQVCG0U2G",
+   "ath": 19,
+   "d": "#2VUQR0R9P",
+   "dth": 19,
+   "dur": 153,
+   "o": 77,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#8QYQVVL9",
+   "ath": 19,
+   "d": "#Y90UU0QQ",
+   "dth": 19,
+   "dur": 180,
+   "o": 78,
+   "p": 80,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#20UPRVL8P",
+   "ath": 19,
+   "d": "#PQ09CQQ0C",
+   "dth": 19,
+   "dur": 128,
+   "o": 79,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 64.65714,
+  "destruction": 75.0,
   "members": [
    {
     "name": "FL • ZΞЯБΞЯЦS³",
@@ -998,12 +1086,12 @@
    }
   ],
   "name": "FruchtLabörchen",
-  "stars": 61,
+  "stars": 73,
   "tag": "#2RYP8PQRG"
  },
  "end": "20261125T203518.000Z",
  "opponent": {
-  "destruction": 86.74286,
+  "destruction": 86.828575,
   "members": [
    {
     "name": "Orphy2201",
@@ -1217,7 +1305,7 @@
    }
   ],
   "name": "les loges",
-  "stars": 82,
+  "stars": 83,
   "tag": "#9PPLQQR0"
  },
  "start": "20261124T203518.000Z",

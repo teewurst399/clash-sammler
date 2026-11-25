@@ -571,11 +571,110 @@
    "p": 85,
    "s": 2,
    "side": "gegner"
+  },
+  {
+   "a": "#8JUUPV8QG",
+   "ath": 17,
+   "d": "#YJPUQVUJL",
+   "dth": 19,
+   "dur": 140,
+   "o": 53,
+   "p": 81,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#YJPUQVUJL",
+   "ath": 19,
+   "d": "#8YRCRVR20",
+   "dth": 19,
+   "dur": 143,
+   "o": 54,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#Y02PQCJPV",
+   "ath": 19,
+   "d": "#9GPP9LPY",
+   "dth": 19,
+   "dur": 129,
+   "o": 55,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#YJPUQVUJL",
+   "ath": 19,
+   "d": "#2LVPQ22Q0",
+   "dth": 19,
+   "dur": 147,
+   "o": 56,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#Y02PQCJPV",
+   "ath": 19,
+   "d": "#PP089QP9P",
+   "dth": 19,
+   "dur": 162,
+   "o": 57,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#P0L8LC828",
+   "ath": 19,
+   "d": "#UG8UVVYU",
+   "dth": 19,
+   "dur": 155,
+   "o": 58,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#P0L8LC828",
+   "ath": 19,
+   "d": "#8JUUPV8QG",
+   "dth": 17,
+   "dur": 100,
+   "o": 59,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#8QCC82C28",
+   "ath": 19,
+   "d": "#LU0U0PJ9V",
+   "dth": 17,
+   "dur": 144,
+   "o": 60,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#8QCC82C28",
+   "ath": 19,
+   "d": "#YCPRC8YVV",
+   "dth": 16,
+   "dur": 130,
+   "o": 61,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 70.76,
+  "destruction": 96.0,
   "members": [
    {
     "name": "Herold",
@@ -729,7 +828,7 @@
    }
   ],
   "name": "German⚡️Elite™️",
-  "stars": 52,
+  "stars": 72,
   "tag": "#29RCYPYVU"
  },
  "end": "20261125T192312.000Z",

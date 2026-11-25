@@ -967,11 +967,110 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#99VQ0JJRU",
+   "ath": 19,
+   "d": "#YGUU9U8Q",
+   "dth": 19,
+   "dur": 20,
+   "o": 89,
+   "p": 29,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#99VQ0JJRU",
+   "ath": 19,
+   "d": "#CVUQLG2C",
+   "dth": 19,
+   "dur": 16,
+   "o": 90,
+   "p": 25,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#QG9VUCPU",
+   "ath": 19,
+   "d": "#YGUU9U8Q",
+   "dth": 19,
+   "dur": 19,
+   "o": 91,
+   "p": 24,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#QG9VUCPU",
+   "ath": 19,
+   "d": "#CVUQLG2C",
+   "dth": 19,
+   "dur": 19,
+   "o": 92,
+   "p": 25,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#LCLULP0PG",
+   "ath": 19,
+   "d": "#CVUQLG2C",
+   "dth": 19,
+   "dur": 17,
+   "o": 93,
+   "p": 18,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#LCLULP0PG",
+   "ath": 19,
+   "d": "#QJ0QYVC",
+   "dth": 19,
+   "dur": 18,
+   "o": 94,
+   "p": 13,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#9090V28RG",
+   "ath": 19,
+   "d": "#QJ0QYVC",
+   "dth": 19,
+   "dur": 15,
+   "o": 95,
+   "p": 7,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#9090V28RG",
+   "ath": 19,
+   "d": "#2UJPCCL8C",
+   "dth": 19,
+   "dur": 46,
+   "o": 96,
+   "p": 6,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#CVUQLG2C",
+   "ath": 19,
+   "d": "#LYP09J0PG",
+   "dth": 19,
+   "dur": 117,
+   "o": 97,
+   "p": 93,
+   "s": 1,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 48.666668,
+  "destruction": 50.733334,
   "members": [
    {
     "name": "RB",
@@ -1245,7 +1344,7 @@
    }
   ],
   "name": "Legacy",
-  "stars": 65,
+  "stars": 66,
   "tag": "#2RQR02LJR"
  },
  "end": "20261125T203507.000Z",

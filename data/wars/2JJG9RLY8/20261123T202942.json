@@ -461,6 +461,61 @@
    "p": 97,
    "s": 2,
    "side": "clan"
+  },
+  {
+   "a": "#28PVCVCPP",
+   "ath": 19,
+   "d": "#LL0PJCUG",
+   "dth": 19,
+   "dur": 180,
+   "o": 43,
+   "p": 99,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#22R2CG8GL",
+   "ath": 19,
+   "d": "#PQR08CRJR",
+   "dth": 19,
+   "dur": 180,
+   "o": 44,
+   "p": 98,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#L2GRUYVJP",
+   "ath": 19,
+   "d": "#LL0PJCUG",
+   "dth": 19,
+   "dur": 130,
+   "o": 45,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#CGQ8PVGQ",
+   "ath": 19,
+   "d": "#VUCJCYRL",
+   "dth": 19,
+   "dur": 180,
+   "o": 46,
+   "p": 92,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#CGQ8PVGQ",
+   "ath": 19,
+   "d": "#2UP9G09P",
+   "dth": 19,
+   "dur": 164,
+   "o": 47,
+   "p": 90,
+   "s": 2,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -624,7 +679,7 @@
  },
  "end": "20261125T192942.000Z",
  "opponent": {
-  "destruction": 80.6,
+  "destruction": 87.84,
   "members": [
    {
     "name": "GreatGuardian",
@@ -778,7 +833,7 @@
    }
   ],
   "name": "alte Säcke",
-  "stars": 55,
+  "stars": 58,
   "tag": "#PP20R88J"
  },
  "start": "20261124T192942.000Z",

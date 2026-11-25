@@ -296,6 +296,72 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#8P9VVY9R8",
+   "ath": 18,
+   "d": "#LGUPGVJ8R",
+   "dth": 18,
+   "dur": 71,
+   "o": 28,
+   "p": 68,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#L2C2280CU",
+   "ath": 8,
+   "d": "#GUR0UCJGJ",
+   "dth": 3,
+   "dur": 21,
+   "o": 29,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#L2C2280CU",
+   "ath": 8,
+   "d": "#R2CLJ2P9L",
+   "dth": 4,
+   "dur": 23,
+   "o": 30,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#Q9J8PVY88",
+   "ath": 18,
+   "d": "#98VQ90GQJ",
+   "dth": 17,
+   "dur": 138,
+   "o": 31,
+   "p": 70,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#8P9VVY9R8",
+   "ath": 18,
+   "d": "#GPLRJ0G9Q",
+   "dth": 18,
+   "dur": 91,
+   "o": 32,
+   "p": 78,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#Q9J8PVY88",
+   "ath": 18,
+   "d": "#GV9LV9QQL",
+   "dth": 16,
+   "dur": 180,
+   "o": 33,
+   "p": 82,
+   "s": 2,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -459,7 +525,7 @@
  },
  "end": "20261125T202243.000Z",
  "opponent": {
-  "destruction": 43.4,
+  "destruction": 63.32,
   "members": [
    {
     "name": "MKNSZ",
@@ -613,7 +679,7 @@
    }
   ],
   "name": "ANTİTERÖR CLÜP",
-  "stars": 31,
+  "stars": 45,
   "tag": "#JYQVPCC8"
  },
  "start": "20261124T202243.000Z",

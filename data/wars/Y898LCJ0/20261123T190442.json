@@ -1022,6 +1022,39 @@
    "p": 76,
    "s": 2,
    "side": "gegner"
+  },
+  {
+   "a": "#8LVGP8PC",
+   "ath": 19,
+   "d": "#Y9YG9JYPU",
+   "dth": 19,
+   "dur": 127,
+   "o": 94,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#8LVGP8PC",
+   "ath": 19,
+   "d": "#9UVPU8CUG",
+   "dth": 19,
+   "dur": 121,
+   "o": 95,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#CQV09G9Y",
+   "ath": 19,
+   "d": "#8LGQ2UGPY",
+   "dth": 19,
+   "dur": 161,
+   "o": 96,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -1275,7 +1308,7 @@
  },
  "end": "20261125T180442.000Z",
  "opponent": {
-  "destruction": 99.675,
+  "destruction": 100.0,
   "members": [
    {
     "name": "iskender",
@@ -1519,7 +1552,7 @@
    }
   ],
   "name": "MADE in TURKEY",
-  "stars": 117,
+  "stars": 120,
   "tag": "#VRPYLG"
  },
  "start": "20261124T180442.000Z",

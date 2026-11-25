@@ -560,11 +560,121 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#9L8CY8G98",
+   "ath": 19,
+   "d": "#9QGVPL0UL",
+   "dth": 19,
+   "dur": 130,
+   "o": 52,
+   "p": 71,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#QQLUYUGJC",
+   "ath": 19,
+   "d": "#R0VQRJCR",
+   "dth": 19,
+   "dur": 165,
+   "o": 53,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#QQLUYUGJC",
+   "ath": 19,
+   "d": "#9JVQYCGLQ",
+   "dth": 19,
+   "dur": 113,
+   "o": 54,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#PJ80U2QP",
+   "ath": 19,
+   "d": "#P9GJJR9GG",
+   "dth": 18,
+   "dur": 116,
+   "o": 55,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#PJ80U2QP",
+   "ath": 19,
+   "d": "#GPRR8VQP2",
+   "dth": 19,
+   "dur": 127,
+   "o": 56,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#8RP0U0208",
+   "ath": 19,
+   "d": "#J0L9V0L",
+   "dth": 19,
+   "dur": 144,
+   "o": 57,
+   "p": 74,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#8RP0U0208",
+   "ath": 19,
+   "d": "#92LQ8Q9CU",
+   "dth": 19,
+   "dur": 155,
+   "o": 58,
+   "p": 89,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#QGPCJV2UV",
+   "ath": 19,
+   "d": "#J0L9V0L",
+   "dth": 19,
+   "dur": 174,
+   "o": 59,
+   "p": 97,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#QGPCJV2UV",
+   "ath": 19,
+   "d": "#92LQ8Q9CU",
+   "dth": 19,
+   "dur": 180,
+   "o": 60,
+   "p": 98,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#QGRR99V0",
+   "ath": 19,
+   "d": "#YQQUU29J9",
+   "dth": 19,
+   "dur": 131,
+   "o": 61,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 55.057144,
+  "destruction": 69.14286,
   "members": [
    {
     "name": "tojamane",
@@ -778,12 +888,12 @@
    }
   ],
   "name": "Obstsalat",
-  "stars": 54,
+  "stars": 69,
   "tag": "#2Q8CL9Y20"
  },
  "end": "20261125T193928.000Z",
  "opponent": {
-  "destruction": 71.25714,
+  "destruction": 74.11429,
   "members": [
    {
     "name": "BS Keizer",
@@ -997,7 +1107,7 @@
    }
   ],
   "name": "Ballensnijers",
-  "stars": 74,
+  "stars": 77,
   "tag": "#2QVJVVJC"
  },
  "start": "20261124T193928.000Z",

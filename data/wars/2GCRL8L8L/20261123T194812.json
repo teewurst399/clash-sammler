@@ -1000,11 +1000,66 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#202J9VUCY",
+   "ath": 19,
+   "d": "#20PRP9Y09",
+   "dth": 19,
+   "dur": 157,
+   "o": 92,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#P9VG9299Y",
+   "ath": 19,
+   "d": "#QCJQC9V9Y",
+   "dth": 19,
+   "dur": 151,
+   "o": 93,
+   "p": 98,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#9PVJGYLQG",
+   "ath": 19,
+   "d": "#QCJQC9V9Y",
+   "dth": 19,
+   "dur": 121,
+   "o": 94,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#PJ9U2YVQR",
+   "ath": 19,
+   "d": "#GVGR9P2G",
+   "dth": 19,
+   "dur": 153,
+   "o": 95,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#PJ9U2YVQR",
+   "ath": 19,
+   "d": "#9PVJGYLQG",
+   "dth": 19,
+   "dur": 141,
+   "o": 96,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 92.5,
+  "destruction": 97.5,
   "members": [
    {
     "name": "BB •Nico•",
@@ -1248,12 +1303,12 @@
    }
   ],
   "name": "BrawlerBaller",
-  "stars": 111,
+  "stars": 117,
   "tag": "#2GCRL8L8L"
  },
  "end": "20261125T184812.000Z",
  "opponent": {
-  "destruction": 99.125,
+  "destruction": 100.0,
   "members": [
    {
     "name": "✌СЕРЖ✌",
@@ -1497,7 +1552,7 @@
    }
   ],
   "name": "Ukraine forever",
-  "stars": 118,
+  "stars": 120,
   "tag": "#2QQQ9GUCR"
  },
  "start": "20261124T184812.000Z",
