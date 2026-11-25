@@ -868,6 +868,28 @@
    "p": 8,
    "s": 1,
    "side": "gegner"
+  },
+  {
+   "a": "#G8CC8U2LC",
+   "ath": 15,
+   "d": "#PQ0RGCRC",
+   "dth": 19,
+   "dur": 138,
+   "o": 80,
+   "p": 60,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#G8CC8U2LC",
+   "ath": 15,
+   "d": "#GPQ8222P8",
+   "dth": 19,
+   "dur": 174,
+   "o": 81,
+   "p": 77,
+   "s": 2,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,

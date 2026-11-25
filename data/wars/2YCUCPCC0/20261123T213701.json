@@ -824,6 +824,17 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#PLCYCUJL",
+   "ath": 18,
+   "d": "#LVJJPQJQR",
+   "dth": 17,
+   "dur": 123,
+   "o": 76,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -1017,7 +1028,7 @@
  },
  "end": "20261125T203701.000Z",
  "opponent": {
-  "destruction": 86.666664,
+  "destruction": 90.0,
   "members": [
    {
     "name": "†◄«4LuCarD»►†®",
@@ -1201,7 +1212,7 @@
    }
   ],
   "name": "GUERREROS _Z",
-  "stars": 78,
+  "stars": 81,
   "tag": "#9R2L8GCG"
  },
  "start": "20261124T203701.000Z",

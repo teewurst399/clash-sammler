@@ -461,11 +461,110 @@
    "p": 98,
    "s": 2,
    "side": "clan"
+  },
+  {
+   "a": "#20G929JRU",
+   "ath": 19,
+   "d": "#LG8L920L",
+   "dth": 19,
+   "dur": 162,
+   "o": 43,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#2YC0U2RQU",
+   "ath": 19,
+   "d": "#Y0CQC0RJ",
+   "dth": 19,
+   "dur": 128,
+   "o": 44,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#20G929JRU",
+   "ath": 19,
+   "d": "#8RC02Y8UQ",
+   "dth": 19,
+   "dur": 127,
+   "o": 45,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#2YC0U2RQU",
+   "ath": 19,
+   "d": "#9G0PR8UGG",
+   "dth": 19,
+   "dur": 136,
+   "o": 46,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#8R2P8CUUU",
+   "ath": 19,
+   "d": "#92QGVP2CU",
+   "dth": 19,
+   "dur": 102,
+   "o": 47,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#J98VJQPL",
+   "ath": 19,
+   "d": "#PR2VCYU",
+   "dth": 19,
+   "dur": 119,
+   "o": 48,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#8R2P8CUUU",
+   "ath": 19,
+   "d": "#89J9VY9Q",
+   "dth": 19,
+   "dur": 111,
+   "o": 49,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#J98VJQPL",
+   "ath": 19,
+   "d": "#9QJVV8LR",
+   "dth": 19,
+   "dur": 163,
+   "o": 50,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#9L8CY8G98",
+   "ath": 19,
+   "d": "#RV8GR9PV",
+   "dth": 19,
+   "dur": 119,
+   "o": 51,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 35.057144,
+  "destruction": 55.057144,
   "members": [
    {
     "name": "tojamane",
@@ -679,12 +778,12 @@
    }
   ],
   "name": "Obstsalat",
-  "stars": 33,
+  "stars": 54,
   "tag": "#2Q8CL9Y20"
  },
  "end": "20261125T193928.000Z",
  "opponent": {
-  "destruction": 65.542854,
+  "destruction": 71.25714,
   "members": [
    {
     "name": "BS Keizer",
@@ -898,7 +997,7 @@
    }
   ],
   "name": "Ballensnijers",
-  "stars": 68,
+  "stars": 74,
   "tag": "#2QVJVVJC"
  },
  "start": "20261124T193928.000Z",
