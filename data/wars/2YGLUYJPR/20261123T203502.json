@@ -637,6 +637,50 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#YLP8Q9JYV",
+   "ath": 19,
+   "d": "#8R9PP0020",
+   "dth": 19,
+   "dur": 180,
+   "o": 59,
+   "p": 83,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#YLP8Q9JYV",
+   "ath": 19,
+   "d": "#8LVUR0JPQ",
+   "dth": 19,
+   "dur": 135,
+   "o": 60,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#PJYJG0PGC",
+   "ath": 19,
+   "d": "#8R9PP0020",
+   "dth": 19,
+   "dur": 176,
+   "o": 61,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#PJYJG0PGC",
+   "ath": 19,
+   "d": "#Y29R0909",
+   "dth": 19,
+   "dur": 134,
+   "o": 62,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -890,7 +934,7 @@
  },
  "end": "20261125T193502.000Z",
  "opponent": {
-  "destruction": 82.45,
+  "destruction": 89.95,
   "members": [
    {
     "name": "alasmar",
@@ -1134,7 +1178,7 @@
    }
   ],
   "name": "⛓️THE⚔️GANG.III",
-  "stars": 98,
+  "stars": 107,
   "tag": "#2QUCLLPGJ"
  },
  "start": "20261124T193502.000Z",

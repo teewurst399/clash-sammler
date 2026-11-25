@@ -1627,6 +1627,28 @@
    "p": 84,
    "s": 1,
    "side": "gegner"
+  },
+  {
+   "a": "#P92VRLYRC",
+   "ath": 19,
+   "d": "#RQYPLLQV",
+   "dth": 19,
+   "dur": 44,
+   "o": 149,
+   "p": 13,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#P92VRLYRC",
+   "ath": 19,
+   "d": "#G2U20Q229",
+   "dth": 19,
+   "dur": 7,
+   "o": 150,
+   "p": 2,
+   "s": 1,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,

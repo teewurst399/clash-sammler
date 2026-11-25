@@ -560,6 +560,72 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#GPQYV0CV8",
+   "ath": 19,
+   "d": "#LV9YVCJ2V",
+   "dth": 19,
+   "dur": 149,
+   "o": 52,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#GPQYV0CV8",
+   "ath": 19,
+   "d": "#8YLL0RVJ2",
+   "dth": 19,
+   "dur": 180,
+   "o": 53,
+   "p": 91,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#28CR8LRLG",
+   "ath": 19,
+   "d": "#8YLL0RVJ2",
+   "dth": 19,
+   "dur": 154,
+   "o": 54,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#28CR8LRLG",
+   "ath": 19,
+   "d": "#CYQCGPV0",
+   "dth": 19,
+   "dur": 131,
+   "o": 55,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#2RUPRGV28",
+   "ath": 19,
+   "d": "#8UQQLYYG9",
+   "dth": 19,
+   "dur": 122,
+   "o": 56,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#2RUPRGV28",
+   "ath": 19,
+   "d": "#PJY0028J8",
+   "dth": 19,
+   "dur": 123,
+   "o": 57,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -843,7 +909,7 @@
  },
  "end": "20261125T203507.000Z",
  "opponent": {
-  "destruction": 70.244446,
+  "destruction": 73.333336,
   "members": [
    {
     "name": "MjolniR",
@@ -1117,7 +1183,7 @@
    }
   ],
   "name": "ATATÜRK",
-  "stars": 92,
+  "stars": 99,
   "tag": "#2P9LV098Y"
  },
  "start": "20261124T203507.000Z",

@@ -131,6 +131,28 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#R0U90QR8",
+   "ath": 19,
+   "d": "#YJJ0CRJ0V",
+   "dth": 19,
+   "dur": 139,
+   "o": 13,
+   "p": 82,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#98YPQRUG8",
+   "ath": 19,
+   "d": "#UQQGLYP",
+   "dth": 19,
+   "dur": 160,
+   "o": 14,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -264,7 +286,7 @@
  },
  "end": "20261125T190130.000Z",
  "opponent": {
-  "destruction": 30.0,
+  "destruction": 39.1,
   "members": [
    {
     "name": "Amar",
@@ -388,7 +410,7 @@
    }
   ],
   "name": "JR.NEPALI ALL☆☆",
-  "stars": 18,
+  "stars": 23,
   "tag": "#LPR2RY08"
  },
  "start": "20261124T190130.000Z",

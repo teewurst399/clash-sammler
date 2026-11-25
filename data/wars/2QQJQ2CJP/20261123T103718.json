@@ -472,6 +472,17 @@
    "p": 66,
    "s": 2,
    "side": "gegner"
+  },
+  {
+   "a": "#2P28YLLR",
+   "ath": 19,
+   "d": "#LG8C2PYQY",
+   "dth": 19,
+   "dur": 173,
+   "o": 44,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -605,7 +616,7 @@
  },
  "end": "20261125T093718.000Z",
  "opponent": {
-  "destruction": 59.35,
+  "destruction": 64.35,
   "members": [
    {
     "name": "토록현우",
@@ -729,7 +740,7 @@
    }
   ],
   "name": "영원한클라스♥",
-  "stars": 31,
+  "stars": 34,
   "tag": "#R8VCCPPR"
  },
  "start": "20261124T093718.000Z",

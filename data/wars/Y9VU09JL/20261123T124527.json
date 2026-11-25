@@ -670,6 +670,105 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#G0PUYJCQ",
+   "ath": 18,
+   "d": "#GV0JGVCUP",
+   "dth": 18,
+   "dur": 124,
+   "o": 62,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#G0PUYJCQ",
+   "ath": 18,
+   "d": "#YVYR82URC",
+   "dth": 17,
+   "dur": 76,
+   "o": 63,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#9LGJ92GJ",
+   "ath": 19,
+   "d": "#9UGGUQ0C",
+   "dth": 19,
+   "dur": 143,
+   "o": 64,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#9LGJ92GJ",
+   "ath": 19,
+   "d": "#2CRP0P2Q8",
+   "dth": 19,
+   "dur": 137,
+   "o": 65,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#8GVYUGJR",
+   "ath": 19,
+   "d": "#2C0LJVQ9",
+   "dth": 19,
+   "dur": 127,
+   "o": 66,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#809QL8PYR",
+   "ath": 16,
+   "d": "#LGYRV2URL",
+   "dth": 17,
+   "dur": 104,
+   "o": 67,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#8GVYUGJR",
+   "ath": 19,
+   "d": "#RQYGYC0P",
+   "dth": 19,
+   "dur": 136,
+   "o": 68,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#809QL8PYR",
+   "ath": 16,
+   "d": "#9UPPVGYP",
+   "dth": 17,
+   "dur": 135,
+   "o": 69,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#R8Y8GGCQ",
+   "ath": 19,
+   "d": "#YR09QJQ2",
+   "dth": 19,
+   "dur": 141,
+   "o": 70,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -893,7 +992,7 @@
  },
  "end": "20261125T114527.000Z",
  "opponent": {
-  "destruction": 67.77143,
+  "destruction": 88.34286,
   "members": [
    {
     "name": "Venom",
@@ -1107,7 +1206,7 @@
    }
   ],
   "name": "Indo Xtreme",
-  "stars": 68,
+  "stars": 92,
   "tag": "#LYLJUGG"
  },
  "start": "20261124T114527.000Z",

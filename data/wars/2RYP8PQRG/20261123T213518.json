@@ -483,11 +483,22 @@
    "p": 71,
    "s": 2,
    "side": "gegner"
+  },
+  {
+   "a": "#V8LR0LC8",
+   "ath": 19,
+   "d": "#YC2UYJC90",
+   "dth": 19,
+   "dur": 180,
+   "o": 45,
+   "p": 97,
+   "s": 2,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 44.771427,
+  "destruction": 44.942856,
   "members": [
    {
     "name": "FL • ZΞЯБΞЯЦS³",
