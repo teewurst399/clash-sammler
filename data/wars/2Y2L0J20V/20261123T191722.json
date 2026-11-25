@@ -1143,6 +1143,39 @@
    "p": 85,
    "s": 2,
    "side": "gegner"
+  },
+  {
+   "a": "#RYCJ0Y99",
+   "ath": 19,
+   "d": "#GLUL2CCV",
+   "dth": 19,
+   "dur": 177,
+   "o": 105,
+   "p": 83,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#RL9Y9QJP",
+   "ath": 19,
+   "d": "#GJ88QJG8V",
+   "dth": 19,
+   "dur": 132,
+   "o": 106,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#RL9Y9QJP",
+   "ath": 19,
+   "d": "#L29V9VLG0",
+   "dth": 19,
+   "dur": 98,
+   "o": 107,
+   "p": 57,
+   "s": 2,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -1396,7 +1429,7 @@
  },
  "end": "20261125T181722.000Z",
  "opponent": {
-  "destruction": 88.25,
+  "destruction": 90.8,
   "members": [
    {
     "name": "Viridis",
@@ -1640,7 +1673,7 @@
    }
   ],
   "name": "808 Beach",
-  "stars": 93,
+  "stars": 97,
   "tag": "#GVVVJL8R"
  },
  "start": "20261124T181722.000Z",

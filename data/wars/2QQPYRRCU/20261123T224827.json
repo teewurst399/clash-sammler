@@ -901,11 +901,121 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#28220L22C",
+   "ath": 19,
+   "d": "#QR022GGG",
+   "dth": 19,
+   "dur": 171,
+   "o": 83,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#28220L22C",
+   "ath": 19,
+   "d": "#2Y929JJ0V",
+   "dth": 19,
+   "dur": 151,
+   "o": 84,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#LVLRC02UY",
+   "ath": 19,
+   "d": "#9PR0JUQU",
+   "dth": 19,
+   "dur": 150,
+   "o": 85,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#LVLRC02UY",
+   "ath": 19,
+   "d": "#2UY9CL2GV",
+   "dth": 19,
+   "dur": 175,
+   "o": 86,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#LGRQ2Q0CJ",
+   "ath": 19,
+   "d": "#C80V2QYQ",
+   "dth": 19,
+   "dur": 146,
+   "o": 87,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#LGRQ2Q0CJ",
+   "ath": 19,
+   "d": "#2PLC2U8UP",
+   "dth": 19,
+   "dur": 167,
+   "o": 88,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#9PR0JUQU",
+   "ath": 19,
+   "d": "#GLUVJCP2P",
+   "dth": 18,
+   "dur": 84,
+   "o": 89,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#9PR0JUQU",
+   "ath": 19,
+   "d": "#8GPYR0C",
+   "dth": 18,
+   "dur": 84,
+   "o": 90,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#L8P2YUJJ8",
+   "ath": 19,
+   "d": "#P2G99RJR",
+   "dth": 19,
+   "dur": 122,
+   "o": 91,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#GGRVGQV2G",
+   "ath": 19,
+   "d": "#GLGJCJGR0",
+   "dth": 19,
+   "dur": 165,
+   "o": 92,
+   "p": 93,
+   "s": 2,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 70.26667,
+  "destruction": 80.44444,
   "members": [
    {
     "name": "Saheb",
@@ -1179,12 +1289,12 @@
    }
   ],
   "name": "Secondzone",
-  "stars": 91,
+  "stars": 106,
   "tag": "#2QQPYRRCU"
  },
  "end": "20261125T214827.000Z",
  "opponent": {
-  "destruction": 91.111115,
+  "destruction": 97.62222,
   "members": [
    {
     "name": "BAD : BOY",
@@ -1458,7 +1568,7 @@
    }
   ],
   "name": "I BOMBER",
-  "stars": 123,
+  "stars": 131,
   "tag": "#2QVR22QG9"
  },
  "start": "20261124T214827.000Z",

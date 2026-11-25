@@ -868,6 +868,28 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#LVLUCJG8",
+   "ath": 19,
+   "d": "#Y90UU0QQ",
+   "dth": 19,
+   "dur": 106,
+   "o": 80,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#LL2VCY92",
+   "ath": 19,
+   "d": "#UJ9R2R20",
+   "dth": 19,
+   "dur": 164,
+   "o": 81,
+   "p": 59,
+   "s": 1,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -1091,7 +1113,7 @@
  },
  "end": "20261125T203518.000Z",
  "opponent": {
-  "destruction": 86.828575,
+  "destruction": 87.71429,
   "members": [
    {
     "name": "Orphy2201",
@@ -1305,7 +1327,7 @@
    }
   ],
   "name": "les loges",
-  "stars": 83,
+  "stars": 84,
   "tag": "#9PPLQQR0"
  },
  "start": "20261124T203518.000Z",
