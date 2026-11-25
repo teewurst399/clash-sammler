@@ -252,11 +252,176 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#PC0YR9P0",
+   "ath": 19,
+   "d": "#PJYQGV00",
+   "dth": 19,
+   "dur": 180,
+   "o": 24,
+   "p": 96,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#Y98820U8R",
+   "ath": 19,
+   "d": "#PJVPQU0LJ",
+   "dth": 19,
+   "dur": 89,
+   "o": 25,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#Y98820U8R",
+   "ath": 19,
+   "d": "#8GVLGCQ2C",
+   "dth": 19,
+   "dur": 110,
+   "o": 26,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#22UR9QVGV",
+   "ath": 19,
+   "d": "#JU0QC0U0",
+   "dth": 19,
+   "dur": 139,
+   "o": 27,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#GY29L92G8",
+   "ath": 19,
+   "d": "#2Y8CRL0CQ",
+   "dth": 18,
+   "dur": 139,
+   "o": 28,
+   "p": 78,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#22UR9QVGV",
+   "ath": 19,
+   "d": "#8JRJP8JV",
+   "dth": 19,
+   "dur": 147,
+   "o": 29,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#GY29L92G8",
+   "ath": 19,
+   "d": "#2CVYQRL0",
+   "dth": 19,
+   "dur": 141,
+   "o": 30,
+   "p": 73,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#8LGVY2CLG",
+   "ath": 19,
+   "d": "#RL9JYPP2",
+   "dth": 19,
+   "dur": 178,
+   "o": 31,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#G892YC2GP",
+   "ath": 19,
+   "d": "#C9J89CGU",
+   "dth": 19,
+   "dur": 129,
+   "o": 32,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#P0P2V9YJY",
+   "ath": 19,
+   "d": "#VR0QVGJV",
+   "dth": 19,
+   "dur": 145,
+   "o": 33,
+   "p": 80,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#P0P2V9YJY",
+   "ath": 19,
+   "d": "#LGP0L2G2",
+   "dth": 19,
+   "dur": 122,
+   "o": 34,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#PJYQGV00",
+   "ath": 19,
+   "d": "#PC0YR9P0",
+   "dth": 19,
+   "dur": 121,
+   "o": 35,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#C9J89CGU",
+   "ath": 19,
+   "d": "#28PP0G99",
+   "dth": 19,
+   "dur": 153,
+   "o": 36,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#PJYQGV00",
+   "ath": 19,
+   "d": "#CL0QYJLC",
+   "dth": 19,
+   "dur": 108,
+   "o": 37,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#G892YC2GP",
+   "ath": 19,
+   "d": "#Q90QJVPQC",
+   "dth": 19,
+   "dur": 135,
+   "o": 38,
+   "p": 88,
+   "s": 2,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 27.475,
+  "destruction": 38.75,
   "members": [
    {
     "name": "Louis",
@@ -500,12 +665,12 @@
    }
   ],
   "name": "Pokerzone",
-  "stars": 32,
+  "stars": 45,
   "tag": "#2JPJ8J8CQ"
  },
  "end": "20261126T193156.000Z",
  "opponent": {
-  "destruction": 27.45,
+  "destruction": 49.15,
   "members": [
    {
     "name": "Bhors23",
@@ -749,7 +914,7 @@
    }
   ],
   "name": "House of Elites",
-  "stars": 32,
+  "stars": 57,
   "tag": "#2YLR0J09Y"
  },
  "start": "20261125T193156.000Z",

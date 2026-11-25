@@ -329,11 +329,165 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#8UPCRRC9P",
+   "ath": 19,
+   "d": "#Y8QCGCL",
+   "dth": 19,
+   "dur": 180,
+   "o": 31,
+   "p": 95,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#CR0RYYYQ",
+   "ath": 19,
+   "d": "#8LP82JVP",
+   "dth": 18,
+   "dur": 142,
+   "o": 32,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#RR0989RL",
+   "ath": 19,
+   "d": "#8V9U89CJ",
+   "dth": 19,
+   "dur": 127,
+   "o": 33,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#RR0989RL",
+   "ath": 19,
+   "d": "#LV2PJPVQL",
+   "dth": 19,
+   "dur": 138,
+   "o": 34,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#CR0RYYYQ",
+   "ath": 19,
+   "d": "#Q8PLLYRP9",
+   "dth": 19,
+   "dur": 141,
+   "o": 35,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#GRQGPJUY",
+   "ath": 19,
+   "d": "#PU0CUVQ22",
+   "dth": 19,
+   "dur": 131,
+   "o": 36,
+   "p": 65,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#8RGGGCLJU",
+   "ath": 19,
+   "d": "#YCRYQQVJV",
+   "dth": 19,
+   "dur": 124,
+   "o": 37,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#LC9U9YVVP",
+   "ath": 19,
+   "d": "#LU2GRY8LR",
+   "dth": 19,
+   "dur": 153,
+   "o": 38,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#GRQGPJUY",
+   "ath": 19,
+   "d": "#YJ9PQR00Y",
+   "dth": 19,
+   "dur": 159,
+   "o": 39,
+   "p": 78,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#LC9U9YVVP",
+   "ath": 19,
+   "d": "#889UGV08C",
+   "dth": 19,
+   "dur": 175,
+   "o": 40,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#GG9QC8LCJ",
+   "ath": 19,
+   "d": "#9LJ0P90QC",
+   "dth": 19,
+   "dur": 177,
+   "o": 41,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#9RRQ8P08J",
+   "ath": 19,
+   "d": "#L22C9GJ8P",
+   "dth": 19,
+   "dur": 137,
+   "o": 42,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#9RRQ8P08J",
+   "ath": 19,
+   "d": "#Y8QCGCL",
+   "dth": 19,
+   "dur": 180,
+   "o": 43,
+   "p": 97,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#GG9QC8LCJ",
+   "ath": 19,
+   "d": "#2Y2LUY88P",
+   "dth": 19,
+   "dur": 167,
+   "o": 44,
+   "p": 80,
+   "s": 2,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 49.075,
+  "destruction": 70.5,
   "members": [
    {
     "name": "Salih",
@@ -577,7 +731,7 @@
    }
   ],
   "name": "Hoher Geheimrat",
-  "stars": 56,
+  "stars": 83,
   "tag": "#2PP2GYRGL"
  },
  "end": "20261126T190006.000Z",

@@ -186,11 +186,143 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#YYRCJ2GR8",
+   "ath": 19,
+   "d": "#JJ0PV9VY",
+   "dth": 19,
+   "dur": 179,
+   "o": 18,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#2080GG00",
+   "ath": 19,
+   "d": "#2V2PC2VRY",
+   "dth": 19,
+   "dur": 132,
+   "o": 19,
+   "p": 87,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#9JRGR0G89",
+   "ath": 19,
+   "d": "#PC0CRLP2U",
+   "dth": 19,
+   "dur": 152,
+   "o": 20,
+   "p": 87,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#9JRGR0G89",
+   "ath": 19,
+   "d": "#22L9R2CUP",
+   "dth": 19,
+   "dur": 116,
+   "o": 21,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#9C9P2P92U",
+   "ath": 19,
+   "d": "#8UQVGVVLY",
+   "dth": 19,
+   "dur": 157,
+   "o": 22,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#Y8YVPJ02R",
+   "ath": 19,
+   "d": "#9VL2020UQ",
+   "dth": 16,
+   "dur": 88,
+   "o": 23,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#2CGLPRGQU",
+   "ath": 19,
+   "d": "#9C9P2P92U",
+   "dth": 19,
+   "dur": 155,
+   "o": 24,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#Y8YVPJ02R",
+   "ath": 19,
+   "d": "#LC0GJL882",
+   "dth": 19,
+   "dur": 115,
+   "o": 25,
+   "p": 86,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#2CGLPRGQU",
+   "ath": 19,
+   "d": "#LP2J888PR",
+   "dth": 19,
+   "dur": 149,
+   "o": 26,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#L9CV8G9QL",
+   "ath": 19,
+   "d": "#2CGLPRGQU",
+   "dth": 19,
+   "dur": 180,
+   "o": 27,
+   "p": 89,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#YYYLYVL80",
+   "ath": 19,
+   "d": "#Y8YVPJ02R",
+   "dth": 19,
+   "dur": 151,
+   "o": 28,
+   "p": 95,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#YYYLYVL80",
+   "ath": 19,
+   "d": "#80CJPP9QR",
+   "dth": 18,
+   "dur": 121,
+   "o": 29,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 22.3,
+  "destruction": 39.4,
   "members": [
    {
     "name": "Clash Joni",
@@ -374,12 +506,12 @@
    }
   ],
   "name": "Gammazone",
-  "stars": 18,
+  "stars": 33,
   "tag": "#YG20CR0U"
  },
  "end": "20261126T180515.000Z",
  "opponent": {
-  "destruction": 30.6,
+  "destruction": 46.0,
   "members": [
    {
     "name": "Duke",
@@ -563,7 +695,7 @@
    }
   ],
   "name": "Les Mahmoudiens",
-  "stars": 25,
+  "stars": 37,
   "tag": "#2P28UQQ80"
  },
  "start": "20261125T180515.000Z",

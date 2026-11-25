@@ -384,11 +384,121 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#8R0CPV0YP",
+   "ath": 19,
+   "d": "#9UJ2RPU0P",
+   "dth": 19,
+   "dur": 145,
+   "o": 36,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#8R0CPV0YP",
+   "ath": 19,
+   "d": "#J920UY2V",
+   "dth": 19,
+   "dur": 162,
+   "o": 37,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#28LQ0992U",
+   "ath": 19,
+   "d": "#YY90Y2L8G",
+   "dth": 19,
+   "dur": 158,
+   "o": 38,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#UPGL88UQ",
+   "ath": 19,
+   "d": "#22LC2RJG2",
+   "dth": 19,
+   "dur": 147,
+   "o": 39,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#R0RRYUQ8",
+   "ath": 19,
+   "d": "#9C2Q89P08",
+   "dth": 19,
+   "dur": 104,
+   "o": 40,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#LYU2PPG2",
+   "ath": 19,
+   "d": "#28LQ0992U",
+   "dth": 19,
+   "dur": 123,
+   "o": 41,
+   "p": 84,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#8VQL288JL",
+   "ath": 19,
+   "d": "#QULYVRP2R",
+   "dth": 19,
+   "dur": 146,
+   "o": 42,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#8VQL288JL",
+   "ath": 19,
+   "d": "#PRRPRQU82",
+   "dth": 19,
+   "dur": 167,
+   "o": 43,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#QP8CCQRYY",
+   "ath": 19,
+   "d": "#9URR82QVP",
+   "dth": 19,
+   "dur": 115,
+   "o": 44,
+   "p": 85,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#LPJYR2288",
+   "ath": 19,
+   "d": "#V0R2V0GC",
+   "dth": 19,
+   "dur": 180,
+   "o": 45,
+   "p": 79,
+   "s": 1,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 28.571428,
+  "destruction": 41.37143,
   "members": [
    {
     "name": "GL™ ReViX",
@@ -602,12 +712,12 @@
    }
   ],
   "name": "GNADENLOS™",
-  "stars": 30,
+  "stars": 40,
   "tag": "#U2JVY229"
  },
  "end": "20261126T190542.000Z",
  "opponent": {
-  "destruction": 57.142857,
+  "destruction": 71.42857,
   "members": [
    {
     "name": "JK❗️HAIDER",
@@ -821,7 +931,7 @@
    }
   ],
   "name": "JK EMPIRE",
-  "stars": 60,
+  "stars": 75,
   "tag": "#2JY9P80GR"
  },
  "start": "20261125T190542.000Z",

@@ -65,11 +65,110 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#28CJJC29U",
+   "ath": 19,
+   "d": "#8GPQ0JJYQ",
+   "dth": 19,
+   "dur": 108,
+   "o": 7,
+   "p": 83,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#JQQLYP8V",
+   "ath": 19,
+   "d": "#2GP9V22YQ",
+   "dth": 19,
+   "dur": 159,
+   "o": 8,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#2YV9VC022",
+   "ath": 19,
+   "d": "#LPCP88UPJ",
+   "dth": 19,
+   "dur": 127,
+   "o": 9,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#Q8YR2J8PC",
+   "ath": 19,
+   "d": "#8JVCV29JU",
+   "dth": 19,
+   "dur": 150,
+   "o": 10,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#2YV9VC022",
+   "ath": 19,
+   "d": "#2C8G99U",
+   "dth": 19,
+   "dur": 163,
+   "o": 11,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#JQQLYP8V",
+   "ath": 19,
+   "d": "#9UL0Q00YP",
+   "dth": 19,
+   "dur": 167,
+   "o": 12,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#Q8YR2J8PC",
+   "ath": 19,
+   "d": "#28PYYPGJC",
+   "dth": 19,
+   "dur": 173,
+   "o": 13,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#2LPGR202",
+   "ath": 19,
+   "d": "#Q2CGRR8RU",
+   "dth": 19,
+   "dur": 180,
+   "o": 14,
+   "p": 95,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#G2JLCGRVQ",
+   "ath": 18,
+   "d": "#88CJR0VPC",
+   "dth": 18,
+   "dur": 180,
+   "o": 15,
+   "p": 94,
+   "s": 2,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 0.0,
+  "destruction": 24.914286,
   "members": [
    {
     "name": "Monkey D. Luffy",
@@ -78,7 +177,7 @@
     "th": 19
    },
    {
-    "name": "Lou",
+    "name": "EZ✨Mew",
     "pos": 33,
     "tag": "#QRU8QQVL9",
     "th": 17
@@ -283,7 +382,7 @@
    }
   ],
   "name": "Fourthzone",
-  "stars": 0,
+  "stars": 23,
   "tag": "#2GU0V2VCR"
  },
  "end": "20261126T194302.000Z",
