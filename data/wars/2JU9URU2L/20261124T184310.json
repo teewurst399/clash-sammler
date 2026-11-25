@@ -208,11 +208,154 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#LG9JJVUJG",
+   "ath": 19,
+   "d": "#RY098J9U",
+   "dth": 19,
+   "dur": 128,
+   "o": 20,
+   "p": 61,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#QLCL0P0G",
+   "ath": 19,
+   "d": "#2G09VC9GL",
+   "dth": 19,
+   "dur": 135,
+   "o": 21,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#QLCL0P0G",
+   "ath": 19,
+   "d": "#PUCQVPJ88",
+   "dth": 19,
+   "dur": 131,
+   "o": 22,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#202RCYPU0",
+   "ath": 19,
+   "d": "#92QPJULCR",
+   "dth": 19,
+   "dur": 147,
+   "o": 23,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#G8PG8RRVG",
+   "ath": 19,
+   "d": "#PG98GG2UU",
+   "dth": 19,
+   "dur": 134,
+   "o": 24,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#8R2GU0892",
+   "ath": 19,
+   "d": "#98CP20UCY",
+   "dth": 19,
+   "dur": 180,
+   "o": 25,
+   "p": 94,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#G8PG8RRVG",
+   "ath": 19,
+   "d": "#98CP20UCY",
+   "dth": 19,
+   "dur": 139,
+   "o": 26,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#Q2CLG8CL8",
+   "ath": 19,
+   "d": "#PC0Y2VGVJ",
+   "dth": 19,
+   "dur": 157,
+   "o": 27,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#8R2GU0892",
+   "ath": 19,
+   "d": "#QV0QLJ29",
+   "dth": 19,
+   "dur": 129,
+   "o": 28,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#QGVLVLVVG",
+   "ath": 19,
+   "d": "#80LURUV9U",
+   "dth": 19,
+   "dur": 11,
+   "o": 29,
+   "p": 3,
+   "s": 0,
+   "side": "clan"
+  },
+  {
+   "a": "#Q2CLG8CL8",
+   "ath": 19,
+   "d": "#L9GRCUVJ",
+   "dth": 19,
+   "dur": 180,
+   "o": 30,
+   "p": 94,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#202RCYPU0",
+   "ath": 19,
+   "d": "#QQQ2Y0L0",
+   "dth": 19,
+   "dur": 140,
+   "o": 31,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#QGVLVLVVG",
+   "ath": 19,
+   "d": "#P0GQJQRCY",
+   "dth": 19,
+   "dur": 110,
+   "o": 32,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 12.777778,
+  "destruction": 28.955555,
   "members": [
    {
     "name": "THRON",
@@ -486,12 +629,12 @@
    }
   ],
   "name": "SteinFrucht",
-  "stars": 17,
+  "stars": 39,
   "tag": "#2JU9URU2L"
  },
  "end": "20261126T174310.000Z",
  "opponent": {
-  "destruction": 28.444445,
+  "destruction": 34.11111,
   "members": [
    {
     "name": "™MD SHARIF 3",
@@ -765,7 +908,7 @@
    }
   ],
   "name": "Furious Spirit",
-  "stars": 37,
+  "stars": 44,
   "tag": "#2RU099RG9"
  },
  "start": "20261125T174310.000Z",

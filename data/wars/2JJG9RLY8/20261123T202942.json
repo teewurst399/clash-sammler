@@ -879,6 +879,94 @@
    "p": 13,
    "s": 1,
    "side": "clan"
+  },
+  {
+   "a": "#2QJCPL8GR",
+   "ath": 19,
+   "d": "#UV0928LJ",
+   "dth": 19,
+   "dur": 128,
+   "o": 81,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#99RPV9GVV",
+   "ath": 19,
+   "d": "#UV0928LJ",
+   "dth": 19,
+   "dur": 28,
+   "o": 82,
+   "p": 44,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#2QJCPL8GR",
+   "ath": 19,
+   "d": "#RGYJC0VP",
+   "dth": 19,
+   "dur": 140,
+   "o": 83,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#99RPV9GVV",
+   "ath": 19,
+   "d": "#RGYJC0VP",
+   "dth": 19,
+   "dur": 33,
+   "o": 84,
+   "p": 36,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#9200LQC8",
+   "ath": 19,
+   "d": "#GPPUQCVQJ",
+   "dth": 19,
+   "dur": 154,
+   "o": 85,
+   "p": 87,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#9200LQC8",
+   "ath": 19,
+   "d": "#LGJ9P9VRJ",
+   "dth": 19,
+   "dur": 147,
+   "o": 86,
+   "p": 93,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#UV0928LJ",
+   "ath": 19,
+   "d": "#UV9PGG0",
+   "dth": 19,
+   "dur": 142,
+   "o": 87,
+   "p": 94,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#UV0928LJ",
+   "ath": 19,
+   "d": "#99RPV9GVV",
+   "dth": 19,
+   "dur": 137,
+   "o": 88,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -1042,7 +1130,7 @@
  },
  "end": "20261125T192942.000Z",
  "opponent": {
-  "destruction": 92.04,
+  "destruction": 94.16,
   "members": [
    {
     "name": "GreatGuardian",
@@ -1196,11 +1284,11 @@
    }
   ],
   "name": "alte Säcke",
-  "stars": 63,
+  "stars": 64,
   "tag": "#PP20R88J"
  },
  "start": "20261124T192942.000Z",
- "state": "inWar",
+ "state": "warEnded",
  "teamSize": 25,
  "type": "krieg"
 }

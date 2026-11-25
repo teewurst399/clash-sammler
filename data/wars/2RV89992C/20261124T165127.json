@@ -197,11 +197,176 @@
    "p": 67,
    "s": 1,
    "side": "gegner"
+  },
+  {
+   "a": "#JR0R0LC9",
+   "ath": 16,
+   "d": "#22GCV90C",
+   "dth": 16,
+   "dur": 133,
+   "o": 19,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#LV0Y9RRG",
+   "ath": 16,
+   "d": "#PJUJ2J0R",
+   "dth": 16,
+   "dur": 128,
+   "o": 20,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#LV0Y9RRG",
+   "ath": 16,
+   "d": "#GVY8GJY8R",
+   "dth": 16,
+   "dur": 89,
+   "o": 21,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#LY2PCYUCP",
+   "ath": 19,
+   "d": "#C2GQ2LUJ",
+   "dth": 19,
+   "dur": 152,
+   "o": 22,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#GV9QPPPJG",
+   "ath": 15,
+   "d": "#GPYJUQPPC",
+   "dth": 15,
+   "dur": 126,
+   "o": 23,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#LY2PCYUCP",
+   "ath": 19,
+   "d": "#8CRYGVRP",
+   "dth": 19,
+   "dur": 148,
+   "o": 24,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#8G2QJC2G",
+   "ath": 19,
+   "d": "#GRVQG8RLQ",
+   "dth": 19,
+   "dur": 135,
+   "o": 25,
+   "p": 87,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#8G2QJC2G",
+   "ath": 19,
+   "d": "#2GY0QC80R",
+   "dth": 18,
+   "dur": 153,
+   "o": 26,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#UV2L88J0",
+   "ath": 16,
+   "d": "#82JLGCGJ",
+   "dth": 17,
+   "dur": 140,
+   "o": 27,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#UV2L88J0",
+   "ath": 16,
+   "d": "#PPCPQ8CU0",
+   "dth": 16,
+   "dur": 160,
+   "o": 28,
+   "p": 88,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#PPYGCLUCU",
+   "ath": 19,
+   "d": "#LYJ8JRYGU",
+   "dth": 19,
+   "dur": 148,
+   "o": 29,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#PPYGCLUCU",
+   "ath": 19,
+   "d": "#JVP8RUJR",
+   "dth": 19,
+   "dur": 146,
+   "o": 30,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#2GY0QC80R",
+   "ath": 18,
+   "d": "#QGPQUVQRC",
+   "dth": 19,
+   "dur": 164,
+   "o": 31,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#2GY0QC80R",
+   "ath": 18,
+   "d": "#LY9J99CGJ",
+   "dth": 19,
+   "dur": 153,
+   "o": 32,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#82JLGCGJ",
+   "ath": 17,
+   "d": "#LV0Y9RRG",
+   "dth": 16,
+   "dur": 134,
+   "o": 33,
+   "p": 91,
+   "s": 1,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 12.0,
+  "destruction": 59.52,
   "members": [
    {
     "name": "Dschini -L-",
@@ -355,12 +520,12 @@
    }
   ],
   "name": "FruchtLabor V",
-  "stars": 9,
+  "stars": 44,
   "tag": "#2RV89992C"
  },
  "end": "20261126T155127.000Z",
  "opponent": {
-  "destruction": 54.24,
+  "destruction": 62.24,
   "members": [
    {
     "name": "obe jon",
@@ -514,7 +679,7 @@
    }
   ],
   "name": "The Kings",
-  "stars": 38,
+  "stars": 43,
   "tag": "#2J92J8YCY"
  },
  "start": "20261125T155127.000Z",

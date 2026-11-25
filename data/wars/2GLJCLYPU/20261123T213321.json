@@ -1308,11 +1308,154 @@
    "p": 76,
    "s": 2,
    "side": "clan"
+  },
+  {
+   "a": "#Y00YPJUG",
+   "ath": 19,
+   "d": "#8CV99UY8C",
+   "dth": 19,
+   "dur": 166,
+   "o": 120,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#229UV20VJ",
+   "ath": 19,
+   "d": "#98PY9JJJ",
+   "dth": 19,
+   "dur": 106,
+   "o": 121,
+   "p": 57,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#920YYRYVL",
+   "ath": 19,
+   "d": "#2G9Q9JVJ",
+   "dth": 19,
+   "dur": 127,
+   "o": 122,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#P9QPJVVRR",
+   "ath": 19,
+   "d": "#98PY9JJJ",
+   "dth": 19,
+   "dur": 147,
+   "o": 123,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#P9QPJVVRR",
+   "ath": 19,
+   "d": "#LJGQLCLR",
+   "dth": 19,
+   "dur": 155,
+   "o": 124,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#LR892PRCC",
+   "ath": 19,
+   "d": "#8Q0GUP9P",
+   "dth": 19,
+   "dur": 174,
+   "o": 125,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#8CV99UY8C",
+   "ath": 19,
+   "d": "#98PY9JJJ",
+   "dth": 19,
+   "dur": 112,
+   "o": 126,
+   "p": 80,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#LR892PRCC",
+   "ath": 19,
+   "d": "#PC0LGJRL",
+   "dth": 19,
+   "dur": 171,
+   "o": 127,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#P8QPCJVJ",
+   "ath": 19,
+   "d": "#GUG0VLLRP",
+   "dth": 19,
+   "dur": 18,
+   "o": 128,
+   "p": 54,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#P8QPCJVJ",
+   "ath": 19,
+   "d": "#JG892C8",
+   "dth": 19,
+   "dur": 14,
+   "o": 129,
+   "p": 54,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#YJGR8V98",
+   "ath": 19,
+   "d": "#YJVJLY8Q",
+   "dth": 19,
+   "dur": 8,
+   "o": 130,
+   "p": 20,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#YJGR8V98",
+   "ath": 19,
+   "d": "#2V9RLGV8",
+   "dth": 19,
+   "dur": 4,
+   "o": 131,
+   "p": 9,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#8CV99UY8C",
+   "ath": 19,
+   "d": "#LJGQLCLR",
+   "dth": 19,
+   "dur": 157,
+   "o": 132,
+   "p": 84,
+   "s": 2,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 99.225,
+  "destruction": 100.0,
   "members": [
    {
     "name": "Nils^_^",
@@ -1556,7 +1699,7 @@
    }
   ],
   "name": "Northfront",
-  "stars": 117,
+  "stars": 120,
   "tag": "#2GLJCLYPU"
  },
  "end": "20261125T203321.000Z",

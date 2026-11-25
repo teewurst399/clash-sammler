@@ -1506,11 +1506,132 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#YGUU9U8Q",
+   "ath": 19,
+   "d": "#Y8L0YCGPP",
+   "dth": 19,
+   "dur": 180,
+   "o": 138,
+   "p": 99,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#2PJU90JQV",
+   "ath": 19,
+   "d": "#2YRCVQP0G",
+   "dth": 19,
+   "dur": 65,
+   "o": 139,
+   "p": 52,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#YGUU9U8Q",
+   "ath": 19,
+   "d": "#QUUP2G8QP",
+   "dth": 19,
+   "dur": 30,
+   "o": 140,
+   "p": 9,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#89UVULQV0",
+   "ath": 19,
+   "d": "#Y8L0YCGPP",
+   "dth": 19,
+   "dur": 167,
+   "o": 141,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#89UVULQV0",
+   "ath": 19,
+   "d": "#QUUP2G8QP",
+   "dth": 19,
+   "dur": 33,
+   "o": 142,
+   "p": 7,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#99YG8VJG",
+   "ath": 19,
+   "d": "#Q8QPYJQY",
+   "dth": 19,
+   "dur": 14,
+   "o": 143,
+   "p": 42,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#82Y2URVGJ",
+   "ath": 19,
+   "d": "#Q8QPYJQY",
+   "dth": 19,
+   "dur": 5,
+   "o": 144,
+   "p": 12,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#99YG8VJG",
+   "ath": 19,
+   "d": "#YQ2R8QU2R",
+   "dth": 19,
+   "dur": 24,
+   "o": 145,
+   "p": 10,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#82Y2URVGJ",
+   "ath": 19,
+   "d": "#YQ2R8QU2R",
+   "dth": 19,
+   "dur": 6,
+   "o": 146,
+   "p": 4,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#QPU9C029L",
+   "ath": 19,
+   "d": "#9LGYYJC8",
+   "dth": 19,
+   "dur": 160,
+   "o": 147,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#QPU9C029L",
+   "ath": 19,
+   "d": "#8JLUPJ8P0",
+   "dth": 19,
+   "dur": 123,
+   "o": 148,
+   "p": 89,
+   "s": 2,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 99.933334,
+  "destruction": 100.0,
   "members": [
    {
     "name": "RB",
@@ -1784,7 +1905,7 @@
    }
   ],
   "name": "Legacy",
-  "stars": 134,
+  "stars": 135,
   "tag": "#2RQR02LJR"
  },
  "end": "20261125T203507.000Z",

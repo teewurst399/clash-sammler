@@ -1000,6 +1000,50 @@
    "p": 13,
    "s": 1,
    "side": "clan"
+  },
+  {
+   "a": "#PV9PQY0G",
+   "ath": 19,
+   "d": "#YJPUQVUJL",
+   "dth": 19,
+   "dur": 105,
+   "o": 92,
+   "p": 67,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#QRQ209R09",
+   "ath": 19,
+   "d": "#YQUV2YVRL",
+   "dth": 19,
+   "dur": 148,
+   "o": 93,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#PV9PQY0G",
+   "ath": 19,
+   "d": "#QVRV8J9R9",
+   "dth": 19,
+   "dur": 144,
+   "o": 94,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#QRQ209R09",
+   "ath": 19,
+   "d": "#PJC9VU2UG",
+   "dth": 19,
+   "dur": 180,
+   "o": 95,
+   "p": 97,
+   "s": 2,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -1163,7 +1207,7 @@
  },
  "end": "20261125T192312.000Z",
  "opponent": {
-  "destruction": 95.24,
+  "destruction": 97.0,
   "members": [
    {
     "name": "Sir Andre",
@@ -1317,11 +1361,11 @@
    }
   ],
   "name": "Joe‘s Home",
-  "stars": 70,
+  "stars": 72,
   "tag": "#2GRGC0Q0P"
  },
  "start": "20261124T192312.000Z",
- "state": "inWar",
+ "state": "warEnded",
  "teamSize": 25,
  "type": "krieg"
 }

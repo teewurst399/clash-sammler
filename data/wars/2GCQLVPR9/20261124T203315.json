@@ -1,0 +1,310 @@
+{
+ "attacks": [
+  {
+   "a": "#LY9LU2QP",
+   "ath": 19,
+   "d": "#LL2U0UQPV",
+   "dth": 19,
+   "dur": 141,
+   "o": 1,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#2CJPCJUVJ",
+   "ath": 19,
+   "d": "#2G8RVJ9R2",
+   "dth": 19,
+   "dur": 164,
+   "o": 2,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#LY9LU2QP",
+   "ath": 19,
+   "d": "#PVJR2UYVL",
+   "dth": 19,
+   "dur": 115,
+   "o": 3,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#PYCPQLURR",
+   "ath": 19,
+   "d": "#YVU0G8JP",
+   "dth": 19,
+   "dur": 121,
+   "o": 4,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  }
+ ],
+ "attacksPerMember": 2,
+ "clan": {
+  "destruction": 0.0,
+  "members": [
+   {
+    "name": "×ºkͥyuͣuͫº×",
+    "pos": 1,
+    "tag": "#LL2U0UQPV",
+    "th": 19
+   },
+   {
+    "name": "g o o d y⚡️",
+    "pos": 15,
+    "tag": "#82VQGLC8",
+    "th": 19
+   },
+   {
+    "name": "Trizordo",
+    "pos": 19,
+    "tag": "#J2YQRQQ",
+    "th": 19
+   },
+   {
+    "name": "EZ⚡ZiNox⚡",
+    "pos": 9,
+    "tag": "#QRPUY82R9",
+    "th": 19
+   },
+   {
+    "name": "Pr4nger",
+    "pos": 14,
+    "tag": "#R98Q9VGV",
+    "th": 19
+   },
+   {
+    "name": "Shadow_Fighter",
+    "pos": 17,
+    "tag": "#2V88C9PQ9",
+    "th": 19
+   },
+   {
+    "name": "Blizzard",
+    "pos": 8,
+    "tag": "#VG9PPGUR",
+    "th": 19
+   },
+   {
+    "name": "Blitzi",
+    "pos": 18,
+    "tag": "#L8C0PP09J",
+    "th": 19
+   },
+   {
+    "name": "Tiger",
+    "pos": 10,
+    "tag": "#L2UUC9G82",
+    "th": 19
+   },
+   {
+    "name": "GameSports",
+    "pos": 2,
+    "tag": "#YVU0G8JP",
+    "th": 19
+   },
+   {
+    "name": "TABAHHKAR!",
+    "pos": 4,
+    "tag": "#PVJR2UYVL",
+    "th": 19
+   },
+   {
+    "name": "chuck morris",
+    "pos": 3,
+    "tag": "#2G8RVJ9R2",
+    "th": 19
+   },
+   {
+    "name": "Julian",
+    "pos": 6,
+    "tag": "#Q0V9QV8L",
+    "th": 19
+   },
+   {
+    "name": "[CG] Mo47",
+    "pos": 20,
+    "tag": "#JUPRQ02C",
+    "th": 19
+   },
+   {
+    "name": "dtKim",
+    "pos": 11,
+    "tag": "#9PYLJUUY2",
+    "th": 19
+   },
+   {
+    "name": "ForstNaoto",
+    "pos": 7,
+    "tag": "#P08LVGR0U",
+    "th": 19
+   },
+   {
+    "name": "arlo",
+    "pos": 12,
+    "tag": "#Q29288RV9",
+    "th": 19
+   },
+   {
+    "name": "4FäusteGegenRio",
+    "pos": 16,
+    "tag": "#2UJ2JG9Y0",
+    "th": 19
+   },
+   {
+    "name": "JSTN",
+    "pos": 5,
+    "tag": "#P02PC8UPU",
+    "th": 19
+   },
+   {
+    "name": "Sucxes",
+    "pos": 13,
+    "tag": "#9PJJ80JYQ",
+    "th": 19
+   }
+  ],
+  "name": "Thirdzone",
+  "stars": 0,
+  "tag": "#2GCQLVPR9"
+ },
+ "end": "20261126T193315.000Z",
+ "opponent": {
+  "destruction": 20.0,
+  "members": [
+   {
+    "name": "Ulli",
+    "pos": 6,
+    "tag": "#YYRY98RLC",
+    "th": 19
+   },
+   {
+    "name": "LiOn✨Maverick",
+    "pos": 3,
+    "tag": "#G022RLY",
+    "th": 19
+   },
+   {
+    "name": "Spitfire",
+    "pos": 12,
+    "tag": "#YP8PCU0UV",
+    "th": 19
+   },
+   {
+    "name": "fetzer",
+    "pos": 2,
+    "tag": "#QLGLLJUQ",
+    "th": 19
+   },
+   {
+    "name": "BABA VOSS",
+    "pos": 11,
+    "tag": "#UJLRRU22",
+    "th": 19
+   },
+   {
+    "name": "精神的に強いNiclas",
+    "pos": 18,
+    "tag": "#LY9LU2QP",
+    "th": 19
+   },
+   {
+    "name": "Raphi",
+    "pos": 15,
+    "tag": "#QYC229L8Y",
+    "th": 19
+   },
+   {
+    "name": "卡戎Charon",
+    "pos": 8,
+    "tag": "#YQ2RYVCLJ",
+    "th": 19
+   },
+   {
+    "name": "-L&D-",
+    "pos": 7,
+    "tag": "#JCJ0RV8C",
+    "th": 19
+   },
+   {
+    "name": "❤️Mugi❤️Isa❤️",
+    "pos": 19,
+    "tag": "#YU9RJCR0J",
+    "th": 19
+   },
+   {
+    "name": "Forsta",
+    "pos": 1,
+    "tag": "#QCJ9LLPV0",
+    "th": 19
+   },
+   {
+    "name": "LiOn✨Iceman",
+    "pos": 5,
+    "tag": "#Y2PVG0YP",
+    "th": 19
+   },
+   {
+    "name": "LiOn✨Mugi",
+    "pos": 14,
+    "tag": "#YQQYYQV9Q",
+    "th": 19
+   },
+   {
+    "name": "Herald1200",
+    "pos": 10,
+    "tag": "#YRP9RVQVQ",
+    "th": 19
+   },
+   {
+    "name": "Räuber Kneißl",
+    "pos": 17,
+    "tag": "#LUP0UYLPC",
+    "th": 19
+   },
+   {
+    "name": "松鼠Robin",
+    "pos": 20,
+    "tag": "#PYCPQLURR",
+    "th": 19
+   },
+   {
+    "name": "Vitesse",
+    "pos": 9,
+    "tag": "#YURLGRQQQ",
+    "th": 19
+   },
+   {
+    "name": "LiOn✨Hangman",
+    "pos": 4,
+    "tag": "#PCLJRRPQR",
+    "th": 19
+   },
+   {
+    "name": "maxpower",
+    "pos": 16,
+    "tag": "#VYJ0YRYR",
+    "th": 19
+   },
+   {
+    "name": "LiOn✨Rooster",
+    "pos": 13,
+    "tag": "#2CJPCJUVJ",
+    "th": 19
+   }
+  ],
+  "name": "Die Tscheckels",
+  "stars": 12,
+  "tag": "#PJC2R0C9"
+ },
+ "start": "20261125T193315.000Z",
+ "state": "inWar",
+ "teamSize": 20,
+ "type": "krieg"
+}
