@@ -824,6 +824,116 @@
    "p": 97,
    "s": 2,
    "side": "gegner"
+  },
+  {
+   "a": "#LRU2JCL",
+   "ath": 19,
+   "d": "#88JV0U9LG",
+   "dth": 19,
+   "dur": 108,
+   "o": 76,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#8JLUPJ8P0",
+   "ath": 19,
+   "d": "#800JQQV8U",
+   "dth": 19,
+   "dur": 128,
+   "o": 77,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#8JLUPJ8P0",
+   "ath": 19,
+   "d": "#9JR2CRCQQ",
+   "dth": 19,
+   "dur": 146,
+   "o": 78,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#CQRPV0LV",
+   "ath": 19,
+   "d": "#9YY9L0GL",
+   "dth": 19,
+   "dur": 147,
+   "o": 79,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#2Y899GQLP",
+   "ath": 19,
+   "d": "#CVUQLG2C",
+   "dth": 19,
+   "dur": 12,
+   "o": 80,
+   "p": 18,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#2Y899GQLP",
+   "ath": 19,
+   "d": "#QJ0QYVC",
+   "dth": 19,
+   "dur": 13,
+   "o": 81,
+   "p": 14,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#PCJVRLVR",
+   "ath": 19,
+   "d": "#YGUU9U8Q",
+   "dth": 19,
+   "dur": 149,
+   "o": 82,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#8RU09LV8P",
+   "ath": 19,
+   "d": "#QJ0QYVC",
+   "dth": 19,
+   "dur": 11,
+   "o": 83,
+   "p": 17,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#8RU09LV8P",
+   "ath": 19,
+   "d": "#2UJPCCL8C",
+   "dth": 19,
+   "dur": 12,
+   "o": 84,
+   "p": 9,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#PCJVRLVR",
+   "ath": 19,
+   "d": "#CVUQLG2C",
+   "dth": 19,
+   "dur": 131,
+   "o": 85,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -1107,7 +1217,7 @@
  },
  "end": "20261125T203507.000Z",
  "opponent": {
-  "destruction": 95.244446,
+  "destruction": 100.0,
   "members": [
    {
     "name": "MjolniR",
@@ -1381,7 +1491,7 @@
    }
   ],
   "name": "ATATÜRK",
-  "stars": 127,
+  "stars": 135,
   "tag": "#2P9LV098Y"
  },
  "start": "20261124T203507.000Z",

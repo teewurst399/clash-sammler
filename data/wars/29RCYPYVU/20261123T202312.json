@@ -516,6 +516,28 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#UG8UVVYU",
+   "ath": 19,
+   "d": "#8R8PP8G0J",
+   "dth": 19,
+   "dur": 120,
+   "o": 48,
+   "p": 55,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#UG8UVVYU",
+   "ath": 19,
+   "d": "#G20V0YGU8",
+   "dth": 19,
+   "dur": 165,
+   "o": 49,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -833,7 +855,7 @@
    }
   ],
   "name": "Joe‘s Home",
-  "stars": 51,
+  "stars": 54,
   "tag": "#2GRGC0Q0P"
  },
  "start": "20261124T192312.000Z",

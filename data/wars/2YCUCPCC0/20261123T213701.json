@@ -758,11 +758,77 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#2QLUPY88J",
+   "ath": 19,
+   "d": "#202JP9QGP",
+   "dth": 18,
+   "dur": 139,
+   "o": 70,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#LRRLVGC92",
+   "ath": 18,
+   "d": "#2CJC0U9J2",
+   "dth": 17,
+   "dur": 170,
+   "o": 71,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#R0U9JJUGU",
+   "ath": 15,
+   "d": "#2P92Y8QRY",
+   "dth": 17,
+   "dur": 171,
+   "o": 72,
+   "p": 82,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#LRRLVGC92",
+   "ath": 18,
+   "d": "#20RVRPG82",
+   "dth": 17,
+   "dur": 126,
+   "o": 73,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#G8RPVG9QU",
+   "ath": 18,
+   "d": "#28Q8UUYG0",
+   "dth": 17,
+   "dur": 110,
+   "o": 74,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#8GVC8UQ98",
+   "ath": 18,
+   "d": "#LRRLVGC92",
+   "dth": 18,
+   "dur": 102,
+   "o": 75,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 89.03333,
+  "destruction": 99.3,
   "members": [
    {
     "name": "Doxos_NM",
@@ -946,12 +1012,12 @@
    }
   ],
   "name": "Alphazone",
-  "stars": 77,
+  "stars": 88,
   "tag": "#2YCUCPCC0"
  },
  "end": "20261125T203701.000Z",
  "opponent": {
-  "destruction": 83.333336,
+  "destruction": 86.666664,
   "members": [
    {
     "name": "†◄«4LuCarD»►†®",
@@ -1135,7 +1201,7 @@
    }
   ],
   "name": "GUERREROS _Z",
-  "stars": 75,
+  "stars": 78,
   "tag": "#9R2L8GCG"
  },
  "start": "20261124T203701.000Z",

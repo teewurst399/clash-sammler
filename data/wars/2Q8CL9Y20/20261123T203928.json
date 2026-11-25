@@ -406,11 +406,66 @@
    "p": 89,
    "s": 2,
    "side": "clan"
+  },
+  {
+   "a": "#LULCPJUQ",
+   "ath": 19,
+   "d": "#Q0YCR88CC",
+   "dth": 19,
+   "dur": 154,
+   "o": 38,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#LULCPJUQ",
+   "ath": 19,
+   "d": "#GYRCCJL9J",
+   "dth": 19,
+   "dur": 139,
+   "o": 39,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#Y0UR0CV",
+   "ath": 19,
+   "d": "#8R2P8CUUU",
+   "dth": 19,
+   "dur": 151,
+   "o": 40,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#Y0UR0CV",
+   "ath": 19,
+   "d": "#P2JR88QQG",
+   "dth": 19,
+   "dur": 134,
+   "o": 41,
+   "p": 73,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#L2CLCY8L",
+   "ath": 19,
+   "d": "#92LQ8Q9CU",
+   "dth": 19,
+   "dur": 180,
+   "o": 42,
+   "p": 98,
+   "s": 2,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 32.25714,
+  "destruction": 35.057144,
   "members": [
    {
     "name": "tojamane",
@@ -624,12 +679,12 @@
    }
   ],
   "name": "Obstsalat",
-  "stars": 31,
+  "stars": 33,
   "tag": "#2Q8CL9Y20"
  },
  "end": "20261125T193928.000Z",
  "opponent": {
-  "destruction": 59.657143,
+  "destruction": 65.542854,
   "members": [
    {
     "name": "BS Keizer",
@@ -843,7 +898,7 @@
    }
   ],
   "name": "Ballensnijers",
-  "stars": 61,
+  "stars": 68,
   "tag": "#2QVJVVJC"
  },
  "start": "20261124T193928.000Z",

@@ -934,11 +934,77 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#JY02R0P8",
+   "ath": 19,
+   "d": "#2Y0YJ0UJY",
+   "dth": 19,
+   "dur": 97,
+   "o": 86,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#JY02R0P8",
+   "ath": 19,
+   "d": "#PVLQ9GJG9",
+   "dth": 19,
+   "dur": 153,
+   "o": 87,
+   "p": 91,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#2J2URURQL",
+   "ath": 19,
+   "d": "#L98J8LJ92",
+   "dth": 19,
+   "dur": 132,
+   "o": 88,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#QQJCJ8C9G",
+   "ath": 19,
+   "d": "#8P02RLYU0",
+   "dth": 19,
+   "dur": 117,
+   "o": 89,
+   "p": 91,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#2CL2LCUV",
+   "ath": 19,
+   "d": "#YLQCCVQRU",
+   "dth": 19,
+   "dur": 103,
+   "o": 90,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#2CL2LCUV",
+   "ath": 19,
+   "d": "#22QQRRL09",
+   "dth": 19,
+   "dur": 122,
+   "o": 91,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 66.275,
+  "destruction": 71.4,
   "members": [
    {
     "name": "pAx",
@@ -1182,12 +1248,12 @@
    }
   ],
   "name": "FruchtLabor III",
-  "stars": 75,
+  "stars": 82,
   "tag": "#2RGV2UQY9"
  },
  "end": "20261125T191702.000Z",
  "opponent": {
-  "destruction": 98.325,
+  "destruction": 98.7,
   "members": [
    {
     "name": "LeroyT",
@@ -1431,7 +1497,7 @@
    }
   ],
   "name": "Class of Clans!",
-  "stars": 116,
+  "stars": 117,
   "tag": "#2G9QQVV2"
  },
  "start": "20261124T191702.000Z",
