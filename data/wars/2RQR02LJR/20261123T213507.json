@@ -626,11 +626,66 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#YY0000PGG",
+   "ath": 19,
+   "d": "#C892GPCY",
+   "dth": 19,
+   "dur": 140,
+   "o": 58,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#YY0000PGG",
+   "ath": 19,
+   "d": "#9JR2CRCQQ",
+   "dth": 19,
+   "dur": 147,
+   "o": 59,
+   "p": 89,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#800JQQV8U",
+   "ath": 19,
+   "d": "#YY0000PGG",
+   "dth": 19,
+   "dur": 175,
+   "o": 60,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#2L9LG8LJ9",
+   "ath": 19,
+   "d": "#PJGY8808L",
+   "dth": 19,
+   "dur": 108,
+   "o": 61,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#2L9LG8LJ9",
+   "ath": 19,
+   "d": "#8G2J28VU2",
+   "dth": 19,
+   "dur": 128,
+   "o": 62,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 30.777779,
+  "destruction": 37.444443,
   "members": [
    {
     "name": "RB",
@@ -753,7 +808,7 @@
     "th": 19
    },
    {
-    "name": "M4X",
+    "name": "~Sarcastic",
     "pos": 44,
     "tag": "#88JV0U9LG",
     "th": 19
@@ -904,12 +959,12 @@
    }
   ],
   "name": "Legacy",
-  "stars": 39,
+  "stars": 48,
   "tag": "#2RQR02LJR"
  },
  "end": "20261125T203507.000Z",
  "opponent": {
-  "destruction": 73.333336,
+  "destruction": 77.53333,
   "members": [
    {
     "name": "MjolniR",
@@ -1183,7 +1238,7 @@
    }
   ],
   "name": "ATATÜRK",
-  "stars": 99,
+  "stars": 104,
   "tag": "#2P9LV098Y"
  },
  "start": "20261124T203507.000Z",

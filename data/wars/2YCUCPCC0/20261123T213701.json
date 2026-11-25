@@ -494,11 +494,110 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#20PP2GGCU",
+   "ath": 19,
+   "d": "#RL8C00CC",
+   "dth": 19,
+   "dur": 113,
+   "o": 46,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#20PP2GGCU",
+   "ath": 19,
+   "d": "#PCPLQ0R9",
+   "dth": 19,
+   "dur": 166,
+   "o": 47,
+   "p": 95,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#2PJJ2ULJG",
+   "ath": 18,
+   "d": "#89JLUQCJY",
+   "dth": 18,
+   "dur": 106,
+   "o": 48,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#2PJJ2ULJG",
+   "ath": 18,
+   "d": "#PLCYCUJL",
+   "dth": 18,
+   "dur": 136,
+   "o": 49,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#Q82JVYLPR",
+   "ath": 17,
+   "d": "#GPC2RL0UQ",
+   "dth": 17,
+   "dur": 118,
+   "o": 50,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#QRG0P2J20",
+   "ath": 17,
+   "d": "#UGCJC8QV",
+   "dth": 17,
+   "dur": 89,
+   "o": 51,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#QRG0P2J20",
+   "ath": 17,
+   "d": "#QCC2PJGGY",
+   "dth": 18,
+   "dur": 110,
+   "o": 52,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#QUY90CUYU",
+   "ath": 19,
+   "d": "#YV9U2G9QU",
+   "dth": 19,
+   "dur": 153,
+   "o": 53,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#QUY90CUYU",
+   "ath": 19,
+   "d": "#20PP2GGCU",
+   "dth": 19,
+   "dur": 112,
+   "o": 54,
+   "p": 89,
+   "s": 2,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 38.766666,
+  "destruction": 58.933334,
   "members": [
    {
     "name": "Doxos_NM",
@@ -682,12 +781,12 @@
    }
   ],
   "name": "Alphazone",
-  "stars": 33,
+  "stars": 51,
   "tag": "#2YCUCPCC0"
  },
  "end": "20261125T203701.000Z",
  "opponent": {
-  "destruction": 72.96667,
+  "destruction": 76.3,
   "members": [
    {
     "name": "†◄«4LuCarD»►†®",
@@ -871,7 +970,7 @@
    }
   ],
   "name": "GUERREROS _Z",
-  "stars": 65,
+  "stars": 68,
   "tag": "#9R2L8GCG"
  },
  "start": "20261124T203701.000Z",

@@ -637,6 +637,72 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#GVGR9P2G",
+   "ath": 19,
+   "d": "#PL8RG099Q",
+   "dth": 19,
+   "dur": 122,
+   "o": 59,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#PQ9GUPGPL",
+   "ath": 19,
+   "d": "#22R9QQYLP",
+   "dth": 19,
+   "dur": 104,
+   "o": 60,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#GVGR9P2G",
+   "ath": 19,
+   "d": "#PL8LCYQVY",
+   "dth": 19,
+   "dur": 132,
+   "o": 61,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#28CYPY098",
+   "ath": 19,
+   "d": "#QY0U080L",
+   "dth": 19,
+   "dur": 148,
+   "o": 62,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#PQ9GUPGPL",
+   "ath": 19,
+   "d": "#LYJ00U0R9",
+   "dth": 19,
+   "dur": 160,
+   "o": 63,
+   "p": 85,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#LCYYVLCUG",
+   "ath": 19,
+   "d": "#L9Q90RPU2",
+   "dth": 19,
+   "dur": 138,
+   "o": 64,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -890,7 +956,7 @@
  },
  "end": "20261125T184812.000Z",
  "opponent": {
-  "destruction": 57.025,
+  "destruction": 69.55,
   "members": [
    {
     "name": "✌СЕРЖ✌",
@@ -1134,7 +1200,7 @@
    }
   ],
   "name": "Ukraine forever",
-  "stars": 67,
+  "stars": 81,
   "tag": "#2QQQ9GUCR"
  },
  "start": "20261124T184812.000Z",

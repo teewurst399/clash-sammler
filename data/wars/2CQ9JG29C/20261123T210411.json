@@ -692,11 +692,44 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#8UR2LJ8G",
+   "ath": 19,
+   "d": "#G8YGLRG0R",
+   "dth": 19,
+   "dur": 121,
+   "o": 64,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#8UR2LJ8G",
+   "ath": 19,
+   "d": "#QJJUGPPJR",
+   "dth": 19,
+   "dur": 135,
+   "o": 65,
+   "p": 90,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#GLYG9QGGR",
+   "ath": 15,
+   "d": "#GG2CQL0UG",
+   "dth": 16,
+   "dur": 137,
+   "o": 66,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 72.066666,
+  "destruction": 81.73333,
   "members": [
    {
     "name": "OblatensalatF2P",
@@ -880,7 +913,7 @@
    }
   ],
   "name": "KiwiKartell",
-  "stars": 64,
+  "stars": 72,
   "tag": "#2CQ9JG29C"
  },
  "end": "20261125T200411.000Z",

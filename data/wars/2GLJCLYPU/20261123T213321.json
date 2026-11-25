@@ -670,11 +670,33 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#GLRG0YGLC",
+   "ath": 19,
+   "d": "#8U2GLGG8",
+   "dth": 19,
+   "dur": 137,
+   "o": 62,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#GLRG0YGLC",
+   "ath": 19,
+   "d": "#PGJCV2VJ0",
+   "dth": 19,
+   "dur": 152,
+   "o": 63,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 58.425,
+  "destruction": 63.425,
   "members": [
    {
     "name": "Nils^_^",
@@ -918,7 +940,7 @@
    }
   ],
   "name": "Northfront",
-  "stars": 68,
+  "stars": 74,
   "tag": "#2GLJCLYPU"
  },
  "end": "20261125T203321.000Z",
