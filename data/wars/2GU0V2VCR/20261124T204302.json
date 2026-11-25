@@ -164,11 +164,165 @@
    "p": 94,
    "s": 2,
    "side": "clan"
+  },
+  {
+   "a": "#2LPGR202",
+   "ath": 19,
+   "d": "#Y89YPQ0V",
+   "dth": 19,
+   "dur": 180,
+   "o": 16,
+   "p": 98,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#G2JLCGRVQ",
+   "ath": 18,
+   "d": "#LR8GRRLGR",
+   "dth": 18,
+   "dur": 131,
+   "o": 17,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#U0YUCQUQ",
+   "ath": 19,
+   "d": "#Y89YPQ0V",
+   "dth": 19,
+   "dur": 178,
+   "o": 18,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#8PVGC8CP9",
+   "ath": 19,
+   "d": "#2RGCP9URC",
+   "dth": 19,
+   "dur": 154,
+   "o": 19,
+   "p": 82,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#8PVGC8CP9",
+   "ath": 19,
+   "d": "#8YJG8G09Y",
+   "dth": 19,
+   "dur": 84,
+   "o": 20,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#U0YUCQUQ",
+   "ath": 19,
+   "d": "#90VQ8CQRR",
+   "dth": 19,
+   "dur": 180,
+   "o": 21,
+   "p": 98,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#Y920GCVY",
+   "ath": 19,
+   "d": "#Y9RCVYQ28",
+   "dth": 19,
+   "dur": 118,
+   "o": 22,
+   "p": 61,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#Y920GCVY",
+   "ath": 19,
+   "d": "#P2LGC0UQJ",
+   "dth": 19,
+   "dur": 111,
+   "o": 23,
+   "p": 83,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#8GPQ0JJYQ",
+   "ath": 19,
+   "d": "#GY88C22PL",
+   "dth": 19,
+   "dur": 142,
+   "o": 24,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#8GPQ0JJYQ",
+   "ath": 19,
+   "d": "#UC98C88G",
+   "dth": 19,
+   "dur": 127,
+   "o": 25,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#P29RQGCG8",
+   "ath": 19,
+   "d": "#2YCGU0LUQ",
+   "dth": 19,
+   "dur": 180,
+   "o": 26,
+   "p": 90,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#G9UP2JY8Y",
+   "ath": 19,
+   "d": "#GQG8RCVJU",
+   "dth": 18,
+   "dur": 141,
+   "o": 27,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#P29RQGCG8",
+   "ath": 19,
+   "d": "#2YV9VC022",
+   "dth": 19,
+   "dur": 180,
+   "o": 28,
+   "p": 88,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#G9UP2JY8Y",
+   "ath": 19,
+   "d": "#298CCRUYL",
+   "dth": 18,
+   "dur": 123,
+   "o": 29,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 24.914286,
+  "destruction": 48.45714,
   "members": [
    {
     "name": "Monkey D. Luffy",
@@ -382,12 +536,12 @@
    }
   ],
   "name": "Fourthzone",
-  "stars": 23,
+  "stars": 44,
   "tag": "#2GU0V2VCR"
  },
  "end": "20261126T194302.000Z",
  "opponent": {
-  "destruction": 14.285714,
+  "destruction": 25.085714,
   "members": [
    {
     "name": "PARD",
@@ -601,7 +755,7 @@
    }
   ],
   "name": "NAШ CLAN",
-  "stars": 15,
+  "stars": 25,
   "tag": "#LCUL0CP8"
  },
  "start": "20261125T194302.000Z",

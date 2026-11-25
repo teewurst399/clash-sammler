@@ -494,11 +494,143 @@
    "p": 79,
    "s": 1,
    "side": "clan"
+  },
+  {
+   "a": "#2P0Y8PUV",
+   "ath": 19,
+   "d": "#V0R2V0GC",
+   "dth": 19,
+   "dur": 170,
+   "o": 46,
+   "p": 95,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#28LQ0992U",
+   "ath": 19,
+   "d": "#2C02PYQCP",
+   "dth": 19,
+   "dur": 168,
+   "o": 47,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#2R8L2UU89",
+   "ath": 19,
+   "d": "#2P0Y8PUV",
+   "dth": 19,
+   "dur": 159,
+   "o": 48,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#PYL82GJ8",
+   "ath": 19,
+   "d": "#9URR82QVP",
+   "dth": 19,
+   "dur": 120,
+   "o": 49,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#2R8L2UU89",
+   "ath": 19,
+   "d": "#LYPV8J8CY",
+   "dth": 19,
+   "dur": 143,
+   "o": 50,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#9UJ2RPU0P",
+   "ath": 19,
+   "d": "#V0R2V0GC",
+   "dth": 19,
+   "dur": 131,
+   "o": 51,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#V0R2V0GC",
+   "ath": 19,
+   "d": "#PUG09CCUU",
+   "dth": 19,
+   "dur": 142,
+   "o": 52,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#V0R2V0GC",
+   "ath": 19,
+   "d": "#PYL82GJ8",
+   "dth": 19,
+   "dur": 95,
+   "o": 53,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#PUG09CCUU",
+   "ath": 19,
+   "d": "#2V0999GVL",
+   "dth": 19,
+   "dur": 180,
+   "o": 54,
+   "p": 96,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#98QR889CJ",
+   "ath": 19,
+   "d": "#28LQ0992U",
+   "dth": 19,
+   "dur": 121,
+   "o": 55,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#98QR889CJ",
+   "ath": 19,
+   "d": "#9YLCVJUYU",
+   "dth": 19,
+   "dur": 148,
+   "o": 56,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#PLJ29CRUG",
+   "ath": 19,
+   "d": "#9YPGR8QGJ",
+   "dth": 19,
+   "dur": 117,
+   "o": 57,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 41.37143,
+  "destruction": 51.314285,
   "members": [
    {
     "name": "GL™ ReViX",
@@ -712,12 +844,12 @@
    }
   ],
   "name": "GNADENLOS™",
-  "stars": 40,
+  "stars": 53,
   "tag": "#U2JVY229"
  },
  "end": "20261126T190542.000Z",
  "opponent": {
-  "destruction": 71.42857,
+  "destruction": 85.71429,
   "members": [
    {
     "name": "JK❗️HAIDER",
@@ -931,7 +1063,7 @@
    }
   ],
   "name": "JK EMPIRE",
-  "stars": 75,
+  "stars": 90,
   "tag": "#2JY9P80GR"
  },
  "start": "20261125T190542.000Z",

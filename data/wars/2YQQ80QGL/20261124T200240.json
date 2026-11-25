@@ -450,11 +450,143 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#YRUCU8QC9",
+   "ath": 19,
+   "d": "#Q2QCQ200",
+   "dth": 19,
+   "dur": 91,
+   "o": 42,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#LPYYY2VUL",
+   "ath": 19,
+   "d": "#YGV0CRQYJ",
+   "dth": 19,
+   "dur": 107,
+   "o": 43,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#LPYYY2VUL",
+   "ath": 19,
+   "d": "#9Y00CVGY",
+   "dth": 19,
+   "dur": 122,
+   "o": 44,
+   "p": 93,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#89CRGC0JL",
+   "ath": 19,
+   "d": "#8QP0R0LRG",
+   "dth": 19,
+   "dur": 100,
+   "o": 45,
+   "p": 68,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#98899CP2P",
+   "ath": 19,
+   "d": "#2L29P2P8U",
+   "dth": 19,
+   "dur": 151,
+   "o": 46,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#P8QPY82U",
+   "ath": 19,
+   "d": "#RVLR0VR8",
+   "dth": 19,
+   "dur": 150,
+   "o": 47,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#P8QPY82U",
+   "ath": 19,
+   "d": "#GPL0202L",
+   "dth": 19,
+   "dur": 112,
+   "o": 48,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#9V9UR90UL",
+   "ath": 19,
+   "d": "#29QRLCGVP",
+   "dth": 19,
+   "dur": 180,
+   "o": 49,
+   "p": 92,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#Y982G9Q",
+   "ath": 19,
+   "d": "#L2Q90Q0G9",
+   "dth": 19,
+   "dur": 176,
+   "o": 50,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#9V9UR90UL",
+   "ath": 19,
+   "d": "#2R989JJ98",
+   "dth": 19,
+   "dur": 169,
+   "o": 51,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#98899CP2P",
+   "ath": 19,
+   "d": "#URG99UPY",
+   "dth": 19,
+   "dur": 108,
+   "o": 52,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#YRUCU8QC9",
+   "ath": 19,
+   "d": "#29QRLCGVP",
+   "dth": 19,
+   "dur": 85,
+   "o": 53,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 24.066668,
+  "destruction": 36.533333,
   "members": [
    {
     "name": "MOZ.ART",
@@ -728,12 +860,12 @@
    }
   ],
   "name": "Firstzone",
-  "stars": 28,
+  "stars": 43,
   "tag": "#2YQQ80QGL"
  },
  "end": "20261126T190240.000Z",
  "opponent": {
-  "destruction": 55.444443,
+  "destruction": 66.55556,
   "members": [
    {
     "name": "Clasher",
@@ -1007,7 +1139,7 @@
    }
   ],
   "name": "Black Water",
-  "stars": 73,
+  "stars": 88,
   "tag": "#29LRRULU"
  },
  "start": "20261125T190240.000Z",

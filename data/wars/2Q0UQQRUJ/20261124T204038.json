@@ -230,11 +230,22 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#YGJCR0G9L",
+   "ath": 17,
+   "d": "#2U099Q2QV",
+   "dth": 19,
+   "dur": 121,
+   "o": 22,
+   "p": 89,
+   "s": 2,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 26.08,
+  "destruction": 26.36,
   "members": [
    {
     "name": "28",

@@ -197,6 +197,28 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#YQ2RYVCLJ",
+   "ath": 19,
+   "d": "#9PYLJUUY2",
+   "dth": 19,
+   "dur": 134,
+   "o": 19,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#YQ2RYVCLJ",
+   "ath": 19,
+   "d": "#Q29288RV9",
+   "dth": 19,
+   "dur": 155,
+   "o": 20,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -330,7 +352,7 @@
  },
  "end": "20261126T193315.000Z",
  "opponent": {
-  "destruction": 68.3,
+  "destruction": 78.3,
   "members": [
    {
     "name": "Ulli",
@@ -454,7 +476,7 @@
    }
   ],
   "name": "Die Tscheckels",
-  "stars": 40,
+  "stars": 46,
   "tag": "#PJC2R0C9"
  },
  "start": "20261125T193315.000Z",
