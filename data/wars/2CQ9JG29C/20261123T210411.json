@@ -912,11 +912,110 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#2JQJQGL2",
+   "ath": 19,
+   "d": "#2QJCGPLC2",
+   "dth": 19,
+   "dur": 107,
+   "o": 84,
+   "p": 63,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#QL8UYQ22V",
+   "ath": 19,
+   "d": "#2QJCGPLC2",
+   "dth": 19,
+   "dur": 150,
+   "o": 85,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#QUP80RLYU",
+   "ath": 18,
+   "d": "#PQ0RGCRC",
+   "dth": 19,
+   "dur": 145,
+   "o": 86,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#QL8UYQ22V",
+   "ath": 19,
+   "d": "#PQ0RGCRC",
+   "dth": 19,
+   "dur": 143,
+   "o": 87,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#QUP80RLYU",
+   "ath": 18,
+   "d": "#GPQ8222P8",
+   "dth": 19,
+   "dur": 7,
+   "o": 88,
+   "p": 8,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#L8V2L92UG",
+   "ath": 19,
+   "d": "#PQ0RGCRC",
+   "dth": 19,
+   "dur": 71,
+   "o": 89,
+   "p": 69,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#L8V2L92UG",
+   "ath": 19,
+   "d": "#GPQ8222P8",
+   "dth": 19,
+   "dur": 6,
+   "o": 90,
+   "p": 2,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#GQLJGRVCJ",
+   "ath": 16,
+   "d": "#PQ0RGCRC",
+   "dth": 19,
+   "dur": 109,
+   "o": 91,
+   "p": 55,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#GQLJGRVCJ",
+   "ath": 16,
+   "d": "#GC2QQPY0R",
+   "dth": 18,
+   "dur": 82,
+   "o": 92,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 99.96667,
+  "destruction": 100.0,
   "members": [
    {
     "name": "OblatensalatF2P",
@@ -1100,7 +1199,7 @@
    }
   ],
   "name": "KiwiKartell",
-  "stars": 89,
+  "stars": 90,
   "tag": "#2CQ9JG29C"
  },
  "end": "20261125T200411.000Z",

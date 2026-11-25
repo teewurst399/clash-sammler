@@ -1121,11 +1121,121 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#LRPJLGY8",
+   "ath": 19,
+   "d": "#Q82JLLJ09",
+   "dth": 19,
+   "dur": 113,
+   "o": 103,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#LRPJLGY8",
+   "ath": 19,
+   "d": "#JY20JJPL",
+   "dth": 19,
+   "dur": 164,
+   "o": 104,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#QUV88J9GJ",
+   "ath": 19,
+   "d": "#2YJQL2LLQ",
+   "dth": 19,
+   "dur": 124,
+   "o": 105,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#LGL2PLLJJ",
+   "ath": 19,
+   "d": "#JY20JJPL",
+   "dth": 19,
+   "dur": 26,
+   "o": 106,
+   "p": 31,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#LGL2PLLJJ",
+   "ath": 19,
+   "d": "#8YRUUUYJ",
+   "dth": 19,
+   "dur": 4,
+   "o": 107,
+   "p": 4,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#2CYCQG0CC",
+   "ath": 19,
+   "d": "#99VRRGJ8",
+   "dth": 19,
+   "dur": 180,
+   "o": 108,
+   "p": 83,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#GGLJR88G",
+   "ath": 19,
+   "d": "#G0QLC29JR",
+   "dth": 19,
+   "dur": 180,
+   "o": 109,
+   "p": 98,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#QUV88J9GJ",
+   "ath": 19,
+   "d": "#JLPCQVQC",
+   "dth": 19,
+   "dur": 180,
+   "o": 110,
+   "p": 94,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#GGLJR88G",
+   "ath": 19,
+   "d": "#Y0JCJQRG",
+   "dth": 19,
+   "dur": 166,
+   "o": 111,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#2CYCQG0CC",
+   "ath": 19,
+   "d": "#9U8JUUL0",
+   "dth": 19,
+   "dur": 169,
+   "o": 112,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 99.425,
+  "destruction": 100.0,
   "members": [
    {
     "name": "Agent Hulk",
@@ -1369,7 +1479,7 @@
    }
   ],
   "name": "FruchtLabor II",
-  "stars": 118,
+  "stars": 120,
   "tag": "#2GQ929RRR"
  },
  "end": "20261125T200012.000Z",

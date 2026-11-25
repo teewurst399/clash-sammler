@@ -549,11 +549,187 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#Q0LU9Y0J2",
+   "ath": 18,
+   "d": "#LJJJ08YGV",
+   "dth": 18,
+   "dur": 78,
+   "o": 51,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#GYGY0GGJC",
+   "ath": 19,
+   "d": "#LRJU9YJY9",
+   "dth": 19,
+   "dur": 132,
+   "o": 52,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#8VV8JYVJP",
+   "ath": 19,
+   "d": "#L8YPCL2VC",
+   "dth": 19,
+   "dur": 123,
+   "o": 53,
+   "p": 59,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#GRUYVGRV8",
+   "ath": 19,
+   "d": "#908C0R9PV",
+   "dth": 18,
+   "dur": 118,
+   "o": 54,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#PVRCQ2PGV",
+   "ath": 19,
+   "d": "#9JUGQQ8PV",
+   "dth": 18,
+   "dur": 136,
+   "o": 55,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#PVRCQ2PGV",
+   "ath": 19,
+   "d": "#29LCQPJCV",
+   "dth": 18,
+   "dur": 60,
+   "o": 56,
+   "p": 28,
+   "s": 0,
+   "side": "gegner"
+  },
+  {
+   "a": "#GJQCU22UG",
+   "ath": 17,
+   "d": "#20YYCG08",
+   "dth": 16,
+   "dur": 95,
+   "o": 57,
+   "p": 83,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#GJQCU22UG",
+   "ath": 17,
+   "d": "#GL20RC0RR",
+   "dth": 16,
+   "dur": 52,
+   "o": 58,
+   "p": 54,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#QCUVVJVP2",
+   "ath": 15,
+   "d": "#Y2QJVPGRV",
+   "dth": 16,
+   "dur": 108,
+   "o": 59,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#QCUVVJVP2",
+   "ath": 15,
+   "d": "#GG9LJUUC2",
+   "dth": 18,
+   "dur": 150,
+   "o": 60,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#Q82LP02RJ",
+   "ath": 18,
+   "d": "#29LCQPJCV",
+   "dth": 18,
+   "dur": 107,
+   "o": 61,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#Q82LP02RJ",
+   "ath": 18,
+   "d": "#LRRCJQ8G0",
+   "dth": 18,
+   "dur": 94,
+   "o": 62,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#G2P0CYRJQ",
+   "ath": 19,
+   "d": "#LCQUQQYYR",
+   "dth": 17,
+   "dur": 73,
+   "o": 63,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#G2P0CYRJQ",
+   "ath": 19,
+   "d": "#Q222JG28",
+   "dth": 17,
+   "dur": 82,
+   "o": 64,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#YYRC90VJ8",
+   "ath": 18,
+   "d": "#20YYCG08",
+   "dth": 16,
+   "dur": 81,
+   "o": 65,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#YYRC90VJ8",
+   "ath": 18,
+   "d": "#GL20RC0RR",
+   "dth": 16,
+   "dur": 65,
+   "o": 66,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 48.314285,
+  "destruction": 55.714287,
   "members": [
    {
     "name": "JonyNation",
@@ -767,12 +943,12 @@
    }
   ],
   "name": "#Black Stone# 5",
-  "stars": 48,
+  "stars": 55,
   "tag": "#2GLY98C9U"
  },
  "end": "20261125T172518.000Z",
  "opponent": {
-  "destruction": 57.142857,
+  "destruction": 85.71429,
   "members": [
    {
     "name": "Akay_92",
@@ -986,7 +1162,7 @@
    }
   ],
   "name": "LỒNG CHIM VÁC",
-  "stars": 60,
+  "stars": 90,
   "tag": "#2LJ209GUG"
  },
  "start": "20261124T172518.000Z",

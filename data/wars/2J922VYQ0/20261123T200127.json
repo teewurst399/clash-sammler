@@ -1165,11 +1165,286 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#988QV8P2Y",
+   "ath": 19,
+   "d": "#UQ298J9R",
+   "dth": 19,
+   "dur": 146,
+   "o": 107,
+   "p": 95,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#QV29Q0Q0V",
+   "ath": 19,
+   "d": "#PJJP2PG0Y",
+   "dth": 19,
+   "dur": 120,
+   "o": 108,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#9CUGC9JY8",
+   "ath": 19,
+   "d": "#L8G8GR0C9",
+   "dth": 19,
+   "dur": 139,
+   "o": 109,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#9Q9JGQL0V",
+   "ath": 19,
+   "d": "#QCJRULJG9",
+   "dth": 19,
+   "dur": 103,
+   "o": 110,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#QV29Q0Q0V",
+   "ath": 19,
+   "d": "#GLJUVG99V",
+   "dth": 19,
+   "dur": 124,
+   "o": 111,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#988QV8P2Y",
+   "ath": 19,
+   "d": "#QG8CP09L",
+   "dth": 19,
+   "dur": 109,
+   "o": 112,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#9Q9JGQL0V",
+   "ath": 19,
+   "d": "#L2C9GGJPJ",
+   "dth": 19,
+   "dur": 104,
+   "o": 113,
+   "p": 83,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#9U8UG2CC0",
+   "ath": 19,
+   "d": "#9CY0P0VYJ",
+   "dth": 19,
+   "dur": 93,
+   "o": 114,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#2PRLPU22Y",
+   "ath": 19,
+   "d": "#UQ298J9R",
+   "dth": 19,
+   "dur": 151,
+   "o": 115,
+   "p": 95,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#9CUGC9JY8",
+   "ath": 19,
+   "d": "#Y0C0PRRUU",
+   "dth": 19,
+   "dur": 180,
+   "o": 116,
+   "p": 92,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#9U8UG2CC0",
+   "ath": 19,
+   "d": "#PRRPP82GR",
+   "dth": 19,
+   "dur": 113,
+   "o": 117,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#2PRLPU22Y",
+   "ath": 19,
+   "d": "#RJRV20CC",
+   "dth": 19,
+   "dur": 91,
+   "o": 118,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#8GU2G99PC",
+   "ath": 19,
+   "d": "#UQ298J9R",
+   "dth": 19,
+   "dur": 111,
+   "o": 119,
+   "p": 88,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#Y2CUC82QG",
+   "ath": 19,
+   "d": "#UQ298J9R",
+   "dth": 19,
+   "dur": 120,
+   "o": 120,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#8GU2G99PC",
+   "ath": 19,
+   "d": "#G80CV9CPU",
+   "dth": 19,
+   "dur": 96,
+   "o": 121,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#QYGV0R9CL",
+   "ath": 19,
+   "d": "#GGRQGLQJY",
+   "dth": 19,
+   "dur": 153,
+   "o": 122,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#9G9JCU98V",
+   "ath": 19,
+   "d": "#GUJ0LP",
+   "dth": 19,
+   "dur": 154,
+   "o": 123,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#QYGV0R9CL",
+   "ath": 19,
+   "d": "#PRR2YUJ20",
+   "dth": 19,
+   "dur": 172,
+   "o": 124,
+   "p": 97,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#9VPP9YVL9",
+   "ath": 19,
+   "d": "#8URVJ0QVG",
+   "dth": 19,
+   "dur": 126,
+   "o": 125,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#9G9JCU98V",
+   "ath": 19,
+   "d": "#L2C9GGJPJ",
+   "dth": 19,
+   "dur": 154,
+   "o": 126,
+   "p": 94,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#8P8V89P0U",
+   "ath": 19,
+   "d": "#PRR2YUJ20",
+   "dth": 19,
+   "dur": 143,
+   "o": 127,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#8P8V89P0U",
+   "ath": 19,
+   "d": "#L2C9GGJPJ",
+   "dth": 19,
+   "dur": 124,
+   "o": 128,
+   "p": 74,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#9JPGGJC0Y",
+   "ath": 19,
+   "d": "#8GU2G99PC",
+   "dth": 19,
+   "dur": 128,
+   "o": 129,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#9JPGGJC0Y",
+   "ath": 19,
+   "d": "#8L0VG0Q22",
+   "dth": 19,
+   "dur": 156,
+   "o": 130,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#QJLL9JLYU",
+   "ath": 19,
+   "d": "#8P8V89P0U",
+   "dth": 19,
+   "dur": 140,
+   "o": 131,
+   "p": 97,
+   "s": 2,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 95.17778,
+  "destruction": 99.933334,
   "members": [
    {
     "name": "EG⚡️KING",
@@ -1443,12 +1718,12 @@
    }
   ],
   "name": "Get Cooked!",
-  "stars": 126,
+  "stars": 134,
   "tag": "#2J922VYQ0"
  },
  "end": "20261125T190127.000Z",
  "opponent": {
-  "destruction": 92.22222,
+  "destruction": 99.53333,
   "members": [
    {
     "name": "Mohammad Yeasin",
@@ -1722,7 +1997,7 @@
    }
   ],
   "name": "DEATH CARNIVAL",
-  "stars": 114,
+  "stars": 131,
   "tag": "#CV999J2"
  },
  "start": "20261124T190127.000Z",

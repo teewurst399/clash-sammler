@@ -1011,11 +1011,33 @@
    "p": 93,
    "s": 2,
    "side": "gegner"
+  },
+  {
+   "a": "#GV0RJ0082",
+   "ath": 18,
+   "d": "#2QU92920",
+   "dth": 19,
+   "dur": 180,
+   "o": 93,
+   "p": 99,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#QYQYC09RJ",
+   "ath": 19,
+   "d": "#8PRU2Y8QC",
+   "dth": 19,
+   "dur": 175,
+   "o": 94,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 80.44444,
+  "destruction": 84.86667,
   "members": [
    {
     "name": "Saheb",
@@ -1289,7 +1311,7 @@
    }
   ],
   "name": "Secondzone",
-  "stars": 106,
+  "stars": 110,
   "tag": "#2QQPYRRCU"
  },
  "end": "20261125T214827.000Z",

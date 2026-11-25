@@ -890,11 +890,44 @@
    "p": 59,
    "s": 1,
    "side": "gegner"
+  },
+  {
+   "a": "#V8LR0LC8",
+   "ath": 19,
+   "d": "#9R2UL0RCU",
+   "dth": 19,
+   "dur": 115,
+   "o": 82,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#88PQRP0VG",
+   "ath": 19,
+   "d": "#8LYJLUP8",
+   "dth": 19,
+   "dur": 142,
+   "o": 83,
+   "p": 78,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#88PQRP0VG",
+   "ath": 19,
+   "d": "#GCU2JLJ",
+   "dth": 19,
+   "dur": 134,
+   "o": 84,
+   "p": 63,
+   "s": 1,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 75.0,
+  "destruction": 77.85714,
   "members": [
    {
     "name": "FL • ZΞЯБΞЯЦS³",
@@ -1108,7 +1141,7 @@
    }
   ],
   "name": "FruchtLabörchen",
-  "stars": 73,
+  "stars": 76,
   "tag": "#2RYP8PQRG"
  },
  "end": "20261125T203518.000Z",
