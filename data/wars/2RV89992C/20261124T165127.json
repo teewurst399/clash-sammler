@@ -32,11 +32,143 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#R98PRR0V8",
+   "ath": 16,
+   "d": "#R0QCP9RC9",
+   "dth": 16,
+   "dur": 93,
+   "o": 4,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#JVP8RUJR",
+   "ath": 19,
+   "d": "#GV2PGJGP8",
+   "dth": 19,
+   "dur": 96,
+   "o": 5,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#208PR2YY",
+   "ath": 18,
+   "d": "#GC2CURPRP",
+   "dth": 18,
+   "dur": 157,
+   "o": 6,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#Q0G29U9YG",
+   "ath": 18,
+   "d": "#YV8P0R09U",
+   "dth": 18,
+   "dur": 102,
+   "o": 7,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#PPCPQ8CU0",
+   "ath": 16,
+   "d": "#GVVYRULYV",
+   "dth": 16,
+   "dur": 138,
+   "o": 8,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#QUULPGJY0",
+   "ath": 14,
+   "d": "#GRLYPCCLR",
+   "dth": 14,
+   "dur": 119,
+   "o": 9,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#Q2RRP0GPL",
+   "ath": 15,
+   "d": "#UV2L88J0",
+   "dth": 16,
+   "dur": 130,
+   "o": 10,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#LYJ8JRYGU",
+   "ath": 19,
+   "d": "#PPYGCLUCU",
+   "dth": 19,
+   "dur": 113,
+   "o": 11,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#GUY0JLJLR",
+   "ath": 19,
+   "d": "#Q0G29U9YG",
+   "dth": 18,
+   "dur": 96,
+   "o": 12,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#GUY0JLJLR",
+   "ath": 19,
+   "d": "#8G2QJC2G",
+   "dth": 19,
+   "dur": 110,
+   "o": 13,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#Q2GUJ2Y88",
+   "ath": 17,
+   "d": "#L0Y8VG82V",
+   "dth": 17,
+   "dur": 150,
+   "o": 14,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#8CRYGVRP",
+   "ath": 19,
+   "d": "#CY082UQ0",
+   "dth": 19,
+   "dur": 118,
+   "o": 15,
+   "p": 94,
+   "s": 2,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 0.0,
+  "destruction": 12.0,
   "members": [
    {
     "name": "Dschini -L-",
@@ -190,12 +322,12 @@
    }
   ],
   "name": "FruchtLabor V",
-  "stars": 0,
+  "stars": 9,
   "tag": "#2RV89992C"
  },
  "end": "20261126T155127.000Z",
  "opponent": {
-  "destruction": 12.0,
+  "destruction": 47.76,
   "members": [
    {
     "name": "obe jon",
@@ -349,7 +481,7 @@
    }
   ],
   "name": "The Kings",
-  "stars": 9,
+  "stars": 35,
   "tag": "#2J92J8YCY"
  },
  "start": "20261125T155127.000Z",

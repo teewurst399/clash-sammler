@@ -1572,6 +1572,160 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#2QCYU8C2G",
+   "ath": 19,
+   "d": "#RUVVQ0QQ",
+   "dth": 19,
+   "dur": 19,
+   "o": 144,
+   "p": 53,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#2QCYU8C2G",
+   "ath": 19,
+   "d": "#YJJRYJVGR",
+   "dth": 19,
+   "dur": 9,
+   "o": 145,
+   "p": 11,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#8GQ9VRC28",
+   "ath": 19,
+   "d": "#RUVVQ0QQ",
+   "dth": 19,
+   "dur": 16,
+   "o": 146,
+   "p": 52,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#8GQ9VRC28",
+   "ath": 19,
+   "d": "#YJJRYJVGR",
+   "dth": 19,
+   "dur": 5,
+   "o": 147,
+   "p": 9,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#YQ8QGLPC",
+   "ath": 19,
+   "d": "#YUL92J202",
+   "dth": 19,
+   "dur": 135,
+   "o": 148,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#J2RUY9LV",
+   "ath": 19,
+   "d": "#LYPGJVGVG",
+   "dth": 19,
+   "dur": 18,
+   "o": 149,
+   "p": 20,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#YQ8QGLPC",
+   "ath": 19,
+   "d": "#RUVVQ0QQ",
+   "dth": 19,
+   "dur": 38,
+   "o": 150,
+   "p": 38,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#J2RUY9LV",
+   "ath": 19,
+   "d": "#YUL92J202",
+   "dth": 19,
+   "dur": 26,
+   "o": 151,
+   "p": 35,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#L9J800989",
+   "ath": 19,
+   "d": "#YUL92J202",
+   "dth": 19,
+   "dur": 42,
+   "o": 152,
+   "p": 18,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#L9J800989",
+   "ath": 19,
+   "d": "#YJJRYJVGR",
+   "dth": 19,
+   "dur": 17,
+   "o": 153,
+   "p": 8,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#JRU8R9GQ",
+   "ath": 19,
+   "d": "#22V0Q9GJC",
+   "dth": 19,
+   "dur": 59,
+   "o": 154,
+   "p": 15,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#JRU8R9GQ",
+   "ath": 19,
+   "d": "#QUULPQ209",
+   "dth": 19,
+   "dur": 96,
+   "o": 155,
+   "p": 54,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#QC0C0P2J",
+   "ath": 19,
+   "d": "#YJJRYJVGR",
+   "dth": 19,
+   "dur": 13,
+   "o": 156,
+   "p": 27,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#QC0C0P2J",
+   "ath": 19,
+   "d": "#LYPGJVGVG",
+   "dth": 19,
+   "dur": 6,
+   "o": 157,
+   "p": 14,
+   "s": 1,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
@@ -2133,7 +2287,7 @@
   "tag": "#U08RJ88Y"
  },
  "start": "20261124T173457.000Z",
- "state": "inWar",
+ "state": "warEnded",
  "teamSize": 45,
  "type": "krieg"
 }

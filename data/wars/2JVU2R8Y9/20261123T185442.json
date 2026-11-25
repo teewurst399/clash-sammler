@@ -1165,6 +1165,17 @@
    "p": 86,
    "s": 2,
    "side": "clan"
+  },
+  {
+   "a": "#CGRUP2R0",
+   "ath": 19,
+   "d": "#P80QJQ0G8",
+   "dth": 19,
+   "dur": 77,
+   "o": 107,
+   "p": 66,
+   "s": 2,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,

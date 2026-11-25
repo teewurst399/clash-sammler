@@ -945,11 +945,253 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#P080Q2RQ",
+   "ath": 19,
+   "d": "#92LQ8Q9CU",
+   "dth": 19,
+   "dur": 137,
+   "o": 87,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#LG8L920L",
+   "ath": 19,
+   "d": "#GV0YQ0RG",
+   "dth": 19,
+   "dur": 126,
+   "o": 88,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#92QGVP2CU",
+   "ath": 19,
+   "d": "#8RP0U0208",
+   "dth": 19,
+   "dur": 100,
+   "o": 89,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#P9GJJR9GG",
+   "ath": 18,
+   "d": "#2V8YQJYL8",
+   "dth": 19,
+   "dur": 150,
+   "o": 90,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#LG8L920L",
+   "ath": 19,
+   "d": "#Q9R8UVRRQ",
+   "dth": 19,
+   "dur": 11,
+   "o": 91,
+   "p": 53,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#QR0YPC8UR",
+   "ath": 19,
+   "d": "#Q9R8UVRRQ",
+   "dth": 19,
+   "dur": 11,
+   "o": 92,
+   "p": 50,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#QR0YPC8UR",
+   "ath": 19,
+   "d": "#J0L9V0L",
+   "dth": 19,
+   "dur": 11,
+   "o": 93,
+   "p": 53,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#GYRCCJL9J",
+   "ath": 19,
+   "d": "#Q9R8UVRRQ",
+   "dth": 19,
+   "dur": 11,
+   "o": 94,
+   "p": 50,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#GYRCCJL9J",
+   "ath": 19,
+   "d": "#J0L9V0L",
+   "dth": 19,
+   "dur": 10,
+   "o": 95,
+   "p": 52,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#P9GJJR9GG",
+   "ath": 18,
+   "d": "#LPVJY0R8P",
+   "dth": 19,
+   "dur": 179,
+   "o": 96,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#GGCPLQ980",
+   "ath": 19,
+   "d": "#Q9R8UVRRQ",
+   "dth": 19,
+   "dur": 14,
+   "o": 97,
+   "p": 60,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#98L8JR0U0",
+   "ath": 19,
+   "d": "#U2LUC088",
+   "dth": 19,
+   "dur": 12,
+   "o": 98,
+   "p": 5,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#98L8JR0U0",
+   "ath": 19,
+   "d": "#L2CLCY8L",
+   "dth": 19,
+   "dur": 23,
+   "o": 99,
+   "p": 6,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#GGCPLQ980",
+   "ath": 19,
+   "d": "#J0L9V0L",
+   "dth": 19,
+   "dur": 14,
+   "o": 100,
+   "p": 51,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#989QJGCL2",
+   "ath": 18,
+   "d": "#L2CLCY8L",
+   "dth": 19,
+   "dur": 8,
+   "o": 101,
+   "p": 28,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#989QJGCL2",
+   "ath": 18,
+   "d": "#U2LUC088",
+   "dth": 19,
+   "dur": 9,
+   "o": 102,
+   "p": 30,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#8299VR2QC",
+   "ath": 19,
+   "d": "#L2CLCY8L",
+   "dth": 19,
+   "dur": 180,
+   "o": 103,
+   "p": 99,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#G8RUG99CL",
+   "ath": 19,
+   "d": "#U2LUC088",
+   "dth": 19,
+   "dur": 10,
+   "o": 104,
+   "p": 6,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#G8RUG99CL",
+   "ath": 19,
+   "d": "#L2CLCY8L",
+   "dth": 19,
+   "dur": 18,
+   "o": 105,
+   "p": 6,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#Q0YCR88CC",
+   "ath": 19,
+   "d": "#JCCL280",
+   "dth": 19,
+   "dur": 140,
+   "o": 106,
+   "p": 73,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#8RC02Y8UQ",
+   "ath": 19,
+   "d": "#Q9R8UVRRQ",
+   "dth": 19,
+   "dur": 180,
+   "o": 107,
+   "p": 99,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#8RC02Y8UQ",
+   "ath": 19,
+   "d": "#J0L9V0L",
+   "dth": 19,
+   "dur": 161,
+   "o": 108,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 99.51428,
+  "destruction": 100.0,
   "members": [
    {
     "name": "tojamane",
@@ -1163,12 +1405,12 @@
    }
   ],
   "name": "Obstsalat",
-  "stars": 103,
+  "stars": 105,
   "tag": "#2Q8CL9Y20"
  },
  "end": "20261125T193928.000Z",
  "opponent": {
-  "destruction": 93.85714,
+  "destruction": 100.0,
   "members": [
    {
     "name": "BS Keizer",
@@ -1382,7 +1624,7 @@
    }
   ],
   "name": "Ballensnijers",
-  "stars": 98,
+  "stars": 105,
   "tag": "#2QVJVVJC"
  },
  "start": "20261124T193928.000Z",

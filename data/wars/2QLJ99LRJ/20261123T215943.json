@@ -549,11 +549,110 @@
    "p": 60,
    "s": 2,
    "side": "clan"
+  },
+  {
+   "a": "#802PR80C8",
+   "ath": 12,
+   "d": "#R2U0LJLQL",
+   "dth": 12,
+   "dur": 89,
+   "o": 51,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#802PR80C8",
+   "ath": 12,
+   "d": "#QGR9QYC0L",
+   "dth": 13,
+   "dur": 124,
+   "o": 52,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#GG2CQRRQ",
+   "ath": 12,
+   "d": "#Q9YGUPLQ9",
+   "dth": 13,
+   "dur": 113,
+   "o": 53,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#GG2CQRRQ",
+   "ath": 12,
+   "d": "#QRQGC9VY8",
+   "dth": 13,
+   "dur": 178,
+   "o": 54,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#QJVG00GUP",
+   "ath": 14,
+   "d": "#QCJ090QRJ",
+   "dth": 7,
+   "dur": 30,
+   "o": 55,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#U9890RJQ",
+   "ath": 19,
+   "d": "#PGP2YPYP2",
+   "dth": 19,
+   "dur": 98,
+   "o": 56,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#U9890RJQ",
+   "ath": 19,
+   "d": "#2GUQPJ2V2",
+   "dth": 19,
+   "dur": 113,
+   "o": 57,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#PJRVY9LQC",
+   "ath": 19,
+   "d": "#G8QL9YRRQ",
+   "dth": 19,
+   "dur": 123,
+   "o": 58,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#PJRVY9LQC",
+   "ath": 19,
+   "d": "#82Y2VVYJQ",
+   "dth": 19,
+   "dur": 130,
+   "o": 59,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 60.36,
+  "destruction": 92.36,
   "members": [
    {
     "name": "❗️B༏g BaསG❗️",
@@ -707,12 +806,12 @@
    }
   ],
   "name": "Betazone",
-  "stars": 44,
+  "stars": 68,
   "tag": "#2QLJ99LRJ"
  },
  "end": "20261125T205943.000Z",
  "opponent": {
-  "destruction": 96.0,
+  "destruction": 100.0,
   "members": [
    {
     "name": "variant",
@@ -866,7 +965,7 @@
    }
   ],
   "name": "هوگ عاشق",
-  "stars": 72,
+  "stars": 75,
   "tag": "#Q2PCUUQ9"
  },
  "start": "20261124T205943.000Z",

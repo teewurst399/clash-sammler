@@ -417,6 +417,17 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#R289RQQCP",
+   "ath": 18,
+   "d": "#R9VUQV2GJ",
+   "dth": 11,
+   "dur": 53,
+   "o": 39,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -580,7 +591,7 @@
  },
  "end": "20261125T202243.000Z",
  "opponent": {
-  "destruction": 67.88,
+  "destruction": 71.88,
   "members": [
    {
     "name": "MKNSZ",
@@ -734,7 +745,7 @@
    }
   ],
   "name": "ANTİTERÖR CLÜP",
-  "stars": 49,
+  "stars": 52,
   "tag": "#JYQVPCC8"
  },
  "start": "20261124T202243.000Z",

@@ -670,11 +670,121 @@
    "p": 95,
    "s": 2,
    "side": "gegner"
+  },
+  {
+   "a": "#QPPJC9YC",
+   "ath": 19,
+   "d": "#GPPUQCVQJ",
+   "dth": 19,
+   "dur": 157,
+   "o": 62,
+   "p": 52,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#RGYJC0VP",
+   "ath": 19,
+   "d": "#GPPUQCVQJ",
+   "dth": 19,
+   "dur": 163,
+   "o": 63,
+   "p": 86,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#QPPJC9YC",
+   "ath": 19,
+   "d": "#RCR8CJ9J",
+   "dth": 19,
+   "dur": 148,
+   "o": 64,
+   "p": 55,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#RGYJC0VP",
+   "ath": 19,
+   "d": "#PQR08CRJR",
+   "dth": 19,
+   "dur": 112,
+   "o": 65,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#UJ9VCRYG",
+   "ath": 19,
+   "d": "#2UP9G09P",
+   "dth": 19,
+   "dur": 155,
+   "o": 66,
+   "p": 56,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#UJ9VCRYG",
+   "ath": 19,
+   "d": "#GJQVGJL2",
+   "dth": 19,
+   "dur": 124,
+   "o": 67,
+   "p": 76,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#JGVP0VGL",
+   "ath": 19,
+   "d": "#RCR8CJ9J",
+   "dth": 19,
+   "dur": 153,
+   "o": 68,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#PQR08CRJR",
+   "ath": 19,
+   "d": "#RL9ULYGU",
+   "dth": 19,
+   "dur": 163,
+   "o": 69,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#88GGJYJY0",
+   "ath": 19,
+   "d": "#CGQ8PVGQ",
+   "dth": 19,
+   "dur": 138,
+   "o": 70,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#PQR08CRJR",
+   "ath": 19,
+   "d": "#28PVCVCPP",
+   "dth": 19,
+   "dur": 154,
+   "o": 71,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 74.84,
+  "destruction": 83.64,
   "members": [
    {
     "name": "DΔツLion",
@@ -828,12 +938,12 @@
    }
   ],
   "name": "Dark Angel",
-  "stars": 54,
+  "stars": 61,
   "tag": "#2JJG9RLY8"
  },
  "end": "20261125T192942.000Z",
  "opponent": {
-  "destruction": 91.92,
+  "destruction": 92.04,
   "members": [
    {
     "name": "GreatGuardian",
@@ -987,7 +1097,7 @@
    }
   ],
   "name": "alte Säcke",
-  "stars": 61,
+  "stars": 63,
   "tag": "#PP20R88J"
  },
  "start": "20261124T192942.000Z",

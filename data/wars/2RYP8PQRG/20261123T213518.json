@@ -989,11 +989,110 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#YUL2PPR8",
+   "ath": 19,
+   "d": "#YC2UYJC90",
+   "dth": 19,
+   "dur": 169,
+   "o": 91,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#YUL2PPR8",
+   "ath": 19,
+   "d": "#8QYQVVL9",
+   "dth": 19,
+   "dur": 141,
+   "o": 92,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#GPULGR2",
+   "ath": 19,
+   "d": "#8YU9Y9L9",
+   "dth": 19,
+   "dur": 132,
+   "o": 93,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#GPULGR2",
+   "ath": 19,
+   "d": "#YUL2PPR8",
+   "dth": 19,
+   "dur": 135,
+   "o": 94,
+   "p": 72,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#98GLLG882",
+   "ath": 19,
+   "d": "#2CLQPUQU0",
+   "dth": 19,
+   "dur": 105,
+   "o": 95,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#98GLLG882",
+   "ath": 19,
+   "d": "#2LCG9CRRQ",
+   "dth": 19,
+   "dur": 117,
+   "o": 96,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#GJ0QRUJU",
+   "ath": 19,
+   "d": "#Y2C0GPUGY",
+   "dth": 19,
+   "dur": 156,
+   "o": 97,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#GJ0QRUJU",
+   "ath": 19,
+   "d": "#8LYJLUP8",
+   "dth": 19,
+   "dur": 145,
+   "o": 98,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#JCCRVY0R",
+   "ath": 19,
+   "d": "#LL2VCY92",
+   "dth": 19,
+   "dur": 93,
+   "o": 99,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 80.71429,
+  "destruction": 89.71429,
   "members": [
    {
     "name": "FL • ZΞЯБΞЯЦS³",
@@ -1207,12 +1306,12 @@
    }
   ],
   "name": "FruchtLabörchen",
-  "stars": 79,
+  "stars": 90,
   "tag": "#2RYP8PQRG"
  },
  "end": "20261125T203518.000Z",
  "opponent": {
-  "destruction": 92.57143,
+  "destruction": 93.62857,
   "members": [
    {
     "name": "Orphy2201",
@@ -1426,7 +1525,7 @@
    }
   ],
   "name": "les loges",
-  "stars": 89,
+  "stars": 92,
   "tag": "#9PPLQQR0"
  },
  "start": "20261124T203518.000Z",
