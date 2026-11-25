@@ -659,6 +659,17 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#2J82V8GV",
+   "ath": 19,
+   "d": "#2C2PLQUGL",
+   "dth": 19,
+   "dur": 131,
+   "o": 61,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -882,7 +893,7 @@
  },
  "end": "20261125T114527.000Z",
  "opponent": {
-  "destruction": 64.91428,
+  "destruction": 67.77143,
   "members": [
    {
     "name": "Venom",
@@ -1096,7 +1107,7 @@
    }
   ],
   "name": "Indo Xtreme",
-  "stars": 65,
+  "stars": 68,
   "tag": "#LYLJUGG"
  },
  "start": "20261124T114527.000Z",

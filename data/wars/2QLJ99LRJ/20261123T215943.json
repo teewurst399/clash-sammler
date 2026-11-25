@@ -87,11 +87,33 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#QRCPPU0R0",
+   "ath": 16,
+   "d": "#YU90RY2G2",
+   "dth": 17,
+   "dur": 159,
+   "o": 9,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#QRCPPU0R0",
+   "ath": 16,
+   "d": "#2UL0882PP",
+   "dth": 17,
+   "dur": 161,
+   "o": 10,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 0.0,
+  "destruction": 8.0,
   "members": [
    {
     "name": "❗️B༏g BaསG❗️",
@@ -245,7 +267,7 @@
    }
   ],
   "name": "Betazone",
-  "stars": 0,
+  "stars": 6,
   "tag": "#2QLJ99LRJ"
  },
  "end": "20261125T205943.000Z",

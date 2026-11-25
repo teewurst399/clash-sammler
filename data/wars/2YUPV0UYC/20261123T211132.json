@@ -538,6 +538,17 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#8RYQUCVRU",
+   "ath": 19,
+   "d": "#9VU9LJG",
+   "dth": 19,
+   "dur": 165,
+   "o": 50,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -791,7 +802,7 @@
  },
  "end": "20261125T201132.000Z",
  "opponent": {
-  "destruction": 48.85,
+  "destruction": 51.35,
   "members": [
    {
     "name": "꧁BLACK☬DRAGON꧂",
@@ -1035,7 +1046,7 @@
    }
   ],
   "name": "White Phoenix",
-  "stars": 56,
+  "stars": 59,
   "tag": "#2L0GRJUQL"
  },
  "start": "20261124T201132.000Z",

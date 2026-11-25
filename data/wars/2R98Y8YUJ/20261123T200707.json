@@ -780,6 +780,28 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#8RQPL9J9C",
+   "ath": 19,
+   "d": "#Q0RUJC9J2",
+   "dth": 19,
+   "dur": 119,
+   "o": 72,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#8RQPL9J9C",
+   "ath": 19,
+   "d": "#LU9C2LYCR",
+   "dth": 19,
+   "dur": 106,
+   "o": 73,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -1093,7 +1115,7 @@
  },
  "end": "20261125T190707.000Z",
  "opponent": {
-  "destruction": 44.8,
+  "destruction": 48.8,
   "members": [
    {
     "name": "➡️ＮＥＧＡＲ",
@@ -1397,7 +1419,7 @@
    }
   ],
   "name": "Arrow",
-  "stars": 65,
+  "stars": 71,
   "tag": "#PQU9YQCQ"
  },
  "start": "20261124T190707.000Z",

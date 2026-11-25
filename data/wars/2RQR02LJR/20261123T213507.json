@@ -538,6 +538,28 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#8JJCVYJ88",
+   "ath": 19,
+   "d": "#8GPRQPLR0",
+   "dth": 19,
+   "dur": 96,
+   "o": 50,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#8JJCVYJ88",
+   "ath": 19,
+   "d": "#9QRYLU9P",
+   "dth": 19,
+   "dur": 81,
+   "o": 51,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -821,7 +843,7 @@
  },
  "end": "20261125T203507.000Z",
  "opponent": {
-  "destruction": 65.8,
+  "destruction": 70.244446,
   "members": [
    {
     "name": "MjolniR",
@@ -1095,7 +1117,7 @@
    }
   ],
   "name": "ATATÜRK",
-  "stars": 86,
+  "stars": 92,
   "tag": "#2P9LV098Y"
  },
  "start": "20261124T203507.000Z",

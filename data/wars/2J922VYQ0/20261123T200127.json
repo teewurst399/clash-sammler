@@ -681,11 +681,55 @@
    "p": 91,
    "s": 2,
    "side": "gegner"
+  },
+  {
+   "a": "#822QCGY2J",
+   "ath": 19,
+   "d": "#9GUUYQYLY",
+   "dth": 19,
+   "dur": 180,
+   "o": 63,
+   "p": 94,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#QG2L0JC8",
+   "ath": 19,
+   "d": "#2L90GVL0J",
+   "dth": 19,
+   "dur": 119,
+   "o": 64,
+   "p": 79,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#QG2L0JC8",
+   "ath": 19,
+   "d": "#PPP0C2PUP",
+   "dth": 19,
+   "dur": 112,
+   "o": 65,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#CUUJRJJC",
+   "ath": 19,
+   "d": "#Q98809P2J",
+   "dth": 19,
+   "dur": 102,
+   "o": 66,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 72.8,
+  "destruction": 76.77778,
   "members": [
    {
     "name": "EG⚡️KING",
@@ -959,12 +1003,12 @@
    }
   ],
   "name": "Get Cooked!",
-  "stars": 96,
+  "stars": 101,
   "tag": "#2J922VYQ0"
  },
  "end": "20261125T190127.000Z",
  "opponent": {
-  "destruction": 33.91111,
+  "destruction": 38.22222,
   "members": [
    {
     "name": "Mohammad Yeasin",
@@ -1238,7 +1282,7 @@
    }
   ],
   "name": "DEATH CARNIVAL",
-  "stars": 42,
+  "stars": 46,
   "tag": "#CV999J2"
  },
  "start": "20261124T190127.000Z",

@@ -967,6 +967,28 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#PQLVPGGRY",
+   "ath": 19,
+   "d": "#2QRYPCV8P",
+   "dth": 19,
+   "dur": 180,
+   "o": 89,
+   "p": 85,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#PQLVPGGRY",
+   "ath": 19,
+   "d": "#9GUJG9QR",
+   "dth": 19,
+   "dur": 154,
+   "o": 90,
+   "p": 70,
+   "s": 2,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -1280,7 +1302,7 @@
  },
  "end": "20261125T192437.000Z",
  "opponent": {
-  "destruction": 75.46,
+  "destruction": 77.16,
   "members": [
    {
     "name": "☢️poury@khani☢️",
@@ -1584,7 +1606,7 @@
    }
   ],
   "name": "اهورا",
-  "stars": 108,
+  "stars": 110,
   "tag": "#8GQLP0UY"
  },
  "start": "20261124T192437.000Z",
