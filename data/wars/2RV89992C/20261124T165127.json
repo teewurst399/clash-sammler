@@ -362,11 +362,121 @@
    "p": 91,
    "s": 1,
    "side": "gegner"
+  },
+  {
+   "a": "#YRYQ2V8R8",
+   "ath": 17,
+   "d": "#QUULPGJY0",
+   "dth": 14,
+   "dur": 100,
+   "o": 34,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#R0QCP9RC9",
+   "ath": 16,
+   "d": "#L8099GC2C",
+   "dth": 15,
+   "dur": 97,
+   "o": 35,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#LY9J99CGJ",
+   "ath": 19,
+   "d": "#GPQCJQLQ2",
+   "dth": 18,
+   "dur": 132,
+   "o": 36,
+   "p": 90,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#R0QCP9RC9",
+   "ath": 16,
+   "d": "#Q2RRP0GPL",
+   "dth": 15,
+   "dur": 90,
+   "o": 37,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#GVVYRULYV",
+   "ath": 16,
+   "d": "#R98PRR0V8",
+   "dth": 16,
+   "dur": 180,
+   "o": 38,
+   "p": 96,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#GVVYRULYV",
+   "ath": 16,
+   "d": "#PPCPQ8CU0",
+   "dth": 16,
+   "dur": 127,
+   "o": 39,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#PJUJ2J0R",
+   "ath": 16,
+   "d": "#LV0Y9RRG",
+   "dth": 16,
+   "dur": 85,
+   "o": 40,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#GC2CURPRP",
+   "ath": 18,
+   "d": "#QPR9LC2LY",
+   "dth": 18,
+   "dur": 140,
+   "o": 41,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#9RQPRRRV",
+   "ath": 19,
+   "d": "#8VJGGCL88",
+   "dth": 19,
+   "dur": 138,
+   "o": 42,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#GC2CURPRP",
+   "ath": 18,
+   "d": "#208PR2YY",
+   "dth": 18,
+   "dur": 153,
+   "o": 43,
+   "p": 89,
+   "s": 2,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 59.52,
+  "destruction": 83.4,
   "members": [
    {
     "name": "Dschini -L-",
@@ -520,12 +630,12 @@
    }
   ],
   "name": "FruchtLabor V",
-  "stars": 44,
+  "stars": 61,
   "tag": "#2RV89992C"
  },
  "end": "20261126T155127.000Z",
  "opponent": {
-  "destruction": 62.24,
+  "destruction": 70.2,
   "members": [
    {
     "name": "obe jon",
@@ -679,7 +789,7 @@
    }
   ],
   "name": "The Kings",
-  "stars": 43,
+  "stars": 50,
   "tag": "#2J92J8YCY"
  },
  "start": "20261125T155127.000Z",

@@ -153,11 +153,264 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#9VYJ8VP0Q",
+   "ath": 19,
+   "d": "#2UUGQULY",
+   "dth": 19,
+   "dur": 135,
+   "o": 15,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#GY090C8J",
+   "ath": 19,
+   "d": "#2V9L0G8J",
+   "dth": 19,
+   "dur": 91,
+   "o": 16,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#L2Q90Q0G9",
+   "ath": 19,
+   "d": "#89CRGC0JL",
+   "dth": 19,
+   "dur": 179,
+   "o": 17,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#80VUJ8PPC",
+   "ath": 19,
+   "d": "#8RUU0QLJU",
+   "dth": 19,
+   "dur": 180,
+   "o": 18,
+   "p": 98,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#80VUJ8PPC",
+   "ath": 19,
+   "d": "#2U2C0PJUU",
+   "dth": 19,
+   "dur": 161,
+   "o": 19,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#L2Q90Q0G9",
+   "ath": 19,
+   "d": "#2C9CGPQUY",
+   "dth": 19,
+   "dur": 136,
+   "o": 20,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#208VUUL9Y",
+   "ath": 19,
+   "d": "#8YPGU90R",
+   "dth": 19,
+   "dur": 150,
+   "o": 21,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#QVG0CLYUQ",
+   "ath": 19,
+   "d": "#22R8UVVUC",
+   "dth": 19,
+   "dur": 174,
+   "o": 22,
+   "p": 87,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#8QP0R0LRG",
+   "ath": 19,
+   "d": "#22R8UVVUC",
+   "dth": 19,
+   "dur": 112,
+   "o": 23,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#QVG0CLYUQ",
+   "ath": 19,
+   "d": "#LQL02RGC8",
+   "dth": 19,
+   "dur": 130,
+   "o": 24,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#8QP0R0LRG",
+   "ath": 19,
+   "d": "#20YYVGJQR",
+   "dth": 19,
+   "dur": 92,
+   "o": 25,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#GUJLC29C",
+   "ath": 19,
+   "d": "#G9UQGL889",
+   "dth": 19,
+   "dur": 158,
+   "o": 26,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#GQY0U9RUU",
+   "ath": 19,
+   "d": "#CYC9RV9U",
+   "dth": 19,
+   "dur": 147,
+   "o": 27,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#CU02LYGL",
+   "ath": 19,
+   "d": "#2JGVVY8C",
+   "dth": 19,
+   "dur": 135,
+   "o": 28,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#YQ2GJJCU",
+   "ath": 19,
+   "d": "#CU02LYGL",
+   "dth": 19,
+   "dur": 144,
+   "o": 29,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#GUJLC29C",
+   "ath": 19,
+   "d": "#PQCULPU90",
+   "dth": 19,
+   "dur": 145,
+   "o": 30,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#CU02LYGL",
+   "ath": 19,
+   "d": "#9PU8LQYQ",
+   "dth": 19,
+   "dur": 128,
+   "o": 31,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#GQY0U9RUU",
+   "ath": 19,
+   "d": "#2VLUVQCR",
+   "dth": 19,
+   "dur": 162,
+   "o": 32,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#YQ2GJJCU",
+   "ath": 19,
+   "d": "#PL2RC0YC",
+   "dth": 19,
+   "dur": 143,
+   "o": 33,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#RVLR0VR8",
+   "ath": 19,
+   "d": "#98P8QRRRR",
+   "dth": 19,
+   "dur": 180,
+   "o": 34,
+   "p": 96,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#RVLR0VR8",
+   "ath": 19,
+   "d": "#80VUJ8PPC",
+   "dth": 19,
+   "dur": 126,
+   "o": 35,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#JVPR08LR",
+   "ath": 19,
+   "d": "#9900290RV",
+   "dth": 19,
+   "dur": 180,
+   "o": 36,
+   "p": 97,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#JVPR08LR",
+   "ath": 19,
+   "d": "#C0V8VVV0",
+   "dth": 19,
+   "dur": 165,
+   "o": 37,
+   "p": 95,
+   "s": 2,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 7.5555553,
+  "destruction": 19.533333,
   "members": [
    {
     "name": "MOZ.ART",
@@ -431,12 +684,12 @@
    }
   ],
   "name": "Firstzone",
-  "stars": 7,
+  "stars": 20,
   "tag": "#2YQQ80QGL"
  },
  "end": "20261126T190240.000Z",
  "opponent": {
-  "destruction": 22.155556,
+  "destruction": 53.22222,
   "members": [
    {
     "name": "Clasher",
@@ -710,7 +963,7 @@
    }
   ],
   "name": "Black Water",
-  "stars": 29,
+  "stars": 70,
   "tag": "#29LRRULU"
  },
  "start": "20261125T190240.000Z",

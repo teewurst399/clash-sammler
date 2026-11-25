@@ -329,11 +329,66 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#8RLJVJPQQ",
+   "ath": 19,
+   "d": "#98QR889CJ",
+   "dth": 19,
+   "dur": 165,
+   "o": 31,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#8RLJVJPQQ",
+   "ath": 19,
+   "d": "#80CPR9UQ",
+   "dth": 19,
+   "dur": 144,
+   "o": 32,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#R0LJR999",
+   "ath": 19,
+   "d": "#28JP8J8LL",
+   "dth": 19,
+   "dur": 106,
+   "o": 33,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#JCQ2QJJY",
+   "ath": 19,
+   "d": "#LYU2PPG2",
+   "dth": 19,
+   "dur": 130,
+   "o": 34,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#Q2YUQL098",
+   "ath": 19,
+   "d": "#80GCUV0J",
+   "dth": 19,
+   "dur": 110,
+   "o": 35,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 22.857143,
+  "destruction": 28.571428,
   "members": [
    {
     "name": "GL™ ReViX",
@@ -547,12 +602,12 @@
    }
   ],
   "name": "GNADENLOS™",
-  "stars": 24,
+  "stars": 30,
   "tag": "#U2JVY229"
  },
  "end": "20261126T190542.000Z",
  "opponent": {
-  "destruction": 51.4,
+  "destruction": 57.142857,
   "members": [
    {
     "name": "JK❗️HAIDER",
@@ -766,7 +821,7 @@
    }
   ],
   "name": "JK EMPIRE",
-  "stars": 53,
+  "stars": 60,
   "tag": "#2JY9P80GR"
  },
  "start": "20261125T190542.000Z",

@@ -1429,6 +1429,94 @@
    "p": 94,
    "s": 2,
    "side": "clan"
+  },
+  {
+   "a": "#28Y28C9UG",
+   "ath": 19,
+   "d": "#G80YPQ2CR",
+   "dth": 19,
+   "dur": 161,
+   "o": 131,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#28Y28C9UG",
+   "ath": 19,
+   "d": "#9PVCULG29",
+   "dth": 19,
+   "dur": 165,
+   "o": 132,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#8VU22VUY",
+   "ath": 19,
+   "d": "#GCU2JLJ",
+   "dth": 19,
+   "dur": 174,
+   "o": 133,
+   "p": 75,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#UJ9R2R20",
+   "ath": 19,
+   "d": "#G80YPQ2CR",
+   "dth": 19,
+   "dur": 33,
+   "o": 134,
+   "p": 24,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#UJ9R2R20",
+   "ath": 19,
+   "d": "#YC2UYJC90",
+   "dth": 19,
+   "dur": 14,
+   "o": 135,
+   "p": 12,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#8GGYYJ0LQ",
+   "ath": 19,
+   "d": "#20UPRVL8P",
+   "dth": 19,
+   "dur": 45,
+   "o": 136,
+   "p": 9,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#Y8YVC9U9",
+   "ath": 19,
+   "d": "#LJ99C2UYY",
+   "dth": 19,
+   "dur": 180,
+   "o": 137,
+   "p": 88,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#LL2VCY92",
+   "ath": 19,
+   "d": "#QGYPC9L88",
+   "dth": 19,
+   "dur": 163,
+   "o": 138,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -1652,7 +1740,7 @@
  },
  "end": "20261125T203518.000Z",
  "opponent": {
-  "destruction": 96.28571,
+  "destruction": 96.91428,
   "members": [
    {
     "name": "Orphy2201",
@@ -1866,11 +1954,11 @@
    }
   ],
   "name": "les loges",
-  "stars": 96,
+  "stars": 97,
   "tag": "#9PPLQQR0"
  },
  "start": "20261124T203518.000Z",
- "state": "inWar",
+ "state": "warEnded",
  "teamSize": 35,
  "type": "krieg"
 }

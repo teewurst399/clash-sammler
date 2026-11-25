@@ -87,11 +87,110 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#G9VR0CPGU",
+   "ath": 19,
+   "d": "#L9CV8G9QL",
+   "dth": 19,
+   "dur": 112,
+   "o": 9,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#G9VR0CPGU",
+   "ath": 19,
+   "d": "#LP2J888PR",
+   "dth": 19,
+   "dur": 180,
+   "o": 10,
+   "p": 87,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#GRVY0YC2R",
+   "ath": 19,
+   "d": "#QPRYCJQPY",
+   "dth": 19,
+   "dur": 108,
+   "o": 11,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#GRVY0YC2R",
+   "ath": 19,
+   "d": "#2080GG00",
+   "dth": 19,
+   "dur": 97,
+   "o": 12,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#GCU2YPJ2U",
+   "ath": 19,
+   "d": "#29LLC8L89",
+   "dth": 18,
+   "dur": 137,
+   "o": 13,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#LLR82YQ2U",
+   "ath": 19,
+   "d": "#98PC0JYY",
+   "dth": 19,
+   "dur": 163,
+   "o": 14,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#L9CV8G9QL",
+   "ath": 19,
+   "d": "#QJLJU2UYY",
+   "dth": 19,
+   "dur": 153,
+   "o": 15,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#C00JYRQG",
+   "ath": 19,
+   "d": "#G9VR0CPGU",
+   "dth": 19,
+   "dur": 170,
+   "o": 16,
+   "p": 85,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#YYRCJ2GR8",
+   "ath": 19,
+   "d": "#GJLJ2YP8",
+   "dth": 19,
+   "dur": 156,
+   "o": 17,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 2.7333333,
+  "destruction": 22.3,
   "members": [
    {
     "name": "Clash Joni",
@@ -275,12 +374,12 @@
    }
   ],
   "name": "Gammazone",
-  "stars": 1,
+  "stars": 18,
   "tag": "#YG20CR0U"
  },
  "end": "20261126T180515.000Z",
  "opponent": {
-  "destruction": 21.1,
+  "destruction": 30.6,
   "members": [
    {
     "name": "Duke",
@@ -464,7 +563,7 @@
    }
   ],
   "name": "Les Mahmoudiens",
-  "stars": 17,
+  "stars": 25,
   "tag": "#2P28UQQ80"
  },
  "start": "20261125T180515.000Z",

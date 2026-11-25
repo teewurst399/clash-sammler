@@ -43,11 +43,143 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#PYCPQLURR",
+   "ath": 19,
+   "d": "#Q0V9QV8L",
+   "dth": 19,
+   "dur": 106,
+   "o": 5,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#PCLJRRPQR",
+   "ath": 19,
+   "d": "#P02PC8UPU",
+   "dth": 19,
+   "dur": 165,
+   "o": 6,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#2CJPCJUVJ",
+   "ath": 19,
+   "d": "#P08LVGR0U",
+   "dth": 19,
+   "dur": 161,
+   "o": 7,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#VYJ0YRYR",
+   "ath": 19,
+   "d": "#L2UUC9G82",
+   "dth": 19,
+   "dur": 118,
+   "o": 8,
+   "p": 85,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#QCJ9LLPV0",
+   "ath": 19,
+   "d": "#9PJJ80JYQ",
+   "dth": 19,
+   "dur": 180,
+   "o": 9,
+   "p": 83,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#VYJ0YRYR",
+   "ath": 19,
+   "d": "#L8C0PP09J",
+   "dth": 19,
+   "dur": 80,
+   "o": 10,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#QLGLLJUQ",
+   "ath": 19,
+   "d": "#J2YQRQQ",
+   "dth": 19,
+   "dur": 151,
+   "o": 11,
+   "p": 83,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#PCLJRRPQR",
+   "ath": 19,
+   "d": "#VG9PPGUR",
+   "dth": 19,
+   "dur": 153,
+   "o": 12,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#QCJ9LLPV0",
+   "ath": 19,
+   "d": "#QRPUY82R9",
+   "dth": 19,
+   "dur": 173,
+   "o": 13,
+   "p": 79,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#QRPUY82R9",
+   "ath": 19,
+   "d": "#PCLJRRPQR",
+   "dth": 19,
+   "dur": 121,
+   "o": 14,
+   "p": 63,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#QRPUY82R9",
+   "ath": 19,
+   "d": "#YYRY98RLC",
+   "dth": 19,
+   "dur": 159,
+   "o": 15,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#UJLRRU22",
+   "ath": 19,
+   "d": "#L2UUC9G82",
+   "dth": 19,
+   "dur": 114,
+   "o": 16,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 0.0,
+  "destruction": 8.15,
   "members": [
    {
     "name": "×ºkͥyuͣuͫº×",
@@ -171,12 +303,12 @@
    }
   ],
   "name": "Thirdzone",
-  "stars": 0,
+  "stars": 4,
   "tag": "#2GCQLVPR9"
  },
  "end": "20261126T193315.000Z",
  "opponent": {
-  "destruction": 20.0,
+  "destruction": 62.25,
   "members": [
    {
     "name": "Ulli",
@@ -300,7 +432,7 @@
    }
   ],
   "name": "Die Tscheckels",
-  "stars": 12,
+  "stars": 36,
   "tag": "#PJC2R0C9"
  },
  "start": "20261125T193315.000Z",
