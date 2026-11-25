@@ -582,6 +582,83 @@
    "p": 92,
    "s": 2,
    "side": "gegner"
+  },
+  {
+   "a": "#89QULVQC",
+   "ath": 19,
+   "d": "#GQ92Y99YV",
+   "dth": 19,
+   "dur": 147,
+   "o": 54,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#89QULVQC",
+   "ath": 19,
+   "d": "#LG882GJLY",
+   "dth": 19,
+   "dur": 140,
+   "o": 55,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#QYRQCGV00",
+   "ath": 19,
+   "d": "#L8QQ9J9GL",
+   "dth": 19,
+   "dur": 144,
+   "o": 56,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#QYRQCGV00",
+   "ath": 19,
+   "d": "#CGRUP2R0",
+   "dth": 19,
+   "dur": 140,
+   "o": 57,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#880298RVL",
+   "ath": 19,
+   "d": "#LRR2LJYL2",
+   "dth": 19,
+   "dur": 139,
+   "o": 58,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#880298RVL",
+   "ath": 19,
+   "d": "#Q8LVJL0R8",
+   "dth": 19,
+   "dur": 176,
+   "o": 59,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#QJJLUGQR0",
+   "ath": 19,
+   "d": "#QPJ9GG8LR",
+   "dth": 19,
+   "dur": 139,
+   "o": 60,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -775,7 +852,7 @@
  },
  "end": "20261125T175442.000Z",
  "opponent": {
-  "destruction": 75.433334,
+  "destruction": 86.666664,
   "members": [
    {
     "name": "✨سـلطـان✨♦️‏LMT",
@@ -959,7 +1036,7 @@
    }
   ],
   "name": "لمتنا احلا",
-  "stars": 65,
+  "stars": 78,
   "tag": "#299GC0CCJ"
  },
  "start": "20261124T175442.000Z",

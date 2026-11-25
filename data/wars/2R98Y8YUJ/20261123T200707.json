@@ -890,11 +890,44 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#RCUJR0PJ",
+   "ath": 19,
+   "d": "#GPGGU92CV",
+   "dth": 19,
+   "dur": 159,
+   "o": 82,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#9CYJG2VRP",
+   "ath": 19,
+   "d": "#2P9LYU8V0",
+   "dth": 19,
+   "dur": 146,
+   "o": 83,
+   "p": 89,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#9PG9V82QG",
+   "ath": 19,
+   "d": "#L08CGQPQC",
+   "dth": 19,
+   "dur": 109,
+   "o": 84,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 85.84,
+  "destruction": 89.62,
   "members": [
    {
     "name": "Hunga Munga",
@@ -1198,12 +1231,12 @@
    }
   ],
   "name": "Get Buttered!",
-  "stars": 127,
+  "stars": 132,
   "tag": "#2R98Y8YUJ"
  },
  "end": "20261125T190707.000Z",
  "opponent": {
-  "destruction": 62.8,
+  "destruction": 64.8,
   "members": [
    {
     "name": "➡️ＮＥＧＡＲ",
@@ -1507,7 +1540,7 @@
    }
   ],
   "name": "Arrow",
-  "stars": 92,
+  "stars": 95,
   "tag": "#PQU9YQCQ"
  },
  "start": "20261124T190707.000Z",

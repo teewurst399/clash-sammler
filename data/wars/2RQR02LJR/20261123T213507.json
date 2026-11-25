@@ -681,11 +681,121 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#8GCQLCYV",
+   "ath": 19,
+   "d": "#2Y899GQLP",
+   "dth": 19,
+   "dur": 177,
+   "o": 63,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#2YRCVQP0G",
+   "ath": 19,
+   "d": "#8JJCVYJ88",
+   "dth": 19,
+   "dur": 168,
+   "o": 64,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#8GCQLCYV",
+   "ath": 19,
+   "d": "#89PYGRLJR",
+   "dth": 19,
+   "dur": 176,
+   "o": 65,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#2YRCVQP0G",
+   "ath": 19,
+   "d": "#QUUP2G8QP",
+   "dth": 19,
+   "dur": 157,
+   "o": 66,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#YJLQUJGYC",
+   "ath": 19,
+   "d": "#2L9LG8LJ9",
+   "dth": 19,
+   "dur": 115,
+   "o": 67,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#800JQQV8U",
+   "ath": 19,
+   "d": "#V2U2RGQ9",
+   "dth": 19,
+   "dur": 177,
+   "o": 68,
+   "p": 90,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#YJLQUJGYC",
+   "ath": 19,
+   "d": "#82Y2URVGJ",
+   "dth": 19,
+   "dur": 109,
+   "o": 69,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#2PJU90JQV",
+   "ath": 19,
+   "d": "#L0GQGUV00",
+   "dth": 19,
+   "dur": 138,
+   "o": 70,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#YP8Q092J2",
+   "ath": 19,
+   "d": "#9YR0C2CGY",
+   "dth": 19,
+   "dur": 95,
+   "o": 71,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#YP8Q092J2",
+   "ath": 19,
+   "d": "#PJQUVU9LU",
+   "dth": 19,
+   "dur": 92,
+   "o": 72,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 37.444443,
+  "destruction": 44.22222,
   "members": [
    {
     "name": "RB",
@@ -959,12 +1069,12 @@
    }
   ],
   "name": "Legacy",
-  "stars": 48,
+  "stars": 59,
   "tag": "#2RQR02LJR"
  },
  "end": "20261125T203507.000Z",
  "opponent": {
-  "destruction": 77.53333,
+  "destruction": 88.64445,
   "members": [
    {
     "name": "MjolniR",
@@ -1238,7 +1348,7 @@
    }
   ],
   "name": "ATATÜRK",
-  "stars": 104,
+  "stars": 119,
   "tag": "#2P9LV098Y"
  },
  "start": "20261124T203507.000Z",

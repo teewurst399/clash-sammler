@@ -747,11 +747,99 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#RJJVU2LP",
+   "ath": 19,
+   "d": "#QVLU0RQQ",
+   "dth": 19,
+   "dur": 119,
+   "o": 69,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#QC0RCJU8",
+   "ath": 19,
+   "d": "#QRVVYPC9",
+   "dth": 19,
+   "dur": 152,
+   "o": 70,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#L202VGU22",
+   "ath": 19,
+   "d": "#2G980V0P",
+   "dth": 19,
+   "dur": 180,
+   "o": 71,
+   "p": 99,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#QC0RCJU8",
+   "ath": 19,
+   "d": "#8P0L9Q92",
+   "dth": 19,
+   "dur": 162,
+   "o": 72,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#PQQ90JLP",
+   "ath": 19,
+   "d": "#8LCG0Q9C",
+   "dth": 19,
+   "dur": 180,
+   "o": 73,
+   "p": 91,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#QQJCJ8C9G",
+   "ath": 19,
+   "d": "#Y298U2R",
+   "dth": 19,
+   "dur": 160,
+   "o": 74,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#8P02RLYU0",
+   "ath": 19,
+   "d": "#82908L9LL",
+   "dth": 19,
+   "dur": 152,
+   "o": 75,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#8P02RLYU0",
+   "ath": 19,
+   "d": "#JVJJLJC2",
+   "dth": 19,
+   "dur": 152,
+   "o": 76,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 49.025,
+  "destruction": 63.775,
   "members": [
    {
     "name": "pAx",
@@ -995,12 +1083,12 @@
    }
   ],
   "name": "FruchtLabor III",
-  "stars": 56,
+  "stars": 72,
   "tag": "#2RGV2UQY9"
  },
  "end": "20261125T191702.000Z",
  "opponent": {
-  "destruction": 89.125,
+  "destruction": 94.125,
   "members": [
    {
     "name": "LeroyT",
@@ -1244,7 +1332,7 @@
    }
   ],
   "name": "Class of Clans!",
-  "stars": 103,
+  "stars": 109,
   "tag": "#2G9QQVV2"
  },
  "start": "20261124T191702.000Z",

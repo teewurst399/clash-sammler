@@ -758,11 +758,88 @@
    "p": 84,
    "s": 2,
    "side": "clan"
+  },
+  {
+   "a": "#898QL2V20",
+   "ath": 19,
+   "d": "#PVJUVY2L",
+   "dth": 19,
+   "dur": 177,
+   "o": 70,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#898QL2V20",
+   "ath": 19,
+   "d": "#9P9PCCU0J",
+   "dth": 19,
+   "dur": 152,
+   "o": 71,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#PRV0GPU2",
+   "ath": 19,
+   "d": "#98GRJJCL",
+   "dth": 19,
+   "dur": 166,
+   "o": 72,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#YQVPP0YL",
+   "ath": 19,
+   "d": "#88YJQU0Y8",
+   "dth": 19,
+   "dur": 149,
+   "o": 73,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#YQVPP0YL",
+   "ath": 19,
+   "d": "#YGP09Q029",
+   "dth": 19,
+   "dur": 156,
+   "o": 74,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#R2LLJQLP",
+   "ath": 19,
+   "d": "#R028VRC",
+   "dth": 19,
+   "dur": 152,
+   "o": 75,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#R2LLJQLP",
+   "ath": 19,
+   "d": "#2YU29VJJ",
+   "dth": 19,
+   "dur": 137,
+   "o": 76,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 77.4,
+  "destruction": 83.2,
   "members": [
    {
     "name": "Agent Hulk",
@@ -1006,12 +1083,12 @@
    }
   ],
   "name": "FruchtLabor II",
-  "stars": 87,
+  "stars": 96,
   "tag": "#2GQ929RRR"
  },
  "end": "20261125T200012.000Z",
  "opponent": {
-  "destruction": 76.35,
+  "destruction": 81.35,
   "members": [
    {
     "name": "RNLMC",
@@ -1255,7 +1332,7 @@
    }
   ],
   "name": "Dutch Legion 3",
-  "stars": 91,
+  "stars": 97,
   "tag": "#28UYR0CVU"
  },
  "start": "20261124T200012.000Z",

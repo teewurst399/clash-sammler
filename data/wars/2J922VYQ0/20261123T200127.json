@@ -890,6 +890,61 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#LVRC9JRV8",
+   "ath": 19,
+   "d": "#G8LG8V08V",
+   "dth": 19,
+   "dur": 145,
+   "o": 82,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#GLJUVG99V",
+   "ath": 19,
+   "d": "#R8CQG902",
+   "dth": 19,
+   "dur": 146,
+   "o": 83,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#8YL89PLVR",
+   "ath": 19,
+   "d": "#8VJ9V0LP2",
+   "dth": 19,
+   "dur": 180,
+   "o": 84,
+   "p": 85,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#8CURLCRJU",
+   "ath": 19,
+   "d": "#QV29Q0Q0V",
+   "dth": 19,
+   "dur": 131,
+   "o": 85,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#GLJUVG99V",
+   "ath": 19,
+   "d": "#QGYVJVQJ",
+   "dth": 19,
+   "dur": 127,
+   "o": 86,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -1173,7 +1228,7 @@
  },
  "end": "20261125T190127.000Z",
  "opponent": {
-  "destruction": 58.866665,
+  "destruction": 67.755554,
   "members": [
    {
     "name": "Mohammad Yeasin",
@@ -1447,7 +1502,7 @@
    }
   ],
   "name": "DEATH CARNIVAL",
-  "stars": 74,
+  "stars": 86,
   "tag": "#CV999J2"
  },
  "start": "20261124T190127.000Z",

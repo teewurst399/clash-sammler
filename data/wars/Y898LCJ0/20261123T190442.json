@@ -945,6 +945,17 @@
    "p": 90,
    "s": 1,
    "side": "clan"
+  },
+  {
+   "a": "#LU2CGVVG",
+   "ath": 19,
+   "d": "#PGPJUCQR8",
+   "dth": 19,
+   "dur": 139,
+   "o": 87,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -1198,7 +1209,7 @@
  },
  "end": "20261125T180442.000Z",
  "opponent": {
-  "destruction": 99.2,
+  "destruction": 99.275,
   "members": [
    {
     "name": "iskender",
@@ -1442,7 +1453,7 @@
    }
   ],
   "name": "MADE in TURKEY",
-  "stars": 115,
+  "stars": 116,
   "tag": "#VRPYLG"
  },
  "start": "20261124T180442.000Z",

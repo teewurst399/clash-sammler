@@ -1627,6 +1627,17 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#J8CPGP8",
+   "ath": 19,
+   "d": "#QUQGQ8GL8",
+   "dth": 19,
+   "dur": 134,
+   "o": 149,
+   "p": 80,
+   "s": 2,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,

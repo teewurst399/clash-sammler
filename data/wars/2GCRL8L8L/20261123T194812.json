@@ -703,11 +703,110 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#LCYYVLCUG",
+   "ath": 19,
+   "d": "#QCJQC9V9Y",
+   "dth": 19,
+   "dur": 107,
+   "o": 65,
+   "p": 84,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#PL8RG099Q",
+   "ath": 19,
+   "d": "#90QVJUYR",
+   "dth": 19,
+   "dur": 120,
+   "o": 66,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#LYJ00U0R9",
+   "ath": 19,
+   "d": "#PCLUCUGP8",
+   "dth": 19,
+   "dur": 133,
+   "o": 67,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#PL8RG099Q",
+   "ath": 19,
+   "d": "#9LJV8GPJ2",
+   "dth": 19,
+   "dur": 166,
+   "o": 68,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#LYJ00U0R9",
+   "ath": 19,
+   "d": "#P9VG9299Y",
+   "dth": 19,
+   "dur": 135,
+   "o": 69,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#PGL0QUC0",
+   "ath": 19,
+   "d": "#89Q08LGR8",
+   "dth": 19,
+   "dur": 169,
+   "o": 70,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#PGL0QUC0",
+   "ath": 19,
+   "d": "#YUUPQC8V8",
+   "dth": 19,
+   "dur": 138,
+   "o": 71,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#VLLCRUJJ",
+   "ath": 19,
+   "d": "#YJ2JRJU2R",
+   "dth": 18,
+   "dur": 136,
+   "o": 72,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#VLLCRUJJ",
+   "ath": 19,
+   "d": "#9098PLY82",
+   "dth": 19,
+   "dur": 134,
+   "o": 73,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 72.4,
+  "destruction": 87.5,
   "members": [
    {
     "name": "BB •Nico•",
@@ -951,12 +1050,12 @@
    }
   ],
   "name": "BrawlerBaller",
-  "stars": 85,
+  "stars": 105,
   "tag": "#2GCRL8L8L"
  },
  "end": "20261125T184812.000Z",
  "opponent": {
-  "destruction": 69.55,
+  "destruction": 71.65,
   "members": [
    {
     "name": "✌СЕРЖ✌",
@@ -1200,7 +1299,7 @@
    }
   ],
   "name": "Ukraine forever",
-  "stars": 81,
+  "stars": 83,
   "tag": "#2QQQ9GUCR"
  },
  "start": "20261124T184812.000Z",

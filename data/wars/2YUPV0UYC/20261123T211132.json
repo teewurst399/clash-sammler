@@ -593,6 +593,50 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#2880PC0GR",
+   "ath": 19,
+   "d": "#PRVVCQJUY",
+   "dth": 19,
+   "dur": 79,
+   "o": 55,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#2880PC0GR",
+   "ath": 19,
+   "d": "#8VP9YV8VC",
+   "dth": 19,
+   "dur": 148,
+   "o": 56,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#GJQUL2CQU",
+   "ath": 19,
+   "d": "#L8RUP2ULR",
+   "dth": 19,
+   "dur": 101,
+   "o": 57,
+   "p": 65,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#GJQUL2CQU",
+   "ath": 19,
+   "d": "#9JU8QQLRL",
+   "dth": 19,
+   "dur": 150,
+   "o": 58,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -846,7 +890,7 @@
  },
  "end": "20261125T201132.000Z",
  "opponent": {
-  "destruction": 54.15,
+  "destruction": 63.275,
   "members": [
    {
     "name": "꧁BLACK☬DRAGON꧂",
@@ -1090,7 +1134,7 @@
    }
   ],
   "name": "White Phoenix",
-  "stars": 63,
+  "stars": 73,
   "tag": "#2L0GRJUQL"
  },
  "start": "20261124T201132.000Z",

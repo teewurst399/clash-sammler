@@ -1154,6 +1154,149 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#QQYY2C8C",
+   "ath": 18,
+   "d": "#Q9JRU8G2",
+   "dth": 19,
+   "dur": 177,
+   "o": 106,
+   "p": 81,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#2GYC08GJG",
+   "ath": 19,
+   "d": "#2CYYGU9J",
+   "dth": 19,
+   "dur": 166,
+   "o": 107,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#2GYC08GJG",
+   "ath": 19,
+   "d": "#GGP0UJP8",
+   "dth": 19,
+   "dur": 131,
+   "o": 108,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#QQYY2C8C",
+   "ath": 18,
+   "d": "#UCPJ2QPL",
+   "dth": 19,
+   "dur": 175,
+   "o": 109,
+   "p": 88,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#PU9VUR8P",
+   "ath": 19,
+   "d": "#2QRYPCV8P",
+   "dth": 19,
+   "dur": 156,
+   "o": 110,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#PU9VUR8P",
+   "ath": 19,
+   "d": "#GV9V88LJ",
+   "dth": 19,
+   "dur": 159,
+   "o": 111,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#PJ9CL2L80",
+   "ath": 19,
+   "d": "#L9JGJQRV",
+   "dth": 19,
+   "dur": 139,
+   "o": 112,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#PJ9CL2L80",
+   "ath": 19,
+   "d": "#UQ0G82JP",
+   "dth": 19,
+   "dur": 169,
+   "o": 113,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#GVPJQ2L",
+   "ath": 19,
+   "d": "#9GUJG9QR",
+   "dth": 19,
+   "dur": 160,
+   "o": 114,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#GVPJQ2L",
+   "ath": 19,
+   "d": "#Q9JRU8G2",
+   "dth": 19,
+   "dur": 179,
+   "o": 115,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#YPL2CR89P",
+   "ath": 19,
+   "d": "#LVPVQPY8G",
+   "dth": 19,
+   "dur": 102,
+   "o": 116,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#Y9VY0QLQ2",
+   "ath": 19,
+   "d": "#8U008CQCJ",
+   "dth": 19,
+   "dur": 142,
+   "o": 117,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#22Y0VUP09",
+   "ath": 19,
+   "d": "#QCU8909Y8",
+   "dth": 19,
+   "dur": 125,
+   "o": 118,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -1467,7 +1610,7 @@
  },
  "end": "20261125T192437.000Z",
  "opponent": {
-  "destruction": 89.96,
+  "destruction": 99.4,
   "members": [
    {
     "name": "☢️poury@khani☢️",
@@ -1771,7 +1914,7 @@
    }
   ],
   "name": "اهورا",
-  "stars": 128,
+  "stars": 148,
   "tag": "#8GQLP0UY"
  },
  "start": "20261124T192437.000Z",
