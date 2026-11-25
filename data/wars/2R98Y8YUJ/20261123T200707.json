@@ -1473,6 +1473,182 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#2V9CJ2CJ0",
+   "ath": 19,
+   "d": "#8UPR8L009",
+   "dth": 19,
+   "dur": 162,
+   "o": 135,
+   "p": 78,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#2V9CJ2CJ0",
+   "ath": 19,
+   "d": "#209JPGGV9",
+   "dth": 19,
+   "dur": 174,
+   "o": 136,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#20JUC909Q",
+   "ath": 19,
+   "d": "#8UPR8L009",
+   "dth": 19,
+   "dur": 180,
+   "o": 137,
+   "p": 90,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#20JUC909Q",
+   "ath": 19,
+   "d": "#G0V9PL2P",
+   "dth": 19,
+   "dur": 161,
+   "o": 138,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#8GC9VJJP0",
+   "ath": 19,
+   "d": "#P00LGL02L",
+   "dth": 19,
+   "dur": 12,
+   "o": 139,
+   "p": 22,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#8GC9VJJP0",
+   "ath": 19,
+   "d": "#8RLJC2V28",
+   "dth": 19,
+   "dur": 21,
+   "o": 140,
+   "p": 32,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#YG9LLQ8L",
+   "ath": 19,
+   "d": "#P00LGL02L",
+   "dth": 19,
+   "dur": 7,
+   "o": 141,
+   "p": 3,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#YG9LLQ8L",
+   "ath": 19,
+   "d": "#8RLJC2V28",
+   "dth": 19,
+   "dur": 20,
+   "o": 142,
+   "p": 32,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#Q0RUJC9J2",
+   "ath": 19,
+   "d": "#P00LGL02L",
+   "dth": 19,
+   "dur": 168,
+   "o": 143,
+   "p": 99,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#Q0RUJC9J2",
+   "ath": 19,
+   "d": "#8RLJC2V28",
+   "dth": 19,
+   "dur": 133,
+   "o": 144,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#8CR9RJ00V",
+   "ath": 19,
+   "d": "#8UPR8L009",
+   "dth": 19,
+   "dur": 118,
+   "o": 145,
+   "p": 69,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#8CR9RJ00V",
+   "ath": 19,
+   "d": "#LQ2CLJVP",
+   "dth": 19,
+   "dur": 12,
+   "o": 146,
+   "p": 15,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#8JU8YGJJY",
+   "ath": 19,
+   "d": "#P00LGL02L",
+   "dth": 19,
+   "dur": 5,
+   "o": 147,
+   "p": 8,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#LCGRV8JVR",
+   "ath": 19,
+   "d": "#8UPR8L009",
+   "dth": 19,
+   "dur": 154,
+   "o": 148,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#8JU8YGJJY",
+   "ath": 19,
+   "d": "#R8G9GP8R",
+   "dth": 19,
+   "dur": 20,
+   "o": 149,
+   "p": 14,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#LCGRV8JVR",
+   "ath": 19,
+   "d": "#LQ2CLJVP",
+   "dth": 19,
+   "dur": 13,
+   "o": 150,
+   "p": 18,
+   "s": 1,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -1786,7 +1962,7 @@
  },
  "end": "20261125T190707.000Z",
  "opponent": {
-  "destruction": 99.58,
+  "destruction": 100.0,
   "members": [
    {
     "name": "➡️ＮＥＧＡＲ",
@@ -2090,7 +2266,7 @@
    }
   ],
   "name": "Arrow",
-  "stars": 147,
+  "stars": 150,
   "tag": "#PQU9YQCQ"
  },
  "start": "20261124T190707.000Z",

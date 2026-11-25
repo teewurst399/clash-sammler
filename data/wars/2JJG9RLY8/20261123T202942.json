@@ -780,11 +780,110 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#QCL0GJVV0",
+   "ath": 19,
+   "d": "#ULVL8998",
+   "dth": 19,
+   "dur": 133,
+   "o": 72,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#QCL0GJVV0",
+   "ath": 19,
+   "d": "#QPPJC9YC",
+   "dth": 19,
+   "dur": 149,
+   "o": 73,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#UV9PGG0",
+   "ath": 19,
+   "d": "#UJ9VCRYG",
+   "dth": 19,
+   "dur": 91,
+   "o": 74,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#YCJ9UUJRG",
+   "ath": 19,
+   "d": "#JGVP0VGL",
+   "dth": 19,
+   "dur": 107,
+   "o": 75,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#UV9PGG0",
+   "ath": 19,
+   "d": "#2CGQL2G",
+   "dth": 19,
+   "dur": 103,
+   "o": 76,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#GJQVGJL2",
+   "ath": 19,
+   "d": "#L990G9UC",
+   "dth": 19,
+   "dur": 180,
+   "o": 77,
+   "p": 99,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#GJQVGJL2",
+   "ath": 19,
+   "d": "#UV0928LJ",
+   "dth": 19,
+   "dur": 122,
+   "o": 78,
+   "p": 80,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#YULUCPPRY",
+   "ath": 19,
+   "d": "#L990G9UC",
+   "dth": 19,
+   "dur": 105,
+   "o": 79,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#YULUCPPRY",
+   "ath": 19,
+   "d": "#UJ9VCRYG",
+   "dth": 19,
+   "dur": 12,
+   "o": 80,
+   "p": 13,
+   "s": 1,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 83.64,
+  "destruction": 100.0,
   "members": [
    {
     "name": "DΔツLion",
@@ -938,7 +1037,7 @@
    }
   ],
   "name": "Dark Angel",
-  "stars": 61,
+  "stars": 75,
   "tag": "#2JJG9RLY8"
  },
  "end": "20261125T192942.000Z",

@@ -1022,11 +1022,121 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#GY9RPRJCG",
+   "ath": 19,
+   "d": "#LCGJQVCC0",
+   "dth": 19,
+   "dur": 124,
+   "o": 94,
+   "p": 81,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#8RYQUCVRU",
+   "ath": 19,
+   "d": "#LCGJQVCC0",
+   "dth": 19,
+   "dur": 169,
+   "o": 95,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#GY9RPRJCG",
+   "ath": 19,
+   "d": "#928GR0J2P",
+   "dth": 19,
+   "dur": 150,
+   "o": 96,
+   "p": 85,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#8JQ8QG80C",
+   "ath": 19,
+   "d": "#9UQYGU00J",
+   "dth": 19,
+   "dur": 180,
+   "o": 97,
+   "p": 98,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#8JQ8QG80C",
+   "ath": 19,
+   "d": "#GU9Q8Q99",
+   "dth": 19,
+   "dur": 147,
+   "o": 98,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#8JR282YGY",
+   "ath": 19,
+   "d": "#8GV2R0VLG",
+   "dth": 19,
+   "dur": 154,
+   "o": 99,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#RU8PC0VV",
+   "ath": 18,
+   "d": "#928GR0J2P",
+   "dth": 19,
+   "dur": 165,
+   "o": 100,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#PY2JVUG20",
+   "ath": 19,
+   "d": "#U90YUUQV",
+   "dth": 19,
+   "dur": 140,
+   "o": 101,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#Y8JLCLQL",
+   "ath": 19,
+   "d": "#8JR282YGY",
+   "dth": 19,
+   "dur": 11,
+   "o": 102,
+   "p": 4,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#8JR282YGY",
+   "ath": 19,
+   "d": "#9UQYGU00J",
+   "dth": 19,
+   "dur": 141,
+   "o": 103,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 93.325,
+  "destruction": 95.0,
   "members": [
    {
     "name": "LOST☆stefan",
@@ -1270,12 +1380,12 @@
    }
   ],
   "name": "LOST 3",
-  "stars": 111,
+  "stars": 114,
   "tag": "#2YUPV0UYC"
  },
  "end": "20261125T201132.000Z",
  "opponent": {
-  "destruction": 99.25,
+  "destruction": 100.0,
   "members": [
    {
     "name": "꧁BLACK☬DRAGON꧂",
@@ -1519,7 +1629,7 @@
    }
   ],
   "name": "White Phoenix",
-  "stars": 118,
+  "stars": 120,
   "tag": "#2L0GRJUQL"
  },
  "start": "20261124T201132.000Z",

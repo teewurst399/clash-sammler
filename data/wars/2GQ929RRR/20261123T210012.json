@@ -1374,6 +1374,127 @@
    "p": 90,
    "s": 2,
    "side": "clan"
+  },
+  {
+   "a": "#LCPG8GPUC",
+   "ath": 19,
+   "d": "#JY20JJPL",
+   "dth": 19,
+   "dur": 171,
+   "o": 126,
+   "p": 76,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#G9V9JGQP",
+   "ath": 19,
+   "d": "#8YRUUUYJ",
+   "dth": 19,
+   "dur": 7,
+   "o": 127,
+   "p": 22,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#QLCUJVRU",
+   "ath": 19,
+   "d": "#Y0JCJQRG",
+   "dth": 19,
+   "dur": 22,
+   "o": 128,
+   "p": 29,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#QLCUJVRU",
+   "ath": 19,
+   "d": "#GR98QLUPL",
+   "dth": 19,
+   "dur": 5,
+   "o": 129,
+   "p": 7,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#909JUURLR",
+   "ath": 19,
+   "d": "#8YRUUUYJ",
+   "dth": 19,
+   "dur": 4,
+   "o": 130,
+   "p": 12,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#909JUURLR",
+   "ath": 19,
+   "d": "#L9LP9R2",
+   "dth": 19,
+   "dur": 4,
+   "o": 131,
+   "p": 13,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#YQL8UJQP0",
+   "ath": 19,
+   "d": "#8YRUUUYJ",
+   "dth": 19,
+   "dur": 8,
+   "o": 132,
+   "p": 3,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#YQL8UJQP0",
+   "ath": 19,
+   "d": "#9U22GJC0V",
+   "dth": 19,
+   "dur": 7,
+   "o": 133,
+   "p": 8,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#2YU29VJJ",
+   "ath": 19,
+   "d": "#G0QLC29JR",
+   "dth": 19,
+   "dur": 180,
+   "o": 134,
+   "p": 98,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#YGP09Q029",
+   "ath": 19,
+   "d": "#LPL2QRL92",
+   "dth": 19,
+   "dur": 129,
+   "o": 135,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#29R2UVPL",
+   "ath": 19,
+   "d": "#G0QLC29JR",
+   "dth": 19,
+   "dur": 136,
+   "o": 136,
+   "p": 59,
+   "s": 2,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,

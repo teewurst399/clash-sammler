@@ -648,11 +648,88 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#9CCJGGL9J",
+   "ath": 19,
+   "d": "#8PPURV22L",
+   "dth": 19,
+   "dur": 141,
+   "o": 60,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#C9VP88Y8",
+   "ath": 19,
+   "d": "#2ULLUJ0RL",
+   "dth": 19,
+   "dur": 147,
+   "o": 61,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#8QYV8VULV",
+   "ath": 18,
+   "d": "#2GUYUUUQQ",
+   "dth": 15,
+   "dur": 134,
+   "o": 62,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#9CCJGGL9J",
+   "ath": 19,
+   "d": "#QY9G0Y8CJ",
+   "dth": 14,
+   "dur": 127,
+   "o": 63,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#C9VP88Y8",
+   "ath": 19,
+   "d": "#QJVG00GUP",
+   "dth": 14,
+   "dur": 114,
+   "o": 64,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#LRJJQU0Q9",
+   "ath": 19,
+   "d": "#PGP2YPYP2",
+   "dth": 19,
+   "dur": 23,
+   "o": 65,
+   "p": 20,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#LRJJQU0Q9",
+   "ath": 19,
+   "d": "#2GUQPJ2V2",
+   "dth": 19,
+   "dur": 58,
+   "o": 66,
+   "p": 48,
+   "s": 1,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 92.36,
+  "destruction": 100.0,
   "members": [
    {
     "name": "❗️B༏g BaསG❗️",
@@ -806,7 +883,7 @@
    }
   ],
   "name": "Betazone",
-  "stars": 68,
+  "stars": 75,
   "tag": "#2QLJ99LRJ"
  },
  "end": "20261125T205943.000Z",

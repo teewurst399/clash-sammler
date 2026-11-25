@@ -1385,6 +1385,116 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#2GQ0QJ9GJ",
+   "ath": 19,
+   "d": "#RL9Y9QJP",
+   "dth": 19,
+   "dur": 41,
+   "o": 127,
+   "p": 54,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#2GQ0QJ9GJ",
+   "ath": 19,
+   "d": "#QJRQRG8G",
+   "dth": 19,
+   "dur": 11,
+   "o": 128,
+   "p": 53,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#8UJUCJ00",
+   "ath": 19,
+   "d": "#2Y9YU0CQR",
+   "dth": 19,
+   "dur": 180,
+   "o": 129,
+   "p": 98,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#GP9RYGVRR",
+   "ath": 19,
+   "d": "#QJRQRG8G",
+   "dth": 19,
+   "dur": 25,
+   "o": 130,
+   "p": 6,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#GP9RYGVRR",
+   "ath": 19,
+   "d": "#208G80VQC",
+   "dth": 19,
+   "dur": 23,
+   "o": 131,
+   "p": 5,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#8UJUCJ00",
+   "ath": 19,
+   "d": "#YG8GUVGYV",
+   "dth": 19,
+   "dur": 175,
+   "o": 132,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#LJJL8L0",
+   "ath": 19,
+   "d": "#QJRQRG8G",
+   "dth": 19,
+   "dur": 5,
+   "o": 133,
+   "p": 14,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#LJJL8L0",
+   "ath": 19,
+   "d": "#208G80VQC",
+   "dth": 19,
+   "dur": 11,
+   "o": 134,
+   "p": 15,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#82CU920QP",
+   "ath": 18,
+   "d": "#RJ800GLP",
+   "dth": 19,
+   "dur": 159,
+   "o": 135,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#82CU920QP",
+   "ath": 18,
+   "d": "#GP9RYGVRR",
+   "dth": 19,
+   "dur": 180,
+   "o": 136,
+   "p": 77,
+   "s": 1,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -1638,7 +1748,7 @@
  },
  "end": "20261125T181722.000Z",
  "opponent": {
-  "destruction": 95.125,
+  "destruction": 95.7,
   "members": [
    {
     "name": "Viridis",
@@ -1882,11 +1992,11 @@
    }
   ],
   "name": "808 Beach",
-  "stars": 103,
+  "stars": 105,
   "tag": "#GVVVJL8R"
  },
  "start": "20261124T181722.000Z",
- "state": "inWar",
+ "state": "warEnded",
  "teamSize": 40,
  "type": "krieg"
 }

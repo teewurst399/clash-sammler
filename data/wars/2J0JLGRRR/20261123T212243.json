@@ -428,11 +428,187 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#R289RQQCP",
+   "ath": 18,
+   "d": "#LQL9P0CVJ",
+   "dth": 10,
+   "dur": 34,
+   "o": 40,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#R08VJLYCL",
+   "ath": 15,
+   "d": "#YPUGCQVR0",
+   "dth": 13,
+   "dur": 79,
+   "o": 41,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#R08VJLYCL",
+   "ath": 15,
+   "d": "#G29PJPCRU",
+   "dth": 13,
+   "dur": 55,
+   "o": 42,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#GPLRJ0G9Q",
+   "ath": 18,
+   "d": "#8P9VVY9R8",
+   "dth": 18,
+   "dur": 163,
+   "o": 43,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#GPLRJ0G9Q",
+   "ath": 18,
+   "d": "#GYQJ22U8G",
+   "dth": 18,
+   "dur": 154,
+   "o": 44,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#GQLU99U2C",
+   "ath": 18,
+   "d": "#R28VGJQUL",
+   "dth": 16,
+   "dur": 73,
+   "o": 45,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#GQLU99U2C",
+   "ath": 18,
+   "d": "#9YPY02UGQ",
+   "dth": 13,
+   "dur": 79,
+   "o": 46,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#QRP8YCQRP",
+   "ath": 9,
+   "d": "#GUQRRUVL2",
+   "dth": 15,
+   "dur": 52,
+   "o": 47,
+   "p": 23,
+   "s": 0,
+   "side": "gegner"
+  },
+  {
+   "a": "#82YG989CG",
+   "ath": 18,
+   "d": "#89299QPG0",
+   "dth": 15,
+   "dur": 100,
+   "o": 48,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#82YG989CG",
+   "ath": 18,
+   "d": "#8JL0VV0GL",
+   "dth": 15,
+   "dur": 123,
+   "o": 49,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#YC08Q0CV",
+   "ath": 16,
+   "d": "#8CJU0R08V",
+   "dth": 13,
+   "dur": 92,
+   "o": 50,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#GYQJ22U8G",
+   "ath": 18,
+   "d": "#YC08Q0CV",
+   "dth": 16,
+   "dur": 141,
+   "o": 51,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#YPUGCQVR0",
+   "ath": 13,
+   "d": "#GUQRRUVL2",
+   "dth": 15,
+   "dur": 68,
+   "o": 52,
+   "p": 48,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#YC08Q0CV",
+   "ath": 16,
+   "d": "#GGVRLYV2L",
+   "dth": 17,
+   "dur": 150,
+   "o": 53,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#GGVRLYV2L",
+   "ath": 17,
+   "d": "#GUQRRUVL2",
+   "dth": 15,
+   "dur": 148,
+   "o": 54,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#GGVRLYV2L",
+   "ath": 17,
+   "d": "#CRG2JP0Y",
+   "dth": 16,
+   "dur": 180,
+   "o": 55,
+   "p": 94,
+   "s": 1,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 71.12,
+  "destruction": 92.0,
   "members": [
    {
     "name": "G!B Badoomi",
@@ -586,12 +762,12 @@
    }
   ],
   "name": "Get Smurfed!",
-  "stars": 51,
+  "stars": 69,
   "tag": "#2J0JLGRRR"
  },
  "end": "20261125T202243.000Z",
  "opponent": {
-  "destruction": 71.88,
+  "destruction": 95.64,
   "members": [
    {
     "name": "MKNSZ",
@@ -745,7 +921,7 @@
    }
   ],
   "name": "ANTİTERÖR CLÜP",
-  "stars": 52,
+  "stars": 68,
   "tag": "#JYQVPCC8"
  },
  "start": "20261124T202243.000Z",

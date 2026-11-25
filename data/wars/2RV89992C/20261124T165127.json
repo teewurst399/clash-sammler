@@ -164,6 +164,39 @@
    "p": 94,
    "s": 2,
    "side": "gegner"
+  },
+  {
+   "a": "#QGPQUVQRC",
+   "ath": 19,
+   "d": "#2GY0QC80R",
+   "dth": 18,
+   "dur": 83,
+   "o": 16,
+   "p": 78,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#L8099GC2C",
+   "ath": 15,
+   "d": "#R20LGR0RG",
+   "dth": 15,
+   "dur": 158,
+   "o": 17,
+   "p": 84,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#L8099GC2C",
+   "ath": 15,
+   "d": "#2GY0QC80R",
+   "dth": 18,
+   "dur": 120,
+   "o": 18,
+   "p": 67,
+   "s": 1,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -327,7 +360,7 @@
  },
  "end": "20261126T155127.000Z",
  "opponent": {
-  "destruction": 47.76,
+  "destruction": 54.24,
   "members": [
    {
     "name": "obe jon",
@@ -481,7 +514,7 @@
    }
   ],
   "name": "The Kings",
-  "stars": 35,
+  "stars": 38,
   "tag": "#2J92J8YCY"
  },
  "start": "20261125T155127.000Z",

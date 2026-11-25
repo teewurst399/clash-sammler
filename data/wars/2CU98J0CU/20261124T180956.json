@@ -164,11 +164,99 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#8VPRY29RY",
+   "ath": 19,
+   "d": "#LGU0RC88V",
+   "dth": 19,
+   "dur": 121,
+   "o": 16,
+   "p": 94,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#8VPRY29RY",
+   "ath": 19,
+   "d": "#22RLJ00JV",
+   "dth": 19,
+   "dur": 76,
+   "o": 17,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#CJRL9QR",
+   "ath": 19,
+   "d": "#9YVPQQ2JY",
+   "dth": 19,
+   "dur": 167,
+   "o": 18,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#CJRL9QR",
+   "ath": 19,
+   "d": "#L8QP2JL8J",
+   "dth": 19,
+   "dur": 174,
+   "o": 19,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#QRJCJY098",
+   "ath": 19,
+   "d": "#LUVYGRUP",
+   "dth": 19,
+   "dur": 107,
+   "o": 20,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#QRJCJY098",
+   "ath": 19,
+   "d": "#JG8JVQ2R",
+   "dth": 19,
+   "dur": 114,
+   "o": 21,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#928G8GC08",
+   "ath": 19,
+   "d": "#9L8QGQ22G",
+   "dth": 19,
+   "dur": 141,
+   "o": 22,
+   "p": 72,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#LY9PC80QY",
+   "ath": 19,
+   "d": "#LGU0RC88V",
+   "dth": 19,
+   "dur": 93,
+   "o": 23,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 12.5,
+  "destruction": 19.3,
   "members": [
    {
     "name": "Patrón",
@@ -412,12 +500,12 @@
    }
   ],
   "name": "Throne_of_SRG",
-  "stars": 15,
+  "stars": 23,
   "tag": "#2CU98J0CU"
  },
  "end": "20261126T170956.000Z",
  "opponent": {
-  "destruction": 20.0,
+  "destruction": 30.0,
   "members": [
    {
     "name": "Krax mini",
@@ -661,7 +749,7 @@
    }
   ],
   "name": "espada",
-  "stars": 24,
+  "stars": 36,
   "tag": "#2GLL8JJLL"
  },
  "start": "20261125T170956.000Z",

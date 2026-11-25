@@ -923,6 +923,83 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#8PY2QUCCY",
+   "ath": 19,
+   "d": "#GPLYGPVR",
+   "dth": 19,
+   "dur": 137,
+   "o": 85,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#L0CRP2J28",
+   "ath": 19,
+   "d": "#8GVC80QV9",
+   "dth": 19,
+   "dur": 90,
+   "o": 86,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#L0CRP2J28",
+   "ath": 19,
+   "d": "#PRPPJLV",
+   "dth": 19,
+   "dur": 84,
+   "o": 87,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#GCC8LVL",
+   "ath": 19,
+   "d": "#8U80UUVRR",
+   "dth": 19,
+   "dur": 23,
+   "o": 88,
+   "p": 31,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#GCC8LVL",
+   "ath": 19,
+   "d": "#2JP9GCLJG",
+   "dth": 19,
+   "dur": 28,
+   "o": 89,
+   "p": 55,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#2YG098U0",
+   "ath": 19,
+   "d": "#PV9PQY0G",
+   "dth": 19,
+   "dur": 23,
+   "o": 90,
+   "p": 23,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#2YG098U0",
+   "ath": 19,
+   "d": "#8PY2QUCCY",
+   "dth": 19,
+   "dur": 13,
+   "o": 91,
+   "p": 13,
+   "s": 1,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
@@ -1086,7 +1163,7 @@
  },
  "end": "20261125T192312.000Z",
  "opponent": {
-  "destruction": 94.04,
+  "destruction": 95.24,
   "members": [
    {
     "name": "Sir Andre",
@@ -1240,7 +1317,7 @@
    }
   ],
   "name": "Joe‘s Home",
-  "stars": 67,
+  "stars": 70,
   "tag": "#2GRGC0Q0P"
  },
  "start": "20261124T192312.000Z",
