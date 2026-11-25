@@ -65,6 +65,50 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#98YPQRUG8",
+   "ath": 19,
+   "d": "#YULURQJ0R",
+   "dth": 19,
+   "dur": 138,
+   "o": 7,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#8Y090YPPC",
+   "ath": 18,
+   "d": "#QVJJVQGL",
+   "dth": 19,
+   "dur": 140,
+   "o": 8,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#GVRJ88LJ9",
+   "ath": 14,
+   "d": "#GJ2V9L09V",
+   "dth": 8,
+   "dur": 96,
+   "o": 9,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#GVRJ88LJ9",
+   "ath": 14,
+   "d": "#GURG9QPRV",
+   "dth": 9,
+   "dur": 115,
+   "o": 10,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -198,7 +242,7 @@
  },
  "end": "20261125T190130.000Z",
  "opponent": {
-  "destruction": 0.0,
+  "destruction": 20.0,
   "members": [
    {
     "name": "Amar",
@@ -322,7 +366,7 @@
    }
   ],
   "name": "JR.NEPALI ALL☆☆",
-  "stars": 0,
+  "stars": 12,
   "tag": "#LPR2RY08"
  },
  "start": "20261124T190130.000Z",

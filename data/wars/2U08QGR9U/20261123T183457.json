@@ -659,6 +659,116 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#PVU02C98",
+   "ath": 19,
+   "d": "#QPJY29QC2",
+   "dth": 19,
+   "dur": 118,
+   "o": 61,
+   "p": 83,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#PVU02C98",
+   "ath": 19,
+   "d": "#L9J800989",
+   "dth": 19,
+   "dur": 117,
+   "o": 62,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#8P9LUYJ2C",
+   "ath": 19,
+   "d": "#QPJY29QC2",
+   "dth": 19,
+   "dur": 152,
+   "o": 63,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#8P9LUYJ2C",
+   "ath": 19,
+   "d": "#20UQLQRC8",
+   "dth": 19,
+   "dur": 145,
+   "o": 64,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#82V2UQJ8L",
+   "ath": 19,
+   "d": "#Q0PCL22U9",
+   "dth": 19,
+   "dur": 125,
+   "o": 65,
+   "p": 92,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#82V2UQJ8L",
+   "ath": 19,
+   "d": "#8YVUC80UQ",
+   "dth": 19,
+   "dur": 180,
+   "o": 66,
+   "p": 92,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#PRQLPGULY",
+   "ath": 19,
+   "d": "#9UJRVYRCV",
+   "dth": 19,
+   "dur": 160,
+   "o": 67,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#29JCPY9QY",
+   "ath": 19,
+   "d": "#8YVUC80UQ",
+   "dth": 19,
+   "dur": 119,
+   "o": 68,
+   "p": 84,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#29JCPY9QY",
+   "ath": 19,
+   "d": "#Q2C0G8CUV",
+   "dth": 19,
+   "dur": 130,
+   "o": 69,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#PRQLPGULY",
+   "ath": 19,
+   "d": "#8J0VUYPR9",
+   "dth": 19,
+   "dur": 138,
+   "o": 70,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -942,7 +1052,7 @@
  },
  "end": "20261125T173457.000Z",
  "opponent": {
-  "destruction": 68.0,
+  "destruction": 84.08889,
   "members": [
    {
     "name": "~@N|]R€¥~",
@@ -1216,7 +1326,7 @@
    }
   ],
   "name": "Україна",
-  "stars": 92,
+  "stars": 112,
   "tag": "#U08RJ88Y"
  },
  "start": "20261124T173457.000Z",

@@ -637,11 +637,55 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#9LP2V8CJ",
+   "ath": 19,
+   "d": "#Q2UVUJC0Q",
+   "dth": 19,
+   "dur": 116,
+   "o": 59,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#QQ2UU92Y9",
+   "ath": 19,
+   "d": "#9P9PCCU0J",
+   "dth": 19,
+   "dur": 110,
+   "o": 60,
+   "p": 89,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#QQ2UU92Y9",
+   "ath": 19,
+   "d": "#9VJQYVP9U",
+   "dth": 19,
+   "dur": 122,
+   "o": 61,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#9LP2V8CJ",
+   "ath": 19,
+   "d": "#800RG0CRP",
+   "dth": 19,
+   "dur": 143,
+   "o": 62,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 60.575,
+  "destruction": 70.3,
   "members": [
    {
     "name": "Agent Hulk",
@@ -885,7 +929,7 @@
    }
   ],
   "name": "FruchtLabor II",
-  "stars": 68,
+  "stars": 79,
   "tag": "#2GQ929RRR"
  },
  "end": "20261125T200012.000Z",

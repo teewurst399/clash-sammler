@@ -769,6 +769,17 @@
    "p": 92,
    "s": 1,
    "side": "clan"
+  },
+  {
+   "a": "#JL9P8900",
+   "ath": 19,
+   "d": "#RCUJR0PJ",
+   "dth": 19,
+   "dur": 106,
+   "o": 71,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -1082,7 +1093,7 @@
  },
  "end": "20261125T190707.000Z",
  "opponent": {
-  "destruction": 42.8,
+  "destruction": 44.8,
   "members": [
    {
     "name": "➡️ＮＥＧＡＲ",
@@ -1386,7 +1397,7 @@
    }
   ],
   "name": "Arrow",
-  "stars": 62,
+  "stars": 65,
   "tag": "#PQU9YQCQ"
  },
  "start": "20261124T190707.000Z",

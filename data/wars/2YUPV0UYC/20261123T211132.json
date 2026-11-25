@@ -472,11 +472,77 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#YRGQJUR2",
+   "ath": 19,
+   "d": "#2UG2JQCY9",
+   "dth": 19,
+   "dur": 150,
+   "o": 44,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#YRGQJUR2",
+   "ath": 19,
+   "d": "#U90YUUQV",
+   "dth": 19,
+   "dur": 149,
+   "o": 45,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#L8RUP2ULR",
+   "ath": 19,
+   "d": "#82P9LUV2",
+   "dth": 19,
+   "dur": 94,
+   "o": 46,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#QRQUPU0LU",
+   "ath": 19,
+   "d": "#2880PC0GR",
+   "dth": 19,
+   "dur": 91,
+   "o": 47,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#L8RUP2ULR",
+   "ath": 19,
+   "d": "#JGPGLURV",
+   "dth": 19,
+   "dur": 96,
+   "o": 48,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#QRQUPU0LU",
+   "ath": 19,
+   "d": "#L8VVYQ088",
+   "dth": 19,
+   "dur": 84,
+   "o": 49,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 49.925,
+  "destruction": 59.925,
   "members": [
    {
     "name": "LOST☆stefan",
@@ -720,12 +786,12 @@
    }
   ],
   "name": "LOST 3",
-  "stars": 59,
+  "stars": 71,
   "tag": "#2YUPV0UYC"
  },
  "end": "20261125T201132.000Z",
  "opponent": {
-  "destruction": 43.85,
+  "destruction": 48.85,
   "members": [
    {
     "name": "꧁BLACK☬DRAGON꧂",
@@ -969,7 +1035,7 @@
    }
   ],
   "name": "White Phoenix",
-  "stars": 50,
+  "stars": 56,
   "tag": "#2L0GRJUQL"
  },
  "start": "20261124T201132.000Z",

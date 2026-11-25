@@ -923,11 +923,55 @@
    "p": 99,
    "s": 2,
    "side": "clan"
+  },
+  {
+   "a": "#8UQQCL89",
+   "ath": 19,
+   "d": "#9L9RJUC29",
+   "dth": 19,
+   "dur": 114,
+   "o": 85,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#8UQQCL89",
+   "ath": 19,
+   "d": "#Y9VY0QLQ2",
+   "dth": 19,
+   "dur": 126,
+   "o": 86,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#P2QGLYR8C",
+   "ath": 19,
+   "d": "#2QY0CL0G0",
+   "dth": 19,
+   "dur": 112,
+   "o": 87,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#P2QGLYR8C",
+   "ath": 19,
+   "d": "#8V08GR2L2",
+   "dth": 19,
+   "dur": 127,
+   "o": 88,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 73.68,
+  "destruction": 77.68,
   "members": [
    {
     "name": "G!B Mighty",
@@ -1231,12 +1275,12 @@
    }
   ],
   "name": "Get Dazed!",
-  "stars": 107,
+  "stars": 113,
   "tag": "#2JQ09R8PG"
  },
  "end": "20261125T192437.000Z",
  "opponent": {
-  "destruction": 71.46,
+  "destruction": 75.46,
   "members": [
    {
     "name": "☢️poury@khani☢️",
@@ -1540,7 +1584,7 @@
    }
   ],
   "name": "اهورا",
-  "stars": 102,
+  "stars": 108,
   "tag": "#8GQLP0UY"
  },
  "start": "20261124T192437.000Z",

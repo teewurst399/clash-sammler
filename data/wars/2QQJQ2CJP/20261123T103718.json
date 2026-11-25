@@ -439,6 +439,39 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#QUQJUVP9",
+   "ath": 19,
+   "d": "#QLY8VGR",
+   "dth": 19,
+   "dur": 26,
+   "o": 41,
+   "p": 9,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#QUQJUVP9",
+   "ath": 19,
+   "d": "#2P28YLLR",
+   "dth": 19,
+   "dur": 11,
+   "o": 42,
+   "p": 13,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#LRVCR0JGP",
+   "ath": 19,
+   "d": "#QUQJUVP9",
+   "dth": 19,
+   "dur": 98,
+   "o": 43,
+   "p": 66,
+   "s": 2,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -572,7 +605,7 @@
  },
  "end": "20261125T093718.000Z",
  "opponent": {
-  "destruction": 56.05,
+  "destruction": 59.35,
   "members": [
    {
     "name": "토록현우",
@@ -696,7 +729,7 @@
    }
   ],
   "name": "영원한클라스♥",
-  "stars": 29,
+  "stars": 31,
   "tag": "#R8VCCPPR"
  },
  "start": "20261124T093718.000Z",

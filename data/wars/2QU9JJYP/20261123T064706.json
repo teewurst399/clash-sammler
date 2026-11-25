@@ -1693,6 +1693,83 @@
    "p": 81,
    "s": 2,
    "side": "gegner"
+  },
+  {
+   "a": "#G0UGGPQ9",
+   "ath": 19,
+   "d": "#22LPGY0QU",
+   "dth": 19,
+   "dur": 180,
+   "o": 155,
+   "p": 98,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#G0UGGPQ9",
+   "ath": 19,
+   "d": "#QV829Q0P",
+   "dth": 19,
+   "dur": 151,
+   "o": 156,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#2PPURVQY9",
+   "ath": 19,
+   "d": "#22LPGY0QU",
+   "dth": 19,
+   "dur": 161,
+   "o": 157,
+   "p": 85,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#Q9Q2YJR2",
+   "ath": 19,
+   "d": "#YYUV9Y29",
+   "dth": 19,
+   "dur": 4,
+   "o": 158,
+   "p": 9,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#Q9Q2YJR2",
+   "ath": 19,
+   "d": "#2VY9VUU00",
+   "dth": 19,
+   "dur": 11,
+   "o": 159,
+   "p": 15,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#2JYPUCPC2",
+   "ath": 19,
+   "d": "#22LPGY0QU",
+   "dth": 19,
+   "dur": 141,
+   "o": 160,
+   "p": 92,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#QLLQV9YVR",
+   "ath": 19,
+   "d": "#22LPGY0QU",
+   "dth": 19,
+   "dur": 112,
+   "o": 161,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -2006,7 +2083,7 @@
  },
  "end": "20261125T054706.000Z",
  "opponent": {
-  "destruction": 99.42,
+  "destruction": 100.0,
   "members": [
    {
     "name": "KTLB ⚡ RAIZEN",
@@ -2310,7 +2387,7 @@
    }
   ],
   "name": "KATILINGBAN",
-  "stars": 148,
+  "stars": 150,
   "tag": "#9V8JQQR2"
  },
  "start": "20261124T054706.000Z",

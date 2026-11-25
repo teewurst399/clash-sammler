@@ -571,6 +571,94 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#8YRC8VJUP",
+   "ath": 19,
+   "d": "#9VG2PR8C0",
+   "dth": 19,
+   "dur": 180,
+   "o": 53,
+   "p": 93,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#8YRC8VJUP",
+   "ath": 19,
+   "d": "#9VRQ9L9J",
+   "dth": 19,
+   "dur": 171,
+   "o": 54,
+   "p": 75,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#8YYRRC82",
+   "ath": 19,
+   "d": "#2J8LLGPQJ",
+   "dth": 19,
+   "dur": 127,
+   "o": 55,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#8YYRRC82",
+   "ath": 19,
+   "d": "#9JLGQG2C",
+   "dth": 19,
+   "dur": 138,
+   "o": 56,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#V89VLYJL",
+   "ath": 19,
+   "d": "#C0LGVRRL",
+   "dth": 19,
+   "dur": 164,
+   "o": 57,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#LPU92PUJ",
+   "ath": 19,
+   "d": "#9VRQ9L9J",
+   "dth": 19,
+   "dur": 157,
+   "o": 58,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#LPU92PUJ",
+   "ath": 19,
+   "d": "#YLQJJ9UU8",
+   "dth": 19,
+   "dur": 158,
+   "o": 59,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#V89VLYJL",
+   "ath": 19,
+   "d": "#9VG2PR8C0",
+   "dth": 19,
+   "dur": 125,
+   "o": 60,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -794,7 +882,7 @@
  },
  "end": "20261125T114527.000Z",
  "opponent": {
-  "destruction": 47.771427,
+  "destruction": 64.91428,
   "members": [
    {
     "name": "Venom",
@@ -1008,7 +1096,7 @@
    }
   ],
   "name": "Indo Xtreme",
-  "stars": 47,
+  "stars": 65,
   "tag": "#LYLJUGG"
  },
  "start": "20261124T114527.000Z",

@@ -945,11 +945,66 @@
    "p": 23,
    "s": 1,
    "side": "gegner"
+  },
+  {
+   "a": "#2YUJ99C0L",
+   "ath": 19,
+   "d": "#PQRYCYG",
+   "dth": 19,
+   "dur": 134,
+   "o": 87,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#YJR2QC8PG",
+   "ath": 19,
+   "d": "#YQYGCQGRL",
+   "dth": 19,
+   "dur": 12,
+   "o": 88,
+   "p": 4,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#YJR2QC8PG",
+   "ath": 19,
+   "d": "#RGPY2YQL",
+   "dth": 19,
+   "dur": 6,
+   "o": 89,
+   "p": 2,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#C8JY2LVQ",
+   "ath": 19,
+   "d": "#G0GYVYJP",
+   "dth": 19,
+   "dur": 113,
+   "o": 90,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#C8JY2LVQ",
+   "ath": 19,
+   "d": "#LYLGU0CL",
+   "dth": 19,
+   "dur": 123,
+   "o": 91,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 53.155556,
+  "destruction": 55.555557,
   "members": [
    {
     "name": "PaPaPatrick",
@@ -1223,7 +1278,7 @@
    }
   ],
   "name": "Confusion II",
-  "stars": 71,
+  "stars": 75,
   "tag": "#2J2RY0GRL"
  },
  "end": "20261125T190847.000Z",

@@ -571,6 +571,28 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#LPYY0P9YU",
+   "ath": 19,
+   "d": "#QY0U080L",
+   "dth": 19,
+   "dur": 180,
+   "o": 53,
+   "p": 91,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#LPYY0P9YU",
+   "ath": 19,
+   "d": "#2VY8PV8G8",
+   "dth": 19,
+   "dur": 180,
+   "o": 54,
+   "p": 97,
+   "s": 2,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -824,7 +846,7 @@
  },
  "end": "20261125T184812.000Z",
  "opponent": {
-  "destruction": 49.6,
+  "destruction": 52.025,
   "members": [
    {
     "name": "✌СЕРЖ✌",
@@ -1068,7 +1090,7 @@
    }
   ],
   "name": "Ukraine forever",
-  "stars": 59,
+  "stars": 61,
   "tag": "#2QQQ9GUCR"
  },
  "start": "20261124T184812.000Z",
