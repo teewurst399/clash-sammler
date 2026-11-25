@@ -417,6 +417,28 @@
    "p": 78,
    "s": 2,
    "side": "gegner"
+  },
+  {
+   "a": "#RQQLVCR2",
+   "ath": 19,
+   "d": "#LGJ9P9VRJ",
+   "dth": 19,
+   "dur": 137,
+   "o": 39,
+   "p": 86,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#2G2GRGCR",
+   "ath": 19,
+   "d": "#VUCJCYRL",
+   "dth": 19,
+   "dur": 112,
+   "o": 40,
+   "p": 53,
+   "s": 2,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -580,7 +602,7 @@
  },
  "end": "20261125T192942.000Z",
  "opponent": {
-  "destruction": 78.32,
+  "destruction": 80.6,
   "members": [
    {
     "name": "GreatGuardian",
@@ -734,7 +756,7 @@
    }
   ],
   "name": "alte Säcke",
-  "stars": 52,
+  "stars": 55,
   "tag": "#PP20R88J"
  },
  "start": "20261124T192942.000Z",

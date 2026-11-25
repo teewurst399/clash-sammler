@@ -659,11 +659,154 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#80Q9UP2QP",
+   "ath": 19,
+   "d": "#89L0LCRL",
+   "dth": 19,
+   "dur": 178,
+   "o": 61,
+   "p": 81,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#2U20C2VQU",
+   "ath": 19,
+   "d": "#8P8GGVQGR",
+   "dth": 19,
+   "dur": 180,
+   "o": 62,
+   "p": 87,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#Q9QGUVGVR",
+   "ath": 19,
+   "d": "#PCC2CY2L",
+   "dth": 19,
+   "dur": 157,
+   "o": 63,
+   "p": 95,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#9JL89RPL0",
+   "ath": 19,
+   "d": "#20YVQPR9P",
+   "dth": 19,
+   "dur": 169,
+   "o": 64,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#2U20C2VQU",
+   "ath": 19,
+   "d": "#2LQRUP9CU",
+   "dth": 19,
+   "dur": 180,
+   "o": 65,
+   "p": 87,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#2LQRUP9CU",
+   "ath": 19,
+   "d": "#9JCUVQ08",
+   "dth": 19,
+   "dur": 7,
+   "o": 66,
+   "p": 14,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#9JL89RPL0",
+   "ath": 19,
+   "d": "#880298RVL",
+   "dth": 19,
+   "dur": 180,
+   "o": 67,
+   "p": 94,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#2LQRUP9CU",
+   "ath": 19,
+   "d": "#8L2C9J8RV",
+   "dth": 19,
+   "dur": 5,
+   "o": 68,
+   "p": 2,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#QPJ9GG8LR",
+   "ath": 19,
+   "d": "#PCPV20YRC",
+   "dth": 18,
+   "dur": 166,
+   "o": 69,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#QPJ9GG8LR",
+   "ath": 19,
+   "d": "#99PPP98YU",
+   "dth": 18,
+   "dur": 122,
+   "o": 70,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#Q8LVJL0R8",
+   "ath": 19,
+   "d": "#LGGLCCU9R",
+   "dth": 19,
+   "dur": 180,
+   "o": 71,
+   "p": 79,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#Q8LVJL0R8",
+   "ath": 19,
+   "d": "#P80QJQ0G8",
+   "dth": 19,
+   "dur": 107,
+   "o": 72,
+   "p": 67,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#QJJLUGQR0",
+   "ath": 19,
+   "d": "#PCVVJY9GQ",
+   "dth": 19,
+   "dur": 144,
+   "o": 73,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 66.53333,
+  "destruction": 91.333336,
   "members": [
    {
     "name": "R A B B I",
@@ -847,12 +990,12 @@
    }
   ],
   "name": "HolzFrucht",
-  "stars": 53,
+  "stars": 72,
   "tag": "#2JVU2R8Y9"
  },
  "end": "20261125T175442.000Z",
  "opponent": {
-  "destruction": 86.666664,
+  "destruction": 90.0,
   "members": [
    {
     "name": "✨سـلطـان✨♦️‏LMT",
@@ -1036,7 +1179,7 @@
    }
   ],
   "name": "لمتنا احلا",
-  "stars": 78,
+  "stars": 81,
   "tag": "#299GC0CCJ"
  },
  "start": "20261124T175442.000Z",

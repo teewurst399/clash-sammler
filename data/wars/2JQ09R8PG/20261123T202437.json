@@ -1297,11 +1297,110 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#22Y0VUP09",
+   "ath": 19,
+   "d": "#8V9P9JJQL",
+   "dth": 19,
+   "dur": 180,
+   "o": 119,
+   "p": 61,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#Y9VY0QLQ2",
+   "ath": 19,
+   "d": "#8V9P9JJQL",
+   "dth": 19,
+   "dur": 128,
+   "o": 120,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#8298R2V2V",
+   "ath": 19,
+   "d": "#UCPJ2QPL",
+   "dth": 19,
+   "dur": 124,
+   "o": 121,
+   "p": 82,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#8298R2V2V",
+   "ath": 19,
+   "d": "#JY88JQLU",
+   "dth": 19,
+   "dur": 180,
+   "o": 122,
+   "p": 98,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#2Y2R9Y9RU",
+   "ath": 19,
+   "d": "#UCPJ2QPL",
+   "dth": 19,
+   "dur": 157,
+   "o": 123,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#2Y2R9Y9RU",
+   "ath": 19,
+   "d": "#JY88JQLU",
+   "dth": 19,
+   "dur": 168,
+   "o": 124,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#LQU0UJGG8",
+   "ath": 19,
+   "d": "#PJ9CL2L80",
+   "dth": 19,
+   "dur": 149,
+   "o": 125,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#LQU0UJGG8",
+   "ath": 19,
+   "d": "#88VJYV9L",
+   "dth": 19,
+   "dur": 180,
+   "o": 126,
+   "p": 96,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#YPL2CR89P",
+   "ath": 19,
+   "d": "#JY88JQLU",
+   "dth": 19,
+   "dur": 121,
+   "o": 127,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 87.76,
+  "destruction": 87.98,
   "members": [
    {
     "name": "G!B Mighty",
@@ -1605,12 +1704,12 @@
    }
   ],
   "name": "Get Dazed!",
-  "stars": 130,
+  "stars": 131,
   "tag": "#2JQ09R8PG"
  },
  "end": "20261125T192437.000Z",
  "opponent": {
-  "destruction": 99.4,
+  "destruction": 100.0,
   "members": [
    {
     "name": "☢️poury@khani☢️",
@@ -1914,7 +2013,7 @@
    }
   ],
   "name": "اهورا",
-  "stars": 148,
+  "stars": 150,
   "tag": "#8GQLP0UY"
  },
  "start": "20261124T192437.000Z",

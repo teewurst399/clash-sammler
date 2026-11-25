@@ -1066,6 +1066,39 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#YYQP2CVQJ",
+   "ath": 19,
+   "d": "#GR9QCPVC",
+   "dth": 19,
+   "dur": 180,
+   "o": 98,
+   "p": 84,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#YYQP2CVQJ",
+   "ath": 19,
+   "d": "#292PCPYQU",
+   "dth": 19,
+   "dur": 180,
+   "o": 99,
+   "p": 91,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#YUQ9J2L0J",
+   "ath": 19,
+   "d": "#8YVUC80UQ",
+   "dth": 19,
+   "dur": 142,
+   "o": 100,
+   "p": 83,
+   "s": 2,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,

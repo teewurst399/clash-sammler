@@ -637,11 +637,132 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#9PRPRP2Y",
+   "ath": 19,
+   "d": "#29YP99J80",
+   "dth": 19,
+   "dur": 133,
+   "o": 59,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#LVJJPQJQR",
+   "ath": 17,
+   "d": "#20RVRPG82",
+   "dth": 17,
+   "dur": 177,
+   "o": 60,
+   "p": 89,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#9PRPRP2Y",
+   "ath": 19,
+   "d": "#P2LYCPJQV",
+   "dth": 19,
+   "dur": 160,
+   "o": 61,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#YV9U2G9QU",
+   "ath": 19,
+   "d": "#9UJ92LQC",
+   "dth": 19,
+   "dur": 147,
+   "o": 62,
+   "p": 98,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#QLRVJYG9",
+   "ath": 19,
+   "d": "#PCPLQ0R9",
+   "dth": 19,
+   "dur": 133,
+   "o": 63,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#PYL9JYP2U",
+   "ath": 18,
+   "d": "#QRG0P2J20",
+   "dth": 17,
+   "dur": 91,
+   "o": 64,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#QLRVJYG9",
+   "ath": 19,
+   "d": "#9UJ92LQC",
+   "dth": 19,
+   "dur": 162,
+   "o": 65,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#YUQCCRPJ2",
+   "ath": 19,
+   "d": "#28U80098L",
+   "dth": 19,
+   "dur": 121,
+   "o": 66,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#YUQCCRPJ2",
+   "ath": 19,
+   "d": "#QUY90CUYU",
+   "dth": 19,
+   "dur": 132,
+   "o": 67,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#G8RPVG9QU",
+   "ath": 18,
+   "d": "#YPLVYJLJ",
+   "dth": 18,
+   "dur": 150,
+   "o": 68,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#2QLUPY88J",
+   "ath": 19,
+   "d": "#PYL9JYP2U",
+   "dth": 18,
+   "dur": 130,
+   "o": 69,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 62.566666,
+  "destruction": 89.03333,
   "members": [
    {
     "name": "Doxos_NM",
@@ -825,12 +946,12 @@
    }
   ],
   "name": "Alphazone",
-  "stars": 54,
+  "stars": 77,
   "tag": "#2YCUCPCC0"
  },
  "end": "20261125T203701.000Z",
  "opponent": {
-  "destruction": 80.0,
+  "destruction": 83.333336,
   "members": [
    {
     "name": "†◄«4LuCarD»►†®",
@@ -1014,7 +1135,7 @@
    }
   ],
   "name": "GUERREROS _Z",
-  "stars": 72,
+  "stars": 75,
   "tag": "#9R2L8GCG"
  },
  "start": "20261124T203701.000Z",

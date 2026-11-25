@@ -791,6 +791,39 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#LRU2JCL",
+   "ath": 19,
+   "d": "#LCJQGQL2R",
+   "dth": 19,
+   "dur": 117,
+   "o": 73,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#2JUGQ08PR",
+   "ath": 19,
+   "d": "#YLCJ8GUCG",
+   "dth": 19,
+   "dur": 144,
+   "o": 74,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#2JUGQ08PR",
+   "ath": 19,
+   "d": "#9YY9L0GL",
+   "dth": 19,
+   "dur": 180,
+   "o": 75,
+   "p": 97,
+   "s": 2,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -1074,7 +1107,7 @@
  },
  "end": "20261125T203507.000Z",
  "opponent": {
-  "destruction": 88.64445,
+  "destruction": 95.244446,
   "members": [
    {
     "name": "MjolniR",
@@ -1348,7 +1381,7 @@
    }
   ],
   "name": "ATATÜRK",
-  "stars": 119,
+  "stars": 127,
   "tag": "#2P9LV098Y"
  },
  "start": "20261124T203507.000Z",

@@ -923,11 +923,88 @@
    "p": 98,
    "s": 2,
    "side": "clan"
+  },
+  {
+   "a": "#GJL29928",
+   "ath": 19,
+   "d": "#PLCV9U2U2",
+   "dth": 19,
+   "dur": 95,
+   "o": 85,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#8029PCUP",
+   "ath": 19,
+   "d": "#8URRQJ2CR",
+   "dth": 19,
+   "dur": 84,
+   "o": 86,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#8029PCUP",
+   "ath": 19,
+   "d": "#9LJUU0RCU",
+   "dth": 19,
+   "dur": 139,
+   "o": 87,
+   "p": 76,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#909C2PCQG",
+   "ath": 19,
+   "d": "#9C8JGRC2U",
+   "dth": 19,
+   "dur": 121,
+   "o": 88,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#YGCLCQ0G9",
+   "ath": 19,
+   "d": "#Q0YJVGC8R",
+   "dth": 19,
+   "dur": 97,
+   "o": 89,
+   "p": 74,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#YGCLCQ0G9",
+   "ath": 19,
+   "d": "#8Q2RRPJYJ",
+   "dth": 19,
+   "dur": 152,
+   "o": 90,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#8LVUR0JPQ",
+   "ath": 19,
+   "d": "#9YCL0PRU",
+   "dth": 19,
+   "dur": 161,
+   "o": 91,
+   "p": 83,
+   "s": 2,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 77.825,
+  "destruction": 87.575,
   "members": [
    {
     "name": "DTA Insomniac",
@@ -1171,7 +1248,7 @@
    }
   ],
   "name": "Beerenbrüder",
-  "stars": 90,
+  "stars": 103,
   "tag": "#2YGLUYJPR"
  },
  "end": "20261125T193502.000Z",

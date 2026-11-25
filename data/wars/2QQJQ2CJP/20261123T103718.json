@@ -560,6 +560,94 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#8VRU9RVYJ",
+   "ath": 19,
+   "d": "#PCY8U98LR",
+   "dth": 19,
+   "dur": 123,
+   "o": 52,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#8VRU9RVYJ",
+   "ath": 19,
+   "d": "#RYLL9CPJ",
+   "dth": 19,
+   "dur": 180,
+   "o": 53,
+   "p": 99,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#PCC80LQ",
+   "ath": 18,
+   "d": "#YVGQR9QL0",
+   "dth": 18,
+   "dur": 138,
+   "o": 54,
+   "p": 59,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#PCY8U98LR",
+   "ath": 19,
+   "d": "#2P28YLLR",
+   "dth": 19,
+   "dur": 22,
+   "o": 55,
+   "p": 12,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#PCY8U98LR",
+   "ath": 19,
+   "d": "#8JLUC0QPJ",
+   "dth": 19,
+   "dur": 13,
+   "o": 56,
+   "p": 10,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#G8YYG2RYV",
+   "ath": 18,
+   "d": "#QLY8VGR",
+   "dth": 19,
+   "dur": 165,
+   "o": 57,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#G8YYG2RYV",
+   "ath": 18,
+   "d": "#2CC9UR9UJ",
+   "dth": 19,
+   "dur": 132,
+   "o": 58,
+   "p": 70,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#2CC9UR9UJ",
+   "ath": 19,
+   "d": "#GU9CJ9Y9",
+   "dth": 19,
+   "dur": 165,
+   "o": 59,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -693,7 +781,7 @@
  },
  "end": "20261125T093718.000Z",
  "opponent": {
-  "destruction": 78.8,
+  "destruction": 89.65,
   "members": [
    {
     "name": "토록현우",
@@ -817,11 +905,11 @@
    }
   ],
   "name": "영원한클라스♥",
-  "stars": 42,
+  "stars": 49,
   "tag": "#R8VCCPPR"
  },
  "start": "20261124T093718.000Z",
- "state": "inWar",
+ "state": "warEnded",
  "teamSize": 20,
  "type": "krieg"
 }
