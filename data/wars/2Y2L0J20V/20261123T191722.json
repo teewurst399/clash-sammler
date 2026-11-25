@@ -1264,6 +1264,105 @@
    "p": 3,
    "s": 1,
    "side": "clan"
+  },
+  {
+   "a": "#2VJRJGV9",
+   "ath": 19,
+   "d": "#8YPP0JY8V",
+   "dth": 19,
+   "dur": 119,
+   "o": 116,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#Q9PUU92LC",
+   "ath": 19,
+   "d": "#LURVUPJ2C",
+   "dth": 19,
+   "dur": 111,
+   "o": 117,
+   "p": 75,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#990U8RUV",
+   "ath": 19,
+   "d": "#2Y9YU0CQR",
+   "dth": 19,
+   "dur": 119,
+   "o": 118,
+   "p": 89,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#2VJRJGV9",
+   "ath": 19,
+   "d": "#GP9RYGVRR",
+   "dth": 19,
+   "dur": 123,
+   "o": 119,
+   "p": 76,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#990U8RUV",
+   "ath": 19,
+   "d": "#9PP8899VJ",
+   "dth": 19,
+   "dur": 89,
+   "o": 120,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#Q9PUU92LC",
+   "ath": 19,
+   "d": "#P2QJPQUJ8",
+   "dth": 19,
+   "dur": 121,
+   "o": 121,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#YCP2YP0U2",
+   "ath": 19,
+   "d": "#L29V9VLG0",
+   "dth": 19,
+   "dur": 95,
+   "o": 122,
+   "p": 85,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#YCP2YP0U2",
+   "ath": 19,
+   "d": "#2Y2C02CRJ",
+   "dth": 19,
+   "dur": 111,
+   "o": 123,
+   "p": 87,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#C09PG9P",
+   "ath": 19,
+   "d": "#RYCJ0Y99",
+   "dth": 19,
+   "dur": 162,
+   "o": 124,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
@@ -1517,7 +1616,7 @@
  },
  "end": "20261125T181722.000Z",
  "opponent": {
-  "destruction": 91.95,
+  "destruction": 94.575,
   "members": [
    {
     "name": "Viridis",
@@ -1761,7 +1860,7 @@
    }
   ],
   "name": "808 Beach",
-  "stars": 99,
+  "stars": 102,
   "tag": "#GVVVJL8R"
  },
  "start": "20261124T181722.000Z",

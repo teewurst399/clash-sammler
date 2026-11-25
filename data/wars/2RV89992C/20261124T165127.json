@@ -1,0 +1,359 @@
+{
+ "attacks": [
+  {
+   "a": "#L0Y8VG82V",
+   "ath": 17,
+   "d": "#Q2GUJ2Y88",
+   "dth": 17,
+   "dur": 104,
+   "o": 1,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#22GCV90C",
+   "ath": 16,
+   "d": "#JR0R0LC9",
+   "dth": 16,
+   "dur": 124,
+   "o": 2,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#C2GQ2LUJ",
+   "ath": 19,
+   "d": "#208LURYQ9",
+   "dth": 19,
+   "dur": 96,
+   "o": 3,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  }
+ ],
+ "attacksPerMember": 2,
+ "clan": {
+  "destruction": 0.0,
+  "members": [
+   {
+    "name": "Dschini -L-",
+    "pos": 3,
+    "tag": "#2G2G02LG",
+    "th": 19
+   },
+   {
+    "name": "FL • Tjold",
+    "pos": 9,
+    "tag": "#GPQCJQLQ2",
+    "th": 18
+   },
+   {
+    "name": "boombeacher",
+    "pos": 22,
+    "tag": "#UV2L88J0",
+    "th": 16
+   },
+   {
+    "name": "[TS] Ratplan",
+    "pos": 21,
+    "tag": "#JR0R0LC9",
+    "th": 16
+   },
+   {
+    "name": "FL • Eternity",
+    "pos": 8,
+    "tag": "#GRVQG8RLQ",
+    "th": 19
+   },
+   {
+    "name": "quak",
+    "pos": 6,
+    "tag": "#PPYGCLUCU",
+    "th": 19
+   },
+   {
+    "name": "Kissi88",
+    "pos": 5,
+    "tag": "#8VJGGCL88",
+    "th": 19
+   },
+   {
+    "name": "FL • Monifee",
+    "pos": 17,
+    "tag": "#LV0Y9RRG",
+    "th": 16
+   },
+   {
+    "name": "WarDJ",
+    "pos": 24,
+    "tag": "#GV9QPPPJG",
+    "th": 15
+   },
+   {
+    "name": "Kaffeemaschine",
+    "pos": 11,
+    "tag": "#2GY0QC80R",
+    "th": 18
+   },
+   {
+    "name": "Drey Flow",
+    "pos": 2,
+    "tag": "#CY082UQ0",
+    "th": 19
+   },
+   {
+    "name": "Nickname",
+    "pos": 13,
+    "tag": "#GC2CURPRP",
+    "th": 18
+   },
+   {
+    "name": "FL • NoName³",
+    "pos": 10,
+    "tag": "#YV8P0R09U",
+    "th": 18
+   },
+   {
+    "name": "FL • Fr3ddy",
+    "pos": 1,
+    "tag": "#208LURYQ9",
+    "th": 19
+   },
+   {
+    "name": "Lennon",
+    "pos": 12,
+    "tag": "#GUY0JLJLR",
+    "th": 19
+   },
+   {
+    "name": "Kapitano_II",
+    "pos": 18,
+    "tag": "#GVVYRULYV",
+    "th": 16
+   },
+   {
+    "name": "hammersbald",
+    "pos": 23,
+    "tag": "#R20LGR0RG",
+    "th": 15
+   },
+   {
+    "name": "FL • NoName⁴",
+    "pos": 19,
+    "tag": "#GVJLJJYQ0",
+    "th": 16
+   },
+   {
+    "name": "Kapitano_III",
+    "pos": 20,
+    "tag": "#R0QCP9RC9",
+    "th": 16
+   },
+   {
+    "name": "Knut",
+    "pos": 15,
+    "tag": "#Q2GUJ2Y88",
+    "th": 17
+   },
+   {
+    "name": "Mel",
+    "pos": 7,
+    "tag": "#GV2PGJGP8",
+    "th": 19
+   },
+   {
+    "name": "FL • Savage",
+    "pos": 16,
+    "tag": "#YRYQ2V8R8",
+    "th": 17
+   },
+   {
+    "name": "FL • dizzi",
+    "pos": 25,
+    "tag": "#GRLYPCCLR",
+    "th": 14
+   },
+   {
+    "name": "FL • Pitaya",
+    "pos": 14,
+    "tag": "#GRJVP9Q99",
+    "th": 17
+   },
+   {
+    "name": "FL • WeisName",
+    "pos": 4,
+    "tag": "#LY2PCYUCP",
+    "th": 19
+   }
+  ],
+  "name": "FruchtLabor V",
+  "stars": 0,
+  "tag": "#2RV89992C"
+ },
+ "end": "20261126T155127.000Z",
+ "opponent": {
+  "destruction": 12.0,
+  "members": [
+   {
+    "name": "obe jon",
+    "pos": 8,
+    "tag": "#8G2QJC2G",
+    "th": 19
+   },
+   {
+    "name": "spence",
+    "pos": 16,
+    "tag": "#82JLGCGJ",
+    "th": 17
+   },
+   {
+    "name": "MIKE",
+    "pos": 13,
+    "tag": "#208PR2YY",
+    "th": 18
+   },
+   {
+    "name": "M1.Dazza",
+    "pos": 5,
+    "tag": "#9RQPRRRV",
+    "th": 19
+   },
+   {
+    "name": "Dazza Destroyer",
+    "pos": 17,
+    "tag": "#PJUJ2J0R",
+    "th": 16
+   },
+   {
+    "name": "Mirage",
+    "pos": 23,
+    "tag": "#L8099GC2C",
+    "th": 15
+   },
+   {
+    "name": "Adam",
+    "pos": 24,
+    "tag": "#GPYJUQPPC",
+    "th": 15
+   },
+   {
+    "name": "David",
+    "pos": 7,
+    "tag": "#JVP8RUJR",
+    "th": 19
+   },
+   {
+    "name": "hanma",
+    "pos": 11,
+    "tag": "#QGPQUVQRC",
+    "th": 19
+   },
+   {
+    "name": "face",
+    "pos": 21,
+    "tag": "#22GCV90C",
+    "th": 16
+   },
+   {
+    "name": "KING DRACO",
+    "pos": 2,
+    "tag": "#8CRYGVRP",
+    "th": 19
+   },
+   {
+    "name": "WishmasterJoolz",
+    "pos": 6,
+    "tag": "#LYJ8JRYGU",
+    "th": 19
+   },
+   {
+    "name": "Quasar",
+    "pos": 3,
+    "tag": "#2VYLJC0V",
+    "th": 19
+   },
+   {
+    "name": "Hammer",
+    "pos": 19,
+    "tag": "#GVY8GJY8R",
+    "th": 16
+   },
+   {
+    "name": "David v2",
+    "pos": 25,
+    "tag": "#QUULPGJY0",
+    "th": 14
+   },
+   {
+    "name": "[ Gehad ]",
+    "pos": 1,
+    "tag": "#C2GQ2LUJ",
+    "th": 19
+   },
+   {
+    "name": "something",
+    "pos": 15,
+    "tag": "#L0Y8VG82V",
+    "th": 17
+   },
+   {
+    "name": "Mr Ed",
+    "pos": 4,
+    "tag": "#LCL0L9UGC",
+    "th": 19
+   },
+   {
+    "name": "David v5",
+    "pos": 18,
+    "tag": "#PPCPQ8CU0",
+    "th": 16
+   },
+   {
+    "name": "seb",
+    "pos": 14,
+    "tag": "#2CPQ0CGJY",
+    "th": 18
+   },
+   {
+    "name": "griff",
+    "pos": 9,
+    "tag": "#LY9J99CGJ",
+    "th": 19
+   },
+   {
+    "name": "David v4",
+    "pos": 22,
+    "tag": "#Q2RRP0GPL",
+    "th": 15
+   },
+   {
+    "name": "TaskmasterJoolz",
+    "pos": 20,
+    "tag": "#R98PRR0V8",
+    "th": 16
+   },
+   {
+    "name": "THOR",
+    "pos": 12,
+    "tag": "#QPR9LC2LY",
+    "th": 18
+   },
+   {
+    "name": "KickmasterJoolz",
+    "pos": 10,
+    "tag": "#Q0G29U9YG",
+    "th": 18
+   }
+  ],
+  "name": "The Kings",
+  "stars": 9,
+  "tag": "#2J92J8YCY"
+ },
+ "start": "20261125T155127.000Z",
+ "state": "inWar",
+ "teamSize": 25,
+ "type": "krieg"
+}

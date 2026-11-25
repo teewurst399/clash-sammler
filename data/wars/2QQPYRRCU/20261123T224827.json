@@ -1033,11 +1033,99 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#2Y929JJ0V",
+   "ath": 19,
+   "d": "#GLGJCJGR0",
+   "dth": 19,
+   "dur": 153,
+   "o": 95,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#2Y929JJ0V",
+   "ath": 19,
+   "d": "#JQGGRPGQ",
+   "dth": 18,
+   "dur": 180,
+   "o": 96,
+   "p": 99,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#8LGUVC02G",
+   "ath": 19,
+   "d": "#JQGGRPGQ",
+   "dth": 18,
+   "dur": 165,
+   "o": 97,
+   "p": 91,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#8LGUVC02G",
+   "ath": 19,
+   "d": "#8YVPGPYUC",
+   "dth": 19,
+   "dur": 180,
+   "o": 98,
+   "p": 96,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#PCCUUU9J",
+   "ath": 19,
+   "d": "#JQGGRPGQ",
+   "dth": 18,
+   "dur": 119,
+   "o": 99,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#GLUVJCP2P",
+   "ath": 18,
+   "d": "#Y9UUYCLQY",
+   "dth": 18,
+   "dur": 180,
+   "o": 100,
+   "p": 93,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#GLUVJCP2P",
+   "ath": 18,
+   "d": "#LL8RQ8CJ",
+   "dth": 19,
+   "dur": 162,
+   "o": 101,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#2QU92920",
+   "ath": 19,
+   "d": "#LRYY8URQV",
+   "dth": 19,
+   "dur": 28,
+   "o": 102,
+   "p": 12,
+   "s": 1,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 84.86667,
+  "destruction": 85.13333,
   "members": [
    {
     "name": "Saheb",
@@ -1311,12 +1399,12 @@
    }
   ],
   "name": "Secondzone",
-  "stars": 110,
+  "stars": 111,
   "tag": "#2QQPYRRCU"
  },
  "end": "20261125T214827.000Z",
  "opponent": {
-  "destruction": 97.62222,
+  "destruction": 100.0,
   "members": [
    {
     "name": "BAD : BOY",
@@ -1590,7 +1678,7 @@
    }
   ],
   "name": "I BOMBER",
-  "stars": 131,
+  "stars": 135,
   "tag": "#2QVR22QG9"
  },
  "start": "20261124T214827.000Z",

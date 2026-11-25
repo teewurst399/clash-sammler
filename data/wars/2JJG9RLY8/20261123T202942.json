@@ -571,11 +571,110 @@
    "p": 89,
    "s": 2,
    "side": "gegner"
+  },
+  {
+   "a": "#GPPUQCVQJ",
+   "ath": 19,
+   "d": "#22R2CG8GL",
+   "dth": 19,
+   "dur": 106,
+   "o": 53,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#GPPUQCVQJ",
+   "ath": 19,
+   "d": "#GVVPCRRQ",
+   "dth": 19,
+   "dur": 75,
+   "o": 54,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#G9CGVQYQY",
+   "ath": 19,
+   "d": "#QCL0GJVV0",
+   "dth": 19,
+   "dur": 141,
+   "o": 55,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#G9CGVQYQY",
+   "ath": 19,
+   "d": "#GPPUQCVQJ",
+   "dth": 19,
+   "dur": 180,
+   "o": 56,
+   "p": 97,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#2UP9G09P",
+   "ath": 19,
+   "d": "#2JCQ9LPG",
+   "dth": 19,
+   "dur": 113,
+   "o": 57,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#2UP9G09P",
+   "ath": 19,
+   "d": "#8Q8LQJG9",
+   "dth": 19,
+   "dur": 101,
+   "o": 58,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#RL9ULYGU",
+   "ath": 19,
+   "d": "#GPPUQCVQJ",
+   "dth": 19,
+   "dur": 88,
+   "o": 59,
+   "p": 68,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#JGVP0VGL",
+   "ath": 19,
+   "d": "#GPPUQCVQJ",
+   "dth": 19,
+   "dur": 153,
+   "o": 60,
+   "p": 93,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#RL9ULYGU",
+   "ath": 19,
+   "d": "#RCR8CJ9J",
+   "dth": 19,
+   "dur": 180,
+   "o": 61,
+   "p": 95,
+   "s": 2,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 65.52,
+  "destruction": 74.84,
   "members": [
    {
     "name": "DΔツLion",
@@ -729,12 +828,12 @@
    }
   ],
   "name": "Dark Angel",
-  "stars": 46,
+  "stars": 54,
   "tag": "#2JJG9RLY8"
  },
  "end": "20261125T192942.000Z",
  "opponent": {
-  "destruction": 87.84,
+  "destruction": 91.92,
   "members": [
    {
     "name": "GreatGuardian",
@@ -888,7 +987,7 @@
    }
   ],
   "name": "alte Säcke",
-  "stars": 58,
+  "stars": 61,
   "tag": "#PP20R88J"
  },
  "start": "20261124T192942.000Z",

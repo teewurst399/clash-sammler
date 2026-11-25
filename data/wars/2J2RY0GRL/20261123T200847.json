@@ -1418,11 +1418,143 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#2082CUU8R",
+   "ath": 19,
+   "d": "#9Y0QLJLY0",
+   "dth": 19,
+   "dur": 123,
+   "o": 130,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#9UVCR9RJP",
+   "ath": 19,
+   "d": "#QC0CPVRJ9",
+   "dth": 19,
+   "dur": 119,
+   "o": 131,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#9UVCR9RJP",
+   "ath": 19,
+   "d": "#LRVJGG902",
+   "dth": 19,
+   "dur": 180,
+   "o": 132,
+   "p": 78,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#CRYYJGPJ",
+   "ath": 19,
+   "d": "#QP0L92Y2C",
+   "dth": 18,
+   "dur": 156,
+   "o": 133,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#CRYYJGPJ",
+   "ath": 19,
+   "d": "#GYQR9R92P",
+   "dth": 16,
+   "dur": 133,
+   "o": 134,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#2082CUU8R",
+   "ath": 19,
+   "d": "#999V2Y8QV",
+   "dth": 18,
+   "dur": 91,
+   "o": 135,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#LL8CC9QV8",
+   "ath": 19,
+   "d": "#9GVP2R28L",
+   "dth": 18,
+   "dur": 135,
+   "o": 136,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#YV2JUYYJL",
+   "ath": 19,
+   "d": "#2L808LPL",
+   "dth": 19,
+   "dur": 14,
+   "o": 137,
+   "p": 15,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#YV2JUYYJL",
+   "ath": 19,
+   "d": "#VQUQ0V0G",
+   "dth": 19,
+   "dur": 5,
+   "o": 138,
+   "p": 3,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#LL8CC9QV8",
+   "ath": 19,
+   "d": "#2YUJ99C0L",
+   "dth": 19,
+   "dur": 168,
+   "o": 139,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#9Y0QLJLY0",
+   "ath": 19,
+   "d": "#RG00VYLJ",
+   "dth": 19,
+   "dur": 32,
+   "o": 140,
+   "p": 31,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#9Y0QLJLY0",
+   "ath": 19,
+   "d": "#LRVJGG902",
+   "dth": 19,
+   "dur": 29,
+   "o": 141,
+   "p": 19,
+   "s": 1,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 88.888885,
+  "destruction": 100.0,
   "members": [
    {
     "name": "PaPaPatrick",
@@ -1696,7 +1828,7 @@
    }
   ],
   "name": "Confusion II",
-  "stars": 120,
+  "stars": 135,
   "tag": "#2J2RY0GRL"
  },
  "end": "20261125T190847.000Z",
