@@ -351,6 +351,28 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#GRVC0UCV",
+   "ath": 19,
+   "d": "#2PGLCLUVR",
+   "dth": 19,
+   "dur": 111,
+   "o": 33,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#GRVC0UCV",
+   "ath": 19,
+   "d": "#LRGURGV2C",
+   "dth": 19,
+   "dur": 177,
+   "o": 34,
+   "p": 92,
+   "s": 2,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -544,7 +566,7 @@
  },
  "end": "20261126T180515.000Z",
  "opponent": {
-  "destruction": 54.733334,
+  "destruction": 61.133335,
   "members": [
    {
     "name": "Duke",
@@ -728,7 +750,7 @@
    }
   ],
   "name": "Les Mahmoudiens",
-  "stars": 44,
+  "stars": 49,
   "tag": "#2P28UQQ80"
  },
  "start": "20261125T180515.000Z",

@@ -373,11 +373,44 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#2CP8P2R8U",
+   "ath": 19,
+   "d": "#8GP9L8L2Q",
+   "dth": 19,
+   "dur": 148,
+   "o": 35,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#2CP8P2R8U",
+   "ath": 19,
+   "d": "#YJ89PRL0",
+   "dth": 19,
+   "dur": 139,
+   "o": 36,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#20C9PCQG",
+   "ath": 19,
+   "d": "#PLU0RJ0G2",
+   "dth": 19,
+   "dur": 152,
+   "o": 37,
+   "p": 84,
+   "s": 2,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 22.142857,
+  "destruction": 27.857143,
   "members": [
    {
     "name": "Der Checker",
@@ -591,12 +624,12 @@
    }
   ],
   "name": "GhostZone",
-  "stars": 21,
+  "stars": 27,
   "tag": "#JPLG8V2C"
  },
  "end": "20261126T195832.000Z",
  "opponent": {
-  "destruction": 54.285713,
+  "destruction": 56.685715,
   "members": [
    {
     "name": "ThePunisher",
@@ -810,7 +843,7 @@
    }
   ],
   "name": "Walhalla",
-  "stars": 57,
+  "stars": 59,
   "tag": "#98YYC9LR"
  },
  "start": "20261125T195832.000Z",

@@ -296,6 +296,50 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#RRV2YVLU",
+   "ath": 19,
+   "d": "#Y2C8PJVCR",
+   "dth": 19,
+   "dur": 164,
+   "o": 28,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#J8JURVUL",
+   "ath": 19,
+   "d": "#20QCQGRJ",
+   "dth": 19,
+   "dur": 180,
+   "o": 29,
+   "p": 99,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#QJV0JRC8",
+   "ath": 19,
+   "d": "#CGV0902L",
+   "dth": 19,
+   "dur": 152,
+   "o": 30,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#8PYQ8RQVV",
+   "ath": 19,
+   "d": "#20QCQGRJ",
+   "dth": 19,
+   "dur": 160,
+   "o": 31,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -549,7 +593,7 @@
  },
  "end": "20261126T204406.000Z",
  "opponent": {
-  "destruction": 27.5,
+  "destruction": 35.0,
   "members": [
    {
     "name": "CoCscaro",
@@ -793,7 +837,7 @@
    }
   ],
   "name": "Hystéria-_House",
-  "stars": 33,
+  "stars": 42,
   "tag": "#C0UJRLR0"
  },
  "start": "20261125T204406.000Z",

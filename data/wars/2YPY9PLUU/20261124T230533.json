@@ -76,11 +76,99 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#999UUPGC8",
+   "ath": 19,
+   "d": "#V228CVQ8",
+   "dth": 19,
+   "dur": 94,
+   "o": 8,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#2Y8CCJQ0",
+   "ath": 19,
+   "d": "#L928CPYC",
+   "dth": 19,
+   "dur": 121,
+   "o": 9,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#22PUVQU29",
+   "ath": 19,
+   "d": "#VGQ2JPYR",
+   "dth": 19,
+   "dur": 140,
+   "o": 10,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#999UUPGC8",
+   "ath": 19,
+   "d": "#2YGCG9YUR",
+   "dth": 19,
+   "dur": 98,
+   "o": 11,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#UGUP0YG2",
+   "ath": 19,
+   "d": "#P8299CU8Y",
+   "dth": 19,
+   "dur": 78,
+   "o": 12,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#2Y8CCJQ0",
+   "ath": 19,
+   "d": "#C2Q9LRVJ",
+   "dth": 19,
+   "dur": 123,
+   "o": 13,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#22PUVQU29",
+   "ath": 19,
+   "d": "#28RPVQPG8",
+   "dth": 19,
+   "dur": 154,
+   "o": 14,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#UGUP0YG2",
+   "ath": 19,
+   "d": "#22G0U00VC",
+   "dth": 19,
+   "dur": 87,
+   "o": 15,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 11.428572,
+  "destruction": 34.285713,
   "members": [
    {
     "name": "xXStelioXx",
@@ -294,7 +382,7 @@
    }
   ],
   "name": "Endzone",
-  "stars": 12,
+  "stars": 36,
   "tag": "#2YPY9PLUU"
  },
  "end": "20261126T220533.000Z",

@@ -582,11 +582,121 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#Q2QUG898G",
+   "ath": 19,
+   "d": "#YQ2GJJCU",
+   "dth": 19,
+   "dur": 180,
+   "o": 54,
+   "p": 92,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#Q2QUG898G",
+   "ath": 19,
+   "d": "#8RUU0QLJU",
+   "dth": 19,
+   "dur": 154,
+   "o": 55,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#2VLUVQCR",
+   "ath": 19,
+   "d": "#8020G0PYC",
+   "dth": 19,
+   "dur": 114,
+   "o": 56,
+   "p": 69,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#2VLUVQCR",
+   "ath": 19,
+   "d": "#Y982G9Q",
+   "dth": 19,
+   "dur": 170,
+   "o": 57,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#QJYQJUPRY",
+   "ath": 19,
+   "d": "#YQ2GJJCU",
+   "dth": 19,
+   "dur": 147,
+   "o": 58,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#QJYQJUPRY",
+   "ath": 19,
+   "d": "#8020G0PYC",
+   "dth": 19,
+   "dur": 142,
+   "o": 59,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#8RUU0QLJU",
+   "ath": 19,
+   "d": "#V98L8Q0G",
+   "dth": 19,
+   "dur": 142,
+   "o": 60,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#8RUU0QLJU",
+   "ath": 19,
+   "d": "#2YU2QJY",
+   "dth": 19,
+   "dur": 180,
+   "o": 61,
+   "p": 99,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#PL2RC0YC",
+   "ath": 19,
+   "d": "#J8G8LP0",
+   "dth": 19,
+   "dur": 147,
+   "o": 62,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#PL2RC0YC",
+   "ath": 19,
+   "d": "#2PG9YJ88",
+   "dth": 19,
+   "dur": 115,
+   "o": 63,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 36.533333,
+  "destruction": 40.955555,
   "members": [
    {
     "name": "MOZ.ART",
@@ -860,12 +970,12 @@
    }
   ],
   "name": "Firstzone",
-  "stars": 43,
+  "stars": 48,
   "tag": "#2YQQ80QGL"
  },
  "end": "20261126T190240.000Z",
  "opponent": {
-  "destruction": 66.55556,
+  "destruction": 75.55556,
   "members": [
    {
     "name": "Clasher",
@@ -1139,7 +1249,7 @@
    }
   ],
   "name": "Black Water",
-  "stars": 88,
+  "stars": 102,
   "tag": "#29LRRULU"
  },
  "start": "20261125T190240.000Z",
