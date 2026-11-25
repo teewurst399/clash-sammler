@@ -802,6 +802,50 @@
    "p": 98,
    "s": 2,
    "side": "gegner"
+  },
+  {
+   "a": "#V9R0R98R",
+   "ath": 19,
+   "d": "#8GRVQVVCJ",
+   "dth": 18,
+   "dur": 133,
+   "o": 74,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#V9R0R98R",
+   "ath": 19,
+   "d": "#LCVJ0GGVL",
+   "dth": 19,
+   "dur": 180,
+   "o": 75,
+   "p": 89,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#9YRJCJURQ",
+   "ath": 18,
+   "d": "#LCVJ0GGVL",
+   "dth": 19,
+   "dur": 153,
+   "o": 76,
+   "p": 75,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#2YGYGVPQC",
+   "ath": 19,
+   "d": "#2U9PPU2P9",
+   "dth": 19,
+   "dur": 128,
+   "o": 77,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -1085,7 +1129,7 @@
  },
  "end": "20261125T173457.000Z",
  "opponent": {
-  "destruction": 88.666664,
+  "destruction": 95.08889,
   "members": [
    {
     "name": "~@N|]R€¥~",
@@ -1359,7 +1403,7 @@
    }
   ],
   "name": "Україна",
-  "stars": 118,
+  "stars": 126,
   "tag": "#U08RJ88Y"
  },
  "start": "20261124T173457.000Z",

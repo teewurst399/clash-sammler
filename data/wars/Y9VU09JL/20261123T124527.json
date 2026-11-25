@@ -769,11 +769,132 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#R8Y8GGCQ",
+   "ath": 19,
+   "d": "#2J2PU82RL",
+   "dth": 17,
+   "dur": 97,
+   "o": 71,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#Y0R92J9Y",
+   "ath": 19,
+   "d": "#LJP8JL880",
+   "dth": 19,
+   "dur": 144,
+   "o": 72,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#QRULRLYJ",
+   "ath": 19,
+   "d": "#P8URCGU9",
+   "dth": 19,
+   "dur": 180,
+   "o": 73,
+   "p": 78,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#Y0R92J9Y",
+   "ath": 19,
+   "d": "#P8URCGU9",
+   "dth": 19,
+   "dur": 158,
+   "o": 74,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#Q0U20R9Y",
+   "ath": 18,
+   "d": "#2GCYJUPCU",
+   "dth": 17,
+   "dur": 141,
+   "o": 75,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#Q0U20R9Y",
+   "ath": 18,
+   "d": "#909LUC88U",
+   "dth": 17,
+   "dur": 145,
+   "o": 76,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#QRULRLYJ",
+   "ath": 19,
+   "d": "#8PLVR82QC",
+   "dth": 19,
+   "dur": 178,
+   "o": 77,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#9JLGQG2C",
+   "ath": 19,
+   "d": "#89PLL2YCV",
+   "dth": 14,
+   "dur": 79,
+   "o": 78,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#QY0QVYCJY",
+   "ath": 19,
+   "d": "#Y990RL88",
+   "dth": 14,
+   "dur": 62,
+   "o": 79,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#LQUP0RCL",
+   "ath": 18,
+   "d": "#P090RQQJY",
+   "dth": 19,
+   "dur": 180,
+   "o": 80,
+   "p": 85,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#QY0QVYCJY",
+   "ath": 19,
+   "d": "#2J82V8GV",
+   "dth": 19,
+   "dur": 116,
+   "o": 81,
+   "p": 63,
+   "s": 1,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 91.42857,
+  "destruction": 97.14286,
   "members": [
    {
     "name": "vllo",
@@ -987,12 +1108,12 @@
    }
   ],
   "name": "Rising Phoenix",
-  "stars": 96,
+  "stars": 102,
   "tag": "#Y9VU09JL"
  },
  "end": "20261125T114527.000Z",
  "opponent": {
-  "destruction": 88.34286,
+  "destruction": 100.0,
   "members": [
    {
     "name": "Venom",
@@ -1206,7 +1327,7 @@
    }
   ],
   "name": "Indo Xtreme",
-  "stars": 92,
+  "stars": 105,
   "tag": "#LYLJUGG"
  },
  "start": "20261124T114527.000Z",

@@ -230,11 +230,22 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#R9VUQV2GJ",
+   "ath": 11,
+   "d": "#QRP8YCQRP",
+   "dth": 9,
+   "dur": 87,
+   "o": 22,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 55.12,
+  "destruction": 59.12,
   "members": [
    {
     "name": "G!B Badoomi",
@@ -388,7 +399,7 @@
    }
   ],
   "name": "Get Smurfed!",
-  "stars": 39,
+  "stars": 42,
   "tag": "#2J0JLGRRR"
  },
  "end": "20261125T202243.000Z",

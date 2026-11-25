@@ -296,6 +296,17 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#PR2VCYU",
+   "ath": 19,
+   "d": "#8R2P8CUUU",
+   "dth": 19,
+   "dur": 180,
+   "o": 28,
+   "p": 94,
+   "s": 2,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -519,7 +530,7 @@
  },
  "end": "20261125T193928.000Z",
  "opponent": {
-  "destruction": 36.971428,
+  "destruction": 39.657143,
   "members": [
    {
     "name": "BS Keizer",
@@ -733,7 +744,7 @@
    }
   ],
   "name": "Ballensnijers",
-  "stars": 38,
+  "stars": 40,
   "tag": "#2QVJVVJC"
  },
  "start": "20261124T193928.000Z",

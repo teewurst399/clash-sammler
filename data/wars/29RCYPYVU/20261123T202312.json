@@ -362,11 +362,66 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#9G8UR8V2C",
+   "ath": 19,
+   "d": "#GPLYGPVR",
+   "dth": 19,
+   "dur": 144,
+   "o": 34,
+   "p": 91,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#8CUYY0V2U",
+   "ath": 19,
+   "d": "#QRQ209R09",
+   "dth": 19,
+   "dur": 130,
+   "o": 35,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#8GVC80QV9",
+   "ath": 19,
+   "d": "#VYU80YU",
+   "dth": 19,
+   "dur": 121,
+   "o": 36,
+   "p": 97,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#8GVC80QV9",
+   "ath": 19,
+   "d": "#9VQVVQC9",
+   "dth": 19,
+   "dur": 142,
+   "o": 37,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#8CUYY0V2U",
+   "ath": 19,
+   "d": "#VYU80YU",
+   "dth": 19,
+   "dur": 136,
+   "o": 38,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 36.0,
+  "destruction": 48.0,
   "members": [
    {
     "name": "Herold",
@@ -520,7 +575,7 @@
    }
   ],
   "name": "German⚡️Elite™️",
-  "stars": 27,
+  "stars": 36,
   "tag": "#29RCYPYVU"
  },
  "end": "20261125T192312.000Z",

@@ -1011,11 +1011,143 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#80CY02P9P",
+   "ath": 19,
+   "d": "#8V9P9JJQL",
+   "dth": 19,
+   "dur": 163,
+   "o": 93,
+   "p": 82,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#82JL92CJC",
+   "ath": 19,
+   "d": "#QQLVVJL9R",
+   "dth": 19,
+   "dur": 171,
+   "o": 94,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#80CY02P9P",
+   "ath": 19,
+   "d": "#8U008CQCJ",
+   "dth": 19,
+   "dur": 178,
+   "o": 95,
+   "p": 86,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#82JL92CJC",
+   "ath": 19,
+   "d": "#GV9V88LJ",
+   "dth": 19,
+   "dur": 180,
+   "o": 96,
+   "p": 69,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#V8YJGYC9",
+   "ath": 19,
+   "d": "#2RLC0J8V9",
+   "dth": 19,
+   "dur": 96,
+   "o": 97,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#V8YJGYC9",
+   "ath": 19,
+   "d": "#LVPVQPY8G",
+   "dth": 19,
+   "dur": 148,
+   "o": 98,
+   "p": 97,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#9R92UYRUC",
+   "ath": 19,
+   "d": "#82JL92CJC",
+   "dth": 19,
+   "dur": 128,
+   "o": 99,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#QCU8909Y8",
+   "ath": 19,
+   "d": "#PQ82PLJPV",
+   "dth": 19,
+   "dur": 151,
+   "o": 100,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#QCU8909Y8",
+   "ath": 19,
+   "d": "#20GUCY90R",
+   "dth": 19,
+   "dur": 143,
+   "o": 101,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#JYGL88G0",
+   "ath": 19,
+   "d": "#9YU2YP9J",
+   "dth": 19,
+   "dur": 179,
+   "o": 102,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#JYGL88G0",
+   "ath": 19,
+   "d": "#82LJ8URCY",
+   "dth": 19,
+   "dur": 146,
+   "o": 103,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#8PG29YURP",
+   "ath": 19,
+   "d": "#P82JY22GJ",
+   "dth": 19,
+   "dur": 168,
+   "o": 104,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 77.68,
+  "destruction": 87.7,
   "members": [
    {
     "name": "G!B Mighty",
@@ -1319,12 +1451,12 @@
    }
   ],
   "name": "Get Dazed!",
-  "stars": 113,
+  "stars": 129,
   "tag": "#2JQ09R8PG"
  },
  "end": "20261125T192437.000Z",
  "opponent": {
-  "destruction": 81.16,
+  "destruction": 89.96,
   "members": [
    {
     "name": "☢️poury@khani☢️",
@@ -1628,7 +1760,7 @@
    }
   ],
   "name": "اهورا",
-  "stars": 116,
+  "stars": 128,
   "tag": "#8GQLP0UY"
  },
  "start": "20261124T192437.000Z",

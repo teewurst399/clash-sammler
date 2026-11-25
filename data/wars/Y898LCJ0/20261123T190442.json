@@ -813,11 +813,55 @@
    "p": 94,
    "s": 2,
    "side": "clan"
+  },
+  {
+   "a": "#YCU9JJ0Y2",
+   "ath": 19,
+   "d": "#82CLRU82",
+   "dth": 19,
+   "dur": 121,
+   "o": 75,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#80LVCCC9R",
+   "ath": 19,
+   "d": "#PGPJUCQR8",
+   "dth": 19,
+   "dur": 119,
+   "o": 76,
+   "p": 97,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#YCU9JJ0Y2",
+   "ath": 19,
+   "d": "#9CCY2909",
+   "dth": 19,
+   "dur": 105,
+   "o": 77,
+   "p": 90,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#80LVCCC9R",
+   "ath": 19,
+   "d": "#8LGQ2UGPY",
+   "dth": 19,
+   "dur": 89,
+   "o": 78,
+   "p": 62,
+   "s": 2,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 38.025,
+  "destruction": 42.775,
   "members": [
    {
     "name": "Fighter",
@@ -1061,12 +1105,12 @@
    }
   ],
   "name": "#Black Stone#",
-  "stars": 43,
+  "stars": 48,
   "tag": "#Y898LCJ0"
  },
  "end": "20261125T180442.000Z",
  "opponent": {
-  "destruction": 99.0,
+  "destruction": 99.2,
   "members": [
    {
     "name": "iskender",
