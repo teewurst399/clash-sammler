@@ -1539,6 +1539,160 @@
    "p": 56,
    "s": 2,
    "side": "gegner"
+  },
+  {
+   "a": "#92GJJ99L",
+   "ath": 19,
+   "d": "#YYUV9Y29",
+   "dth": 19,
+   "dur": 9,
+   "o": 141,
+   "p": 4,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#92GJJ99L",
+   "ath": 19,
+   "d": "#2U8020UQ9",
+   "dth": 19,
+   "dur": 30,
+   "o": 142,
+   "p": 27,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#Y0YC8G822",
+   "ath": 19,
+   "d": "#YYUV9Y29",
+   "dth": 19,
+   "dur": 11,
+   "o": 143,
+   "p": 9,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#Y0YC8G822",
+   "ath": 19,
+   "d": "#2JYPUCPC2",
+   "dth": 19,
+   "dur": 25,
+   "o": 144,
+   "p": 18,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#8V2929802",
+   "ath": 19,
+   "d": "#YYUV9Y29",
+   "dth": 19,
+   "dur": 4,
+   "o": 145,
+   "p": 3,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#8V2929802",
+   "ath": 19,
+   "d": "#2U8020UQ9",
+   "dth": 19,
+   "dur": 16,
+   "o": 146,
+   "p": 14,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#LGCURJJ0",
+   "ath": 19,
+   "d": "#YYUV9Y29",
+   "dth": 19,
+   "dur": 4,
+   "o": 147,
+   "p": 3,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#LGCURJJ0",
+   "ath": 19,
+   "d": "#2U8020UQ9",
+   "dth": 19,
+   "dur": 15,
+   "o": 148,
+   "p": 17,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#2L0LYU22Q",
+   "ath": 19,
+   "d": "#YYUV9Y29",
+   "dth": 19,
+   "dur": 3,
+   "o": 149,
+   "p": 13,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#22UG90UQ8",
+   "ath": 19,
+   "d": "#8GU8JVQ9R",
+   "dth": 19,
+   "dur": 118,
+   "o": 150,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#2L0LYU22Q",
+   "ath": 19,
+   "d": "#YGV8VQ90L",
+   "dth": 19,
+   "dur": 3,
+   "o": 151,
+   "p": 16,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#22UG90UQ8",
+   "ath": 19,
+   "d": "#QV829Q0P",
+   "dth": 19,
+   "dur": 75,
+   "o": 152,
+   "p": 68,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#82VUVJR08",
+   "ath": 19,
+   "d": "#QV829Q0P",
+   "dth": 19,
+   "dur": 118,
+   "o": 153,
+   "p": 83,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#82VUVJR08",
+   "ath": 19,
+   "d": "#22LPGY0QU",
+   "dth": 19,
+   "dur": 107,
+   "o": 154,
+   "p": 81,
+   "s": 2,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -1852,7 +2006,7 @@
  },
  "end": "20261125T054706.000Z",
  "opponent": {
-  "destruction": 98.88,
+  "destruction": 99.42,
   "members": [
    {
     "name": "KTLB ⚡ RAIZEN",
@@ -2156,7 +2310,7 @@
    }
   ],
   "name": "KATILINGBAN",
-  "stars": 147,
+  "stars": 148,
   "tag": "#9V8JQQR2"
  },
  "start": "20261124T054706.000Z",

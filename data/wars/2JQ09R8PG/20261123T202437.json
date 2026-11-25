@@ -879,11 +879,55 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#GV9V88LJ",
+   "ath": 19,
+   "d": "#YPL2CR89P",
+   "dth": 19,
+   "dur": 106,
+   "o": 81,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#GV9V88LJ",
+   "ath": 19,
+   "d": "#PPUJYY880",
+   "dth": 19,
+   "dur": 113,
+   "o": 82,
+   "p": 97,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#GGP0UJP8",
+   "ath": 19,
+   "d": "#29G8C98CQ",
+   "dth": 19,
+   "dur": 139,
+   "o": 83,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#GGP0UJP8",
+   "ath": 19,
+   "d": "#P82JY22GJ",
+   "dth": 19,
+   "dur": 180,
+   "o": 84,
+   "p": 99,
+   "s": 2,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 69.54,
+  "destruction": 73.68,
   "members": [
    {
     "name": "G!B Mighty",
@@ -1187,7 +1231,7 @@
    }
   ],
   "name": "Get Dazed!",
-  "stars": 101,
+  "stars": 107,
   "tag": "#2JQ09R8PG"
  },
  "end": "20261125T192437.000Z",

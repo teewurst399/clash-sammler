@@ -428,6 +428,17 @@
    "p": 91,
    "s": 2,
    "side": "gegner"
+  },
+  {
+   "a": "#99PPP98YU",
+   "ath": 18,
+   "d": "#LL2RV98QJ",
+   "dth": 18,
+   "dur": 153,
+   "o": 40,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -621,7 +632,7 @@
  },
  "end": "20261125T175442.000Z",
  "opponent": {
-  "destruction": 52.833332,
+  "destruction": 56.166668,
   "members": [
    {
     "name": "✨سـلطـان✨♦️‏LMT",
@@ -805,7 +816,7 @@
    }
   ],
   "name": "لمتنا احلا",
-  "stars": 46,
+  "stars": 49,
   "tag": "#299GC0CCJ"
  },
  "start": "20261124T175442.000Z",

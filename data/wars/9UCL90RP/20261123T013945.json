@@ -1825,6 +1825,72 @@
    "p": 99,
    "s": 2,
    "side": "clan"
+  },
+  {
+   "a": "#P8R0G28Q",
+   "ath": 19,
+   "d": "#2PV0P2JY",
+   "dth": 19,
+   "dur": 13,
+   "o": 167,
+   "p": 51,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#P8R0G28Q",
+   "ath": 19,
+   "d": "#LV2RP28P0",
+   "dth": 19,
+   "dur": 17,
+   "o": 168,
+   "p": 57,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#2UJQ0GL8",
+   "ath": 19,
+   "d": "#2PV0P2JY",
+   "dth": 19,
+   "dur": 16,
+   "o": 169,
+   "p": 54,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#2UJQ0GL8",
+   "ath": 19,
+   "d": "#LV2RP28P0",
+   "dth": 19,
+   "dur": 17,
+   "o": 170,
+   "p": 52,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#8LVYYGRJL",
+   "ath": 19,
+   "d": "#QUL89RPY",
+   "dth": 19,
+   "dur": 176,
+   "o": 171,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#8LVYYGRJL",
+   "ath": 19,
+   "d": "#RLGJJRYQ",
+   "dth": 19,
+   "dur": 133,
+   "o": 172,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -2386,7 +2452,7 @@
   "tag": "#9RLJCCYL"
  },
  "start": "20261124T003945.000Z",
- "state": "inWar",
+ "state": "warEnded",
  "teamSize": 45,
  "type": "krieg"
 }

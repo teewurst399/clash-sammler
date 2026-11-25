@@ -538,6 +538,83 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#8Q2RRPJYJ",
+   "ath": 19,
+   "d": "#9YP28RYPC",
+   "dth": 19,
+   "dur": 161,
+   "o": 50,
+   "p": 89,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#9VGU8URQG",
+   "ath": 19,
+   "d": "#L9RGGY8VV",
+   "dth": 19,
+   "dur": 133,
+   "o": 51,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#J9JC0RY2",
+   "ath": 19,
+   "d": "#9YP28RYPC",
+   "dth": 19,
+   "dur": 180,
+   "o": 52,
+   "p": 98,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#PPYJYLCPY",
+   "ath": 19,
+   "d": "#8RUJ9809C",
+   "dth": 19,
+   "dur": 142,
+   "o": 53,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#PPYJYLCPY",
+   "ath": 19,
+   "d": "#9VG9R2URU",
+   "dth": 19,
+   "dur": 145,
+   "o": 54,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#9VGU8URQG",
+   "ath": 19,
+   "d": "#9CLJVLUP8",
+   "dth": 19,
+   "dur": 162,
+   "o": 55,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#J9JC0RY2",
+   "ath": 19,
+   "d": "#LUJC2RC8U",
+   "dth": 19,
+   "dur": 140,
+   "o": 56,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -791,7 +868,7 @@
  },
  "end": "20261125T193502.000Z",
  "opponent": {
-  "destruction": 67.5,
+  "destruction": 82.45,
   "members": [
    {
     "name": "alasmar",
@@ -1035,7 +1112,7 @@
    }
   ],
   "name": "⛓️THE⚔️GANG.III",
-  "stars": 81,
+  "stars": 98,
   "tag": "#2QUCLLPGJ"
  },
  "start": "20261124T193502.000Z",
