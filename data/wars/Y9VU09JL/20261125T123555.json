@@ -142,11 +142,176 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#8PLVR82QC",
+   "ath": 19,
+   "d": "#LP8YGQUVU",
+   "dth": 19,
+   "dur": 122,
+   "o": 14,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#8VGVCYJR9",
+   "ath": 19,
+   "d": "#2UCVU9YY9",
+   "dth": 19,
+   "dur": 140,
+   "o": 15,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#8VGVCYJR9",
+   "ath": 19,
+   "d": "#YYVPRG9Q9",
+   "dth": 19,
+   "dur": 161,
+   "o": 16,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#YU92LVVC",
+   "ath": 19,
+   "d": "#80UVJ80UC",
+   "dth": 19,
+   "dur": 115,
+   "o": 17,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#8PLVR82QC",
+   "ath": 19,
+   "d": "#99L8CPGJQ",
+   "dth": 19,
+   "dur": 89,
+   "o": 18,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#YL9Q9CV89",
+   "ath": 19,
+   "d": "#8PLVR82QC",
+   "dth": 19,
+   "dur": 147,
+   "o": 19,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#PRGCRRQR9",
+   "ath": 19,
+   "d": "#P8URCGU9",
+   "dth": 19,
+   "dur": 178,
+   "o": 20,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#YL9Q9CV89",
+   "ath": 19,
+   "d": "#C0LGVRRL",
+   "dth": 19,
+   "dur": 134,
+   "o": 21,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#YC0VC8G0G",
+   "ath": 19,
+   "d": "#GV0JGVCUP",
+   "dth": 18,
+   "dur": 110,
+   "o": 22,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#YC0VC8G0G",
+   "ath": 19,
+   "d": "#QQVL9QQG0",
+   "dth": 18,
+   "dur": 180,
+   "o": 23,
+   "p": 98,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#9LP8PV292",
+   "ath": 15,
+   "d": "#L8LY2JQCJ",
+   "dth": 15,
+   "dur": 128,
+   "o": 24,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#9LP8PV292",
+   "ath": 15,
+   "d": "#LGYRV2URL",
+   "dth": 17,
+   "dur": 102,
+   "o": 25,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#8QG0VGU22",
+   "ath": 12,
+   "d": "#R098U0Y2U",
+   "dth": 11,
+   "dur": 180,
+   "o": 26,
+   "p": 95,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#8QG0VGU22",
+   "ath": 12,
+   "d": "#29J9LVR2L",
+   "dth": 7,
+   "dur": 54,
+   "o": 27,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#GV0JGVCUP",
+   "ath": 18,
+   "d": "#QG9V0LCL8",
+   "dth": 18,
+   "dur": 180,
+   "o": 28,
+   "p": 93,
+   "s": 1,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 5.714286,
+  "destruction": 16.942858,
   "members": [
    {
     "name": "vllo",
@@ -360,12 +525,12 @@
    }
   ],
   "name": "Rising Phoenix",
-  "stars": 6,
+  "stars": 16,
   "tag": "#Y9VU09JL"
  },
  "end": "20261127T113555.000Z",
  "opponent": {
-  "destruction": 27.657143,
+  "destruction": 54.085712,
   "members": [
    {
     "name": "KARAN",
@@ -579,7 +744,7 @@
    }
   ],
   "name": "INDIANS",
-  "stars": 28,
+  "stars": 55,
   "tag": "#2YYRUY2Y"
  },
  "start": "20261126T113555.000Z",

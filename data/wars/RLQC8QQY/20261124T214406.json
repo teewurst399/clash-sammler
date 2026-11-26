@@ -835,11 +835,88 @@
    "p": 88,
    "s": 2,
    "side": "gegner"
+  },
+  {
+   "a": "#8V0V92Q22",
+   "ath": 19,
+   "d": "#RL0QYR8R",
+   "dth": 19,
+   "dur": 119,
+   "o": 77,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#PGRQC0QJR",
+   "ath": 19,
+   "d": "#2YPPPG2L0",
+   "dth": 19,
+   "dur": 120,
+   "o": 78,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#YPJUGP89P",
+   "ath": 19,
+   "d": "#LG8JJV20G",
+   "dth": 19,
+   "dur": 122,
+   "o": 79,
+   "p": 96,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#G8GQ8G00C",
+   "ath": 18,
+   "d": "#R9088VPG",
+   "dth": 19,
+   "dur": 180,
+   "o": 80,
+   "p": 87,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#G8GQ8G00C",
+   "ath": 18,
+   "d": "#Y98P2020",
+   "dth": 19,
+   "dur": 180,
+   "o": 81,
+   "p": 97,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#PGRQC0QJR",
+   "ath": 19,
+   "d": "#L8RCRC2G",
+   "dth": 19,
+   "dur": 123,
+   "o": 82,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#YPJUGP89P",
+   "ath": 19,
+   "d": "#P9GYGLGRJ",
+   "dth": 19,
+   "dur": 105,
+   "o": 83,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 56.775,
+  "destruction": 59.275,
   "members": [
    {
     "name": "Gsälzbrot",
@@ -1083,12 +1160,12 @@
    }
   ],
   "name": "headstart",
-  "stars": 67,
+  "stars": 70,
   "tag": "#RLQC8QQY"
  },
  "end": "20261126T204406.000Z",
  "opponent": {
-  "destruction": 92.325,
+  "destruction": 98.5,
   "members": [
    {
     "name": "CoCscaro",
@@ -1332,7 +1409,7 @@
    }
   ],
   "name": "Hystéria-_House",
-  "stars": 106,
+  "stars": 113,
   "tag": "#C0UJRLR0"
  },
  "start": "20261125T204406.000Z",

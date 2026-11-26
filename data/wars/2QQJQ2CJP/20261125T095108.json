@@ -329,11 +329,110 @@
    "p": 97,
    "s": 2,
    "side": "clan"
+  },
+  {
+   "a": "#P8P8GPQCJ",
+   "ath": 19,
+   "d": "#UR9YRQ92",
+   "dth": 19,
+   "dur": 180,
+   "o": 31,
+   "p": 95,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#LQR2URPL2",
+   "ath": 18,
+   "d": "#PVLRVQPRR",
+   "dth": 19,
+   "dur": 148,
+   "o": 32,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#LQR2URPL2",
+   "ath": 18,
+   "d": "#8L8PL2CJU",
+   "dth": 19,
+   "dur": 161,
+   "o": 33,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#G80P0GCRG",
+   "ath": 19,
+   "d": "#GCUU8Q2LQ",
+   "dth": 19,
+   "dur": 122,
+   "o": 34,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#G80P0GCRG",
+   "ath": 19,
+   "d": "#LC82P9PU",
+   "dth": 18,
+   "dur": 134,
+   "o": 35,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#UJ2JGUL9",
+   "ath": 19,
+   "d": "#PYQLVV02",
+   "dth": 18,
+   "dur": 167,
+   "o": 36,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#UJ2JGUL9",
+   "ath": 19,
+   "d": "#Q2QQVP8C9",
+   "dth": 18,
+   "dur": 144,
+   "o": 37,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#QVYUJP98L",
+   "ath": 19,
+   "d": "#G8YYG2RYV",
+   "dth": 18,
+   "dur": 107,
+   "o": 38,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#QQGJ0CUU",
+   "ath": 19,
+   "d": "#2QQQGGGGY",
+   "dth": 19,
+   "dur": 143,
+   "o": 39,
+   "p": 79,
+   "s": 1,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 68.15,
+  "destruction": 76.85,
   "members": [
    {
     "name": "Bozz⚡️Bandit",
@@ -457,12 +556,12 @@
    }
   ],
   "name": "Infructus",
-  "stars": 40,
+  "stars": 43,
   "tag": "#2QQJQ2CJP"
  },
  "end": "20261127T085108.000Z",
  "opponent": {
-  "destruction": 65.0,
+  "destruction": 100.0,
   "members": [
    {
     "name": "❤️TÙNG_THUÝ❤️",
@@ -586,7 +685,7 @@
    }
   ],
   "name": "Phu Tho",
-  "stars": 39,
+  "stars": 60,
   "tag": "#VJUUL9Y"
  },
  "start": "20261126T085108.000Z",

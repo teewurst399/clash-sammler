@@ -582,11 +582,33 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#P08LVGR0U",
+   "ath": 19,
+   "d": "#YP8PCU0UV",
+   "dth": 19,
+   "dur": 113,
+   "o": 54,
+   "p": 81,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#P08LVGR0U",
+   "ath": 19,
+   "d": "#2CJPCJUVJ",
+   "dth": 19,
+   "dur": 160,
+   "o": 55,
+   "p": 96,
+   "s": 2,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 78.3,
+  "destruction": 78.45,
   "members": [
    {
     "name": "×ºkͥyuͣuͫº×",

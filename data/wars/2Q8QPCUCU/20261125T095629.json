@@ -461,11 +461,132 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#PJJP8U0Q0",
+   "ath": 19,
+   "d": "#YG80Y2GR8",
+   "dth": 19,
+   "dur": 113,
+   "o": 43,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#QVGU2QLLQ",
+   "ath": 19,
+   "d": "#2Q8P8P9J0",
+   "dth": 19,
+   "dur": 89,
+   "o": 44,
+   "p": 69,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#QVGU2QLLQ",
+   "ath": 19,
+   "d": "#JPU0YRV",
+   "dth": 19,
+   "dur": 128,
+   "o": 45,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#G9G020RJ",
+   "ath": 18,
+   "d": "#22PJ0PLYR",
+   "dth": 19,
+   "dur": 101,
+   "o": 46,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#PJJP8U0Q0",
+   "ath": 19,
+   "d": "#22800UVRU",
+   "dth": 19,
+   "dur": 117,
+   "o": 47,
+   "p": 94,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#9LYVQJLRL",
+   "ath": 19,
+   "d": "#Q2V9LQPQ8",
+   "dth": 19,
+   "dur": 134,
+   "o": 48,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#L8VYGYLY",
+   "ath": 19,
+   "d": "#LVGLCVP9P",
+   "dth": 19,
+   "dur": 107,
+   "o": 49,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#9LYVQJLRL",
+   "ath": 19,
+   "d": "#G0GV20PUP",
+   "dth": 19,
+   "dur": 119,
+   "o": 50,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#L8VYGYLY",
+   "ath": 19,
+   "d": "#2QPCGQ",
+   "dth": 19,
+   "dur": 105,
+   "o": 51,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#8080VYG8C",
+   "ath": 19,
+   "d": "#Q2RC8YY9U",
+   "dth": 19,
+   "dur": 180,
+   "o": 52,
+   "p": 90,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#8080VYG8C",
+   "ath": 19,
+   "d": "#9RU9LCJ9V",
+   "dth": 19,
+   "dur": 116,
+   "o": 53,
+   "p": 89,
+   "s": 2,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 41.475,
+  "destruction": 51.325,
   "members": [
    {
     "name": "Travel327",
@@ -709,12 +830,12 @@
    }
   ],
   "name": "Der Obstorden",
-  "stars": 45,
+  "stars": 55,
   "tag": "#2Q8QPCUCU"
  },
  "end": "20261127T085629.000Z",
  "opponent": {
-  "destruction": 51.95,
+  "destruction": 66.175,
   "members": [
    {
     "name": "❤Sâu❤Shi❤",
@@ -958,7 +1079,7 @@
    }
   ],
   "name": "VIETNAM COC",
-  "stars": 61,
+  "stars": 76,
   "tag": "#222V9RJVU"
  },
  "start": "20261126T085629.000Z",
