@@ -373,11 +373,66 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#9UULGQG82",
+   "ath": 19,
+   "d": "#RQYGYC0P",
+   "dth": 19,
+   "dur": 180,
+   "o": 35,
+   "p": 93,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#LJP8JL880",
+   "ath": 19,
+   "d": "#PG0GRVG9Y",
+   "dth": 19,
+   "dur": 166,
+   "o": 36,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#LJP8JL880",
+   "ath": 19,
+   "d": "#9CYPGRCJ2",
+   "dth": 19,
+   "dur": 177,
+   "o": 37,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#9UULGQG82",
+   "ath": 19,
+   "d": "#2C2PLQUGL",
+   "dth": 19,
+   "dur": 180,
+   "o": 38,
+   "p": 94,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#PP28VR9RV",
+   "ath": 17,
+   "d": "#9UPPVGYP",
+   "dth": 17,
+   "dur": 141,
+   "o": 39,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 19.8,
+  "destruction": 25.514286,
   "members": [
    {
     "name": "vllo",
@@ -591,12 +646,12 @@
    }
   ],
   "name": "Rising Phoenix",
-  "stars": 19,
+  "stars": 25,
   "tag": "#Y9VU09JL"
  },
  "end": "20261127T113555.000Z",
  "opponent": {
-  "destruction": 64.88571,
+  "destruction": 73.08572,
   "members": [
    {
     "name": "KARAN",
@@ -810,7 +865,7 @@
    }
   ],
   "name": "INDIANS",
-  "stars": 67,
+  "stars": 74,
   "tag": "#2YYRUY2Y"
  },
  "start": "20261126T113555.000Z",

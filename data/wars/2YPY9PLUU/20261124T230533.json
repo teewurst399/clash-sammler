@@ -802,6 +802,39 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#QUGUGLQG",
+   "ath": 19,
+   "d": "#9QRV2GR",
+   "dth": 19,
+   "dur": 148,
+   "o": 74,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#9V9VYRUUG",
+   "ath": 19,
+   "d": "#2VRV2URGP",
+   "dth": 19,
+   "dur": 153,
+   "o": 75,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#9V9VYRUUG",
+   "ath": 19,
+   "d": "#9V20J9PJ9",
+   "dth": 19,
+   "dur": 180,
+   "o": 76,
+   "p": 93,
+   "s": 2,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -1025,7 +1058,7 @@
  },
  "end": "20261126T220533.000Z",
  "opponent": {
-  "destruction": 88.91428,
+  "destruction": 94.828575,
   "members": [
    {
     "name": "CE BakeThePro",
@@ -1239,7 +1272,7 @@
    }
   ],
   "name": "Cyprus Elites",
-  "stars": 85,
+  "stars": 92,
   "tag": "#8L2PQJUR"
  },
  "start": "20261125T220533.000Z",

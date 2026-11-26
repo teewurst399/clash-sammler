@@ -769,11 +769,55 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#9GVRPL920",
+   "ath": 19,
+   "d": "#28JRRV9G9",
+   "dth": 19,
+   "dur": 125,
+   "o": 71,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#G9RLGJJU",
+   "ath": 19,
+   "d": "#GCVJCLVU",
+   "dth": 19,
+   "dur": 179,
+   "o": 72,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#2YVQ90GL",
+   "ath": 19,
+   "d": "#UQQG80QC",
+   "dth": 19,
+   "dur": 156,
+   "o": 73,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#G9RLGJJU",
+   "ath": 19,
+   "d": "#28PQ8PV0",
+   "dth": 19,
+   "dur": 171,
+   "o": 74,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 67.35555,
+  "destruction": 70.13333,
   "members": [
    {
     "name": "FL • SKINNYJIMM",
@@ -1047,12 +1091,12 @@
    }
   ],
   "name": "FruchtLabor",
-  "stars": 87,
+  "stars": 92,
   "tag": "#28LYJ29CQ"
  },
  "end": "20261127T092103.000Z",
  "opponent": {
-  "destruction": 62.2,
+  "destruction": 64.422226,
   "members": [
    {
     "name": "虎啸⭐️⚔️逆天⚔️⭐️",
@@ -1326,7 +1370,7 @@
    }
   ],
   "name": "虎标万金油",
-  "stars": 83,
+  "stars": 86,
   "tag": "#2P2UQR0UY"
  },
  "start": "20261126T092103.000Z",

@@ -1440,6 +1440,138 @@
    "p": 81,
    "s": 2,
    "side": "gegner"
+  },
+  {
+   "a": "#QULVQCLGU",
+   "ath": 19,
+   "d": "#LGL899998",
+   "dth": 19,
+   "dur": 168,
+   "o": 132,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#QULVQCLGU",
+   "ath": 19,
+   "d": "#UJUC20CP",
+   "dth": 19,
+   "dur": 180,
+   "o": 133,
+   "p": 99,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#9LPV8Q0L",
+   "ath": 19,
+   "d": "#2G09VC9GL",
+   "dth": 19,
+   "dur": 113,
+   "o": 134,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#9LPV8Q0L",
+   "ath": 19,
+   "d": "#90R9UYCRY",
+   "dth": 19,
+   "dur": 123,
+   "o": 135,
+   "p": 85,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#98PGPU8CR",
+   "ath": 19,
+   "d": "#L8YQ8CQQU",
+   "dth": 19,
+   "dur": 147,
+   "o": 136,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#98PGPU8CR",
+   "ath": 19,
+   "d": "#UJUC20CP",
+   "dth": 19,
+   "dur": 136,
+   "o": 137,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#2U9PU0U0Q",
+   "ath": 19,
+   "d": "#QV0QLJ29",
+   "dth": 19,
+   "dur": 120,
+   "o": 138,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#2U9PU0U0Q",
+   "ath": 19,
+   "d": "#PC98PLL89",
+   "dth": 19,
+   "dur": 134,
+   "o": 139,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#R929PCUQ",
+   "ath": 19,
+   "d": "#QRJG9JR2L",
+   "dth": 19,
+   "dur": 16,
+   "o": 140,
+   "p": 6,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#R929PCUQ",
+   "ath": 19,
+   "d": "#PUCQVPJ88",
+   "dth": 19,
+   "dur": 12,
+   "o": 141,
+   "p": 2,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#2RUUCP2UL",
+   "ath": 19,
+   "d": "#9RCPP82G",
+   "dth": 19,
+   "dur": 145,
+   "o": 142,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#2RUUCP2UL",
+   "ath": 19,
+   "d": "#2P9Q2UPG0",
+   "dth": 19,
+   "dur": 147,
+   "o": 143,
+   "p": 68,
+   "s": 2,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -1723,7 +1855,7 @@
  },
  "end": "20261126T174310.000Z",
  "opponent": {
-  "destruction": 99.244446,
+  "destruction": 100.0,
   "members": [
    {
     "name": "™MD SHARIF 3",
@@ -1997,7 +2129,7 @@
    }
   ],
   "name": "Furious Spirit",
-  "stars": 132,
+  "stars": 135,
   "tag": "#2RU099RG9"
  },
  "start": "20261125T174310.000Z",

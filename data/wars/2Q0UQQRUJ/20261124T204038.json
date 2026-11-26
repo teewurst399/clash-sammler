@@ -670,6 +670,61 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#QJCPCU9Y8",
+   "ath": 16,
+   "d": "#R08LJPV22",
+   "dth": 16,
+   "dur": 143,
+   "o": 62,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#892C90C89",
+   "ath": 19,
+   "d": "#GP92URVP0",
+   "dth": 17,
+   "dur": 121,
+   "o": 63,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#QJCPCU9Y8",
+   "ath": 16,
+   "d": "#YRUGVP8JP",
+   "dth": 16,
+   "dur": 114,
+   "o": 64,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#892C90C89",
+   "ath": 19,
+   "d": "#GCJ89QJRQ",
+   "dth": 14,
+   "dur": 87,
+   "o": 65,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#9LUPPLYG0",
+   "ath": 14,
+   "d": "#Q2GRPJRYV",
+   "dth": 14,
+   "dur": 107,
+   "o": 66,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -833,7 +888,7 @@
  },
  "end": "20261126T194038.000Z",
  "opponent": {
-  "destruction": 79.72,
+  "destruction": 92.0,
   "members": [
    {
     "name": "بحر الجروح",
@@ -987,7 +1042,7 @@
    }
   ],
   "name": "الافعى القاتلة",
-  "stars": 56,
+  "stars": 69,
   "tag": "#L8U22Q9U"
  },
  "start": "20261125T194038.000Z",
