@@ -2375,7 +2375,7 @@
   "tag": "#2RU099RG9"
  },
  "start": "20261125T174310.000Z",
- "state": "inWar",
+ "state": "warEnded",
  "teamSize": 45,
  "type": "krieg"
 }

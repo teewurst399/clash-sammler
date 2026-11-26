@@ -1099,6 +1099,94 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#P2LGC0UQJ",
+   "ath": 19,
+   "d": "#G9UP2JY8Y",
+   "dth": 19,
+   "dur": 109,
+   "o": 101,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#P2LGC0UQJ",
+   "ath": 19,
+   "d": "#L8P0LPCQG",
+   "dth": 19,
+   "dur": 149,
+   "o": 102,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#88CJR0VPC",
+   "ath": 18,
+   "d": "#L8P0LPCQG",
+   "dth": 19,
+   "dur": 49,
+   "o": 103,
+   "p": 50,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#88CJR0VPC",
+   "ath": 18,
+   "d": "#LQ9YVU2PL",
+   "dth": 19,
+   "dur": 18,
+   "o": 104,
+   "p": 16,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#GYCLYGYVP",
+   "ath": 17,
+   "d": "#P2LGC0UQJ",
+   "dth": 19,
+   "dur": 29,
+   "o": 105,
+   "p": 10,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#GYCLYGYVP",
+   "ath": 17,
+   "d": "#8R0V8PRPR",
+   "dth": 19,
+   "dur": 15,
+   "o": 106,
+   "p": 11,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#QY29929J9",
+   "ath": 19,
+   "d": "#8R0V8PRPR",
+   "dth": 19,
+   "dur": 9,
+   "o": 107,
+   "p": 2,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#QY29929J9",
+   "ath": 19,
+   "d": "#P2LGC0UQJ",
+   "dth": 19,
+   "dur": 9,
+   "o": 108,
+   "p": 7,
+   "s": 1,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
@@ -1322,7 +1410,7 @@
  },
  "end": "20261126T194302.000Z",
  "opponent": {
-  "destruction": 99.85714,
+  "destruction": 100.0,
   "members": [
    {
     "name": "PARD",
@@ -1536,7 +1624,7 @@
    }
   ],
   "name": "NAШ CLAN",
-  "stars": 104,
+  "stars": 105,
   "tag": "#LCUL0CP8"
  },
  "start": "20261125T194302.000Z",

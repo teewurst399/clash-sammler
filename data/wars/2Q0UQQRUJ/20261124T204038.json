@@ -791,11 +791,99 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#2VP0CU0QJ",
+   "ath": 17,
+   "d": "#RPRPCJVUL",
+   "dth": 11,
+   "dur": 138,
+   "o": 73,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#2VP0CU0QJ",
+   "ath": 17,
+   "d": "#2C0RC290U",
+   "dth": 16,
+   "dur": 180,
+   "o": 74,
+   "p": 88,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#20Y9C2CYL",
+   "ath": 19,
+   "d": "#2JPRPVUU8",
+   "dth": 19,
+   "dur": 139,
+   "o": 75,
+   "p": 85,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#R008C9URL",
+   "ath": 14,
+   "d": "#YYVVYCL8V",
+   "dth": 12,
+   "dur": 98,
+   "o": 76,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#20Y9C2CYL",
+   "ath": 19,
+   "d": "#8L0QUYVJV",
+   "dth": 18,
+   "dur": 107,
+   "o": 77,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#G2GCPV0CJ",
+   "ath": 17,
+   "d": "#P0YQ0V900",
+   "dth": 16,
+   "dur": 143,
+   "o": 78,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#G2GCPV0CJ",
+   "ath": 17,
+   "d": "#80C00PPL8",
+   "dth": 16,
+   "dur": 145,
+   "o": 79,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#GVCG02RQQ",
+   "ath": 18,
+   "d": "#2JPRPVUU8",
+   "dth": 19,
+   "dur": 180,
+   "o": 80,
+   "p": 81,
+   "s": 1,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 99.04,
+  "destruction": 99.88,
   "members": [
    {
     "name": "28",
@@ -949,12 +1037,12 @@
    }
   ],
   "name": "Sigmazone",
-  "stars": 73,
+  "stars": 74,
   "tag": "#2Q0UQQRUJ"
  },
  "end": "20261126T194038.000Z",
  "opponent": {
-  "destruction": 96.0,
+  "destruction": 100.0,
   "members": [
    {
     "name": "بحر الجروح",
@@ -1108,7 +1196,7 @@
    }
   ],
   "name": "الافعى القاتلة",
-  "stars": 72,
+  "stars": 75,
   "tag": "#L8U22Q9U"
  },
  "start": "20261125T194038.000Z",

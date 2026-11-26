@@ -494,6 +494,105 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#YPJCCYRC",
+   "ath": 19,
+   "d": "#9VG2PR8C0",
+   "dth": 19,
+   "dur": 144,
+   "o": 46,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#8U2RJGPVC",
+   "ath": 19,
+   "d": "#9UGGUQ0C",
+   "dth": 19,
+   "dur": 144,
+   "o": 47,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#8U2RJGPVC",
+   "ath": 19,
+   "d": "#LJP8JL880",
+   "dth": 19,
+   "dur": 131,
+   "o": 48,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#80UVJ80UC",
+   "ath": 19,
+   "d": "#2C0LJVQ9",
+   "dth": 19,
+   "dur": 151,
+   "o": 49,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#80UVJ80UC",
+   "ath": 19,
+   "d": "#2C2PLQUGL",
+   "dth": 19,
+   "dur": 145,
+   "o": 50,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#PRV2PJV2Q",
+   "ath": 19,
+   "d": "#RQYGYC0P",
+   "dth": 19,
+   "dur": 134,
+   "o": 51,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#PRV2PJV2Q",
+   "ath": 19,
+   "d": "#QQVL9QQG0",
+   "dth": 18,
+   "dur": 97,
+   "o": 52,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#LQVLUCL0P",
+   "ath": 18,
+   "d": "#R9CQ9J0R8",
+   "dth": 17,
+   "dur": 86,
+   "o": 53,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#LQVLUCL0P",
+   "ath": 18,
+   "d": "#2QPLG8RRQ",
+   "dth": 14,
+   "dur": 94,
+   "o": 54,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -717,7 +816,7 @@
  },
  "end": "20261127T113555.000Z",
  "opponent": {
-  "destruction": 84.51428,
+  "destruction": 100.0,
   "members": [
    {
     "name": "KARAN",
@@ -931,7 +1030,7 @@
    }
   ],
   "name": "INDIANS",
-  "stars": 86,
+  "stars": 105,
   "tag": "#2YYRUY2Y"
  },
  "start": "20261126T113555.000Z",

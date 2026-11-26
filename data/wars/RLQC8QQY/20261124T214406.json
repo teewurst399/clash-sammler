@@ -1055,11 +1055,55 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#8V0V92Q22",
+   "ath": 19,
+   "d": "#LJ2P9JUV",
+   "dth": 19,
+   "dur": 95,
+   "o": 97,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#2RJUY9JRP",
+   "ath": 19,
+   "d": "#Y98P2020",
+   "dth": 19,
+   "dur": 180,
+   "o": 98,
+   "p": 86,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#QQCRLCQ",
+   "ath": 19,
+   "d": "#8Y8LLVRP",
+   "dth": 19,
+   "dur": 125,
+   "o": 99,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#QQCRLCQ",
+   "ath": 19,
+   "d": "#J2UU09YV",
+   "dth": 19,
+   "dur": 158,
+   "o": 100,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 71.35,
+  "destruction": 76.45,
   "members": [
    {
     "name": "Gsälzbrot",
@@ -1303,7 +1347,7 @@
    }
   ],
   "name": "headstart",
-  "stars": 83,
+  "stars": 90,
   "tag": "#RLQC8QQY"
  },
  "end": "20261126T204406.000Z",

@@ -1055,11 +1055,110 @@
    "p": 92,
    "s": 2,
    "side": "clan"
+  },
+  {
+   "a": "#LLGPQ9CVU",
+   "ath": 19,
+   "d": "#QVU29UJL",
+   "dth": 19,
+   "dur": 167,
+   "o": 97,
+   "p": 93,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#LVRPLVU0C",
+   "ath": 19,
+   "d": "#YYYLYVL80",
+   "dth": 19,
+   "dur": 163,
+   "o": 98,
+   "p": 90,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#2V2PC2VRY",
+   "ath": 19,
+   "d": "#QVU29UJL",
+   "dth": 19,
+   "dur": 152,
+   "o": 99,
+   "p": 95,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#2V2PC2VRY",
+   "ath": 19,
+   "d": "#L0PJ9QLC",
+   "dth": 19,
+   "dur": 127,
+   "o": 100,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#QJLJU2UYY",
+   "ath": 19,
+   "d": "#QVU29UJL",
+   "dth": 19,
+   "dur": 163,
+   "o": 101,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#2U8P92GP9",
+   "ath": 19,
+   "d": "#G9VR0CPGU",
+   "dth": 19,
+   "dur": 161,
+   "o": 102,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#2PGLCLUVR",
+   "ath": 19,
+   "d": "#L9CV8G9QL",
+   "dth": 19,
+   "dur": 46,
+   "o": 103,
+   "p": 44,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#2PGLCLUVR",
+   "ath": 19,
+   "d": "#2PQCPVRPJ",
+   "dth": 19,
+   "dur": 40,
+   "o": 104,
+   "p": 32,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#9C9P2P92U",
+   "ath": 19,
+   "d": "#2CGLPRGQU",
+   "dth": 19,
+   "dur": 154,
+   "o": 105,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 99.333336,
+  "destruction": 100.0,
   "members": [
    {
     "name": "Clash Joni",
@@ -1243,12 +1342,12 @@
    }
   ],
   "name": "Gammazone",
-  "stars": 88,
+  "stars": 90,
   "tag": "#YG20CR0U"
  },
  "end": "20261126T180515.000Z",
  "opponent": {
-  "destruction": 97.0,
+  "destruction": 98.86667,
   "members": [
    {
     "name": "Duke",
@@ -1432,11 +1531,11 @@
    }
   ],
   "name": "Les Mahmoudiens",
-  "stars": 84,
+  "stars": 86,
   "tag": "#2P28UQQ80"
  },
  "start": "20261125T180515.000Z",
- "state": "inWar",
+ "state": "warEnded",
  "teamSize": 30,
  "type": "krieg"
 }

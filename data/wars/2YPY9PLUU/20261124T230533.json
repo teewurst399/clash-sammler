@@ -989,6 +989,127 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#VGQ2JPYR",
+   "ath": 19,
+   "d": "#8C00YVVP",
+   "dth": 19,
+   "dur": 171,
+   "o": 91,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#YYUY09P9R",
+   "ath": 19,
+   "d": "#Q8RPYQ9VC",
+   "dth": 19,
+   "dur": 159,
+   "o": 92,
+   "p": 70,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#28RPVQPG8",
+   "ath": 19,
+   "d": "#22YYQRQV9",
+   "dth": 19,
+   "dur": 177,
+   "o": 93,
+   "p": 95,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#JUPV2V0P",
+   "ath": 19,
+   "d": "#YGULUPV9Y",
+   "dth": 19,
+   "dur": 145,
+   "o": 94,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#8C00YVVP",
+   "ath": 19,
+   "d": "#2Q98JQ0R0",
+   "dth": 19,
+   "dur": 139,
+   "o": 95,
+   "p": 91,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#Y0RVGLR2",
+   "ath": 19,
+   "d": "#Q8RPYQ9VC",
+   "dth": 19,
+   "dur": 96,
+   "o": 96,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#JUPV2V0P",
+   "ath": 19,
+   "d": "#20J9LPQRU",
+   "dth": 19,
+   "dur": 110,
+   "o": 97,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#8C00YVVP",
+   "ath": 19,
+   "d": "#YGULUPV9Y",
+   "dth": 19,
+   "dur": 151,
+   "o": 98,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#LJPCRGPPG",
+   "ath": 19,
+   "d": "#YGULUPV9Y",
+   "dth": 19,
+   "dur": 20,
+   "o": 99,
+   "p": 20,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#LJPCRGPPG",
+   "ath": 19,
+   "d": "#2Q98JQ0R0",
+   "dth": 19,
+   "dur": 12,
+   "o": 100,
+   "p": 12,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#28RPVQPG8",
+   "ath": 19,
+   "d": "#2QV0QG8CU",
+   "dth": 19,
+   "dur": 161,
+   "o": 101,
+   "p": 85,
+   "s": 2,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -1212,7 +1333,7 @@
  },
  "end": "20261126T220533.000Z",
  "opponent": {
-  "destruction": 97.34286,
+  "destruction": 98.97143,
   "members": [
    {
     "name": "CE BakeThePro",
@@ -1426,7 +1547,7 @@
    }
   ],
   "name": "Cyprus Elites",
-  "stars": 98,
+  "stars": 100,
   "tag": "#8L2PQJUR"
  },
  "start": "20261125T220533.000Z",
