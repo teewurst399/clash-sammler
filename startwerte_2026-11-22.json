@@ -5787,15 +5787,18 @@
   },
   "#UR8RL09": {
    "name": "三 ★★★ 三",
-   "clan": "Wurstbude",
-   "th": 18,
+   "clan": "3☆ on the ⓜⓞⓞⓝ",
+   "th": 19,
+   "cs_kriege": [
+    "#9YQUP880|#29Q2RYLQL"
+   ],
    "cw30": {
-    "th": 18,
+    "th": 19,
     "hits": 2,
     "triples": 1,
     "stars": 4,
-    "avg_stars": 2.0,
-    "triple_rate": 50.0,
+    "avg_stars": 2,
+    "triple_rate": 50,
     "by_th": {
      "18": {
       "hits": 2,
@@ -5805,22 +5808,22 @@
     }
    },
    "cw180": {
-    "th": 18,
-    "hits": 25,
-    "triples": 22,
-    "stars": 71,
-    "avg_stars": 2.84,
-    "triple_rate": 88.0,
+    "th": 19,
+    "hits": 23,
+    "triples": 21,
+    "stars": 66,
+    "avg_stars": 2.87,
+    "triple_rate": 91.3,
     "by_th": {
      "18": {
-      "hits": 25,
-      "triples": 22,
-      "stars": 71
+      "hits": 23,
+      "triples": 21,
+      "stars": 66
      }
     }
    },
    "cwl60": {
-    "th": 18,
+    "th": 19,
     "hits": 14,
     "triples": 12,
     "stars": 40,
@@ -5835,7 +5838,7 @@
     }
    },
    "cwl180": {
-    "th": 18,
+    "th": 19,
     "hits": 46,
     "triples": 39,
     "stars": 131,
@@ -5887,7 +5890,8 @@
      "sterne": 10,
      "dreier": 2
     }
-   ]
+   ],
+   "stand_zeit": "2026-11-26T01:10:49Z"
   },
   "#UUV2R80": {
    "name": "Zerbrösler",
