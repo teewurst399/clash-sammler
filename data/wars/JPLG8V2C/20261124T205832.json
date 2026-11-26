@@ -450,11 +450,22 @@
    "p": 56,
    "s": 1,
    "side": "clan"
+  },
+  {
+   "a": "#QL099JRLR",
+   "ath": 19,
+   "d": "#20YQUU0PG",
+   "dth": 19,
+   "dur": 155,
+   "o": 42,
+   "p": 92,
+   "s": 2,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 37.142857,
+  "destruction": 39.771427,
   "members": [
    {
     "name": "Der Checker",
@@ -668,7 +679,7 @@
    }
   ],
   "name": "GhostZone",
-  "stars": 34,
+  "stars": 36,
   "tag": "#JPLG8V2C"
  },
  "end": "20261126T195832.000Z",

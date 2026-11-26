@@ -538,11 +538,110 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#28RJLU09",
+   "ath": 19,
+   "d": "#JGQ0Q9J8",
+   "dth": 19,
+   "dur": 180,
+   "o": 50,
+   "p": 98,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#9JYGYL0R",
+   "ath": 19,
+   "d": "#L82CYVRVG",
+   "dth": 19,
+   "dur": 144,
+   "o": 51,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#28RJLU09",
+   "ath": 19,
+   "d": "#9ULULRG98",
+   "dth": 19,
+   "dur": 180,
+   "o": 52,
+   "p": 99,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#8C9J90RY9",
+   "ath": 19,
+   "d": "#2LYYCVC8R",
+   "dth": 19,
+   "dur": 91,
+   "o": 53,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#8C9J90RY9",
+   "ath": 19,
+   "d": "#GQJ0YJ20R",
+   "dth": 19,
+   "dur": 176,
+   "o": 54,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#9JYGYL0R",
+   "ath": 19,
+   "d": "#J00G9GC",
+   "dth": 19,
+   "dur": 180,
+   "o": 55,
+   "p": 94,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#CU9QU2P2",
+   "ath": 19,
+   "d": "#8PRV0Q0RU",
+   "dth": 19,
+   "dur": 166,
+   "o": 56,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#CU9QU2P2",
+   "ath": 19,
+   "d": "#UULCYVRR",
+   "dth": 19,
+   "dur": 135,
+   "o": 57,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#G2Y08QUC",
+   "ath": 19,
+   "d": "#QGR8JVQUJ",
+   "dth": 19,
+   "dur": 152,
+   "o": 58,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 43.75,
+  "destruction": 46.2,
   "members": [
    {
     "name": "Louis",
@@ -786,12 +885,12 @@
    }
   ],
   "name": "Pokerzone",
-  "stars": 51,
+  "stars": 53,
   "tag": "#2JPJ8J8CQ"
  },
  "end": "20261126T193156.000Z",
  "opponent": {
-  "destruction": 66.7,
+  "destruction": 82.675,
   "members": [
    {
     "name": "Bhors23",
@@ -1035,7 +1134,7 @@
    }
   ],
   "name": "House of Elites",
-  "stars": 76,
+  "stars": 95,
   "tag": "#2YLR0J09Y"
  },
  "start": "20261125T193156.000Z",

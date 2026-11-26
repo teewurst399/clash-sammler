@@ -725,11 +725,110 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#P8J20UJP",
+   "ath": 19,
+   "d": "#JG2029YU",
+   "dth": 19,
+   "dur": 150,
+   "o": 67,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#LG8G0VJRL",
+   "ath": 19,
+   "d": "#QLY0UCP0R",
+   "dth": 19,
+   "dur": 146,
+   "o": 68,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#YCLLJQ8JG",
+   "ath": 19,
+   "d": "#9V9VJR0CC",
+   "dth": 19,
+   "dur": 81,
+   "o": 69,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#LQPVQRRUL",
+   "ath": 19,
+   "d": "#Y0P8VQUGC",
+   "dth": 19,
+   "dur": 130,
+   "o": 70,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#LG8G0VJRL",
+   "ath": 19,
+   "d": "#8R9CUV2G",
+   "dth": 19,
+   "dur": 33,
+   "o": 71,
+   "p": 19,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#YCLLJQ8JG",
+   "ath": 19,
+   "d": "#9CQYCUPPU",
+   "dth": 19,
+   "dur": 101,
+   "o": 72,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#LQPVQRRUL",
+   "ath": 19,
+   "d": "#G0YUJYP02",
+   "dth": 19,
+   "dur": 8,
+   "o": 73,
+   "p": 7,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#209JVLLJ",
+   "ath": 19,
+   "d": "#909J888GC",
+   "dth": 19,
+   "dur": 93,
+   "o": 74,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#209JVLLJ",
+   "ath": 19,
+   "d": "#9Q209V08",
+   "dth": 19,
+   "dur": 90,
+   "o": 75,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 57.5,
+  "destruction": 62.5,
   "members": [
    {
     "name": "Patrón",
@@ -973,12 +1072,12 @@
    }
   ],
   "name": "Throne_of_SRG",
-  "stars": 69,
+  "stars": 75,
   "tag": "#2CU98J0CU"
  },
  "end": "20261126T170956.000Z",
  "opponent": {
-  "destruction": 87.5,
+  "destruction": 100.0,
   "members": [
    {
     "name": "Krax mini",
@@ -1222,7 +1321,7 @@
    }
   ],
   "name": "espada",
-  "stars": 105,
+  "stars": 120,
   "tag": "#2GLL8JJLL"
  },
  "start": "20261125T170956.000Z",

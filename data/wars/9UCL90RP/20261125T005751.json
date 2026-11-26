@@ -54,11 +54,165 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#8YUR8YY8V",
+   "ath": 19,
+   "d": "#28U99CVLP",
+   "dth": 19,
+   "dur": 180,
+   "o": 6,
+   "p": 89,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#QR9P9PY2",
+   "ath": 19,
+   "d": "#28028PVYC",
+   "dth": 19,
+   "dur": 135,
+   "o": 7,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#YP20PVLCU",
+   "ath": 19,
+   "d": "#8YUR8YY8V",
+   "dth": 19,
+   "dur": 145,
+   "o": 8,
+   "p": 78,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#YPQQ02992",
+   "ath": 19,
+   "d": "#9QQCLYLCL",
+   "dth": 19,
+   "dur": 147,
+   "o": 9,
+   "p": 58,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#20YLJ0UUR",
+   "ath": 19,
+   "d": "#9CQLLYP8",
+   "dth": 19,
+   "dur": 123,
+   "o": 10,
+   "p": 83,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#20UV9G2PC",
+   "ath": 19,
+   "d": "#9LJPJQQPQ",
+   "dth": 19,
+   "dur": 180,
+   "o": 11,
+   "p": 86,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#20UV9G2PC",
+   "ath": 19,
+   "d": "#YJVPGVYC9",
+   "dth": 19,
+   "dur": 143,
+   "o": 12,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#20YLJ0UUR",
+   "ath": 19,
+   "d": "#QUL89RPY",
+   "dth": 19,
+   "dur": 140,
+   "o": 13,
+   "p": 89,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#LRY9GGGJY",
+   "ath": 19,
+   "d": "#9L8JGCPYY",
+   "dth": 19,
+   "dur": 128,
+   "o": 14,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#YR2VVVGY",
+   "ath": 19,
+   "d": "#YP20PVLCU",
+   "dth": 19,
+   "dur": 162,
+   "o": 15,
+   "p": 91,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#LRY9GGGJY",
+   "ath": 19,
+   "d": "#2R9QQLJLU",
+   "dth": 19,
+   "dur": 128,
+   "o": 16,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#8GPVUPJLJ",
+   "ath": 18,
+   "d": "#G00PJJLYC",
+   "dth": 19,
+   "dur": 180,
+   "o": 17,
+   "p": 71,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#JRGYC0U9",
+   "ath": 19,
+   "d": "#28JL90VU",
+   "dth": 19,
+   "dur": 103,
+   "o": 18,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#YR2VVVGY",
+   "ath": 19,
+   "d": "#PRY0J920U",
+   "dth": 19,
+   "dur": 120,
+   "o": 19,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 6.4,
+  "destruction": 8.133333,
   "members": [
    {
     "name": "ROBINJO*ALIHAN",
@@ -332,12 +486,12 @@
    }
   ],
   "name": "Eiskalte Engel",
-  "stars": 8,
+  "stars": 10,
   "tag": "#9UCL90RP"
  },
  "end": "20261126T235751.000Z",
  "opponent": {
-  "destruction": 3.8,
+  "destruction": 29.733334,
   "members": [
    {
     "name": "STR∆NGER",
@@ -611,7 +765,7 @@
    }
   ],
   "name": "\"THE 6\"",
-  "stars": 5,
+  "stars": 34,
   "tag": "#90RCQ008"
  },
  "start": "20261125T235751.000Z",
