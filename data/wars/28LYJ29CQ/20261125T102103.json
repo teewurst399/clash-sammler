@@ -1,0 +1,720 @@
+{
+ "attacks": [
+  {
+   "a": "#Q0R9QPCJV",
+   "ath": 19,
+   "d": "#9GVRPL920",
+   "dth": 19,
+   "dur": 128,
+   "o": 1,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#GCQYC8QL",
+   "ath": 19,
+   "d": "#QG29RGQC8",
+   "dth": 19,
+   "dur": 139,
+   "o": 2,
+   "p": 98,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#LVYVYG28C",
+   "ath": 19,
+   "d": "#8VPP22U2",
+   "dth": 19,
+   "dur": 180,
+   "o": 3,
+   "p": 87,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#LQQPG2LVR",
+   "ath": 19,
+   "d": "#GCQYC8QL",
+   "dth": 19,
+   "dur": 148,
+   "o": 4,
+   "p": 92,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#Q0R9QPCJV",
+   "ath": 19,
+   "d": "#RPR22J9R",
+   "dth": 19,
+   "dur": 119,
+   "o": 5,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#GCQYC8QL",
+   "ath": 19,
+   "d": "#QQ9Y08QVJ",
+   "dth": 19,
+   "dur": 170,
+   "o": 6,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#LQQPG2LVR",
+   "ath": 19,
+   "d": "#JCUJJ2P0",
+   "dth": 19,
+   "dur": 151,
+   "o": 7,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#8VPP22U2",
+   "ath": 19,
+   "d": "#20QRG0298",
+   "dth": 19,
+   "dur": 75,
+   "o": 8,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#Q8YY2CGC8",
+   "ath": 19,
+   "d": "#YP9PLLQVU",
+   "dth": 19,
+   "dur": 97,
+   "o": 9,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#LVQ999YYL",
+   "ath": 19,
+   "d": "#GCQYC8QL",
+   "dth": 19,
+   "dur": 144,
+   "o": 10,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#Q8YY2CGC8",
+   "ath": 19,
+   "d": "#8J9LVQLJJ",
+   "dth": 19,
+   "dur": 108,
+   "o": 11,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#LVYVYG28C",
+   "ath": 19,
+   "d": "#PQ9GVJ9GJ",
+   "dth": 19,
+   "dur": 175,
+   "o": 12,
+   "p": 95,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#8VPP22U2",
+   "ath": 19,
+   "d": "#2PPRU8CVR",
+   "dth": 19,
+   "dur": 99,
+   "o": 13,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#LVQ999YYL",
+   "ath": 19,
+   "d": "#8VPP22U2",
+   "dth": 19,
+   "dur": 168,
+   "o": 14,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  }
+ ],
+ "attacksPerMember": 2,
+ "clan": {
+  "destruction": 13.288889,
+  "members": [
+   {
+    "name": "FL • SKINNYJIMM",
+    "pos": 22,
+    "tag": "#2CQCUYGU",
+    "th": 19
+   },
+   {
+    "name": "FL • Milkatrix",
+    "pos": 11,
+    "tag": "#G9RLGJJU",
+    "th": 19
+   },
+   {
+    "name": "░S░a░m░o²",
+    "pos": 20,
+    "tag": "#GPY0LC9",
+    "th": 19
+   },
+   {
+    "name": "山凡尺乚ロ尺刀",
+    "pos": 42,
+    "tag": "#8J9LVQLJJ",
+    "th": 19
+   },
+   {
+    "name": "⭕️Caz⭕️",
+    "pos": 8,
+    "tag": "#PQ9GVJ9GJ",
+    "th": 19
+   },
+   {
+    "name": "Aurelius.",
+    "pos": 33,
+    "tag": "#9LQ9V0LC",
+    "th": 19
+   },
+   {
+    "name": "NXT MVRX",
+    "pos": 24,
+    "tag": "#28JRRV9G9",
+    "th": 19
+   },
+   {
+    "name": "FL • NoName",
+    "pos": 17,
+    "tag": "#2G02080V2",
+    "th": 19
+   },
+   {
+    "name": "Mats",
+    "pos": 2,
+    "tag": "#GCQYC8QL",
+    "th": 19
+   },
+   {
+    "name": "FL • Max",
+    "pos": 18,
+    "tag": "#YLRR0LQPY",
+    "th": 19
+   },
+   {
+    "name": "Tyron",
+    "pos": 39,
+    "tag": "#8C8RP02U",
+    "th": 19
+   },
+   {
+    "name": "BlackZero0815",
+    "pos": 37,
+    "tag": "#22J8GYP8L",
+    "th": 19
+   },
+   {
+    "name": "Bluefame2",
+    "pos": 27,
+    "tag": "#G82G8J2V2",
+    "th": 19
+   },
+   {
+    "name": "FL • BluuBerry",
+    "pos": 40,
+    "tag": "#YLL080LG",
+    "th": 19
+   },
+   {
+    "name": "Maiko24",
+    "pos": 3,
+    "tag": "#JCUJJ2P0",
+    "th": 19
+   },
+   {
+    "name": "Andy",
+    "pos": 38,
+    "tag": "#9LJCR89CQ",
+    "th": 19
+   },
+   {
+    "name": "⚡Julian⚡",
+    "pos": 25,
+    "tag": "#PGL8RJ00V",
+    "th": 19
+   },
+   {
+    "name": "ByChrisiYT",
+    "pos": 36,
+    "tag": "#RYUUPP88",
+    "th": 19
+   },
+   {
+    "name": "FL • ThaaBeatzZ",
+    "pos": 43,
+    "tag": "#YP9PLLQVU",
+    "th": 19
+   },
+   {
+    "name": "Obsi",
+    "pos": 30,
+    "tag": "#GCJV29VY",
+    "th": 19
+   },
+   {
+    "name": "BlueFame",
+    "pos": 19,
+    "tag": "#G0RCVCC",
+    "th": 19
+   },
+   {
+    "name": "julian",
+    "pos": 7,
+    "tag": "#QGPLG8QR",
+    "th": 19
+   },
+   {
+    "name": "MiniObsi",
+    "pos": 41,
+    "tag": "#JUJ9QCUR",
+    "th": 19
+   },
+   {
+    "name": "Dunklerkristall",
+    "pos": 31,
+    "tag": "#8QQ8U9P88",
+    "th": 19
+   },
+   {
+    "name": "FunnyFrog",
+    "pos": 9,
+    "tag": "#2QGCPVJV2",
+    "th": 19
+   },
+   {
+    "name": "Nico",
+    "pos": 21,
+    "tag": "#Q8UQUULP",
+    "th": 19
+   },
+   {
+    "name": "FL • Super",
+    "pos": 34,
+    "tag": "#YCQYCLVRL",
+    "th": 19
+   },
+   {
+    "name": "Philip",
+    "pos": 35,
+    "tag": "#2RYJGPJ8",
+    "th": 19
+   },
+   {
+    "name": "HendrikLamaar",
+    "pos": 15,
+    "tag": "#98G9RQLYG",
+    "th": 19
+   },
+   {
+    "name": "Aurelius",
+    "pos": 12,
+    "tag": "#8QU2V2Y",
+    "th": 19
+   },
+   {
+    "name": "FL • / Maxi™ \\",
+    "pos": 1,
+    "tag": "#8VPP22U2",
+    "th": 19
+   },
+   {
+    "name": "D4M4GE",
+    "pos": 10,
+    "tag": "#R9JCLCVP",
+    "th": 19
+   },
+   {
+    "name": "-+ HUNTER +-",
+    "pos": 4,
+    "tag": "#2YVQ90GL",
+    "th": 19
+   },
+   {
+    "name": "Chrizz Khalifa",
+    "pos": 32,
+    "tag": "#LQQJ9L9QY",
+    "th": 19
+   },
+   {
+    "name": "FL • Sandman",
+    "pos": 44,
+    "tag": "#PUVPC2V2C",
+    "th": 19
+   },
+   {
+    "name": "J҉O҉K҉E҉R҉",
+    "pos": 29,
+    "tag": "#Q0R9QPCJV",
+    "th": 19
+   },
+   {
+    "name": "Sts™",
+    "pos": 16,
+    "tag": "#8L0LJ9YQL",
+    "th": 19
+   },
+   {
+    "name": "FL • Rubinfeige",
+    "pos": 13,
+    "tag": "#LCVJJJCRJ",
+    "th": 19
+   },
+   {
+    "name": "FL • ϟ×STORM↯",
+    "pos": 6,
+    "tag": "#8LQGYYVP",
+    "th": 19
+   },
+   {
+    "name": "AtiGaming9",
+    "pos": 45,
+    "tag": "#QU8JCYPUG",
+    "th": 19
+   },
+   {
+    "name": "Kaito™️",
+    "pos": 14,
+    "tag": "#PVVPQ8JR9",
+    "th": 19
+   },
+   {
+    "name": "Shah Ati✓",
+    "pos": 26,
+    "tag": "#20GCPRV0R",
+    "th": 19
+   },
+   {
+    "name": "FL • MVRX",
+    "pos": 28,
+    "tag": "#YUCPJ2UJ8",
+    "th": 19
+   },
+   {
+    "name": "FL • SASND",
+    "pos": 5,
+    "tag": "#8UC9C280U",
+    "th": 19
+   },
+   {
+    "name": "Omega",
+    "pos": 23,
+    "tag": "#P92VRLYRC",
+    "th": 19
+   }
+  ],
+  "name": "FruchtLabor",
+  "stars": 17,
+  "tag": "#28LYJ29CQ"
+ },
+ "end": "20261127T092103.000Z",
+ "opponent": {
+  "destruction": 13.222222,
+  "members": [
+   {
+    "name": "虎啸⭐️⚔️逆天⚔️⭐️",
+    "pos": 31,
+    "tag": "#222RQJ8P",
+    "th": 19
+   },
+   {
+    "name": "虎啸⭐⚔️鳳凰⚔️⭐",
+    "pos": 12,
+    "tag": "#J0UJP8GR",
+    "th": 19
+   },
+   {
+    "name": "虎啸⭐️⚔️EkiN⚔️⭐️",
+    "pos": 25,
+    "tag": "#GCVJCLVU",
+    "th": 19
+   },
+   {
+    "name": "虎啸⭐️⚔️moon⚔️⭐️",
+    "pos": 3,
+    "tag": "#RPR22J9R",
+    "th": 19
+   },
+   {
+    "name": "虎啸⭐️⚔️红魔⚔️⭐️",
+    "pos": 36,
+    "tag": "#GYLY92Y8",
+    "th": 19
+   },
+   {
+    "name": "虎啸⭐️⚔️天神⚔️⭐️",
+    "pos": 45,
+    "tag": "#8GLV2Y99Q",
+    "th": 19
+   },
+   {
+    "name": "虎啸⭐️⚔️勇往直前⚔️⭐️",
+    "pos": 1,
+    "tag": "#9GVRPL920",
+    "th": 19
+   },
+   {
+    "name": "虎啸⭐️⚔️千里眼⚔️⭐️",
+    "pos": 26,
+    "tag": "#YQRR828C",
+    "th": 19
+   },
+   {
+    "name": "虎啸⭐️⚔️七七⚔️⭐️",
+    "pos": 8,
+    "tag": "#20QRG0298",
+    "th": 19
+   },
+   {
+    "name": "虎啸⭐⚔️玄月⚔️⭐",
+    "pos": 7,
+    "tag": "#GY98RUQQ",
+    "th": 19
+   },
+   {
+    "name": "虎啸⭐️⚔️Max⚔️⭐️",
+    "pos": 28,
+    "tag": "#8LY9VL2P",
+    "th": 19
+   },
+   {
+    "name": "虎啸⭐⚔wayne⚔️⭐",
+    "pos": 10,
+    "tag": "#9PP20URUL",
+    "th": 19
+   },
+   {
+    "name": "虎啸⭐⚔️智胜⚔️⭐",
+    "pos": 42,
+    "tag": "#29RVCVJPU",
+    "th": 19
+   },
+   {
+    "name": "虎啸⭐⚔️春风⚔️⭐",
+    "pos": 24,
+    "tag": "#LULP0YVC",
+    "th": 19
+   },
+   {
+    "name": "虎啸⭐️⚔️三幻神⚔️⭐",
+    "pos": 11,
+    "tag": "#CGQLLPUV",
+    "th": 19
+   },
+   {
+    "name": "虎啸⭐️⚔️VY⚔️⭐️",
+    "pos": 6,
+    "tag": "#820C9QCR",
+    "th": 19
+   },
+   {
+    "name": "虎啸⭐️⚔️长风⚔️⭐️",
+    "pos": 39,
+    "tag": "#LVYVYG28C",
+    "th": 19
+   },
+   {
+    "name": "虎啸⭐️⚔️胜者为王⚔️⭐️",
+    "pos": 44,
+    "tag": "#JUJPVUJR",
+    "th": 19
+   },
+   {
+    "name": "虎啸⭐️⚔️老虎⚔️⭐️",
+    "pos": 19,
+    "tag": "#88QLJCRP",
+    "th": 19
+   },
+   {
+    "name": "虎啸⭐️⚔️ AKY ⚔️⭐️",
+    "pos": 15,
+    "tag": "#YYVJYJ8P",
+    "th": 19
+   },
+   {
+    "name": "虎啸⭐⚔️七夜⚔️⭐",
+    "pos": 41,
+    "tag": "#CJ2J0LV",
+    "th": 19
+   },
+   {
+    "name": "虎啸⭐⚔️初一⚔️⭐",
+    "pos": 21,
+    "tag": "#20YQVQLYC",
+    "th": 19
+   },
+   {
+    "name": "虎啸⭐️⚔️夜阙⚔️⭐️",
+    "pos": 20,
+    "tag": "#YRGJ2YP0",
+    "th": 19
+   },
+   {
+    "name": "虎啸⭐⚔️凡人⚔️⭐",
+    "pos": 22,
+    "tag": "#28PQ8PV0",
+    "th": 19
+   },
+   {
+    "name": "虎啸⭐️⚔️墨尘⚔️⭐️",
+    "pos": 17,
+    "tag": "#LCVV9VQ8G",
+    "th": 19
+   },
+   {
+    "name": "虎啸⭐️⚔️影帝⚔️⭐️",
+    "pos": 2,
+    "tag": "#QG29RGQC8",
+    "th": 19
+   },
+   {
+    "name": "虎啸⭐⚔️K佬⚔️⭐",
+    "pos": 37,
+    "tag": "#2PYY29U8Y",
+    "th": 19
+   },
+   {
+    "name": "虎啸⭐️⚔️焰虎⚔️⭐️",
+    "pos": 40,
+    "tag": "#8V29GYUR9",
+    "th": 19
+   },
+   {
+    "name": "虎啸⭐️⚔️小小眼睛⚔️⭐️",
+    "pos": 30,
+    "tag": "#L2UJQP9YJ",
+    "th": 19
+   },
+   {
+    "name": "虎啸⭐️⚔️7⚔️⭐️",
+    "pos": 4,
+    "tag": "#QQ9Y08QVJ",
+    "th": 19
+   },
+   {
+    "name": "虎啸⭐⚔️龙吟⚔️⭐",
+    "pos": 13,
+    "tag": "#L22GL8UV",
+    "th": 19
+   },
+   {
+    "name": "虎啸⭐️⚔️绝尘⚔️⭐️",
+    "pos": 16,
+    "tag": "#Q8Y88QCC0",
+    "th": 19
+   },
+   {
+    "name": "虎啸⭐️⚔️夏天⚔️⭐️",
+    "pos": 43,
+    "tag": "#9JUL2QP9",
+    "th": 19
+   },
+   {
+    "name": "虎啸⭐️⚔️顺风耳⚔️⭐️",
+    "pos": 9,
+    "tag": "#G2LV8L92J",
+    "th": 19
+   },
+   {
+    "name": "虎啸⭐️⚔️黎明⚔️⭐️",
+    "pos": 35,
+    "tag": "#LCJ20G0JR",
+    "th": 19
+   },
+   {
+    "name": "虎啸⭐️⚔️O5CAR⚔️⭐️",
+    "pos": 5,
+    "tag": "#2PPRU8CVR",
+    "th": 19
+   },
+   {
+    "name": "虎啸⭐️⚔️777⚔️⭐️",
+    "pos": 14,
+    "tag": "#22GJVGG",
+    "th": 19
+   },
+   {
+    "name": "虎啸⭐⚔️7708⚔️⭐",
+    "pos": 18,
+    "tag": "#UQQG80QC",
+    "th": 19
+   },
+   {
+    "name": "虎啸⭐️⚔️大眼睛⚔️⭐️",
+    "pos": 32,
+    "tag": "#J9YJ9LVR",
+    "th": 19
+   },
+   {
+    "name": "虎啸⭐⚔️Gabriel⚔️⭐",
+    "pos": 29,
+    "tag": "#9R8JUJVCY",
+    "th": 19
+   },
+   {
+    "name": "虎啸⭐️⚔️软绵绵⚔️⭐️",
+    "pos": 38,
+    "tag": "#LQQPG2LVR",
+    "th": 19
+   },
+   {
+    "name": "虎啸⭐️⚔️小J总⚔️⭐️",
+    "pos": 33,
+    "tag": "#Q8YY2CGC8",
+    "th": 19
+   },
+   {
+    "name": "虎啸⭐️⚔️飞天五⚔️⭐️",
+    "pos": 34,
+    "tag": "#2282UP2R",
+    "th": 19
+   },
+   {
+    "name": "虎啸⭐️⚔️雄霸⚔️⭐️",
+    "pos": 27,
+    "tag": "#LVQ999YYL",
+    "th": 19
+   },
+   {
+    "name": "虎啸⭐️⚔️蛇帝⚔️⭐️",
+    "pos": 23,
+    "tag": "#LPLQQY88V",
+    "th": 19
+   }
+  ],
+  "name": "虎标万金油",
+  "stars": 17,
+  "tag": "#2P2UQR0UY"
+ },
+ "start": "20261126T092103.000Z",
+ "state": "inWar",
+ "teamSize": 45,
+ "type": "krieg"
+}

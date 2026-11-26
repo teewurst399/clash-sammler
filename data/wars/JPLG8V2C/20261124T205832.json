@@ -692,11 +692,143 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#YJ89PRL0",
+   "ath": 19,
+   "d": "#8JV2LVVRV",
+   "dth": 19,
+   "dur": 156,
+   "o": 64,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#8R2YQR8J8",
+   "ath": 19,
+   "d": "#QL099JRLR",
+   "dth": 19,
+   "dur": 161,
+   "o": 65,
+   "p": 95,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#8R2YQR8J8",
+   "ath": 19,
+   "d": "#2PGPUGJG9",
+   "dth": 19,
+   "dur": 161,
+   "o": 66,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#9UCVJCU8U",
+   "ath": 19,
+   "d": "#2YRJ8RQC",
+   "dth": 19,
+   "dur": 131,
+   "o": 67,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#20C9PCQG",
+   "ath": 19,
+   "d": "#YRCGQ9GLG",
+   "dth": 19,
+   "dur": 180,
+   "o": 68,
+   "p": 99,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#P9PJV8CQ2",
+   "ath": 19,
+   "d": "#LJP99PRGJ",
+   "dth": 19,
+   "dur": 173,
+   "o": 69,
+   "p": 87,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#GR082QVU",
+   "ath": 19,
+   "d": "#2CRVJQJY",
+   "dth": 19,
+   "dur": 140,
+   "o": 70,
+   "p": 95,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#P9PJV8CQ2",
+   "ath": 19,
+   "d": "#92QJ2CLG",
+   "dth": 19,
+   "dur": 138,
+   "o": 71,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#GR082QVU",
+   "ath": 19,
+   "d": "#V29090R0",
+   "dth": 19,
+   "dur": 151,
+   "o": 72,
+   "p": 83,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#920RLCC8R",
+   "ath": 19,
+   "d": "#8P00Y8YRR",
+   "dth": 19,
+   "dur": 129,
+   "o": 73,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#LJY9LURR",
+   "ath": 18,
+   "d": "#Q8VPLC2RJ",
+   "dth": 18,
+   "dur": 90,
+   "o": 74,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#2UCPPR8Q",
+   "ath": 19,
+   "d": "#8L0LC8UU0",
+   "dth": 19,
+   "dur": 152,
+   "o": 75,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 65.25714,
+  "destruction": 73.77143,
   "members": [
    {
     "name": "Der Checker",
@@ -910,12 +1042,12 @@
    }
   ],
   "name": "GhostZone",
-  "stars": 64,
+  "stars": 73,
   "tag": "#JPLG8V2C"
  },
  "end": "20261126T195832.000Z",
  "opponent": {
-  "destruction": 72.828575,
+  "destruction": 93.02857,
   "members": [
    {
     "name": "ThePunisher",
@@ -1129,7 +1261,7 @@
    }
   ],
   "name": "Walhalla",
-  "stars": 76,
+  "stars": 94,
   "tag": "#98YYC9LR"
  },
  "start": "20261125T195832.000Z",

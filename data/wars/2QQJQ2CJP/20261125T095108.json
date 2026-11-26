@@ -1,0 +1,420 @@
+{
+ "attacks": [
+  {
+   "a": "#Y8YGCJJPY",
+   "ath": 19,
+   "d": "#LLG9QG2CV",
+   "dth": 19,
+   "dur": 144,
+   "o": 1,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#G8CY9QUJL",
+   "ath": 19,
+   "d": "#GU9CJ9Y9",
+   "dth": 19,
+   "dur": 179,
+   "o": 2,
+   "p": 94,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#Y8YGCJJPY",
+   "ath": 19,
+   "d": "#PQC8CCP8",
+   "dth": 19,
+   "dur": 142,
+   "o": 3,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#QJP2QL2CP",
+   "ath": 19,
+   "d": "#JY2GGL88",
+   "dth": 19,
+   "dur": 126,
+   "o": 4,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#LP8PL82RC",
+   "ath": 19,
+   "d": "#GU9CJ9Y9",
+   "dth": 19,
+   "dur": 178,
+   "o": 5,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#G8CY9QUJL",
+   "ath": 19,
+   "d": "#LG8C2PYQY",
+   "dth": 19,
+   "dur": 139,
+   "o": 6,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#Q2V9QJYR2",
+   "ath": 19,
+   "d": "#Q2U9CUCYQ",
+   "dth": 19,
+   "dur": 139,
+   "o": 7,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#QJP2QL2CP",
+   "ath": 19,
+   "d": "#QVYUJP98L",
+   "dth": 19,
+   "dur": 107,
+   "o": 8,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#LP8PL82RC",
+   "ath": 19,
+   "d": "#92QJYPCVG",
+   "dth": 19,
+   "dur": 126,
+   "o": 9,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#P8P8GPQCJ",
+   "ath": 19,
+   "d": "#UJ2JGUL9",
+   "dth": 19,
+   "dur": 168,
+   "o": 10,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#YJJCQGY9C",
+   "ath": 19,
+   "d": "#P8P8GPQCJ",
+   "dth": 19,
+   "dur": 126,
+   "o": 11,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#YJJCQGY9C",
+   "ath": 19,
+   "d": "#QQGJ0CUU",
+   "dth": 19,
+   "dur": 111,
+   "o": 12,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#YG9LLRP90",
+   "ath": 19,
+   "d": "#YUJPCYUVY",
+   "dth": 19,
+   "dur": 157,
+   "o": 13,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#YG9LLRP90",
+   "ath": 19,
+   "d": "#QJP2QL2CP",
+   "dth": 19,
+   "dur": 180,
+   "o": 14,
+   "p": 93,
+   "s": 2,
+   "side": "gegner"
+  }
+ ],
+ "attacksPerMember": 2,
+ "clan": {
+  "destruction": 15.0,
+  "members": [
+   {
+    "name": "Bozz⚡️Bandit",
+    "pos": 17,
+    "tag": "#LC82P9PU",
+    "th": 18
+   },
+   {
+    "name": "FL • Ketwiesel",
+    "pos": 8,
+    "tag": "#QQGJ0CUU",
+    "th": 19
+   },
+   {
+    "name": "WalterDerNette",
+    "pos": 10,
+    "tag": "#QJP2QL2CP",
+    "th": 19
+   },
+   {
+    "name": "Meissi",
+    "pos": 18,
+    "tag": "#PYQLVV02",
+    "th": 18
+   },
+   {
+    "name": "huck_11",
+    "pos": 3,
+    "tag": "#PQC8CCP8",
+    "th": 19
+   },
+   {
+    "name": "FL • Krauli",
+    "pos": 15,
+    "tag": "#QUQJUVP9",
+    "th": 19
+   },
+   {
+    "name": "FL • ϟ×QUAKE⌁",
+    "pos": 20,
+    "tag": "#G8YYG2RYV",
+    "th": 18
+   },
+   {
+    "name": "Gladiator",
+    "pos": 2,
+    "tag": "#GU9CJ9Y9",
+    "th": 19
+   },
+   {
+    "name": "BelastendeSkill",
+    "pos": 11,
+    "tag": "#8L8PL2CJU",
+    "th": 19
+   },
+   {
+    "name": "g0bl1nk1ng",
+    "pos": 7,
+    "tag": "#P8P8GPQCJ",
+    "th": 19
+   },
+   {
+    "name": "✞toto✞",
+    "pos": 5,
+    "tag": "#Q2U9CUCYQ",
+    "th": 19
+   },
+   {
+    "name": "JKing28",
+    "pos": 9,
+    "tag": "#YUJPCYUVY",
+    "th": 19
+   },
+   {
+    "name": "itz_$!M°n",
+    "pos": 19,
+    "tag": "#Q2QQVP8C9",
+    "th": 18
+   },
+   {
+    "name": "⭐️HoRa⭐️Gewinna",
+    "pos": 1,
+    "tag": "#LLG9QG2CV",
+    "th": 19
+   },
+   {
+    "name": "hiro",
+    "pos": 14,
+    "tag": "#LJVY9C9P9",
+    "th": 19
+   },
+   {
+    "name": "Slyzer",
+    "pos": 16,
+    "tag": "#GCUU8Q2LQ",
+    "th": 19
+   },
+   {
+    "name": "Dre32⚜",
+    "pos": 4,
+    "tag": "#LG8C2PYQY",
+    "th": 19
+   },
+   {
+    "name": "Berkay",
+    "pos": 12,
+    "tag": "#PCY8U98LR",
+    "th": 19
+   },
+   {
+    "name": "lwan",
+    "pos": 13,
+    "tag": "#PVLRVQPRR",
+    "th": 19
+   },
+   {
+    "name": "GLADIATOR",
+    "pos": 6,
+    "tag": "#92QJYPCVG",
+    "th": 19
+   }
+  ],
+  "name": "Infructus",
+  "stars": 9,
+  "tag": "#2QQJQ2CJP"
+ },
+ "end": "20261127T085108.000Z",
+ "opponent": {
+  "destruction": 49.65,
+  "members": [
+   {
+    "name": "❤️TÙNG_THUÝ❤️",
+    "pos": 4,
+    "tag": "#Y8YGCJJPY",
+    "th": 19
+   },
+   {
+    "name": "✨Ốc Gumiho✨",
+    "pos": 17,
+    "tag": "#QUJQP99V2",
+    "th": 18
+   },
+   {
+    "name": "Shadow⁀ᶦᵈᵒᶫ",
+    "pos": 5,
+    "tag": "#YG9LLRP90",
+    "th": 19
+   },
+   {
+    "name": "LanPham",
+    "pos": 14,
+    "tag": "#JY2GGL88",
+    "th": 19
+   },
+   {
+    "name": "︵✰ 123…dzô !",
+    "pos": 11,
+    "tag": "#G8CY9QUJL",
+    "th": 19
+   },
+   {
+    "name": "Tân Kòy",
+    "pos": 7,
+    "tag": "#LP8PL82RC",
+    "th": 19
+   },
+   {
+    "name": "❤️✨️CÀ⭐️CHUA✨️❤",
+    "pos": 10,
+    "tag": "#L8QPRVCJL",
+    "th": 19
+   },
+   {
+    "name": "công suýt <_$_>",
+    "pos": 13,
+    "tag": "#QVYUJP98L",
+    "th": 19
+   },
+   {
+    "name": "lê khánh",
+    "pos": 8,
+    "tag": "#UR9YRQ92",
+    "th": 19
+   },
+   {
+    "name": "❤️Diệu Linh❤️",
+    "pos": 2,
+    "tag": "#G80P0GCRG",
+    "th": 19
+   },
+   {
+    "name": "☘️Huy Béo⛅️❤️",
+    "pos": 15,
+    "tag": "#2PGLQYUVQ",
+    "th": 19
+   },
+   {
+    "name": "Như Thuần",
+    "pos": 16,
+    "tag": "#2QQQGGGGY",
+    "th": 19
+   },
+   {
+    "name": "Quách Hạnh",
+    "pos": 9,
+    "tag": "#PYQ28LVG",
+    "th": 19
+   },
+   {
+    "name": "Nguyễn Tuấn",
+    "pos": 18,
+    "tag": "#LQR2URPL2",
+    "th": 18
+   },
+   {
+    "name": "huanthuy",
+    "pos": 20,
+    "tag": "#L22U0LGJR",
+    "th": 17
+   },
+   {
+    "name": "❤❤❤Chíp❤❤❤",
+    "pos": 19,
+    "tag": "#G9Y9VJLYG",
+    "th": 17
+   },
+   {
+    "name": "No Fire",
+    "pos": 12,
+    "tag": "#UJ2JGUL9",
+    "th": 19
+   },
+   {
+    "name": "❤️Đình Mạnh❤️",
+    "pos": 3,
+    "tag": "#20YCPGJVJ",
+    "th": 19
+   },
+   {
+    "name": "❤️Diệu Trinh❤️",
+    "pos": 1,
+    "tag": "#Q2V9QJYR2",
+    "th": 19
+   },
+   {
+    "name": "Văn Hoàng ❤️",
+    "pos": 6,
+    "tag": "#YJJCQGY9C",
+    "th": 19
+   }
+  ],
+  "name": "Phu Tho",
+  "stars": 29,
+  "tag": "#VJUUL9Y"
+ },
+ "start": "20261126T085108.000Z",
+ "state": "inWar",
+ "teamSize": 20,
+ "type": "krieg"
+}

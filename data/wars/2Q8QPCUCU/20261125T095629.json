@@ -1,0 +1,594 @@
+{
+ "attacks": [
+  {
+   "a": "#YGPCVRJGG",
+   "ath": 19,
+   "d": "#PRG9JQC0Q",
+   "dth": 19,
+   "dur": 152,
+   "o": 1,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#GPURPQ2LU",
+   "ath": 19,
+   "d": "#J8CPGP8",
+   "dth": 19,
+   "dur": 172,
+   "o": 2,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#JVCR9GG0",
+   "ath": 19,
+   "d": "#8GPUJ2LJC",
+   "dth": 19,
+   "dur": 135,
+   "o": 3,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#JVCR9GG0",
+   "ath": 19,
+   "d": "#L8R8LUG9Q",
+   "dth": 19,
+   "dur": 171,
+   "o": 4,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#902C29LU9",
+   "ath": 19,
+   "d": "#G0QUCQVPL",
+   "dth": 19,
+   "dur": 110,
+   "o": 5,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#902C29LU9",
+   "ath": 19,
+   "d": "#PQC82YULC",
+   "dth": 19,
+   "dur": 103,
+   "o": 6,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#GPURPQ2LU",
+   "ath": 19,
+   "d": "#GGV0VVL0C",
+   "dth": 19,
+   "dur": 180,
+   "o": 7,
+   "p": 98,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#JPU0YRV",
+   "ath": 19,
+   "d": "#PVL2QU8JY",
+   "dth": 19,
+   "dur": 141,
+   "o": 8,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  }
+ ],
+ "attacksPerMember": 2,
+ "clan": {
+  "destruction": 12.5,
+  "members": [
+   {
+    "name": "Travel327",
+    "pos": 5,
+    "tag": "#CLUYR89L",
+    "th": 19
+   },
+   {
+    "name": "FL • FruchtPilz",
+    "pos": 34,
+    "tag": "#9R0GYQG0U",
+    "th": 19
+   },
+   {
+    "name": "Blue Knoppers",
+    "pos": 38,
+    "tag": "#22PJ0PLYR",
+    "th": 19
+   },
+   {
+    "name": "SchnarcheNoah",
+    "pos": 12,
+    "tag": "#G8VVCUV",
+    "th": 19
+   },
+   {
+    "name": "falkouh",
+    "pos": 26,
+    "tag": "#QUL2VY20",
+    "th": 19
+   },
+   {
+    "name": "Artistico",
+    "pos": 3,
+    "tag": "#GGV0VVL0C",
+    "th": 19
+   },
+   {
+    "name": "⚡Felix⚡",
+    "pos": 18,
+    "tag": "#2UQ8VJYQ",
+    "th": 19
+   },
+   {
+    "name": "Hennsie",
+    "pos": 2,
+    "tag": "#L9JU28J8",
+    "th": 19
+   },
+   {
+    "name": "A4erLouis",
+    "pos": 33,
+    "tag": "#29PVQ9L08",
+    "th": 19
+   },
+   {
+    "name": "ApfelDruide",
+    "pos": 35,
+    "tag": "#CR2VRCVU",
+    "th": 19
+   },
+   {
+    "name": "FL • Hausdroelf",
+    "pos": 15,
+    "tag": "#2QLQL9YC0",
+    "th": 19
+   },
+   {
+    "name": "raphael",
+    "pos": 39,
+    "tag": "#9V82VJ8UL",
+    "th": 18
+   },
+   {
+    "name": "Marco_01.",
+    "pos": 23,
+    "tag": "#9UP9LYC2Q",
+    "th": 19
+   },
+   {
+    "name": "0815 maltepauki",
+    "pos": 37,
+    "tag": "#GCYGULRQP",
+    "th": 18
+   },
+   {
+    "name": "Olli der BABO",
+    "pos": 10,
+    "tag": "#2LY9VVPQ",
+    "th": 19
+   },
+   {
+    "name": "El-Barto",
+    "pos": 21,
+    "tag": "#L8VYGYLY",
+    "th": 19
+   },
+   {
+    "name": "H U C C I",
+    "pos": 29,
+    "tag": "#JPU0YRV",
+    "th": 19
+   },
+   {
+    "name": "Lelouch",
+    "pos": 9,
+    "tag": "#PJJP8U0Q0",
+    "th": 19
+   },
+   {
+    "name": "Nolex",
+    "pos": 36,
+    "tag": "#Q2RC8YY9U",
+    "th": 19
+   },
+   {
+    "name": "GabrielPBC",
+    "pos": 19,
+    "tag": "#JVCR9GG0",
+    "th": 19
+   },
+   {
+    "name": "jue",
+    "pos": 4,
+    "tag": "#J8CPGP8",
+    "th": 19
+   },
+   {
+    "name": "FL • Muffin",
+    "pos": 11,
+    "tag": "#QPPLCLYY",
+    "th": 19
+   },
+   {
+    "name": "FL • TAK‘oLimes",
+    "pos": 28,
+    "tag": "#G0GV20PUP",
+    "th": 19
+   },
+   {
+    "name": "butzi",
+    "pos": 40,
+    "tag": "#YG8CPV2V2",
+    "th": 18
+   },
+   {
+    "name": "FL • ϟ×CHAOS※",
+    "pos": 6,
+    "tag": "#9PYJ0PJUY",
+    "th": 19
+   },
+   {
+    "name": "(S)⚡Edo",
+    "pos": 16,
+    "tag": "#R89R2VLG",
+    "th": 19
+   },
+   {
+    "name": "BeardManEcki",
+    "pos": 32,
+    "tag": "#LCVP2VULU",
+    "th": 19
+   },
+   {
+    "name": "Maxi_05",
+    "pos": 1,
+    "tag": "#PRG9JQC0Q",
+    "th": 19
+   },
+   {
+    "name": "Light",
+    "pos": 14,
+    "tag": "#Q2V9LQPQ8",
+    "th": 19
+   },
+   {
+    "name": "kerschbaumer",
+    "pos": 30,
+    "tag": "#9RU9LCJ9V",
+    "th": 19
+   },
+   {
+    "name": "Chief Eselkacke",
+    "pos": 7,
+    "tag": "#PUQJ0G8RY",
+    "th": 19
+   },
+   {
+    "name": "BB▪️SPIKE",
+    "pos": 25,
+    "tag": "#PRJ2UQQY9",
+    "th": 19
+   },
+   {
+    "name": "Mac Miller",
+    "pos": 20,
+    "tag": "#LV298CCGJ",
+    "th": 19
+   },
+   {
+    "name": "Zwergenbieger",
+    "pos": 22,
+    "tag": "#Q9Q82U9L0",
+    "th": 19
+   },
+   {
+    "name": "Jens",
+    "pos": 17,
+    "tag": "#QQ9Y0YP0G",
+    "th": 19
+   },
+   {
+    "name": "SENSEI",
+    "pos": 13,
+    "tag": "#2RYYJV2GJ",
+    "th": 19
+   },
+   {
+    "name": "ғ̶ᴇ̶ᴀ̶ʀ̶ʟ̶ᴇ̶s̶",
+    "pos": 31,
+    "tag": "#2Q8P8P9J0",
+    "th": 19
+   },
+   {
+    "name": "Mashiyat",
+    "pos": 27,
+    "tag": "#9R02UGGLP",
+    "th": 19
+   },
+   {
+    "name": "ahmad",
+    "pos": 8,
+    "tag": "#902C29LU9",
+    "th": 19
+   },
+   {
+    "name": "nawa",
+    "pos": 24,
+    "tag": "#8CQLRCP2",
+    "th": 19
+   }
+  ],
+  "name": "Der Obstorden",
+  "stars": 15,
+  "tag": "#2Q8QPCUCU"
+ },
+ "end": "20261127T085629.000Z",
+ "opponent": {
+  "destruction": 7.45,
+  "members": [
+   {
+    "name": "❤Sâu❤Shi❤",
+    "pos": 38,
+    "tag": "#G9G020RJ",
+    "th": 18
+   },
+   {
+    "name": "matcha❤️",
+    "pos": 26,
+    "tag": "#QUPJVGQLY",
+    "th": 19
+   },
+   {
+    "name": "Anh Đây 34",
+    "pos": 11,
+    "tag": "#2QG9UJR2P",
+    "th": 19
+   },
+   {
+    "name": "♥️Huy-Anh♥️",
+    "pos": 16,
+    "tag": "#LVGLCVP9P",
+    "th": 19
+   },
+   {
+    "name": "Út Hèm¤22¤06^^",
+    "pos": 21,
+    "tag": "#8GPUJ2LJC",
+    "th": 19
+   },
+   {
+    "name": "જ⁀➴ŦŦ♡TânĐế亗.",
+    "pos": 14,
+    "tag": "#8LULV90P",
+    "th": 19
+   },
+   {
+    "name": "✞ঔৣ۝Kimochi۝ঔৣ✞",
+    "pos": 1,
+    "tag": "#YGPCVRJGG",
+    "th": 19
+   },
+   {
+    "name": "❣️Genji❣️",
+    "pos": 32,
+    "tag": "#PVL2QU8JY",
+    "th": 19
+   },
+   {
+    "name": "UĐT❤️Helios",
+    "pos": 23,
+    "tag": "#QVGU2QLLQ",
+    "th": 19
+   },
+   {
+    "name": "❤SÂU❤SHI❤",
+    "pos": 39,
+    "tag": "#YVYRG0CP",
+    "th": 18
+   },
+   {
+    "name": "꧁ঔৣTrangঔৣ꧂",
+    "pos": 7,
+    "tag": "#P900CGV90",
+    "th": 19
+   },
+   {
+    "name": "꧁༺jessica༻꧂",
+    "pos": 20,
+    "tag": "#89UCCJV80",
+    "th": 19
+   },
+   {
+    "name": "ACE God Dragon",
+    "pos": 36,
+    "tag": "#YGJYURCJ8",
+    "th": 18
+   },
+   {
+    "name": "⚡SẤM:CHỚP⚡",
+    "pos": 17,
+    "tag": "#2QPCGQ",
+    "th": 19
+   },
+   {
+    "name": "anh 3",
+    "pos": 2,
+    "tag": "#LR9QJPRL8",
+    "th": 19
+   },
+   {
+    "name": "Chip",
+    "pos": 18,
+    "tag": "#JQJLYQY9",
+    "th": 19
+   },
+   {
+    "name": "thanhLong♥️青龍",
+    "pos": 6,
+    "tag": "#22800UVRU",
+    "th": 19
+   },
+   {
+    "name": "꧁༒BG❣️QuáNhii༒꧂",
+    "pos": 15,
+    "tag": "#2CV9LGQY9",
+    "th": 19
+   },
+   {
+    "name": "*ੈ✩‧₊˚༺ℊհօʂէ༻*ੈ",
+    "pos": 12,
+    "tag": "#9L99UL88",
+    "th": 19
+   },
+   {
+    "name": "chu tước♥️朱雀",
+    "pos": 5,
+    "tag": "#YG80Y2GR8",
+    "th": 19
+   },
+   {
+    "name": "minhtrang",
+    "pos": 8,
+    "tag": "#G0QUCQVPL",
+    "th": 19
+   },
+   {
+    "name": "hiếu hương",
+    "pos": 34,
+    "tag": "#8080VYG8C",
+    "th": 19
+   },
+   {
+    "name": "DQeͧmͤoͤn¹¹.⁰⁸",
+    "pos": 37,
+    "tag": "#8LLUVVQY",
+    "th": 19
+   },
+   {
+    "name": "( SURESH )",
+    "pos": 3,
+    "tag": "#P2P2GCP0",
+    "th": 19
+   },
+   {
+    "name": "giang's tô'ss",
+    "pos": 9,
+    "tag": "#PQC82YULC",
+    "th": 19
+   },
+   {
+    "name": "Cậu Mập!!!!!!❤️",
+    "pos": 33,
+    "tag": "#LRR8UVL0J",
+    "th": 19
+   },
+   {
+    "name": "Thuỳ Linh",
+    "pos": 30,
+    "tag": "#G8PQC2890",
+    "th": 19
+   },
+   {
+    "name": "જ⁀➴ ♡Hắc Đế 亗",
+    "pos": 13,
+    "tag": "#LYUG02LG0",
+    "th": 19
+   },
+   {
+    "name": "khongcamxuc",
+    "pos": 19,
+    "tag": "#YG0Y2YU0C",
+    "th": 19
+   },
+   {
+    "name": "ビン.✨Sun✨.*****",
+    "pos": 40,
+    "tag": "#GJLCQCL9R",
+    "th": 16
+   },
+   {
+    "name": "✞ঔৣ۝Đế☠vương۝ঔৣ",
+    "pos": 10,
+    "tag": "#LPP8220VG",
+    "th": 19
+   },
+   {
+    "name": "I Form Việt Nam",
+    "pos": 29,
+    "tag": "#LL00LCCJG",
+    "th": 19
+   },
+   {
+    "name": "Vy Phương",
+    "pos": 31,
+    "tag": "#GPURPQ2LU",
+    "th": 19
+   },
+   {
+    "name": "×͜×જ⁀➴TiếnĐạt 亗",
+    "pos": 4,
+    "tag": "#JGLV0YQQ",
+    "th": 19
+   },
+   {
+    "name": "ngoclongdo",
+    "pos": 35,
+    "tag": "#LYQGJ0PLU",
+    "th": 18
+   },
+   {
+    "name": "sói",
+    "pos": 25,
+    "tag": "#Q08UYRVJG",
+    "th": 19
+   },
+   {
+    "name": "꧁༺༒ mia ༒༻꧂",
+    "pos": 24,
+    "tag": "#L8R8LUG9Q",
+    "th": 19
+   },
+   {
+    "name": "SSS⚡️ZEROS",
+    "pos": 28,
+    "tag": "#8QR00YLQ0",
+    "th": 19
+   },
+   {
+    "name": "[M]eow",
+    "pos": 22,
+    "tag": "#8LVPUGGU",
+    "th": 19
+   },
+   {
+    "name": "❤️Bé✝️Du⚛️Côn❤️",
+    "pos": 27,
+    "tag": "#9LYVQJLRL",
+    "th": 19
+   }
+  ],
+  "name": "VIETNAM COC",
+  "stars": 8,
+  "tag": "#222V9RJVU"
+ },
+ "start": "20261126T085629.000Z",
+ "state": "inWar",
+ "teamSize": 40,
+ "type": "krieg"
+}

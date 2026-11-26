@@ -637,11 +637,110 @@
    "p": 83,
    "s": 2,
    "side": "gegner"
+  },
+  {
+   "a": "#2QRVC092",
+   "ath": 19,
+   "d": "#2P0R0UGJL",
+   "dth": 19,
+   "dur": 100,
+   "o": 59,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#2QRVC092",
+   "ath": 19,
+   "d": "#LUP0LP8U",
+   "dth": 19,
+   "dur": 172,
+   "o": 60,
+   "p": 93,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#2CG8QJPQR",
+   "ath": 19,
+   "d": "#YR2VVVGY",
+   "dth": 19,
+   "dur": 175,
+   "o": 61,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#2CG8QJPQR",
+   "ath": 19,
+   "d": "#JRGYC0U9",
+   "dth": 19,
+   "dur": 158,
+   "o": 62,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#C9YPYYVQ",
+   "ath": 19,
+   "d": "#20UV9G2PC",
+   "dth": 19,
+   "dur": 124,
+   "o": 63,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#C9YPYYVQ",
+   "ath": 19,
+   "d": "#9U822CJP",
+   "dth": 19,
+   "dur": 166,
+   "o": 64,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#RL09L0UQ",
+   "ath": 19,
+   "d": "#8YUR8YY8V",
+   "dth": 19,
+   "dur": 100,
+   "o": 65,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#RL09L0UQ",
+   "ath": 19,
+   "d": "#LUP0LP8U",
+   "dth": 19,
+   "dur": 165,
+   "o": 66,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#LUP0LP8U",
+   "ath": 19,
+   "d": "#L92PJY9RL",
+   "dth": 19,
+   "dur": 85,
+   "o": 67,
+   "p": 76,
+   "s": 2,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 39.488888,
+  "destruction": 52.91111,
   "members": [
    {
     "name": "ROBINJO*ALIHAN",
@@ -915,12 +1014,12 @@
    }
   ],
   "name": "Eiskalte Engel",
-  "stars": 51,
+  "stars": 70,
   "tag": "#9UCL90RP"
  },
  "end": "20261126T235751.000Z",
  "opponent": {
-  "destruction": 66.82222,
+  "destruction": 68.51111,
   "members": [
    {
     "name": "STR∆NGER",
@@ -1194,7 +1293,7 @@
    }
   ],
   "name": "\"THE 6\"",
-  "stars": 80,
+  "stars": 82,
   "tag": "#90RCQ008"
  },
  "start": "20261125T235751.000Z",

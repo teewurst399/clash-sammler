@@ -637,11 +637,77 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#PRR89P888",
+   "ath": 19,
+   "d": "#G99CCVVL9",
+   "dth": 19,
+   "dur": 127,
+   "o": 59,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#9UL0Q00YP",
+   "ath": 19,
+   "d": "#2LPGR202",
+   "dth": 19,
+   "dur": 145,
+   "o": 60,
+   "p": 97,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#Y02RQ0CY9",
+   "ath": 18,
+   "d": "#PUYLLGQYP",
+   "dth": 18,
+   "dur": 136,
+   "o": 61,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#Y02RQ0CY9",
+   "ath": 18,
+   "d": "#2YV9VC022",
+   "dth": 19,
+   "dur": 180,
+   "o": 62,
+   "p": 90,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#GJGJ9Q8J2",
+   "ath": 18,
+   "d": "#Y02RQ0CY9",
+   "dth": 18,
+   "dur": 165,
+   "o": 63,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#U8C2JPUV",
+   "ath": 19,
+   "d": "#CGLVLG9U",
+   "dth": 19,
+   "dur": 138,
+   "o": 64,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 60.17143,
+  "destruction": 68.74286,
   "members": [
    {
     "name": "Monkey D. Luffy",
@@ -855,12 +921,12 @@
    }
   ],
   "name": "Fourthzone",
-  "stars": 59,
+  "stars": 68,
   "tag": "#2GU0V2VCR"
  },
  "end": "20261126T194302.000Z",
  "opponent": {
-  "destruction": 79.6,
+  "destruction": 79.97143,
   "members": [
    {
     "name": "PARD",
@@ -1074,7 +1140,7 @@
    }
   ],
   "name": "NAШ CLAN",
-  "stars": 77,
+  "stars": 79,
   "tag": "#LCUL0CP8"
  },
  "start": "20261125T194302.000Z",

@@ -395,11 +395,55 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#LGCPRQYJ",
+   "ath": 19,
+   "d": "#C8JPGJVY",
+   "dth": 19,
+   "dur": 173,
+   "o": 37,
+   "p": 86,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#LGCPRQYJ",
+   "ath": 19,
+   "d": "#LCGLUJC9",
+   "dth": 19,
+   "dur": 165,
+   "o": 38,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#2GCYYQ8PJ",
+   "ath": 19,
+   "d": "#22YYQRQV9",
+   "dth": 19,
+   "dur": 180,
+   "o": 39,
+   "p": 84,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#2GCYYQ8PJ",
+   "ath": 19,
+   "d": "#YRRYV0VP",
+   "dth": 19,
+   "dur": 175,
+   "o": 40,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 45.45714,
+  "destruction": 48.314285,
   "members": [
    {
     "name": "xXStelioXx",
@@ -613,12 +657,12 @@
    }
   ],
   "name": "Endzone",
-  "stars": 47,
+  "stars": 50,
   "tag": "#2YPY9PLUU"
  },
  "end": "20261126T220533.000Z",
  "opponent": {
-  "destruction": 47.514286,
+  "destruction": 52.771427,
   "members": [
    {
     "name": "CE BakeThePro",
@@ -832,7 +876,7 @@
    }
   ],
   "name": "Cyprus Elites",
-  "stars": 46,
+  "stars": 51,
   "tag": "#8L2PQJUR"
  },
  "start": "20261125T220533.000Z",

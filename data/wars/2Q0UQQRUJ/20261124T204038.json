@@ -395,11 +395,132 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#2RY9JRC9",
+   "ath": 19,
+   "d": "#89RP8Y2LL",
+   "dth": 19,
+   "dur": 96,
+   "o": 37,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#2U099Q2QV",
+   "ath": 19,
+   "d": "#Y9PU0RCGR",
+   "dth": 19,
+   "dur": 125,
+   "o": 38,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#2U099Q2QV",
+   "ath": 19,
+   "d": "#GVCG02RQQ",
+   "dth": 18,
+   "dur": 180,
+   "o": 39,
+   "p": 98,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#QVV9VPQC2",
+   "ath": 19,
+   "d": "#8J9QG82U2",
+   "dth": 19,
+   "dur": 167,
+   "o": 40,
+   "p": 91,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#QVV9VPQC2",
+   "ath": 19,
+   "d": "#9YCCCQ89G",
+   "dth": 18,
+   "dur": 162,
+   "o": 41,
+   "p": 93,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#G2L9R98LL",
+   "ath": 19,
+   "d": "#892C90C89",
+   "dth": 19,
+   "dur": 91,
+   "o": 42,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#G2L9R98LL",
+   "ath": 19,
+   "d": "#8J9QG82U2",
+   "dth": 19,
+   "dur": 109,
+   "o": 43,
+   "p": 85,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#RPRPCJVUL",
+   "ath": 11,
+   "d": "#YYVVYCL8V",
+   "dth": 12,
+   "dur": 84,
+   "o": 44,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#RPRPCJVUL",
+   "ath": 11,
+   "d": "#9LUPPLYG0",
+   "dth": 14,
+   "dur": 79,
+   "o": 45,
+   "p": 48,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#GPQ8RQ2Q2",
+   "ath": 17,
+   "d": "#L2UG890Q",
+   "dth": 18,
+   "dur": 125,
+   "o": 46,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#GPQ8RQ2Q2",
+   "ath": 17,
+   "d": "#Y9909PCGC",
+   "dth": 18,
+   "dur": 96,
+   "o": 47,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 62.12,
+  "destruction": 77.84,
   "members": [
    {
     "name": "28",
@@ -553,12 +674,12 @@
    }
   ],
   "name": "Sigmazone",
-  "stars": 42,
+  "stars": 52,
   "tag": "#2Q0UQQRUJ"
  },
  "end": "20261126T194038.000Z",
  "opponent": {
-  "destruction": 57.72,
+  "destruction": 71.24,
   "members": [
    {
     "name": "بحر الجروح",
@@ -712,7 +833,7 @@
    }
   ],
   "name": "الافعى القاتلة",
-  "stars": 38,
+  "stars": 47,
   "tag": "#L8U22Q9U"
  },
  "start": "20261125T194038.000Z",

@@ -923,11 +923,132 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#LV09CGQYC",
+   "ath": 19,
+   "d": "#C99LQY80",
+   "dth": 19,
+   "dur": 143,
+   "o": 85,
+   "p": 96,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#LV09CGQYC",
+   "ath": 19,
+   "d": "#9VLUYYJ02",
+   "dth": 19,
+   "dur": 180,
+   "o": 86,
+   "p": 33,
+   "s": 0,
+   "side": "gegner"
+  },
+  {
+   "a": "#QV0QLJ29",
+   "ath": 19,
+   "d": "#8VUU9CP9G",
+   "dth": 19,
+   "dur": 115,
+   "o": 87,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#8JRJ98YU2",
+   "ath": 19,
+   "d": "#2U9PU0U0Q",
+   "dth": 19,
+   "dur": 177,
+   "o": 88,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#PCVLLRLV2",
+   "ath": 19,
+   "d": "#22CU08RL",
+   "dth": 19,
+   "dur": 128,
+   "o": 89,
+   "p": 75,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#PCVLLRLV2",
+   "ath": 19,
+   "d": "#R929PCUQ",
+   "dth": 19,
+   "dur": 164,
+   "o": 90,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#8JRJ98YU2",
+   "ath": 19,
+   "d": "#PGJ20QCLR",
+   "dth": 19,
+   "dur": 180,
+   "o": 91,
+   "p": 90,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#9VLUYYJ02",
+   "ath": 19,
+   "d": "#PCVLLRLV2",
+   "dth": 19,
+   "dur": 141,
+   "o": 92,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#9VLUYYJ02",
+   "ath": 19,
+   "d": "#98PGPU8CR",
+   "dth": 19,
+   "dur": 168,
+   "o": 93,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#P0GQJQRCY",
+   "ath": 19,
+   "d": "#9VLUYYJ02",
+   "dth": 19,
+   "dur": 101,
+   "o": 94,
+   "p": 40,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#P0GQJQRCY",
+   "ath": 19,
+   "d": "#QJGCCRVL9",
+   "dth": 19,
+   "dur": 135,
+   "o": 95,
+   "p": 71,
+   "s": 2,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 74.666664,
+  "destruction": 79.111115,
   "members": [
    {
     "name": "THRON",
@@ -1201,12 +1322,12 @@
    }
   ],
   "name": "SteinFrucht",
-  "stars": 99,
+  "stars": 105,
   "tag": "#2JU9URU2L"
  },
  "end": "20261126T174310.000Z",
  "opponent": {
-  "destruction": 80.44444,
+  "destruction": 89.53333,
   "members": [
    {
     "name": "™MD SHARIF 3",
@@ -1480,7 +1601,7 @@
    }
   ],
   "name": "Furious Spirit",
-  "stars": 102,
+  "stars": 113,
   "tag": "#2RU099RG9"
  },
  "start": "20261125T174310.000Z",

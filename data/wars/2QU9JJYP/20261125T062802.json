@@ -428,11 +428,132 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#U8YC8LGG",
+   "ath": 19,
+   "d": "#22LC2CVJP",
+   "dth": 19,
+   "dur": 180,
+   "o": 40,
+   "p": 96,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#L8J2VRVJC",
+   "ath": 19,
+   "d": "#2828UJQVQ",
+   "dth": 19,
+   "dur": 128,
+   "o": 41,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#2LPQUPYR0",
+   "ath": 19,
+   "d": "#CQQJUUQY",
+   "dth": 19,
+   "dur": 133,
+   "o": 42,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#L8J2VRVJC",
+   "ath": 19,
+   "d": "#2L0LYU22Q",
+   "dth": 19,
+   "dur": 143,
+   "o": 43,
+   "p": 84,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#2LPQUPYR0",
+   "ath": 19,
+   "d": "#22LC2CVJP",
+   "dth": 19,
+   "dur": 124,
+   "o": 44,
+   "p": 87,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#2LGV9G8P",
+   "ath": 19,
+   "d": "#989U80P2",
+   "dth": 19,
+   "dur": 114,
+   "o": 45,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#9VP8UCC9",
+   "ath": 19,
+   "d": "#2RYVYR8CL",
+   "dth": 19,
+   "dur": 136,
+   "o": 46,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#2LGV9G8P",
+   "ath": 19,
+   "d": "#L8J2VRVJC",
+   "dth": 19,
+   "dur": 102,
+   "o": 47,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#8822G82GV",
+   "ath": 19,
+   "d": "#9GYU9L9V2",
+   "dth": 19,
+   "dur": 166,
+   "o": 48,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#9VP8UCC9",
+   "ath": 19,
+   "d": "#2G80J9QC",
+   "dth": 19,
+   "dur": 128,
+   "o": 49,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#8822G82GV",
+   "ath": 19,
+   "d": "#22LC2CVJP",
+   "dth": 19,
+   "dur": 156,
+   "o": 50,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 22.222221,
+  "destruction": 31.11111,
   "members": [
    {
     "name": "Ben",
@@ -706,12 +827,12 @@
    }
   ],
   "name": "Confusion",
-  "stars": 30,
+  "stars": 42,
   "tag": "#2QU9JJYP"
  },
  "end": "20261127T052802.000Z",
  "opponent": {
-  "destruction": 45.866665,
+  "destruction": 54.555557,
   "members": [
    {
     "name": "⭐️Pinoy⭐️Bogz j",
@@ -985,7 +1106,7 @@
    }
   ],
   "name": "ExecutiveGamers",
-  "stars": 59,
+  "stars": 71,
   "tag": "#2PJY90CCY"
  },
  "start": "20261126T052802.000Z",

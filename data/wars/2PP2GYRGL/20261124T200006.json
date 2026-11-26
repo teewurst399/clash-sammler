@@ -780,11 +780,110 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#CCGLLJVY",
+   "ath": 19,
+   "d": "#Y8QCGCL",
+   "dth": 19,
+   "dur": 132,
+   "o": 72,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#CCGLLJVY",
+   "ath": 19,
+   "d": "#9RQUCLPG0",
+   "dth": 19,
+   "dur": 133,
+   "o": 73,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#9C2JGVUV",
+   "ath": 19,
+   "d": "#PU0CUVQ22",
+   "dth": 19,
+   "dur": 180,
+   "o": 74,
+   "p": 94,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#9C2JGVUV",
+   "ath": 19,
+   "d": "#LYLUGYJVU",
+   "dth": 19,
+   "dur": 180,
+   "o": 75,
+   "p": 94,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#QJUYPUQUQ",
+   "ath": 19,
+   "d": "#QGQQGVRRL",
+   "dth": 18,
+   "dur": 104,
+   "o": 76,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#QYC0UQ9UP",
+   "ath": 19,
+   "d": "#PU0CUVQ22",
+   "dth": 19,
+   "dur": 109,
+   "o": 77,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#8C00UYRYP",
+   "ath": 19,
+   "d": "#LYLUGYJVU",
+   "dth": 19,
+   "dur": 115,
+   "o": 78,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#QYC0UQ9UP",
+   "ath": 19,
+   "d": "#Q2U9JGUJJ",
+   "dth": 18,
+   "dur": 115,
+   "o": 79,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#8C00UYRYP",
+   "ath": 19,
+   "d": "#8U8LPRJ9V",
+   "dth": 19,
+   "dur": 135,
+   "o": 80,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 91.275,
+  "destruction": 100.0,
   "members": [
    {
     "name": "Salih",
@@ -1028,7 +1127,7 @@
    }
   ],
   "name": "Hoher Geheimrat",
-  "stars": 108,
+  "stars": 120,
   "tag": "#2PP2GYRGL"
  },
  "end": "20261126T190006.000Z",
