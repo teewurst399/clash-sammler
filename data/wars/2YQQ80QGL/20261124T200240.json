@@ -780,11 +780,88 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#QPL90929L",
+   "ath": 19,
+   "d": "#LP0LVY99Q",
+   "dth": 19,
+   "dur": 86,
+   "o": 72,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#QPL90929L",
+   "ath": 19,
+   "d": "#2C8VL2R",
+   "dth": 19,
+   "dur": 90,
+   "o": 73,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#2R989JJ98",
+   "ath": 19,
+   "d": "#G2880QRUQ",
+   "dth": 19,
+   "dur": 153,
+   "o": 74,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#QYRCCCGC",
+   "ath": 19,
+   "d": "#9R2GCULGP",
+   "dth": 19,
+   "dur": 146,
+   "o": 75,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#QYRCCCGC",
+   "ath": 19,
+   "d": "#98CP8L2U2",
+   "dth": 19,
+   "dur": 84,
+   "o": 76,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#2R989JJ98",
+   "ath": 19,
+   "d": "#9VYJ8VP0Q",
+   "dth": 19,
+   "dur": 169,
+   "o": 77,
+   "p": 83,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#9LL82P00R",
+   "ath": 19,
+   "d": "#P8QPY82U",
+   "dth": 19,
+   "dur": 154,
+   "o": 78,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 45.044445,
+  "destruction": 51.333332,
   "members": [
    {
     "name": "MOZ.ART",
@@ -1058,12 +1135,12 @@
    }
   ],
   "name": "Firstzone",
-  "stars": 53,
+  "stars": 61,
   "tag": "#2YQQ80QGL"
  },
  "end": "20261126T190240.000Z",
  "opponent": {
-  "destruction": 86.666664,
+  "destruction": 95.55556,
   "members": [
    {
     "name": "Clasher",
@@ -1337,7 +1414,7 @@
    }
   ],
   "name": "Black Water",
-  "stars": 117,
+  "stars": 129,
   "tag": "#29LRRULU"
  },
  "start": "20261125T190240.000Z",

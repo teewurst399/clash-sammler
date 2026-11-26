@@ -659,6 +659,17 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#22J0GJC8L",
+   "ath": 19,
+   "d": "#8L20LVCUL",
+   "dth": 19,
+   "dur": 136,
+   "o": 61,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -882,7 +893,7 @@
  },
  "end": "20261126T190542.000Z",
  "opponent": {
-  "destruction": 88.57143,
+  "destruction": 91.42857,
   "members": [
    {
     "name": "JK❗️HAIDER",
@@ -1096,7 +1107,7 @@
    }
   ],
   "name": "JK EMPIRE",
-  "stars": 93,
+  "stars": 96,
   "tag": "#2JY9P80GR"
  },
  "start": "20261125T190542.000Z",

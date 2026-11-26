@@ -208,6 +208,149 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#2CCYUU2QL",
+   "ath": 18,
+   "d": "#98YR8QL0",
+   "dth": 19,
+   "dur": 70,
+   "o": 20,
+   "p": 69,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#2CCYUU2QL",
+   "ath": 18,
+   "d": "#8CVRGCR8",
+   "dth": 19,
+   "dur": 69,
+   "o": 21,
+   "p": 57,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#YP20PVLCU",
+   "ath": 19,
+   "d": "#C88U9VJ0",
+   "dth": 19,
+   "dur": 180,
+   "o": 22,
+   "p": 74,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#JRGYC0U9",
+   "ath": 19,
+   "d": "#9JQ2PQV9G",
+   "dth": 19,
+   "dur": 113,
+   "o": 23,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#89U29C88",
+   "ath": 19,
+   "d": "#RL09L0UQ",
+   "dth": 19,
+   "dur": 156,
+   "o": 24,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#2UPJLP0Y",
+   "ath": 19,
+   "d": "#P22VQLRG",
+   "dth": 19,
+   "dur": 98,
+   "o": 25,
+   "p": 81,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#QR9P9PY2",
+   "ath": 19,
+   "d": "#9RYVQCY02",
+   "dth": 19,
+   "dur": 145,
+   "o": 26,
+   "p": 82,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#P02QCQG0",
+   "ath": 19,
+   "d": "#899RYPGVJ",
+   "dth": 19,
+   "dur": 154,
+   "o": 27,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#RGVCGJ8J",
+   "ath": 19,
+   "d": "#G90GVPQJR",
+   "dth": 19,
+   "dur": 93,
+   "o": 28,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#RGVCGJ8J",
+   "ath": 19,
+   "d": "#2QRVC092",
+   "dth": 19,
+   "dur": 108,
+   "o": 29,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#JPJJQCPQ",
+   "ath": 18,
+   "d": "#8RUYVJQ2Q",
+   "dth": 19,
+   "dur": 133,
+   "o": 30,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#JPJJQCPQ",
+   "ath": 18,
+   "d": "#YCUC8P2C",
+   "dth": 19,
+   "dur": 134,
+   "o": 31,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#2LPJG2R8",
+   "ath": 19,
+   "d": "#2QYJRRQLL",
+   "dth": 19,
+   "dur": 151,
+   "o": 32,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -491,7 +634,7 @@
  },
  "end": "20261126T235751.000Z",
  "opponent": {
-  "destruction": 29.733334,
+  "destruction": 53.933334,
   "members": [
    {
     "name": "STR∆NGER",
@@ -765,7 +908,7 @@
    }
   ],
   "name": "\"THE 6\"",
-  "stars": 34,
+  "stars": 63,
   "tag": "#90RCQ008"
  },
  "start": "20261125T235751.000Z",
