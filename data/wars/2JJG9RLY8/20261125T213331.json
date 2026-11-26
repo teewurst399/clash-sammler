@@ -1,8 +1,130 @@
 {
- "attacks": [],
+ "attacks": [
+  {
+   "a": "#8RGQ0YLYP",
+   "ath": 19,
+   "d": "#YCJ9UUJRG",
+   "dth": 19,
+   "dur": 123,
+   "o": 1,
+   "p": 88,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#PURQQVV8P",
+   "ath": 19,
+   "d": "#2C0VYL0U9",
+   "dth": 19,
+   "dur": 165,
+   "o": 2,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#28Y9U8YU",
+   "ath": 19,
+   "d": "#99RPV9GVV",
+   "dth": 19,
+   "dur": 180,
+   "o": 3,
+   "p": 86,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#8UCR000V",
+   "ath": 19,
+   "d": "#PURQQVV8P",
+   "dth": 19,
+   "dur": 180,
+   "o": 4,
+   "p": 81,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#PURQQVV8P",
+   "ath": 19,
+   "d": "#PP2QRLUY",
+   "dth": 19,
+   "dur": 168,
+   "o": 5,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#20VC0PRJL",
+   "ath": 19,
+   "d": "#YJC99UCVR",
+   "dth": 19,
+   "dur": 178,
+   "o": 6,
+   "p": 75,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#GLU2RYQUQ",
+   "ath": 19,
+   "d": "#QL9GL08JJ",
+   "dth": 19,
+   "dur": 154,
+   "o": 7,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#GLU2RYQUQ",
+   "ath": 19,
+   "d": "#89Y28L00",
+   "dth": 19,
+   "dur": 144,
+   "o": 8,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#8UCR000V",
+   "ath": 19,
+   "d": "#2QJCPL8GR",
+   "dth": 19,
+   "dur": 160,
+   "o": 9,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#20VC0PRJL",
+   "ath": 19,
+   "d": "#2UP9G09P",
+   "dth": 19,
+   "dur": 180,
+   "o": 10,
+   "p": 78,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#2C0VYL0U9",
+   "ath": 19,
+   "d": "#VP98L0GR",
+   "dth": 19,
+   "dur": 127,
+   "o": 11,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  }
+ ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 0.0,
+  "destruction": 13.333333,
   "members": [
    {
     "name": "DΔツLion",
@@ -186,12 +308,12 @@
    }
   ],
   "name": "Dark Angel",
-  "stars": 0,
+  "stars": 12,
   "tag": "#2JJG9RLY8"
  },
  "end": "20261127T203331.000Z",
  "opponent": {
-  "destruction": 0.0,
+  "destruction": 20.266666,
   "members": [
    {
     "name": "AlIg47oR",
@@ -375,7 +497,7 @@
    }
   ],
   "name": "UKRAINE",
-  "stars": 0,
+  "stars": 16,
   "tag": "#2GYGCPV"
  },
  "start": "20261126T203331.000Z",

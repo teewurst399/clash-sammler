@@ -648,11 +648,44 @@
    "p": 89,
    "s": 2,
    "side": "clan"
+  },
+  {
+   "a": "#LJVY9C9P9",
+   "ath": 19,
+   "d": "#UR9YRQ92",
+   "dth": 19,
+   "dur": 180,
+   "o": 60,
+   "p": 74,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#Q2U9CUCYQ",
+   "ath": 19,
+   "d": "#Q2V9QJYR2",
+   "dth": 19,
+   "dur": 175,
+   "o": 61,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#Q2U9CUCYQ",
+   "ath": 19,
+   "d": "#UR9YRQ92",
+   "dth": 19,
+   "dur": 162,
+   "o": 62,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 99.0,
+  "destruction": 99.3,
   "members": [
    {
     "name": "Bozz⚡️Bandit",
@@ -776,7 +809,7 @@
    }
   ],
   "name": "Infructus",
-  "stars": 56,
+  "stars": 58,
   "tag": "#2QQJQ2CJP"
  },
  "end": "20261127T085108.000Z",

@@ -164,11 +164,176 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#YUL2PPR8",
+   "ath": 19,
+   "d": "#2LP8R9C9J",
+   "dth": 19,
+   "dur": 123,
+   "o": 16,
+   "p": 83,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#YUL2PPR8",
+   "ath": 19,
+   "d": "#9U9GUUU",
+   "dth": 19,
+   "dur": 175,
+   "o": 17,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#L9GP9LC2L",
+   "ath": 19,
+   "d": "#98LY8P2QC",
+   "dth": 19,
+   "dur": 161,
+   "o": 18,
+   "p": 98,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#9C2VJUL9R",
+   "ath": 19,
+   "d": "#L0VU0R8QU",
+   "dth": 19,
+   "dur": 124,
+   "o": 19,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#UQU92LR",
+   "ath": 19,
+   "d": "#8PRYRRVUQ",
+   "dth": 19,
+   "dur": 125,
+   "o": 20,
+   "p": 74,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#L9GP9LC2L",
+   "ath": 19,
+   "d": "#8Q2C88V8",
+   "dth": 19,
+   "dur": 134,
+   "o": 21,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#8PRYVYUV",
+   "ath": 19,
+   "d": "#GVLYVJL8",
+   "dth": 19,
+   "dur": 180,
+   "o": 22,
+   "p": 91,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#LV22URPY0",
+   "ath": 19,
+   "d": "#2RCLC0LL",
+   "dth": 19,
+   "dur": 147,
+   "o": 23,
+   "p": 87,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#8PRYVYUV",
+   "ath": 19,
+   "d": "#82VGPVGJU",
+   "dth": 19,
+   "dur": 180,
+   "o": 24,
+   "p": 93,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#2RCLC0LL",
+   "ath": 19,
+   "d": "#QPCGVQVC",
+   "dth": 19,
+   "dur": 98,
+   "o": 25,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#9JVUJ9RV",
+   "ath": 19,
+   "d": "#P29YRVGJ",
+   "dth": 19,
+   "dur": 116,
+   "o": 26,
+   "p": 79,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#8YU9Y9L9",
+   "ath": 19,
+   "d": "#9JVUJ9RV",
+   "dth": 19,
+   "dur": 115,
+   "o": 27,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#2RCLC0LL",
+   "ath": 19,
+   "d": "#9UYQU8JU",
+   "dth": 19,
+   "dur": 116,
+   "o": 28,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#9U9GUUU",
+   "ath": 19,
+   "d": "#YUL2PPR8",
+   "dth": 19,
+   "dur": 113,
+   "o": 29,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#8YU9Y9L9",
+   "ath": 19,
+   "d": "#QVJQJUCRJ",
+   "dth": 19,
+   "dur": 97,
+   "o": 30,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 17.5,
+  "destruction": 37.025,
   "members": [
    {
     "name": "FL • ZΞЯБΞЯЦS³",
@@ -412,12 +577,12 @@
    }
   ],
   "name": "FruchtLabörchen",
-  "stars": 21,
+  "stars": 42,
   "tag": "#2RYP8PQRG"
  },
  "end": "20261127T200631.000Z",
  "opponent": {
-  "destruction": 14.475,
+  "destruction": 28.1,
   "members": [
    {
     "name": "Mario",
@@ -661,7 +826,7 @@
    }
   ],
   "name": "Italian Gods",
-  "stars": 16,
+  "stars": 29,
   "tag": "#8Q0P98GY"
  },
  "start": "20261126T200631.000Z",

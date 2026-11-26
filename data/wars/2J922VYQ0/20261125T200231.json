@@ -560,11 +560,121 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#QG8CP09L",
+   "ath": 19,
+   "d": "#8Y28LPGPL",
+   "dth": 19,
+   "dur": 176,
+   "o": 52,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#QG8CP09L",
+   "ath": 19,
+   "d": "#Y9PLULVPG",
+   "dth": 19,
+   "dur": 127,
+   "o": 53,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#LG8RJL9",
+   "ath": 18,
+   "d": "#QVY08PRC0",
+   "dth": 18,
+   "dur": 167,
+   "o": 54,
+   "p": 85,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#2LGPJV0CQ",
+   "ath": 19,
+   "d": "#G98YLLQR",
+   "dth": 19,
+   "dur": 142,
+   "o": 55,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#L8G8GR0C9",
+   "ath": 19,
+   "d": "#RJ2PGG0U",
+   "dth": 19,
+   "dur": 155,
+   "o": 56,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#L8G8GR0C9",
+   "ath": 19,
+   "d": "#UUGJ0GY2",
+   "dth": 19,
+   "dur": 123,
+   "o": 57,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#GUJ0LP",
+   "ath": 19,
+   "d": "#PG82YGR0",
+   "dth": 19,
+   "dur": 63,
+   "o": 58,
+   "p": 60,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#GUJ0LP",
+   "ath": 19,
+   "d": "#CVP22P9U",
+   "dth": 19,
+   "dur": 168,
+   "o": 59,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#8YL89PLVR",
+   "ath": 19,
+   "d": "#LRVCRPJRJ",
+   "dth": 19,
+   "dur": 125,
+   "o": 60,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#QJLL9JLYU",
+   "ath": 19,
+   "d": "#22RQC229P",
+   "dth": 19,
+   "dur": 166,
+   "o": 61,
+   "p": 92,
+   "s": 2,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 54.15,
+  "destruction": 70.8,
   "members": [
    {
     "name": "EG⚡️KING",
@@ -808,12 +918,12 @@
    }
   ],
   "name": "Get Cooked!",
-  "stars": 61,
+  "stars": 82,
   "tag": "#2J922VYQ0"
  },
  "end": "20261127T190231.000Z",
  "opponent": {
-  "destruction": 52.575,
+  "destruction": 54.7,
   "members": [
    {
     "name": "Tyr",
@@ -1057,7 +1167,7 @@
    }
   ],
   "name": "Monstergas jr.",
-  "stars": 59,
+  "stars": 60,
   "tag": "#29CV02VC"
  },
  "start": "20261126T190231.000Z",

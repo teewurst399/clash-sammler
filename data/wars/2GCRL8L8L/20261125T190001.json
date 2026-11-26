@@ -483,11 +483,121 @@
    "p": 91,
    "s": 2,
    "side": "gegner"
+  },
+  {
+   "a": "#9GU992C98",
+   "ath": 19,
+   "d": "#GJUUY898",
+   "dth": 19,
+   "dur": 123,
+   "o": 45,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#2GCQ2GGYL",
+   "ath": 19,
+   "d": "#20G9QQR0V",
+   "dth": 19,
+   "dur": 116,
+   "o": 46,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#2GCQ2GGYL",
+   "ath": 19,
+   "d": "#C2YVLYR",
+   "dth": 19,
+   "dur": 118,
+   "o": 47,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#PUCCY828L",
+   "ath": 19,
+   "d": "#20CLLYGR",
+   "dth": 19,
+   "dur": 149,
+   "o": 48,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#PUCCY828L",
+   "ath": 19,
+   "d": "#VL2LLYC8",
+   "dth": 19,
+   "dur": 128,
+   "o": 49,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#8CLJGCGR",
+   "ath": 19,
+   "d": "#2GJRYCL28",
+   "dth": 19,
+   "dur": 120,
+   "o": 50,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#8CLJGCGR",
+   "ath": 19,
+   "d": "#9PPUR9RL",
+   "dth": 19,
+   "dur": 145,
+   "o": 51,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#PV8089LL",
+   "ath": 19,
+   "d": "#PJ2YL2",
+   "dth": 19,
+   "dur": 151,
+   "o": 52,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#9YQ2RGRVP",
+   "ath": 19,
+   "d": "#2VY8PV8G8",
+   "dth": 19,
+   "dur": 149,
+   "o": 53,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#PV8089LL",
+   "ath": 19,
+   "d": "#GCQYRRJU",
+   "dth": 19,
+   "dur": 180,
+   "o": 54,
+   "p": 97,
+   "s": 2,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 55.45,
+  "destruction": 64.175,
   "members": [
    {
     "name": "BB •Nico•",
@@ -731,12 +841,12 @@
    }
   ],
   "name": "BrawlerBaller",
-  "stars": 61,
+  "stars": 73,
   "tag": "#2GCRL8L8L"
  },
  "end": "20261127T180001.000Z",
  "opponent": {
-  "destruction": 37.15,
+  "destruction": 44.65,
   "members": [
    {
     "name": "byAaleXx",
@@ -980,7 +1090,7 @@
    }
   ],
   "name": "FURIAROJA.NET",
-  "stars": 43,
+  "stars": 52,
   "tag": "#88G0PRVJ"
  },
  "start": "20261126T180001.000Z",

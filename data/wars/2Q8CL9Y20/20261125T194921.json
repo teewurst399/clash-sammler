@@ -560,11 +560,77 @@
    "p": 97,
    "s": 2,
    "side": "gegner"
+  },
+  {
+   "a": "#9YCL0PRU",
+   "ath": 19,
+   "d": "#LG8L920L",
+   "dth": 19,
+   "dur": 163,
+   "o": 52,
+   "p": 60,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#VYV0Q8JL",
+   "ath": 19,
+   "d": "#2V8YQJYL8",
+   "dth": 19,
+   "dur": 125,
+   "o": 53,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#9YCL0PRU",
+   "ath": 19,
+   "d": "#LPVJY0R8P",
+   "dth": 19,
+   "dur": 172,
+   "o": 54,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#LUL8QL020",
+   "ath": 19,
+   "d": "#99URC09",
+   "dth": 19,
+   "dur": 131,
+   "o": 55,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#J98VJQPL",
+   "ath": 19,
+   "d": "#9C8JGRC2U",
+   "dth": 19,
+   "dur": 118,
+   "o": 56,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#J98VJQPL",
+   "ath": 19,
+   "d": "#LUL8QL020",
+   "dth": 19,
+   "dur": 153,
+   "o": 57,
+   "p": 89,
+   "s": 2,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 47.25,
+  "destruction": 49.75,
   "members": [
    {
     "name": "tojamane",
@@ -808,12 +874,12 @@
    }
   ],
   "name": "Obstsalat",
-  "stars": 56,
+  "stars": 59,
   "tag": "#2Q8CL9Y20"
  },
  "end": "20261127T184921.000Z",
  "opponent": {
-  "destruction": 72.425,
+  "destruction": 79.925,
   "members": [
    {
     "name": "alasmar",
@@ -1057,7 +1123,7 @@
    }
   ],
   "name": "⛓️THE⚔️GANG.III",
-  "stars": 86,
+  "stars": 95,
   "tag": "#2QUCLLPGJ"
  },
  "start": "20261126T184921.000Z",

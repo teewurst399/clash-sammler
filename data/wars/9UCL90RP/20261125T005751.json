@@ -1572,6 +1572,127 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#P02QCQG0",
+   "ath": 19,
+   "d": "#P22VQLRG",
+   "dth": 19,
+   "dur": 140,
+   "o": 144,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#9LJPJQQPQ",
+   "ath": 19,
+   "d": "#C88U9VJ0",
+   "dth": 19,
+   "dur": 67,
+   "o": 145,
+   "p": 54,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#9LJPJQQPQ",
+   "ath": 19,
+   "d": "#28JCVRQP",
+   "dth": 19,
+   "dur": 59,
+   "o": 146,
+   "p": 52,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#28U99CVLP",
+   "ath": 19,
+   "d": "#G9GL20GLG",
+   "dth": 19,
+   "dur": 104,
+   "o": 147,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#28U99CVLP",
+   "ath": 19,
+   "d": "#G8LUY00U",
+   "dth": 19,
+   "dur": 122,
+   "o": 148,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#RY8YJYP8",
+   "ath": 18,
+   "d": "#8Y09UQYLU",
+   "dth": 19,
+   "dur": 161,
+   "o": 149,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#RY8YJYP8",
+   "ath": 18,
+   "d": "#UP9GCCJJ",
+   "dth": 19,
+   "dur": 109,
+   "o": 150,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#28JL90VU",
+   "ath": 19,
+   "d": "#LQ09R8R2C",
+   "dth": 19,
+   "dur": 140,
+   "o": 151,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#28JL90VU",
+   "ath": 19,
+   "d": "#8YUR8YY8V",
+   "dth": 19,
+   "dur": 180,
+   "o": 152,
+   "p": 96,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#28PY0V0GR",
+   "ath": 19,
+   "d": "#QUL89RPY",
+   "dth": 19,
+   "dur": 116,
+   "o": 153,
+   "p": 72,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#28PY0V0GR",
+   "ath": 19,
+   "d": "#YP20PVLCU",
+   "dth": 19,
+   "dur": 127,
+   "o": 154,
+   "p": 86,
+   "s": 1,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -1855,7 +1976,7 @@
  },
  "end": "20261126T235751.000Z",
  "opponent": {
-  "destruction": 97.333336,
+  "destruction": 98.35555,
   "members": [
    {
     "name": "STR∆NGER",
@@ -2129,7 +2250,7 @@
    }
   ],
   "name": "\"THE 6\"",
-  "stars": 125,
+  "stars": 128,
   "tag": "#90RCQ008"
  },
  "start": "20261125T235751.000Z",

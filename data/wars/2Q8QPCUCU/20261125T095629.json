@@ -967,6 +967,28 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#YG0Y2YU0C",
+   "ath": 19,
+   "d": "#2UQ8VJYQ",
+   "dth": 19,
+   "dur": 146,
+   "o": 89,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#YG0Y2YU0C",
+   "ath": 19,
+   "d": "#PRG9JQC0Q",
+   "dth": 19,
+   "dur": 16,
+   "o": 90,
+   "p": 4,
+   "s": 1,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -1220,7 +1242,7 @@
  },
  "end": "20261127T085629.000Z",
  "opponent": {
-  "destruction": 73.525,
+  "destruction": 76.025,
   "members": [
    {
     "name": "❤Sâu❤Shi❤",
@@ -1464,7 +1486,7 @@
    }
   ],
   "name": "VIETNAM COC",
-  "stars": 84,
+  "stars": 87,
   "tag": "#222V9RJVU"
  },
  "start": "20261126T085629.000Z",

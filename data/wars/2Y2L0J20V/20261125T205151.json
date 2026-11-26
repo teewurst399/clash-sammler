@@ -307,11 +307,121 @@
    "p": 85,
    "s": 2,
    "side": "clan"
+  },
+  {
+   "a": "#Q9LJGLJ2",
+   "ath": 19,
+   "d": "#PQUUQUQU8",
+   "dth": 19,
+   "dur": 180,
+   "o": 29,
+   "p": 85,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#L8LG22J80",
+   "ath": 19,
+   "d": "#QCR9UYPRL",
+   "dth": 19,
+   "dur": 157,
+   "o": 30,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#L8LG22J80",
+   "ath": 19,
+   "d": "#QC8LJGJC",
+   "dth": 19,
+   "dur": 162,
+   "o": 31,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#GLUL2CCV",
+   "ath": 19,
+   "d": "#YVQQGLCUG",
+   "dth": 19,
+   "dur": 130,
+   "o": 32,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#8JJJGGYL",
+   "ath": 19,
+   "d": "#YC9JQUR9L",
+   "dth": 19,
+   "dur": 127,
+   "o": 33,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#GLUL2CCV",
+   "ath": 19,
+   "d": "#2GJJJJP8L",
+   "dth": 19,
+   "dur": 144,
+   "o": 34,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#8JJJGGYL",
+   "ath": 19,
+   "d": "#8Y9VGQYLQ",
+   "dth": 19,
+   "dur": 120,
+   "o": 35,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#JGYCCCVY",
+   "ath": 19,
+   "d": "#20QCPRYP9",
+   "dth": 19,
+   "dur": 121,
+   "o": 36,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#JGYCCCVY",
+   "ath": 19,
+   "d": "#PQUUQUQU8",
+   "dth": 19,
+   "dur": 149,
+   "o": 37,
+   "p": 97,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#G2GRQJC8",
+   "ath": 19,
+   "d": "#YCU2PGY9",
+   "dth": 19,
+   "dur": 180,
+   "o": 38,
+   "p": 97,
+   "s": 2,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 36.35,
+  "destruction": 48.975,
   "members": [
    {
     "name": "Chiko",
@@ -555,12 +665,12 @@
    }
   ],
   "name": "GermanGladiator",
-  "stars": 40,
+  "stars": 55,
   "tag": "#2Y2L0J20V"
  },
  "end": "20261127T195151.000Z",
  "opponent": {
-  "destruction": 25.0,
+  "destruction": 32.425,
   "members": [
    {
     "name": "HS 今 DURSUN•1•™",
@@ -804,7 +914,7 @@
    }
   ],
   "name": "(PİNNACLE)",
-  "stars": 30,
+  "stars": 38,
   "tag": "#8PRJG29V"
  },
  "start": "20261126T195151.000Z",

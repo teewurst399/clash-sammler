@@ -219,6 +219,105 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#YP08JLL0P",
+   "ath": 18,
+   "d": "#8QYCV8RP",
+   "dth": 19,
+   "dur": 152,
+   "o": 21,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#R90RC0P2L",
+   "ath": 13,
+   "d": "#QL8UYQ22V",
+   "dth": 19,
+   "dur": 9,
+   "o": 22,
+   "p": 4,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#R90RC0P2L",
+   "ath": 13,
+   "d": "#GGU0RJYVR",
+   "dth": 19,
+   "dur": 27,
+   "o": 23,
+   "p": 11,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#2GLLJQQLY",
+   "ath": 15,
+   "d": "#YQC9PJUCC",
+   "dth": 15,
+   "dur": 155,
+   "o": 24,
+   "p": 78,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#2GLLJQQLY",
+   "ath": 15,
+   "d": "#GJJ9QJJUJ",
+   "dth": 18,
+   "dur": 171,
+   "o": 25,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#RLYJCCUG",
+   "ath": 19,
+   "d": "#8UR2LJ8G",
+   "dth": 19,
+   "dur": 180,
+   "o": 26,
+   "p": 79,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#GQVVRGCL8",
+   "ath": 17,
+   "d": "#LG0Y82QC9",
+   "dth": 19,
+   "dur": 117,
+   "o": 27,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#YJR2VL8G",
+   "ath": 19,
+   "d": "#20LL9QP0P",
+   "dth": 19,
+   "dur": 180,
+   "o": 28,
+   "p": 93,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#YJR2VL8G",
+   "ath": 19,
+   "d": "#8UR2LJ8G",
+   "dth": 19,
+   "dur": 180,
+   "o": 29,
+   "p": 92,
+   "s": 2,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -412,7 +511,7 @@
  },
  "end": "20261127T202151.000Z",
  "opponent": {
-  "destruction": 31.666666,
+  "destruction": 47.833332,
   "members": [
    {
     "name": "€ ULT$MATE €",
@@ -596,7 +695,7 @@
    }
   ],
   "name": "Dieux Du Sang",
-  "stars": 26,
+  "stars": 39,
   "tag": "#98YQRLYJ"
  },
  "start": "20261126T202151.000Z",

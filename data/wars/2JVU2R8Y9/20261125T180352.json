@@ -373,11 +373,77 @@
    "p": 86,
    "s": 2,
    "side": "clan"
+  },
+  {
+   "a": "#9JL89RPL0",
+   "ath": 19,
+   "d": "#PC8G08GU",
+   "dth": 19,
+   "dur": 150,
+   "o": 35,
+   "p": 82,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#8L2C9J8RV",
+   "ath": 19,
+   "d": "#C8P9YUJ2",
+   "dth": 19,
+   "dur": 116,
+   "o": 36,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#C8P9YUJ2",
+   "ath": 19,
+   "d": "#LG882GJLY",
+   "dth": 19,
+   "dur": 180,
+   "o": 37,
+   "p": 98,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#C8P9YUJ2",
+   "ath": 19,
+   "d": "#29G922VYR",
+   "dth": 19,
+   "dur": 141,
+   "o": 38,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#Y9CYLYUY0",
+   "ath": 19,
+   "d": "#Q9QGUVGVR",
+   "dth": 19,
+   "dur": 88,
+   "o": 39,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#Y9CYLYUY0",
+   "ath": 19,
+   "d": "#8L2C9J8RV",
+   "dth": 19,
+   "dur": 116,
+   "o": 40,
+   "p": 94,
+   "s": 2,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 56.6,
+  "destruction": 63.88,
   "members": [
    {
     "name": "R A B B I",
@@ -531,12 +597,12 @@
    }
   ],
   "name": "HolzFrucht",
-  "stars": 38,
+  "stars": 42,
   "tag": "#2JVU2R8Y9"
  },
  "end": "20261127T170352.000Z",
  "opponent": {
-  "destruction": 57.96,
+  "destruction": 69.68,
   "members": [
    {
     "name": "BeirRun",
@@ -690,7 +756,7 @@
    }
   ],
   "name": "GUARDIANS",
-  "stars": 37,
+  "stars": 45,
   "tag": "#2Y0JG2YG"
  },
  "start": "20261126T170352.000Z",

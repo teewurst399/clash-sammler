@@ -197,11 +197,198 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#JGYJC09P",
+   "ath": 19,
+   "d": "#G2JULVQUJ",
+   "dth": 19,
+   "dur": 104,
+   "o": 19,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#PG02UC2G",
+   "ath": 19,
+   "d": "#JQVC0YUJ",
+   "dth": 19,
+   "dur": 94,
+   "o": 20,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#PG02UC2G",
+   "ath": 19,
+   "d": "#2YPUUU9LG",
+   "dth": 19,
+   "dur": 95,
+   "o": 21,
+   "p": 86,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#LL8YPYVLY",
+   "ath": 19,
+   "d": "#2YPUUU9LG",
+   "dth": 19,
+   "dur": 106,
+   "o": 22,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#LL8YPYVLY",
+   "ath": 19,
+   "d": "#89P28CPJ0",
+   "dth": 19,
+   "dur": 105,
+   "o": 23,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#2G0PGYPJG",
+   "ath": 19,
+   "d": "#RLLUCYC0",
+   "dth": 19,
+   "dur": 138,
+   "o": 24,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#JYJ89UUV",
+   "ath": 19,
+   "d": "#LQ2QJQGUY",
+   "dth": 19,
+   "dur": 124,
+   "o": 25,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#JYJ89UUV",
+   "ath": 19,
+   "d": "#PG02UC2G",
+   "dth": 19,
+   "dur": 125,
+   "o": 26,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#2G0PGYPJG",
+   "ath": 19,
+   "d": "#928GR0J2P",
+   "dth": 19,
+   "dur": 172,
+   "o": 27,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#PY09JCVRR",
+   "ath": 19,
+   "d": "#2GRRCRGCL",
+   "dth": 19,
+   "dur": 150,
+   "o": 28,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#PY09JCVRR",
+   "ath": 19,
+   "d": "#9GPJ9RQR",
+   "dth": 19,
+   "dur": 117,
+   "o": 29,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#2GGPVP20V",
+   "ath": 19,
+   "d": "#2GVG8QPV0",
+   "dth": 19,
+   "dur": 140,
+   "o": 30,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#2GGPVP20V",
+   "ath": 19,
+   "d": "#29RQGV0L9",
+   "dth": 19,
+   "dur": 167,
+   "o": 31,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#29GUVPPPJ",
+   "ath": 19,
+   "d": "#2GGPVP20V",
+   "dth": 19,
+   "dur": 121,
+   "o": 32,
+   "p": 87,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#8VP9YV8VC",
+   "ath": 19,
+   "d": "#2RQ8RY8C0",
+   "dth": 19,
+   "dur": 73,
+   "o": 33,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#29GUVPPPJ",
+   "ath": 19,
+   "d": "#LQR8L2VCQ",
+   "dth": 19,
+   "dur": 111,
+   "o": 34,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#8VP9YV8VC",
+   "ath": 19,
+   "d": "#982GLQ90",
+   "dth": 19,
+   "dur": 116,
+   "o": 35,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 8.888889,
+  "destruction": 24.155556,
   "members": [
    {
     "name": "LOST☆stefan",
@@ -475,12 +662,12 @@
    }
   ],
   "name": "LOST 3",
-  "stars": 12,
+  "stars": 31,
   "tag": "#2YUPV0UYC"
  },
  "end": "20261127T205024.000Z",
  "opponent": {
-  "destruction": 24.444445,
+  "destruction": 44.444443,
   "members": [
    {
     "name": "⚡️IR.H⚡️ALI⚡️",
@@ -754,7 +941,7 @@
    }
   ],
   "name": "iranian heroes",
-  "stars": 33,
+  "stars": 60,
   "tag": "#PGPYYQY9"
  },
  "start": "20261126T205024.000Z",

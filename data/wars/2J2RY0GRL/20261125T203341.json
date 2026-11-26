@@ -307,11 +307,121 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#2082CUU8R",
+   "ath": 19,
+   "d": "#9RPPU8P0V",
+   "dth": 19,
+   "dur": 176,
+   "o": 29,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#2RVYCPQ0R",
+   "ath": 18,
+   "d": "#L80UU2VG0",
+   "dth": 18,
+   "dur": 154,
+   "o": 30,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#2RVYCPQ0R",
+   "ath": 18,
+   "d": "#Q2UUQJUPP",
+   "dth": 19,
+   "dur": 157,
+   "o": 31,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#LL8CC9QV8",
+   "ath": 19,
+   "d": "#L9GYJ8RQ9",
+   "dth": 19,
+   "dur": 103,
+   "o": 32,
+   "p": 48,
+   "s": 0,
+   "side": "clan"
+  },
+  {
+   "a": "#LL8CC9QV8",
+   "ath": 19,
+   "d": "#QV8YG2UL",
+   "dth": 19,
+   "dur": 152,
+   "o": 33,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#Y8UUY2QY",
+   "ath": 19,
+   "d": "#8LVUR0JPQ",
+   "dth": 19,
+   "dur": 100,
+   "o": 34,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#CRYYJGPJ",
+   "ath": 19,
+   "d": "#L9GYJ8RQ9",
+   "dth": 19,
+   "dur": 175,
+   "o": 35,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#CRYYJGPJ",
+   "ath": 19,
+   "d": "#2808Y8QY0",
+   "dth": 19,
+   "dur": 163,
+   "o": 36,
+   "p": 82,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#Y8UUY2QY",
+   "ath": 19,
+   "d": "#8R9PP0020",
+   "dth": 19,
+   "dur": 84,
+   "o": 37,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#9CLJVLUP8",
+   "ath": 19,
+   "d": "#2989R0R82",
+   "dth": 19,
+   "dur": 120,
+   "o": 38,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 27.5,
+  "destruction": 42.05,
   "members": [
    {
     "name": "PaPaPatrick",
@@ -555,12 +665,12 @@
    }
   ],
   "name": "Confusion II",
-  "stars": 33,
+  "stars": 49,
   "tag": "#2J2RY0GRL"
  },
  "end": "20261127T193341.000Z",
  "opponent": {
-  "destruction": 32.5,
+  "destruction": 40.0,
   "members": [
    {
     "name": "DTA Insomniac",
@@ -804,7 +914,7 @@
    }
   ],
   "name": "Beerenbrüder",
-  "stars": 39,
+  "stars": 48,
   "tag": "#2YGLUYJPR"
  },
  "start": "20261126T193341.000Z",
