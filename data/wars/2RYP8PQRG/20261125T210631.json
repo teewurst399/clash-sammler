@@ -54,11 +54,121 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#G2GPC0UPJ",
+   "ath": 19,
+   "d": "#GV00JPPP2",
+   "dth": 19,
+   "dur": 174,
+   "o": 6,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#GVLYVJL8",
+   "ath": 19,
+   "d": "#QVLCQ9YPJ",
+   "dth": 19,
+   "dur": 135,
+   "o": 7,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#GVLYVJL8",
+   "ath": 19,
+   "d": "#9QUUCL99",
+   "dth": 19,
+   "dur": 132,
+   "o": 8,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#9JPRJ8YL9",
+   "ath": 19,
+   "d": "#L99JJ2VV0",
+   "dth": 19,
+   "dur": 125,
+   "o": 9,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#GPP9QLLLP",
+   "ath": 19,
+   "d": "#98GLLG882",
+   "dth": 19,
+   "dur": 101,
+   "o": 10,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#QVP88PPQ",
+   "ath": 19,
+   "d": "#8YYG2U0JC",
+   "dth": 19,
+   "dur": 132,
+   "o": 11,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#2LP8R9C9J",
+   "ath": 19,
+   "d": "#2092U80PR",
+   "dth": 19,
+   "dur": 180,
+   "o": 12,
+   "p": 92,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#P89QU20V",
+   "ath": 19,
+   "d": "#2092U80PR",
+   "dth": 19,
+   "dur": 180,
+   "o": 13,
+   "p": 90,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#Y90UU0QQ",
+   "ath": 19,
+   "d": "#200UJRV9",
+   "dth": 19,
+   "dur": 97,
+   "o": 14,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#QVJPRRY",
+   "ath": 19,
+   "d": "#2092U80PR",
+   "dth": 19,
+   "dur": 112,
+   "o": 15,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 7.5,
+  "destruction": 17.5,
   "members": [
    {
     "name": "FL • ZΞЯБΞЯЦS³",
@@ -302,12 +412,12 @@
    }
   ],
   "name": "FruchtLabörchen",
-  "stars": 9,
+  "stars": 21,
   "tag": "#2RYP8PQRG"
  },
  "end": "20261127T200631.000Z",
  "opponent": {
-  "destruction": 4.475,
+  "destruction": 14.475,
   "members": [
    {
     "name": "Mario",
@@ -551,7 +661,7 @@
    }
   ],
   "name": "Italian Gods",
-  "stars": 4,
+  "stars": 16,
   "tag": "#8Q0P98GY"
  },
  "start": "20261126T200631.000Z",

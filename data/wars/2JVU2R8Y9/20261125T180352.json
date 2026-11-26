@@ -351,11 +351,33 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#202RU8GJG",
+   "ath": 19,
+   "d": "#28R92R8P2",
+   "dth": 19,
+   "dur": 111,
+   "o": 33,
+   "p": 63,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#202RU8GJG",
+   "ath": 19,
+   "d": "#RQ9UPJ20",
+   "dth": 19,
+   "dur": 123,
+   "o": 34,
+   "p": 86,
+   "s": 2,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 50.64,
+  "destruction": 56.6,
   "members": [
    {
     "name": "R A B B I",
@@ -509,7 +531,7 @@
    }
   ],
   "name": "HolzFrucht",
-  "stars": 34,
+  "stars": 38,
   "tag": "#2JVU2R8Y9"
  },
  "end": "20261127T170352.000Z",

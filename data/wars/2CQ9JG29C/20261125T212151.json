@@ -1,8 +1,229 @@
 {
- "attacks": [],
+ "attacks": [
+  {
+   "a": "#29UJPR2YC",
+   "ath": 19,
+   "d": "#20QV02RYL",
+   "dth": 19,
+   "dur": 85,
+   "o": 1,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#GJRJY898Q",
+   "ath": 19,
+   "d": "#RLYJCCUG",
+   "dth": 19,
+   "dur": 139,
+   "o": 2,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#LUQ0UC08",
+   "ath": 19,
+   "d": "#2GCCYLR9P",
+   "dth": 19,
+   "dur": 116,
+   "o": 3,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#29UJPR2YC",
+   "ath": 19,
+   "d": "#29L90GUUL",
+   "dth": 19,
+   "dur": 115,
+   "o": 4,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#90LR8L2UR",
+   "ath": 19,
+   "d": "#QL8UYQ22V",
+   "dth": 19,
+   "dur": 180,
+   "o": 5,
+   "p": 82,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#GJRJY898Q",
+   "ath": 19,
+   "d": "#888L9RRL",
+   "dth": 19,
+   "dur": 139,
+   "o": 6,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#90LR8L2UR",
+   "ath": 19,
+   "d": "#22UJLV9VG",
+   "dth": 19,
+   "dur": 179,
+   "o": 7,
+   "p": 82,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#LUQ0UC08",
+   "ath": 19,
+   "d": "#G229JCVLU",
+   "dth": 19,
+   "dur": 159,
+   "o": 8,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#GCCRUPVRY",
+   "ath": 17,
+   "d": "#QUP80RLYU",
+   "dth": 18,
+   "dur": 180,
+   "o": 9,
+   "p": 96,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#GCCRUPVRY",
+   "ath": 17,
+   "d": "#8V92JV0U",
+   "dth": 17,
+   "dur": 112,
+   "o": 10,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#2CJGY0QRC",
+   "ath": 19,
+   "d": "#GGU0RJYVR",
+   "dth": 19,
+   "dur": 152,
+   "o": 11,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#QLUVYYL9Y",
+   "ath": 15,
+   "d": "#YG9QJUJR8",
+   "dth": 14,
+   "dur": 154,
+   "o": 12,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#CQ9CR8V0",
+   "ath": 19,
+   "d": "#L8V2L92UG",
+   "dth": 19,
+   "dur": 180,
+   "o": 13,
+   "p": 75,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#YP08JLL0P",
+   "ath": 18,
+   "d": "#QUP80RLYU",
+   "dth": 18,
+   "dur": 107,
+   "o": 14,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#QLUVYYL9Y",
+   "ath": 15,
+   "d": "#YQC9PJUCC",
+   "dth": 15,
+   "dur": 180,
+   "o": 15,
+   "p": 93,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#2CJGY0QRC",
+   "ath": 19,
+   "d": "#22UJLV9VG",
+   "dth": 19,
+   "dur": 174,
+   "o": 16,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#P9PRCC90C",
+   "ath": 19,
+   "d": "#LUQ0UC08",
+   "dth": 19,
+   "dur": 94,
+   "o": 17,
+   "p": 68,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#P9PRCC90C",
+   "ath": 19,
+   "d": "#GCCRUPVRY",
+   "dth": 17,
+   "dur": 86,
+   "o": 18,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#QQLQ8VRJ8",
+   "ath": 15,
+   "d": "#2GLLJQQLY",
+   "dth": 15,
+   "dur": 79,
+   "o": 19,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#QQLQ8VRJ8",
+   "ath": 15,
+   "d": "#VCGPUV0G",
+   "dth": 17,
+   "dur": 79,
+   "o": 20,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  }
+ ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 0.0,
+  "destruction": 25.6,
   "members": [
    {
     "name": "OblatensalatF2P",
@@ -186,12 +407,12 @@
    }
   ],
   "name": "KiwiKartell",
-  "stars": 0,
+  "stars": 23,
   "tag": "#2CQ9JG29C"
  },
  "end": "20261127T202151.000Z",
  "opponent": {
-  "destruction": 0.0,
+  "destruction": 31.666666,
   "members": [
    {
     "name": "€ ULT$MATE €",
@@ -375,7 +596,7 @@
    }
   ],
   "name": "Dieux Du Sang",
-  "stars": 0,
+  "stars": 26,
   "tag": "#98YQRLYJ"
  },
  "start": "20261126T202151.000Z",

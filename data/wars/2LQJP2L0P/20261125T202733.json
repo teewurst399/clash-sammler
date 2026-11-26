@@ -1,8 +1,53 @@
 {
- "attacks": [],
+ "attacks": [
+  {
+   "a": "#LLQ2989",
+   "ath": 16,
+   "d": "#R0RJR9VJC",
+   "dth": 15,
+   "dur": 178,
+   "o": 1,
+   "p": 80,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#LG9GGUYRR",
+   "ath": 19,
+   "d": "#LJ9LQUYR",
+   "dth": 19,
+   "dur": 130,
+   "o": 2,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#2YV08PJG",
+   "ath": 19,
+   "d": "#GPJGVRLVL",
+   "dth": 19,
+   "dur": 116,
+   "o": 3,
+   "p": 81,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#9RUG98QRR",
+   "ath": 16,
+   "d": "#GJGUQRL2Q",
+   "dth": 13,
+   "dur": 88,
+   "o": 4,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  }
+ ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 0.0,
+  "destruction": 11.2,
   "members": [
    {
     "name": "sa",
@@ -156,12 +201,12 @@
    }
   ],
   "name": "Beta-Beeren",
-  "stars": 0,
+  "stars": 8,
   "tag": "#2LQJP2L0P"
  },
  "end": "20261127T192733.000Z",
  "opponent": {
-  "destruction": 0.0,
+  "destruction": 3.24,
   "members": [
    {
     "name": "Floking",
@@ -315,7 +360,7 @@
    }
   ],
   "name": "Freunde",
-  "stars": 0,
+  "stars": 2,
   "tag": "#2LRYPQRLC"
  },
  "start": "20261126T192733.000Z",

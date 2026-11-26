@@ -98,11 +98,22 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#YJLV9UU9",
+   "ath": 19,
+   "d": "#2P8PRGCQV",
+   "dth": 19,
+   "dur": 110,
+   "o": 10,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 10.0,
+  "destruction": 15.0,
   "members": [
    {
     "name": "Mega |V",
@@ -226,7 +237,7 @@
    }
   ],
   "name": "#Black Stone# 6",
-  "stars": 6,
+  "stars": 9,
   "tag": "#2G8ULRP8R"
  },
  "end": "20261127T180350.000Z",

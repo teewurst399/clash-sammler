@@ -1154,11 +1154,55 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#YJ9J0UQCG",
+   "ath": 19,
+   "d": "#8CGCQYQCP",
+   "dth": 19,
+   "dur": 142,
+   "o": 106,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#YJ9J0UQCG",
+   "ath": 19,
+   "d": "#8YUJGUV9",
+   "dth": 19,
+   "dur": 135,
+   "o": 107,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#8829Y22U",
+   "ath": 19,
+   "d": "#G02YVRG89",
+   "dth": 19,
+   "dur": 153,
+   "o": 108,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#8829Y22U",
+   "ath": 19,
+   "d": "#LQQR9Q2V",
+   "dth": 19,
+   "dur": 150,
+   "o": 109,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 71.111115,
+  "destruction": 80.0,
   "members": [
    {
     "name": "Ben",
@@ -1432,7 +1476,7 @@
    }
   ],
   "name": "Confusion",
-  "stars": 96,
+  "stars": 108,
   "tag": "#2QU9JJYP"
  },
  "end": "20261127T052802.000Z",

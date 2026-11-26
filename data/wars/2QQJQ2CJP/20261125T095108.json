@@ -604,11 +604,55 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#LLG9QG2CV",
+   "ath": 19,
+   "d": "#Q2V9QJYR2",
+   "dth": 19,
+   "dur": 179,
+   "o": 56,
+   "p": 99,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#LLG9QG2CV",
+   "ath": 19,
+   "d": "#UR9YRQ92",
+   "dth": 19,
+   "dur": 180,
+   "o": 57,
+   "p": 98,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#QQGJ0CUU",
+   "ath": 19,
+   "d": "#Q2V9QJYR2",
+   "dth": 19,
+   "dur": 126,
+   "o": 58,
+   "p": 85,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#PVLRVQPRR",
+   "ath": 19,
+   "d": "#2PGLQYUVQ",
+   "dth": 19,
+   "dur": 180,
+   "o": 59,
+   "p": 89,
+   "s": 2,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 98.1,
+  "destruction": 99.0,
   "members": [
    {
     "name": "Bozz⚡️Bandit",

@@ -384,11 +384,88 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#QQGY8QPPR",
+   "ath": 19,
+   "d": "#LLQ8CU2V0",
+   "dth": 19,
+   "dur": 163,
+   "o": 36,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#8LJ8L8RY8",
+   "ath": 19,
+   "d": "#2CVJUGLR2",
+   "dth": 19,
+   "dur": 180,
+   "o": 37,
+   "p": 99,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#8LJ8L8RY8",
+   "ath": 19,
+   "d": "#2LP2U88RR",
+   "dth": 19,
+   "dur": 138,
+   "o": 38,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#99R8RP2G2",
+   "ath": 19,
+   "d": "#9GJJPRRQJ",
+   "dth": 19,
+   "dur": 159,
+   "o": 39,
+   "p": 81,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#80C0ULVGV",
+   "ath": 19,
+   "d": "#JYGL88G0",
+   "dth": 19,
+   "dur": 156,
+   "o": 40,
+   "p": 84,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#99R8RP2G2",
+   "ath": 19,
+   "d": "#LVPVQPY8G",
+   "dth": 19,
+   "dur": 137,
+   "o": 41,
+   "p": 79,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#80C0ULVGV",
+   "ath": 19,
+   "d": "#GLG89YQP",
+   "dth": 19,
+   "dur": 177,
+   "o": 42,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 23.64,
+  "destruction": 27.62,
   "members": [
    {
     "name": "G!B Mighty",
@@ -692,12 +769,12 @@
    }
   ],
   "name": "Get Dazed!",
-  "stars": 34,
+  "stars": 39,
   "tag": "#2JQ09R8PG"
  },
  "end": "20261127T184713.000Z",
  "opponent": {
-  "destruction": 34.54,
+  "destruction": 43.42,
   "members": [
    {
     "name": "✨MAX✨مصطفى",
@@ -1001,7 +1078,7 @@
    }
   ],
   "name": "لا نتشابهہ 》♡",
-  "stars": 46,
+  "stars": 57,
   "tag": "#2RQVPJRYQ"
  },
  "start": "20261126T184713.000Z",

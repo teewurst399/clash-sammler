@@ -340,11 +340,231 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#GY2VQCU8",
+   "ath": 19,
+   "d": "#8GR2YY0P8",
+   "dth": 19,
+   "dur": 128,
+   "o": 32,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#L2C9GGJPJ",
+   "ath": 19,
+   "d": "#QCPUPJ00",
+   "dth": 19,
+   "dur": 128,
+   "o": 33,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#GY2VQCU8",
+   "ath": 19,
+   "d": "#CVP22P9U",
+   "dth": 19,
+   "dur": 180,
+   "o": 34,
+   "p": 85,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#UCGCYV8J",
+   "ath": 19,
+   "d": "#GY2VQCU8",
+   "dth": 19,
+   "dur": 85,
+   "o": 35,
+   "p": 63,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#YYVJ99RL8",
+   "ath": 19,
+   "d": "#GY2VQCU8",
+   "dth": 19,
+   "dur": 102,
+   "o": 36,
+   "p": 73,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#9QPCCJQCV",
+   "ath": 19,
+   "d": "#8JC8CGV8",
+   "dth": 19,
+   "dur": 111,
+   "o": 37,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#CVP22P9U",
+   "ath": 19,
+   "d": "#LP29Y0CL",
+   "dth": 19,
+   "dur": 107,
+   "o": 38,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#9QPCCJQCV",
+   "ath": 19,
+   "d": "#GY2VQCU8",
+   "dth": 19,
+   "dur": 147,
+   "o": 39,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#P9PR9089U",
+   "ath": 19,
+   "d": "#QJLL9JLYU",
+   "dth": 19,
+   "dur": 179,
+   "o": 40,
+   "p": 85,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#8YL89PLVR",
+   "ath": 19,
+   "d": "#22RQC229P",
+   "dth": 19,
+   "dur": 147,
+   "o": 41,
+   "p": 87,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#CVP22P9U",
+   "ath": 19,
+   "d": "#9CY0P0VYJ",
+   "dth": 19,
+   "dur": 106,
+   "o": 42,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#YYVJ99RL8",
+   "ath": 19,
+   "d": "#Y0C0PRRUU",
+   "dth": 19,
+   "dur": 89,
+   "o": 43,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#UCGCYV8J",
+   "ath": 19,
+   "d": "#Q2CUUGCR2",
+   "dth": 19,
+   "dur": 118,
+   "o": 44,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#Y9PLULVPG",
+   "ath": 19,
+   "d": "#QG8CP09L",
+   "dth": 19,
+   "dur": 175,
+   "o": 45,
+   "p": 93,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#2UGVR8V0",
+   "ath": 19,
+   "d": "#QV29Q0Q0V",
+   "dth": 19,
+   "dur": 163,
+   "o": 46,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#QV29Q0Q0V",
+   "ath": 19,
+   "d": "#RR0R0L8U",
+   "dth": 19,
+   "dur": 139,
+   "o": 47,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#Y9PLULVPG",
+   "ath": 19,
+   "d": "#2QY0CL0G0",
+   "dth": 19,
+   "dur": 172,
+   "o": 48,
+   "p": 73,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#QV29Q0Q0V",
+   "ath": 19,
+   "d": "#YUR0QQJUU",
+   "dth": 19,
+   "dur": 169,
+   "o": 49,
+   "p": 94,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#G80CV9CPU",
+   "ath": 19,
+   "d": "#2UGVR8V0",
+   "dth": 19,
+   "dur": 140,
+   "o": 50,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#2UGVR8V0",
+   "ath": 19,
+   "d": "#R8CQG902",
+   "dth": 19,
+   "dur": 170,
+   "o": 51,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 39.625,
+  "destruction": 54.15,
   "members": [
    {
     "name": "EG⚡️KING",
@@ -588,12 +808,12 @@
    }
   ],
   "name": "Get Cooked!",
-  "stars": 46,
+  "stars": 61,
   "tag": "#2J922VYQ0"
  },
  "end": "20261127T190231.000Z",
  "opponent": {
-  "destruction": 32.625,
+  "destruction": 52.575,
   "members": [
    {
     "name": "Tyr",
@@ -837,7 +1057,7 @@
    }
   ],
   "name": "Monstergas jr.",
-  "stars": 36,
+  "stars": 59,
   "tag": "#29CV02VC"
  },
  "start": "20261126T190231.000Z",

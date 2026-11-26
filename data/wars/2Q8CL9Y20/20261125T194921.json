@@ -461,11 +461,110 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#8R2P8CUUU",
+   "ath": 19,
+   "d": "#LUL8QL020",
+   "dth": 19,
+   "dur": 97,
+   "o": 43,
+   "p": 90,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#QR0YPC8UR",
+   "ath": 19,
+   "d": "#8CJ0YG8JR",
+   "dth": 19,
+   "dur": 117,
+   "o": 44,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#QR0YPC8UR",
+   "ath": 19,
+   "d": "#PPYJYLCPY",
+   "dth": 19,
+   "dur": 128,
+   "o": 45,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#GYRCCJL9J",
+   "ath": 19,
+   "d": "#PJPL2LCV",
+   "dth": 19,
+   "dur": 117,
+   "o": 46,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#GYRCCJL9J",
+   "ath": 19,
+   "d": "#9QUGVV82R",
+   "dth": 19,
+   "dur": 126,
+   "o": 47,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#GGCPLQ980",
+   "ath": 19,
+   "d": "#9LJUU0RCU",
+   "dth": 19,
+   "dur": 148,
+   "o": 48,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#8022L2QRP",
+   "ath": 19,
+   "d": "#9L8CY8G98",
+   "dth": 19,
+   "dur": 149,
+   "o": 49,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#GGCPLQ980",
+   "ath": 19,
+   "d": "#20CYRJ8VQ",
+   "dth": 19,
+   "dur": 143,
+   "o": 50,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#8022L2QRP",
+   "ath": 19,
+   "d": "#LG8L920L",
+   "dth": 19,
+   "dur": 180,
+   "o": 51,
+   "p": 97,
+   "s": 2,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 31.4,
+  "destruction": 47.25,
   "members": [
    {
     "name": "tojamane",
@@ -709,12 +808,12 @@
    }
   ],
   "name": "Obstsalat",
-  "stars": 37,
+  "stars": 56,
   "tag": "#2Q8CL9Y20"
  },
  "end": "20261127T184921.000Z",
  "opponent": {
-  "destruction": 69.85,
+  "destruction": 72.425,
   "members": [
    {
     "name": "alasmar",
@@ -958,7 +1057,7 @@
    }
   ],
   "name": "⛓️THE⚔️GANG.III",
-  "stars": 83,
+  "stars": 86,
   "tag": "#2QUCLLPGJ"
  },
  "start": "20261126T184921.000Z",
