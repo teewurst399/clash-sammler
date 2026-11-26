@@ -494,11 +494,66 @@
    "p": 84,
    "s": 2,
    "side": "gegner"
+  },
+  {
+   "a": "#98PC0JYY",
+   "ath": 19,
+   "d": "#2PQCPVRPJ",
+   "dth": 19,
+   "dur": 150,
+   "o": 46,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#LR2LLRJRR",
+   "ath": 18,
+   "d": "#Q9U2GRGRC",
+   "dth": 19,
+   "dur": 157,
+   "o": 47,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#98PC0JYY",
+   "ath": 19,
+   "d": "#LVRPLVU0C",
+   "dth": 19,
+   "dur": 134,
+   "o": 48,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#PRPURLUL",
+   "ath": 19,
+   "d": "#GLJCCRYG",
+   "dth": 19,
+   "dur": 128,
+   "o": 49,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#PRPURLUL",
+   "ath": 19,
+   "d": "#2CGLPRGQU",
+   "dth": 19,
+   "dur": 156,
+   "o": 50,
+   "p": 88,
+   "s": 2,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 49.033333,
+  "destruction": 55.7,
   "members": [
    {
     "name": "Clash Joni",
@@ -682,12 +737,12 @@
    }
   ],
   "name": "Gammazone",
-  "stars": 41,
+  "stars": 47,
   "tag": "#YG20CR0U"
  },
  "end": "20261126T180515.000Z",
  "opponent": {
-  "destruction": 77.03333,
+  "destruction": 81.03333,
   "members": [
    {
     "name": "Duke",
@@ -871,7 +926,7 @@
    }
   ],
   "name": "Les Mahmoudiens",
-  "stars": 63,
+  "stars": 67,
   "tag": "#2P28UQQ80"
  },
  "start": "20261125T180515.000Z",

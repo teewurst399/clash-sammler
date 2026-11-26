@@ -571,11 +571,33 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#8VJGGCL88",
+   "ath": 19,
+   "d": "#9RQPRRRV",
+   "dth": 19,
+   "dur": 124,
+   "o": 53,
+   "p": 54,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#8VJGGCL88",
+   "ath": 19,
+   "d": "#LCL0L9UGC",
+   "dth": 19,
+   "dur": 141,
+   "o": 54,
+   "p": 88,
+   "s": 2,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 88.0,
+  "destruction": 93.68,
   "members": [
    {
     "name": "Dschini -L-",
@@ -729,7 +751,7 @@
    }
   ],
   "name": "FruchtLabor V",
-  "stars": 66,
+  "stars": 70,
   "tag": "#2RV89992C"
  },
  "end": "20261126T155127.000Z",

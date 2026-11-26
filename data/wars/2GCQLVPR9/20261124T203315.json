@@ -329,11 +329,110 @@
    "p": 70,
    "s": 2,
    "side": "gegner"
+  },
+  {
+   "a": "#YRP9RVQVQ",
+   "ath": 19,
+   "d": "#JUPRQ02C",
+   "dth": 19,
+   "dur": 117,
+   "o": 31,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#P02PC8UPU",
+   "ath": 19,
+   "d": "#G022RLY",
+   "dth": 19,
+   "dur": 174,
+   "o": 32,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#P02PC8UPU",
+   "ath": 19,
+   "d": "#Y2PVG0YP",
+   "dth": 19,
+   "dur": 166,
+   "o": 33,
+   "p": 91,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#VG9PPGUR",
+   "ath": 19,
+   "d": "#YQ2RYVCLJ",
+   "dth": 19,
+   "dur": 151,
+   "o": 34,
+   "p": 90,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#VG9PPGUR",
+   "ath": 19,
+   "d": "#YURLGRQQQ",
+   "dth": 19,
+   "dur": 153,
+   "o": 35,
+   "p": 85,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#QLGLLJUQ",
+   "ath": 19,
+   "d": "#2V88C9PQ9",
+   "dth": 19,
+   "dur": 180,
+   "o": 36,
+   "p": 88,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#YYRY98RLC",
+   "ath": 19,
+   "d": "#2V88C9PQ9",
+   "dth": 19,
+   "dur": 180,
+   "o": 37,
+   "p": 99,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#YURLGRQQQ",
+   "ath": 19,
+   "d": "#2V88C9PQ9",
+   "dth": 19,
+   "dur": 169,
+   "o": 38,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#YURLGRQQQ",
+   "ath": 19,
+   "d": "#J2YQRQQ",
+   "dth": 19,
+   "dur": 164,
+   "o": 39,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 25.0,
+  "destruction": 43.3,
   "members": [
    {
     "name": "×ºkͥyuͣuͫº×",
@@ -457,12 +556,12 @@
    }
   ],
   "name": "Thirdzone",
-  "stars": 15,
+  "stars": 23,
   "tag": "#2GCQLVPR9"
  },
  "end": "20261126T193315.000Z",
  "opponent": {
-  "destruction": 93.65,
+  "destruction": 99.6,
   "members": [
    {
     "name": "Ulli",
@@ -586,7 +685,7 @@
    }
   ],
   "name": "Die Tscheckels",
-  "stars": 54,
+  "stars": 59,
   "tag": "#PJC2R0C9"
  },
  "start": "20261125T193315.000Z",
