@@ -43,11 +43,275 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#9QYQRUQC0",
+   "ath": 19,
+   "d": "#9GU992C98",
+   "dth": 19,
+   "dur": 180,
+   "o": 5,
+   "p": 96,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#YJLPJPL8L",
+   "ath": 19,
+   "d": "#8YJVUL9R",
+   "dth": 19,
+   "dur": 146,
+   "o": 6,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#2C9LVVU9Q",
+   "ath": 19,
+   "d": "#GPU2PJGVY",
+   "dth": 19,
+   "dur": 180,
+   "o": 7,
+   "p": 93,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#QJYCYYVJV",
+   "ath": 19,
+   "d": "#2YJCCGYPV",
+   "dth": 19,
+   "dur": 88,
+   "o": 8,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#PL0LU0CVG",
+   "ath": 19,
+   "d": "#PV8089LL",
+   "dth": 19,
+   "dur": 180,
+   "o": 9,
+   "p": 99,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#PL0LU0CVG",
+   "ath": 19,
+   "d": "#PYQUVJ88",
+   "dth": 19,
+   "dur": 145,
+   "o": 10,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#QJYCYYVJV",
+   "ath": 19,
+   "d": "#9UJQ2C9G",
+   "dth": 19,
+   "dur": 84,
+   "o": 11,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#PVJVPYJ0",
+   "ath": 19,
+   "d": "#9GU992C98",
+   "dth": 19,
+   "dur": 159,
+   "o": 12,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#PVJVPYJ0",
+   "ath": 19,
+   "d": "#GPU2PJGVY",
+   "dth": 19,
+   "dur": 88,
+   "o": 13,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#2GC9022",
+   "ath": 19,
+   "d": "#9ULR9YJQU",
+   "dth": 19,
+   "dur": 178,
+   "o": 14,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#PGL0QUC0",
+   "ath": 19,
+   "d": "#YVRJ2J0PG",
+   "dth": 19,
+   "dur": 152,
+   "o": 15,
+   "p": 97,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#2GJRYCL28",
+   "ath": 19,
+   "d": "#PVJVPYJ0",
+   "dth": 19,
+   "dur": 168,
+   "o": 16,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#LLP9QJ9J0",
+   "ath": 19,
+   "d": "#9QYQRUQC0",
+   "dth": 19,
+   "dur": 170,
+   "o": 17,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#2GJRYCL28",
+   "ath": 19,
+   "d": "#PJ2YL2",
+   "dth": 19,
+   "dur": 159,
+   "o": 18,
+   "p": 84,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#QY0U080L",
+   "ath": 19,
+   "d": "#2C9LVVU9Q",
+   "dth": 19,
+   "dur": 106,
+   "o": 19,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#PGL0QUC0",
+   "ath": 19,
+   "d": "#CYLYYV8C",
+   "dth": 19,
+   "dur": 128,
+   "o": 20,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#J0Q2YUP",
+   "ath": 19,
+   "d": "#VRQYC2Q9",
+   "dth": 19,
+   "dur": 154,
+   "o": 21,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#UJVRRV99",
+   "ath": 19,
+   "d": "#20G20VY",
+   "dth": 19,
+   "dur": 98,
+   "o": 22,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#LLP9QJ9J0",
+   "ath": 19,
+   "d": "#YJJC2QJQ",
+   "dth": 19,
+   "dur": 135,
+   "o": 23,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#Q2202J8L",
+   "ath": 19,
+   "d": "#UJVRRV99",
+   "dth": 19,
+   "dur": 129,
+   "o": 24,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#QY0U080L",
+   "ath": 19,
+   "d": "#20CLLYGR",
+   "dth": 19,
+   "dur": 155,
+   "o": 25,
+   "p": 97,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#J0Q2YUP",
+   "ath": 19,
+   "d": "#2LUY09C8C",
+   "dth": 19,
+   "dur": 180,
+   "o": 26,
+   "p": 98,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#Q2202J8L",
+   "ath": 19,
+   "d": "#2LP088CJ",
+   "dth": 19,
+   "dur": 150,
+   "o": 27,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#UJVRRV99",
+   "ath": 19,
+   "d": "#GCQYRRJU",
+   "dth": 19,
+   "dur": 73,
+   "o": 28,
+   "p": 73,
+   "s": 2,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 2.35,
+  "destruction": 36.075,
   "members": [
    {
     "name": "BB •Nico•",
@@ -291,12 +555,12 @@
    }
   ],
   "name": "BrawlerBaller",
-  "stars": 2,
+  "stars": 39,
   "tag": "#2GCRL8L8L"
  },
  "end": "20261127T180001.000Z",
  "opponent": {
-  "destruction": 7.5,
+  "destruction": 27.475,
   "members": [
    {
     "name": "byAaleXx",
@@ -540,7 +804,7 @@
    }
   ],
   "name": "FURIAROJA.NET",
-  "stars": 9,
+  "stars": 32,
   "tag": "#88G0PRVJ"
  },
  "start": "20261126T180001.000Z",

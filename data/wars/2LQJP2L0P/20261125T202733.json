@@ -1,0 +1,325 @@
+{
+ "attacks": [],
+ "attacksPerMember": 2,
+ "clan": {
+  "destruction": 0.0,
+  "members": [
+   {
+    "name": "sa",
+    "pos": 11,
+    "tag": "#GVVVVRL8",
+    "th": 18
+   },
+   {
+    "name": "Ravioli",
+    "pos": 25,
+    "tag": "#9RUG98QRR",
+    "th": 16
+   },
+   {
+    "name": "FL - Ja¥Be",
+    "pos": 18,
+    "tag": "#GYRYJQYQQ",
+    "th": 17
+   },
+   {
+    "name": "DiMaxi",
+    "pos": 9,
+    "tag": "#JVVLQ9V0",
+    "th": 19
+   },
+   {
+    "name": "⚡RATZ3FUMM3L⚡ジ™",
+    "pos": 13,
+    "tag": "#8CUUVR8P8",
+    "th": 18
+   },
+   {
+    "name": "Captain",
+    "pos": 19,
+    "tag": "#JV00PJPU",
+    "th": 17
+   },
+   {
+    "name": "Maxi_05 |||",
+    "pos": 23,
+    "tag": "#LJVGPVYQL",
+    "th": 16
+   },
+   {
+    "name": "Lay2.0",
+    "pos": 14,
+    "tag": "#8VPURQPQC",
+    "th": 19
+   },
+   {
+    "name": "matecompadre",
+    "pos": 1,
+    "tag": "#GPJGVRLVL",
+    "th": 19
+   },
+   {
+    "name": "Mini Mabuela",
+    "pos": 20,
+    "tag": "#QCJYLC2V2",
+    "th": 17
+   },
+   {
+    "name": "Fang Feuer",
+    "pos": 24,
+    "tag": "#9CCGCV282",
+    "th": 16
+   },
+   {
+    "name": "Hulk",
+    "pos": 17,
+    "tag": "#2Y9U8PQ22",
+    "th": 17
+   },
+   {
+    "name": "⚡Centurion⚡",
+    "pos": 21,
+    "tag": "#2PCGYPVYY",
+    "th": 16
+   },
+   {
+    "name": "SmurfBueble",
+    "pos": 15,
+    "tag": "#8PCG2PY9",
+    "th": 18
+   },
+   {
+    "name": "FL • Rediza",
+    "pos": 3,
+    "tag": "#8YYYV28C",
+    "th": 19
+   },
+   {
+    "name": "ZebraLibelle",
+    "pos": 7,
+    "tag": "#20VGGCGG9",
+    "th": 19
+   },
+   {
+    "name": "FL • Klüsiii",
+    "pos": 5,
+    "tag": "#LG9GGUYRR",
+    "th": 19
+   },
+   {
+    "name": "Maxi_05 ||",
+    "pos": 10,
+    "tag": "#QVVPY0VVP",
+    "th": 19
+   },
+   {
+    "name": "Xiberger",
+    "pos": 2,
+    "tag": "#CYQC0GJC",
+    "th": 19
+   },
+   {
+    "name": "FL - A R E S",
+    "pos": 4,
+    "tag": "#PJP9QY9L8",
+    "th": 19
+   },
+   {
+    "name": "garantiert",
+    "pos": 8,
+    "tag": "#GGPG9JY2C",
+    "th": 19
+   },
+   {
+    "name": "FL • Lukons264™",
+    "pos": 16,
+    "tag": "#LGUC8PCPJ",
+    "th": 18
+   },
+   {
+    "name": "Nico",
+    "pos": 22,
+    "tag": "#LLQ2989",
+    "th": 16
+   },
+   {
+    "name": "Nxklas_S",
+    "pos": 12,
+    "tag": "#9V0PR8JUG",
+    "th": 18
+   },
+   {
+    "name": "FL - Jupiter",
+    "pos": 6,
+    "tag": "#L8QPY9QPV",
+    "th": 19
+   }
+  ],
+  "name": "Beta-Beeren",
+  "stars": 0,
+  "tag": "#2LQJP2L0P"
+ },
+ "end": "20261127T192733.000Z",
+ "opponent": {
+  "destruction": 0.0,
+  "members": [
+   {
+    "name": "Floking",
+    "pos": 6,
+    "tag": "#2YUU0U0Q9",
+    "th": 19
+   },
+   {
+    "name": "cuni",
+    "pos": 2,
+    "tag": "#9CPL2YUQU",
+    "th": 19
+   },
+   {
+    "name": "Marvin",
+    "pos": 5,
+    "tag": "#LJ9LQUYR",
+    "th": 19
+   },
+   {
+    "name": "Anja",
+    "pos": 17,
+    "tag": "#LG2JVJV2Y",
+    "th": 17
+   },
+   {
+    "name": "Luna",
+    "pos": 18,
+    "tag": "#Q080GQQCC",
+    "th": 17
+   },
+   {
+    "name": "✌Waldi✌",
+    "pos": 10,
+    "tag": "#8JVUGR90L",
+    "th": 19
+   },
+   {
+    "name": "Dave der 3.",
+    "pos": 19,
+    "tag": "#LG08R9YVG",
+    "th": 16
+   },
+   {
+    "name": "daniel",
+    "pos": 16,
+    "tag": "#LVUVYJPC9",
+    "th": 17
+   },
+   {
+    "name": "QueenV",
+    "pos": 13,
+    "tag": "#2L0VJV0VP",
+    "th": 18
+   },
+   {
+    "name": "Waldi✌",
+    "pos": 9,
+    "tag": "#LLURV098",
+    "th": 19
+   },
+   {
+    "name": "Mini-Lennart rp",
+    "pos": 25,
+    "tag": "#GJGUQRL2Q",
+    "th": 13
+   },
+   {
+    "name": "wawdhumpfe",
+    "pos": 24,
+    "tag": "#YQ9UL8Q9Q",
+    "th": 15
+   },
+   {
+    "name": "Little Anjoy",
+    "pos": 21,
+    "tag": "#QP00PVC80",
+    "th": 16
+   },
+   {
+    "name": "Dave der 1.",
+    "pos": 15,
+    "tag": "#20VJ2PLJV",
+    "th": 18
+   },
+   {
+    "name": "Chui",
+    "pos": 20,
+    "tag": "#Q99RQCUGC",
+    "th": 16
+   },
+   {
+    "name": "Anjoy",
+    "pos": 3,
+    "tag": "#2PVG0V0JR",
+    "th": 19
+   },
+   {
+    "name": "Prinz Tobi :)",
+    "pos": 4,
+    "tag": "#99V2QV8PL",
+    "th": 19
+   },
+   {
+    "name": "Athene",
+    "pos": 7,
+    "tag": "#YYPC8QY2P",
+    "th": 19
+   },
+   {
+    "name": "micha",
+    "pos": 1,
+    "tag": "#2YV08PJG",
+    "th": 19
+   },
+   {
+    "name": "Waldi",
+    "pos": 11,
+    "tag": "#YCRYVGYUV",
+    "th": 19
+   },
+   {
+    "name": "simop",
+    "pos": 12,
+    "tag": "#P29LGQU09",
+    "th": 18
+   },
+   {
+    "name": "Anjoy 2.0",
+    "pos": 14,
+    "tag": "#YYJJ090L9",
+    "th": 18
+   },
+   {
+    "name": "Hano",
+    "pos": 22,
+    "tag": "#R0RJR9VJC",
+    "th": 15
+   },
+   {
+    "name": "Anjoy 16",
+    "pos": 23,
+    "tag": "#QLJYVYQU2",
+    "th": 15
+   },
+   {
+    "name": "Faiz Ahmad",
+    "pos": 8,
+    "tag": "#LLG9J08J0",
+    "th": 19
+   }
+  ],
+  "name": "Freunde",
+  "stars": 0,
+  "tag": "#2LRYPQRLC"
+ },
+ "start": "20261126T192733.000Z",
+ "state": "inWar",
+ "teamSize": 25,
+ "type": "krieg"
+}

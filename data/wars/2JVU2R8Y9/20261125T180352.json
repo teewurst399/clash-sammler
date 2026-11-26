@@ -153,11 +153,132 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#9JCUVQ08",
+   "ath": 19,
+   "d": "#2R0VPGCJ",
+   "dth": 19,
+   "dur": 171,
+   "o": 15,
+   "p": 72,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#2L82PQ2JU",
+   "ath": 19,
+   "d": "#LL2RV98QJ",
+   "dth": 18,
+   "dur": 132,
+   "o": 16,
+   "p": 88,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#GQ92Y99YV",
+   "ath": 19,
+   "d": "#2L82PQ2JU",
+   "dth": 19,
+   "dur": 110,
+   "o": 17,
+   "p": 66,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#YU908JR9C",
+   "ath": 19,
+   "d": "#JG2Y2V90",
+   "dth": 19,
+   "dur": 180,
+   "o": 18,
+   "p": 99,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#YU908JR9C",
+   "ath": 19,
+   "d": "#CQVJLL09",
+   "dth": 19,
+   "dur": 115,
+   "o": 19,
+   "p": 66,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#GQ92Y99YV",
+   "ath": 19,
+   "d": "#9RPGVV0U",
+   "dth": 19,
+   "dur": 127,
+   "o": 20,
+   "p": 78,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#PC8G08GU",
+   "ath": 19,
+   "d": "#Q8LVJL0R8",
+   "dth": 19,
+   "dur": 145,
+   "o": 21,
+   "p": 87,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#QL2Q9RV0",
+   "ath": 19,
+   "d": "#2UYUY8YP",
+   "dth": 19,
+   "dur": 116,
+   "o": 22,
+   "p": 86,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#8L2C9J8RV",
+   "ath": 19,
+   "d": "#2QYGPY0CG",
+   "dth": 19,
+   "dur": 140,
+   "o": 23,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#2U20C2VQU",
+   "ath": 19,
+   "d": "#QL2Q9RV0",
+   "dth": 19,
+   "dur": 127,
+   "o": 24,
+   "p": 71,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#80Q9UP2QP",
+   "ath": 19,
+   "d": "#QL2Q9RV0",
+   "dth": 19,
+   "dur": 165,
+   "o": 25,
+   "p": 86,
+   "s": 2,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 15.96,
+  "destruction": 38.64,
   "members": [
    {
     "name": "R A B B I",
@@ -311,12 +432,12 @@
    }
   ],
   "name": "HolzFrucht",
-  "stars": 11,
+  "stars": 25,
   "tag": "#2JVU2R8Y9"
  },
  "end": "20261127T170352.000Z",
  "opponent": {
-  "destruction": 36.2,
+  "destruction": 46.64,
   "members": [
    {
     "name": "BeirRun",
@@ -470,7 +591,7 @@
    }
   ],
   "name": "GUARDIANS",
-  "stars": 25,
+  "stars": 31,
   "tag": "#2Y0JG2YG"
  },
  "start": "20261126T170352.000Z",

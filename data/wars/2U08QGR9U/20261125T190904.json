@@ -1,8 +1,119 @@
 {
- "attacks": [],
+ "attacks": [
+  {
+   "a": "#G0RGPCL9C",
+   "ath": 19,
+   "d": "#8GRVQVVCJ",
+   "dth": 19,
+   "dur": 162,
+   "o": 1,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#88L9Y0L98",
+   "ath": 19,
+   "d": "#L0JLPRJ8Y",
+   "dth": 19,
+   "dur": 108,
+   "o": 2,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#88L9Y0L98",
+   "ath": 19,
+   "d": "#GYU2Y00RC",
+   "dth": 19,
+   "dur": 156,
+   "o": 3,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#CL888QQJ",
+   "ath": 19,
+   "d": "#GR9QCPVC",
+   "dth": 19,
+   "dur": 180,
+   "o": 4,
+   "p": 99,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#CL888QQJ",
+   "ath": 19,
+   "d": "#292PCPYQU",
+   "dth": 19,
+   "dur": 180,
+   "o": 5,
+   "p": 97,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#2P0VPV2YQ",
+   "ath": 19,
+   "d": "#2QCYU8C2G",
+   "dth": 19,
+   "dur": 180,
+   "o": 6,
+   "p": 79,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#22V0Q9GJC",
+   "ath": 19,
+   "d": "#8YVGY8RU0",
+   "dth": 19,
+   "dur": 124,
+   "o": 7,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#2P0VPV2YQ",
+   "ath": 19,
+   "d": "#2U9PPU2P9",
+   "dth": 19,
+   "dur": 174,
+   "o": 8,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#22V0Q9GJC",
+   "ath": 19,
+   "d": "#2QYP00GY",
+   "dth": 19,
+   "dur": 156,
+   "o": 9,
+   "p": 89,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#GR9QCPVC",
+   "ath": 19,
+   "d": "#YJR2CU8R",
+   "dth": 19,
+   "dur": 180,
+   "o": 10,
+   "p": 99,
+   "s": 2,
+   "side": "clan"
+  }
+ ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 0.0,
+  "destruction": 6.4,
   "members": [
    {
     "name": "FL • Kaiser",
@@ -276,12 +387,12 @@
    }
   ],
   "name": "Obstgarten",
-  "stars": 0,
+  "stars": 7,
   "tag": "#2U08QGR9U"
  },
  "end": "20261127T180904.000Z",
  "opponent": {
-  "destruction": 0.0,
+  "destruction": 15.0,
   "members": [
    {
     "name": "ســـمـــســـم",
@@ -555,7 +666,7 @@
    }
   ],
   "name": "ابطال العالم",
-  "stars": 0,
+  "stars": 18,
   "tag": "#209PGY8GP"
  },
  "start": "20261126T180904.000Z",

@@ -1099,11 +1099,253 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#GJ09V9VC9",
+   "ath": 17,
+   "d": "#Y98P2020",
+   "dth": 19,
+   "dur": 91,
+   "o": 101,
+   "p": 72,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#8UPR9JCQV",
+   "ath": 19,
+   "d": "#8C880C92",
+   "dth": 19,
+   "dur": 126,
+   "o": 102,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#GJ09V9VC9",
+   "ath": 17,
+   "d": "#LY909YPL",
+   "dth": 19,
+   "dur": 180,
+   "o": 103,
+   "p": 98,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#8UPR9JCQV",
+   "ath": 19,
+   "d": "#LQ2QGP9V",
+   "dth": 19,
+   "dur": 149,
+   "o": 104,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#2U2QQUURP",
+   "ath": 19,
+   "d": "#92QYVL0V",
+   "dth": 19,
+   "dur": 125,
+   "o": 105,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#92QYVL0V",
+   "ath": 19,
+   "d": "#LY909YPL",
+   "dth": 19,
+   "dur": 180,
+   "o": 106,
+   "p": 87,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#2U2QQUURP",
+   "ath": 19,
+   "d": "#800QL0PV",
+   "dth": 19,
+   "dur": 116,
+   "o": 107,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#29C82RPGU",
+   "ath": 19,
+   "d": "#Y98P2020",
+   "dth": 19,
+   "dur": 116,
+   "o": 108,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#2YQC9GU20",
+   "ath": 19,
+   "d": "#LY909YPL",
+   "dth": 19,
+   "dur": 130,
+   "o": 109,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#Y2C8PJVCR",
+   "ath": 19,
+   "d": "#PPJ9CU02",
+   "dth": 19,
+   "dur": 112,
+   "o": 110,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#P9GYGLGRJ",
+   "ath": 19,
+   "d": "#G8GQ8G00C",
+   "dth": 18,
+   "dur": 105,
+   "o": 111,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#Y2C8PJVCR",
+   "ath": 19,
+   "d": "#29QP2GVUQ",
+   "dth": 19,
+   "dur": 163,
+   "o": 112,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#P9GYGLGRJ",
+   "ath": 19,
+   "d": "#2GVYQGP98",
+   "dth": 18,
+   "dur": 114,
+   "o": 113,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#PPJ9CU02",
+   "ath": 19,
+   "d": "#8UPR9JCQV",
+   "dth": 19,
+   "dur": 180,
+   "o": 114,
+   "p": 83,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#9VUVUYJR",
+   "ath": 19,
+   "d": "#L8L9YC9R",
+   "dth": 18,
+   "dur": 127,
+   "o": 115,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#9VUVUYJR",
+   "ath": 19,
+   "d": "#RP0QCVLU",
+   "dth": 18,
+   "dur": 130,
+   "o": 116,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#29QP2GVUQ",
+   "ath": 19,
+   "d": "#8UPR9JCQV",
+   "dth": 19,
+   "dur": 106,
+   "o": 117,
+   "p": 78,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#LJULJ2UJ",
+   "ath": 19,
+   "d": "#GJ09V9VC9",
+   "dth": 17,
+   "dur": 139,
+   "o": 118,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#LJULJ2UJ",
+   "ath": 19,
+   "d": "#PRJV0J9YC",
+   "dth": 14,
+   "dur": 106,
+   "o": 119,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#YVYJRVPCG",
+   "ath": 19,
+   "d": "#CYP2LYCY",
+   "dth": 19,
+   "dur": 3,
+   "o": 120,
+   "p": 8,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#YVYJRVPCG",
+   "ath": 19,
+   "d": "#JCG9LQGU",
+   "dth": 19,
+   "dur": 4,
+   "o": 121,
+   "p": 11,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#YVLG9PQC",
+   "ath": 19,
+   "d": "#8UPR9JCQV",
+   "dth": 19,
+   "dur": 103,
+   "o": 122,
+   "p": 68,
+   "s": 2,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 76.45,
+  "destruction": 100.0,
   "members": [
    {
     "name": "Gsälzbrot",
@@ -1347,12 +1589,12 @@
    }
   ],
   "name": "headstart",
-  "stars": 90,
+  "stars": 120,
   "tag": "#RLQC8QQY"
  },
  "end": "20261126T204406.000Z",
  "opponent": {
-  "destruction": 99.475,
+  "destruction": 99.7,
   "members": [
    {
     "name": "CoCscaro",
@@ -1596,7 +1838,7 @@
    }
   ],
   "name": "Hystéria-_House",
-  "stars": 117,
+  "stars": 119,
   "tag": "#C0UJRLR0"
  },
  "start": "20261125T204406.000Z",

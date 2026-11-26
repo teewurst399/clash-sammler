@@ -1649,11 +1649,110 @@
    "p": 78,
    "s": 2,
    "side": "clan"
+  },
+  {
+   "a": "#20YYVGJQR",
+   "ath": 19,
+   "d": "#CU02LYGL",
+   "dth": 19,
+   "dur": 25,
+   "o": 151,
+   "p": 29,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#20YYVGJQR",
+   "ath": 19,
+   "d": "#C0V8VVV0",
+   "dth": 19,
+   "dur": 13,
+   "o": 152,
+   "p": 15,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#2C8VL2R",
+   "ath": 19,
+   "d": "#9Y00CVGY",
+   "dth": 19,
+   "dur": 136,
+   "o": 153,
+   "p": 97,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#PQCULPU90",
+   "ath": 19,
+   "d": "#9Y00CVGY",
+   "dth": 19,
+   "dur": 145,
+   "o": 154,
+   "p": 77,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#YJV9VC9PY",
+   "ath": 19,
+   "d": "#29R0CYR2U",
+   "dth": 19,
+   "dur": 180,
+   "o": 155,
+   "p": 96,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#28UGGPGCC",
+   "ath": 19,
+   "d": "#98899CP2P",
+   "dth": 19,
+   "dur": 20,
+   "o": 156,
+   "p": 31,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#YJV9VC9PY",
+   "ath": 19,
+   "d": "#PUG2G9GJJ",
+   "dth": 19,
+   "dur": 146,
+   "o": 157,
+   "p": 94,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#28UGGPGCC",
+   "ath": 19,
+   "d": "#9209J8R9L",
+   "dth": 19,
+   "dur": 24,
+   "o": 158,
+   "p": 39,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#8020G0PYC",
+   "ath": 19,
+   "d": "#9Y00CVGY",
+   "dth": 19,
+   "dur": 180,
+   "o": 159,
+   "p": 95,
+   "s": 2,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 98.46667,
+  "destruction": 98.933334,
   "members": [
    {
     "name": "MOZ.ART",
@@ -2210,7 +2309,7 @@
   "tag": "#29LRRULU"
  },
  "start": "20261125T190240.000Z",
- "state": "inWar",
+ "state": "warEnded",
  "teamSize": 45,
  "type": "krieg"
 }

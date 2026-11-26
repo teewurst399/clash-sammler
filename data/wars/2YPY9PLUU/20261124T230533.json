@@ -1110,6 +1110,138 @@
    "p": 85,
    "s": 2,
    "side": "gegner"
+  },
+  {
+   "a": "#C2Q9LRVJ",
+   "ath": 19,
+   "d": "#2QV0QG8CU",
+   "dth": 19,
+   "dur": 154,
+   "o": 102,
+   "p": 87,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#C2Q9LRVJ",
+   "ath": 19,
+   "d": "#UGUP0YG2",
+   "dth": 19,
+   "dur": 108,
+   "o": 103,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#LCGLUJC9",
+   "ath": 19,
+   "d": "#2QV0QG8CU",
+   "dth": 19,
+   "dur": 119,
+   "o": 104,
+   "p": 65,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#LCGLUJC9",
+   "ath": 19,
+   "d": "#LJPCRGPPG",
+   "dth": 19,
+   "dur": 180,
+   "o": 105,
+   "p": 81,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#9LRJCQRQQ",
+   "ath": 19,
+   "d": "#2QV0QG8CU",
+   "dth": 19,
+   "dur": 117,
+   "o": 106,
+   "p": 75,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#9LRJCQRQQ",
+   "ath": 19,
+   "d": "#LJPCRGPPG",
+   "dth": 19,
+   "dur": 108,
+   "o": 107,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#9QRV2GR",
+   "ath": 19,
+   "d": "#20J9LPQRU",
+   "dth": 19,
+   "dur": 17,
+   "o": 108,
+   "p": 5,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#9QRV2GR",
+   "ath": 19,
+   "d": "#9JL9G92CY",
+   "dth": 19,
+   "dur": 11,
+   "o": 109,
+   "p": 6,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#2Q98JQ0R0",
+   "ath": 19,
+   "d": "#2QV0QG8CU",
+   "dth": 19,
+   "dur": 78,
+   "o": 110,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#2Q98JQ0R0",
+   "ath": 19,
+   "d": "#22YYQRQV9",
+   "dth": 19,
+   "dur": 92,
+   "o": 111,
+   "p": 84,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#V228CVQ8",
+   "ath": 19,
+   "d": "#9V20J9PJ9",
+   "dth": 19,
+   "dur": 125,
+   "o": 112,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#22G0U00VC",
+   "ath": 19,
+   "d": "#22YYQRQV9",
+   "dth": 19,
+   "dur": 110,
+   "o": 113,
+   "p": 69,
+   "s": 2,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -1333,7 +1465,7 @@
  },
  "end": "20261126T220533.000Z",
  "opponent": {
-  "destruction": 98.97143,
+  "destruction": 99.85714,
   "members": [
    {
     "name": "CE BakeThePro",
@@ -1547,7 +1679,7 @@
    }
   ],
   "name": "Cyprus Elites",
-  "stars": 100,
+  "stars": 104,
   "tag": "#8L2PQJUR"
  },
  "start": "20261125T220533.000Z",

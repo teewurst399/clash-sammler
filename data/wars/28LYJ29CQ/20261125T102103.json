@@ -967,11 +967,110 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#8QQ8U9P88",
+   "ath": 19,
+   "d": "#LQQPG2LVR",
+   "dth": 19,
+   "dur": 114,
+   "o": 89,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#PQ9GVJ9GJ",
+   "ath": 19,
+   "d": "#Q8YY2CGC8",
+   "dth": 19,
+   "dur": 156,
+   "o": 90,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#PQ9GVJ9GJ",
+   "ath": 19,
+   "d": "#8V29GYUR9",
+   "dth": 19,
+   "dur": 170,
+   "o": 91,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#8QQ8U9P88",
+   "ath": 19,
+   "d": "#29RVCVJPU",
+   "dth": 19,
+   "dur": 144,
+   "o": 92,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#2RYJGPJ8",
+   "ath": 19,
+   "d": "#8GLV2Y99Q",
+   "dth": 19,
+   "dur": 128,
+   "o": 93,
+   "p": 93,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#P92VRLYRC",
+   "ath": 19,
+   "d": "#8GLV2Y99Q",
+   "dth": 19,
+   "dur": 164,
+   "o": 94,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#2CQCUYGU",
+   "ath": 19,
+   "d": "#9GVRPL920",
+   "dth": 19,
+   "dur": 124,
+   "o": 95,
+   "p": 87,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#PUVPC2V2C",
+   "ath": 19,
+   "d": "#2PPRU8CVR",
+   "dth": 19,
+   "dur": 7,
+   "o": 96,
+   "p": 10,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#PUVPC2V2C",
+   "ath": 19,
+   "d": "#GY98RUQQ",
+   "dth": 19,
+   "dur": 4,
+   "o": 97,
+   "p": 12,
+   "s": 1,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 92.666664,
+  "destruction": 100.0,
   "members": [
    {
     "name": "FL • SKINNYJIMM",
@@ -1245,7 +1344,7 @@
    }
   ],
   "name": "FruchtLabor",
-  "stars": 124,
+  "stars": 135,
   "tag": "#28LYJ29CQ"
  },
  "end": "20261127T092103.000Z",

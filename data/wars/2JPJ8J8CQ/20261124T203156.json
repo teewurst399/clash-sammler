@@ -1319,6 +1319,270 @@
    "p": 18,
    "s": 1,
    "side": "clan"
+  },
+  {
+   "a": "#L9P8RRQ2",
+   "ath": 19,
+   "d": "#Q90QJVPQC",
+   "dth": 19,
+   "dur": 180,
+   "o": 121,
+   "p": 76,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#YYVPRPY8",
+   "ath": 19,
+   "d": "#J00G9GC",
+   "dth": 19,
+   "dur": 140,
+   "o": 122,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#YYVPRPY8",
+   "ath": 19,
+   "d": "#Q90QJVPQC",
+   "dth": 19,
+   "dur": 180,
+   "o": 123,
+   "p": 97,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#QLU90G9C",
+   "ath": 19,
+   "d": "#VVYJ9YLQ",
+   "dth": 19,
+   "dur": 112,
+   "o": 124,
+   "p": 73,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#QLU90G9C",
+   "ath": 19,
+   "d": "#Q90QJVPQC",
+   "dth": 19,
+   "dur": 120,
+   "o": 125,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#RL9JYPP2",
+   "ath": 19,
+   "d": "#QQ9YG8JP",
+   "dth": 19,
+   "dur": 77,
+   "o": 126,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#JGQ0Q9J8",
+   "ath": 19,
+   "d": "#CY9YPYP",
+   "dth": 19,
+   "dur": 158,
+   "o": 127,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#22V9GUQ9Y",
+   "ath": 19,
+   "d": "#9J0VYP9QL",
+   "dth": 19,
+   "dur": 12,
+   "o": 128,
+   "p": 20,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#22V9GUQ9Y",
+   "ath": 19,
+   "d": "#2YYCVCCP",
+   "dth": 19,
+   "dur": 44,
+   "o": 129,
+   "p": 50,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#JGQ0Q9J8",
+   "ath": 19,
+   "d": "#VVYJ9YLQ",
+   "dth": 19,
+   "dur": 163,
+   "o": 130,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#RL9JYPP2",
+   "ath": 19,
+   "d": "#2RV0R0JP9",
+   "dth": 19,
+   "dur": 102,
+   "o": 131,
+   "p": 96,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#28PP0G99",
+   "ath": 19,
+   "d": "#Q9YP09PJY",
+   "dth": 19,
+   "dur": 26,
+   "o": 132,
+   "p": 36,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#8QY08ULP",
+   "ath": 19,
+   "d": "#2YYCVCCP",
+   "dth": 19,
+   "dur": 96,
+   "o": 133,
+   "p": 61,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#8JRJP8JV",
+   "ath": 19,
+   "d": "#9J0VYP9QL",
+   "dth": 19,
+   "dur": 100,
+   "o": 134,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#28PP0G99",
+   "ath": 19,
+   "d": "#LUP90GP9",
+   "dth": 19,
+   "dur": 19,
+   "o": 135,
+   "p": 16,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#8JCUCLLPG",
+   "ath": 19,
+   "d": "#UJR8QRCY",
+   "dth": 19,
+   "dur": 3,
+   "o": 136,
+   "p": 15,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#8JCUCLLPG",
+   "ath": 19,
+   "d": "#G892YC2GP",
+   "dth": 19,
+   "dur": 2,
+   "o": 137,
+   "p": 10,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#2CCYJQLYR",
+   "ath": 19,
+   "d": "#UJR8QRCY",
+   "dth": 19,
+   "dur": 2,
+   "o": 138,
+   "p": 14,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#2CCYJQLYR",
+   "ath": 19,
+   "d": "#G892YC2GP",
+   "dth": 19,
+   "dur": 3,
+   "o": 139,
+   "p": 15,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#QV0V9JU2",
+   "ath": 19,
+   "d": "#Q9YP09PJY",
+   "dth": 19,
+   "dur": 54,
+   "o": 140,
+   "p": 43,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#QV0V9JU2",
+   "ath": 19,
+   "d": "#LUP90GP9",
+   "dth": 19,
+   "dur": 28,
+   "o": 141,
+   "p": 29,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#8QY08ULP",
+   "ath": 19,
+   "d": "#9J0VYP9QL",
+   "dth": 19,
+   "dur": 88,
+   "o": 142,
+   "p": 58,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#PG90QL9RQ",
+   "ath": 19,
+   "d": "#9J0VYP9QL",
+   "dth": 19,
+   "dur": 25,
+   "o": 143,
+   "p": 18,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#PG90QL9RQ",
+   "ath": 19,
+   "d": "#2YYCVCCP",
+   "dth": 19,
+   "dur": 33,
+   "o": 144,
+   "p": 33,
+   "s": 1,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
@@ -1572,7 +1836,7 @@
  },
  "end": "20261126T193156.000Z",
  "opponent": {
-  "destruction": 99.55,
+  "destruction": 100.0,
   "members": [
    {
     "name": "Bhors23",
@@ -1816,11 +2080,11 @@
    }
   ],
   "name": "House of Elites",
-  "stars": 118,
+  "stars": 120,
   "tag": "#2YLR0J09Y"
  },
  "start": "20261125T193156.000Z",
- "state": "inWar",
+ "state": "warEnded",
  "teamSize": 40,
  "type": "krieg"
 }

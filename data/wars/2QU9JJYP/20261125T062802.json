@@ -1066,11 +1066,55 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#8R9UQGJCU",
+   "ath": 19,
+   "d": "#9UC0Y0V2R",
+   "dth": 19,
+   "dur": 138,
+   "o": 98,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#LQYRPRJP",
+   "ath": 19,
+   "d": "#9PYGU8Y0J",
+   "dth": 19,
+   "dur": 143,
+   "o": 99,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#8R9UQGJCU",
+   "ath": 19,
+   "d": "#9VP8UCC9",
+   "dth": 19,
+   "dur": 180,
+   "o": 100,
+   "p": 98,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#Q9LCPJ0PR",
+   "ath": 19,
+   "d": "#GQV8GP8R",
+   "dth": 19,
+   "dur": 96,
+   "o": 101,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 57.77778,
+  "destruction": 62.22222,
   "members": [
    {
     "name": "Ben",
@@ -1344,12 +1388,12 @@
    }
   ],
   "name": "Confusion",
-  "stars": 78,
+  "stars": 84,
   "tag": "#2QU9JJYP"
  },
  "end": "20261127T052802.000Z",
  "opponent": {
-  "destruction": 98.77778,
+  "destruction": 99.48889,
   "members": [
    {
     "name": "⭐️Pinoy⭐️Bogz j",
@@ -1623,7 +1667,7 @@
    }
   ],
   "name": "ExecutiveGamers",
-  "stars": 132,
+  "stars": 133,
   "tag": "#2PJY90CCY"
  },
  "start": "20261126T052802.000Z",

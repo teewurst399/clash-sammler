@@ -1985,7 +1985,7 @@
   "tag": "#2RRVQY29J"
  },
  "start": "20261125T190006.000Z",
- "state": "inWar",
+ "state": "warEnded",
  "teamSize": 40,
  "type": "krieg"
 }
