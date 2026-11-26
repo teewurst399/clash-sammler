@@ -1451,11 +1451,66 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#2V9L0G8J",
+   "ath": 19,
+   "d": "#9LCVPRVP0",
+   "dth": 19,
+   "dur": 131,
+   "o": 133,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#9R2GCULGP",
+   "ath": 19,
+   "d": "#9VYJ8VP0Q",
+   "dth": 19,
+   "dur": 127,
+   "o": 134,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#9R2GCULGP",
+   "ath": 19,
+   "d": "#J0VRRJ0P",
+   "dth": 19,
+   "dur": 120,
+   "o": 135,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#PQCULPU90",
+   "ath": 19,
+   "d": "#GR2LYJVU0",
+   "dth": 19,
+   "dur": 154,
+   "o": 136,
+   "p": 81,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#YGVG8C2P0",
+   "ath": 19,
+   "d": "#CLPVP2PY",
+   "dth": 19,
+   "dur": 180,
+   "o": 137,
+   "p": 76,
+   "s": 2,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 93.577774,
+  "destruction": 98.08889,
   "members": [
    {
     "name": "MOZ.ART",
@@ -1729,7 +1784,7 @@
    }
   ],
   "name": "Firstzone",
-  "stars": 122,
+  "stars": 129,
   "tag": "#2YQQ80QGL"
  },
  "end": "20261126T190240.000Z",

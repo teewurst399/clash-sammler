@@ -1,0 +1,392 @@
+{
+ "attacks": [
+  {
+   "a": "#28R92R8P2",
+   "ath": 19,
+   "d": "#9JL89RPL0",
+   "dth": 19,
+   "dur": 180,
+   "o": 1,
+   "p": 97,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#28R92R8P2",
+   "ath": 19,
+   "d": "#UYVY92PG",
+   "dth": 19,
+   "dur": 180,
+   "o": 2,
+   "p": 98,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#Q9UJPPQQ2",
+   "ath": 19,
+   "d": "#YU908JR9C",
+   "dth": 19,
+   "dur": 142,
+   "o": 3,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#2L82PQ2JU",
+   "ath": 19,
+   "d": "#PCVVJY9GQ",
+   "dth": 19,
+   "dur": 115,
+   "o": 4,
+   "p": 75,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#Q9UJPPQQ2",
+   "ath": 19,
+   "d": "#2U20C2VQU",
+   "dth": 19,
+   "dur": 154,
+   "o": 5,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#Q9QGUVGVR",
+   "ath": 19,
+   "d": "#QL0QPUJQ",
+   "dth": 19,
+   "dur": 148,
+   "o": 6,
+   "p": 99,
+   "s": 2,
+   "side": "clan"
+  }
+ ],
+ "attacksPerMember": 2,
+ "clan": {
+  "destruction": 3.96,
+  "members": [
+   {
+    "name": "R A B B I",
+    "pos": 13,
+    "tag": "#L8QQ9J9GL",
+    "th": 19
+   },
+   {
+    "name": "乇ﾚﾉｲ乇⚡ᄊﾑ尺ズЦ丂",
+    "pos": 3,
+    "tag": "#202RU8GJG",
+    "th": 19
+   },
+   {
+    "name": "Laiebi",
+    "pos": 20,
+    "tag": "#2UYUY8YP",
+    "th": 19
+   },
+   {
+    "name": "AGENT P COULSON",
+    "pos": 11,
+    "tag": "#2U20C2VQU",
+    "th": 19
+   },
+   {
+    "name": "Bilbo",
+    "pos": 25,
+    "tag": "#LL2RV98QJ",
+    "th": 18
+   },
+   {
+    "name": "Weddi",
+    "pos": 10,
+    "tag": "#UJ2LLJL8",
+    "th": 19
+   },
+   {
+    "name": "BlackMoon",
+    "pos": 7,
+    "tag": "#J8J99VL",
+    "th": 19
+   },
+   {
+    "name": "Joejoejoe",
+    "pos": 14,
+    "tag": "#LG882GJLY",
+    "th": 19
+   },
+   {
+    "name": "DuckTheBarbar",
+    "pos": 4,
+    "tag": "#9JCUVQ08",
+    "th": 19
+   },
+   {
+    "name": "EiS❄️Tee",
+    "pos": 9,
+    "tag": "#90P8LL2P",
+    "th": 19
+   },
+   {
+    "name": "Bowler",
+    "pos": 23,
+    "tag": "#PCVVJY9GQ",
+    "th": 19
+   },
+   {
+    "name": "Master X",
+    "pos": 2,
+    "tag": "#UYVY92PG",
+    "th": 19
+   },
+   {
+    "name": "Benni",
+    "pos": 22,
+    "tag": "#PPVQVRPQY",
+    "th": 19
+   },
+   {
+    "name": "FL • sebi〽️",
+    "pos": 24,
+    "tag": "#8JJYL2JRP",
+    "th": 18
+   },
+   {
+    "name": "Belastend",
+    "pos": 5,
+    "tag": "#YU908JR9C",
+    "th": 19
+   },
+   {
+    "name": "AGENT LEO FITZ",
+    "pos": 15,
+    "tag": "#80Q9UP2QP",
+    "th": 19
+   },
+   {
+    "name": "Sniper_1",
+    "pos": 19,
+    "tag": "#29G922VYR",
+    "th": 19
+   },
+   {
+    "name": "B.A.D 囧 B.O.Y",
+    "pos": 21,
+    "tag": "#22J0YRRRP",
+    "th": 19
+   },
+   {
+    "name": "lord ernst",
+    "pos": 6,
+    "tag": "#Q9QGUVGVR",
+    "th": 19
+   },
+   {
+    "name": "Tangerine Dream",
+    "pos": 12,
+    "tag": "#GQ92Y99YV",
+    "th": 19
+   },
+   {
+    "name": "Legeleth",
+    "pos": 16,
+    "tag": "#CGRUP2R0",
+    "th": 19
+   },
+   {
+    "name": "RazorWolf",
+    "pos": 18,
+    "tag": "#QPJ9GG8LR",
+    "th": 19
+   },
+   {
+    "name": "RazorHawk",
+    "pos": 1,
+    "tag": "#9JL89RPL0",
+    "th": 19
+   },
+   {
+    "name": "Agent J Simmons",
+    "pos": 17,
+    "tag": "#Q8LVJL0R8",
+    "th": 19
+   },
+   {
+    "name": "Nico 〰️",
+    "pos": 8,
+    "tag": "#8L2C9J8RV",
+    "th": 19
+   }
+  ],
+  "name": "HolzFrucht",
+  "stars": 2,
+  "tag": "#2JVU2R8Y9"
+ },
+ "end": "20261127T170352.000Z",
+ "opponent": {
+  "destruction": 18.8,
+  "members": [
+   {
+    "name": "BeirRun",
+    "pos": 10,
+    "tag": "#CJC2LJLQ",
+    "th": 19
+   },
+   {
+    "name": "Relentless HHT",
+    "pos": 9,
+    "tag": "#PC8G08GU",
+    "th": 19
+   },
+   {
+    "name": "Chief",
+    "pos": 24,
+    "tag": "#2L82PQ2JU",
+    "th": 19
+   },
+   {
+    "name": "Grant$haffer",
+    "pos": 13,
+    "tag": "#C8P9YUJ2",
+    "th": 19
+   },
+   {
+    "name": "JD",
+    "pos": 3,
+    "tag": "#JG2Y2V90",
+    "th": 19
+   },
+   {
+    "name": "chaotic",
+    "pos": 17,
+    "tag": "#GRPQUVY9",
+    "th": 19
+   },
+   {
+    "name": "F R Sakib",
+    "pos": 19,
+    "tag": "#Y9CYLYUY0",
+    "th": 19
+   },
+   {
+    "name": "Moonlightgram",
+    "pos": 20,
+    "tag": "#QL2Q9RV0",
+    "th": 19
+   },
+   {
+    "name": "Alex The Ripper",
+    "pos": 6,
+    "tag": "#QL0QPUJQ",
+    "th": 19
+   },
+   {
+    "name": "nate",
+    "pos": 16,
+    "tag": "#2CVC0RU20",
+    "th": 19
+   },
+   {
+    "name": "jumpman",
+    "pos": 22,
+    "tag": "#9RPGVV0U",
+    "th": 19
+   },
+   {
+    "name": "King Shoe",
+    "pos": 12,
+    "tag": "#P0GYPLYC",
+    "th": 19
+   },
+   {
+    "name": "ANIMAL-MOTHER",
+    "pos": 7,
+    "tag": "#8CPR2R9",
+    "th": 19
+   },
+   {
+    "name": "AndyVRossi46",
+    "pos": 18,
+    "tag": "#Q9UJPPQQ2",
+    "th": 19
+   },
+   {
+    "name": "EAGLE Warrior 2",
+    "pos": 23,
+    "tag": "#9VV9U2G2",
+    "th": 19
+   },
+   {
+    "name": "Just Rag!",
+    "pos": 2,
+    "tag": "#28R92R8P2",
+    "th": 19
+   },
+   {
+    "name": "Shadow Knight",
+    "pos": 14,
+    "tag": "#LCYJ2JVGY",
+    "th": 19
+   },
+   {
+    "name": "DragonSlayer",
+    "pos": 1,
+    "tag": "#CQVJLL09",
+    "th": 19
+   },
+   {
+    "name": "Black Plague",
+    "pos": 21,
+    "tag": "#8RC9CUCJL",
+    "th": 19
+   },
+   {
+    "name": "Uzi Noble",
+    "pos": 4,
+    "tag": "#2R0VPGCJ",
+    "th": 19
+   },
+   {
+    "name": "Karizma",
+    "pos": 5,
+    "tag": "#RQ9UPJ20",
+    "th": 19
+   },
+   {
+    "name": "xander",
+    "pos": 8,
+    "tag": "#2QYGPY0CG",
+    "th": 19
+   },
+   {
+    "name": "RAMPAGE",
+    "pos": 15,
+    "tag": "#209Y2RUG9",
+    "th": 19
+   },
+   {
+    "name": "Andy Rossi 4646",
+    "pos": 25,
+    "tag": "#QLQ02L8UG",
+    "th": 18
+   },
+   {
+    "name": "GAVEL KING CLAN",
+    "pos": 11,
+    "tag": "#8UGR9YURY",
+    "th": 19
+   }
+  ],
+  "name": "GUARDIANS",
+  "stars": 12,
+  "tag": "#2Y0JG2YG"
+ },
+ "start": "20261126T170352.000Z",
+ "state": "inWar",
+ "teamSize": 25,
+ "type": "krieg"
+}

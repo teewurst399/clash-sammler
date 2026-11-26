@@ -725,11 +725,77 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#Y9PU0RCGR",
+   "ath": 19,
+   "d": "#2JPRPVUU8",
+   "dth": 19,
+   "dur": 120,
+   "o": 67,
+   "p": 70,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#GCJ89QJRQ",
+   "ath": 14,
+   "d": "#9LUPPLYG0",
+   "dth": 14,
+   "dur": 141,
+   "o": 68,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#Y9PU0RCGR",
+   "ath": 19,
+   "d": "#9YCCCQ89G",
+   "dth": 18,
+   "dur": 128,
+   "o": 69,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#L2UG890Q",
+   "ath": 18,
+   "d": "#8L0QUYVJV",
+   "dth": 18,
+   "dur": 118,
+   "o": 70,
+   "p": 63,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#GCJ89QJRQ",
+   "ath": 14,
+   "d": "#8L0QUYVJV",
+   "dth": 18,
+   "dur": 111,
+   "o": 71,
+   "p": 39,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#9LUPPLYG0",
+   "ath": 14,
+   "d": "#R008C9URL",
+   "dth": 14,
+   "dur": 91,
+   "o": 72,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 97.8,
+  "destruction": 99.04,
   "members": [
    {
     "name": "28",
@@ -883,12 +949,12 @@
    }
   ],
   "name": "Sigmazone",
-  "stars": 70,
+  "stars": 73,
   "tag": "#2Q0UQQRUJ"
  },
  "end": "20261126T194038.000Z",
  "opponent": {
-  "destruction": 92.0,
+  "destruction": 96.0,
   "members": [
    {
     "name": "بحر الجروح",
@@ -1042,7 +1108,7 @@
    }
   ],
   "name": "الافعى القاتلة",
-  "stars": 69,
+  "stars": 72,
   "tag": "#L8U22Q9U"
  },
  "start": "20261125T194038.000Z",

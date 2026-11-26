@@ -813,11 +813,143 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#2YVQ90GL",
+   "ath": 19,
+   "d": "#YQRR828C",
+   "dth": 19,
+   "dur": 145,
+   "o": 75,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#8QU2V2Y",
+   "ath": 19,
+   "d": "#LVQ999YYL",
+   "dth": 19,
+   "dur": 148,
+   "o": 76,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#8QU2V2Y",
+   "ath": 19,
+   "d": "#8LY9VL2P",
+   "dth": 19,
+   "dur": 152,
+   "o": 77,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#GPY0LC9",
+   "ath": 19,
+   "d": "#L2UJQP9YJ",
+   "dth": 19,
+   "dur": 90,
+   "o": 78,
+   "p": 64,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#9LQ9V0LC",
+   "ath": 19,
+   "d": "#L2UJQP9YJ",
+   "dth": 19,
+   "dur": 176,
+   "o": 79,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#9LQ9V0LC",
+   "ath": 19,
+   "d": "#222RQJ8P",
+   "dth": 19,
+   "dur": 169,
+   "o": 80,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#JCUJJ2P0",
+   "ath": 19,
+   "d": "#GYLY92Y8",
+   "dth": 19,
+   "dur": 149,
+   "o": 81,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#8J9LVQLJJ",
+   "ath": 19,
+   "d": "#J9YJ9LVR",
+   "dth": 19,
+   "dur": 140,
+   "o": 82,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#8UC9C280U",
+   "ath": 19,
+   "d": "#Q8YY2CGC8",
+   "dth": 19,
+   "dur": 118,
+   "o": 83,
+   "p": 72,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#JCUJJ2P0",
+   "ath": 19,
+   "d": "#2PYY29U8Y",
+   "dth": 19,
+   "dur": 178,
+   "o": 84,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#8UC9C280U",
+   "ath": 19,
+   "d": "#2282UP2R",
+   "dth": 19,
+   "dur": 127,
+   "o": 85,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#8J9LVQLJJ",
+   "ath": 19,
+   "d": "#LCJ20G0JR",
+   "dth": 19,
+   "dur": 143,
+   "o": 86,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 70.13333,
+  "destruction": 88.22222,
   "members": [
    {
     "name": "FL • SKINNYJIMM",
@@ -1091,7 +1223,7 @@
    }
   ],
   "name": "FruchtLabor",
-  "stars": 92,
+  "stars": 118,
   "tag": "#28LYJ29CQ"
  },
  "end": "20261127T092103.000Z",

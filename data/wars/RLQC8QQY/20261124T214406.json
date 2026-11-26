@@ -1000,11 +1000,66 @@
    "p": 87,
    "s": 2,
    "side": "clan"
+  },
+  {
+   "a": "#L8RCRC2G",
+   "ath": 19,
+   "d": "#CG28CL80",
+   "dth": 19,
+   "dur": 104,
+   "o": 92,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#L8RCRC2G",
+   "ath": 19,
+   "d": "#8Y8LLVRP",
+   "dth": 19,
+   "dur": 165,
+   "o": 93,
+   "p": 96,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#8Y8LLVRP",
+   "ath": 19,
+   "d": "#Y98P2020",
+   "dth": 19,
+   "dur": 131,
+   "o": 94,
+   "p": 62,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#8Y8LLVRP",
+   "ath": 19,
+   "d": "#Y9V0GLRV2",
+   "dth": 19,
+   "dur": 179,
+   "o": 95,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#L899QRJ2J",
+   "ath": 19,
+   "d": "#8V0V92Q22",
+   "dth": 19,
+   "dur": 127,
+   "o": 96,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 68.5,
+  "destruction": 71.35,
   "members": [
    {
     "name": "Gsälzbrot",
@@ -1248,12 +1303,12 @@
    }
   ],
   "name": "headstart",
-  "stars": 80,
+  "stars": 83,
   "tag": "#RLQC8QQY"
  },
  "end": "20261126T204406.000Z",
  "opponent": {
-  "destruction": 98.675,
+  "destruction": 99.475,
   "members": [
    {
     "name": "CoCscaro",
@@ -1497,7 +1552,7 @@
    }
   ],
   "name": "Hystéria-_House",
-  "stars": 115,
+  "stars": 117,
   "tag": "#C0UJRLR0"
  },
  "start": "20261125T204406.000Z",

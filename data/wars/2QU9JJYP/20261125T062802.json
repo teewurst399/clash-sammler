@@ -945,11 +945,88 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#9PYGU8Y0J",
+   "ath": 19,
+   "d": "#P2P0QR89P",
+   "dth": 19,
+   "dur": 121,
+   "o": 87,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#9PYGU8Y0J",
+   "ath": 19,
+   "d": "#8829Y22U",
+   "dth": 19,
+   "dur": 101,
+   "o": 88,
+   "p": 70,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#8JUVPYR0J",
+   "ath": 19,
+   "d": "#PVVYJLL9",
+   "dth": 19,
+   "dur": 127,
+   "o": 89,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#PYJJLUYRV",
+   "ath": 19,
+   "d": "#CL90U209",
+   "dth": 19,
+   "dur": 143,
+   "o": 90,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#UPLYR8G8",
+   "ath": 19,
+   "d": "#8829Y22U",
+   "dth": 19,
+   "dur": 132,
+   "o": 91,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#8JUVPYR0J",
+   "ath": 19,
+   "d": "#8GU8JVQ9R",
+   "dth": 19,
+   "dur": 160,
+   "o": 92,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#UPLYR8G8",
+   "ath": 19,
+   "d": "#9UC0Y0V2R",
+   "dth": 19,
+   "dur": 180,
+   "o": 93,
+   "p": 82,
+   "s": 2,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 53.133335,
+  "destruction": 55.355556,
   "members": [
    {
     "name": "Ben",
@@ -1223,12 +1300,12 @@
    }
   ],
   "name": "Confusion",
-  "stars": 71,
+  "stars": 74,
   "tag": "#2QU9JJYP"
  },
  "end": "20261127T052802.000Z",
  "opponent": {
-  "destruction": 91.62222,
+  "destruction": 94.73333,
   "members": [
    {
     "name": "⭐️Pinoy⭐️Bogz j",
@@ -1502,7 +1579,7 @@
    }
   ],
   "name": "ExecutiveGamers",
-  "stars": 120,
+  "stars": 127,
   "tag": "#2PJY90CCY"
  },
  "start": "20261126T052802.000Z",

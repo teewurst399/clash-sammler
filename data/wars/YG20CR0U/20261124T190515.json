@@ -945,11 +945,121 @@
    "p": 66,
    "s": 1,
    "side": "clan"
+  },
+  {
+   "a": "#QQ9UPPYC2",
+   "ath": 17,
+   "d": "#QVU29UJL",
+   "dth": 19,
+   "dur": 144,
+   "o": 87,
+   "p": 78,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#Q2LY9UCCY",
+   "ath": 19,
+   "d": "#Q2LG0PGC",
+   "dth": 19,
+   "dur": 166,
+   "o": 88,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#GLJCCRYG",
+   "ath": 19,
+   "d": "#C00JYRQG",
+   "dth": 19,
+   "dur": 170,
+   "o": 89,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#GLJCCRYG",
+   "ath": 19,
+   "d": "#LLR82YQ2U",
+   "dth": 19,
+   "dur": 166,
+   "o": 90,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#C00JYRQG",
+   "ath": 19,
+   "d": "#G8PVYLJGP",
+   "dth": 19,
+   "dur": 169,
+   "o": 91,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#GJLJ2YP8",
+   "ath": 19,
+   "d": "#89J0JUL9",
+   "dth": 19,
+   "dur": 120,
+   "o": 92,
+   "p": 81,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#GJLJ2YP8",
+   "ath": 19,
+   "d": "#9JRGR0G89",
+   "dth": 19,
+   "dur": 91,
+   "o": 93,
+   "p": 60,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#2U8P92GP9",
+   "ath": 19,
+   "d": "#G8RRPJ0UP",
+   "dth": 19,
+   "dur": 150,
+   "o": 94,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#2G0QQJG9Y",
+   "ath": 18,
+   "d": "#PC0CRLP2U",
+   "dth": 19,
+   "dur": 149,
+   "o": 95,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#2G0QQJG9Y",
+   "ath": 18,
+   "d": "#L0PJ9QLC",
+   "dth": 19,
+   "dur": 180,
+   "o": 96,
+   "p": 92,
+   "s": 2,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 97.26667,
+  "destruction": 99.333336,
   "members": [
    {
     "name": "Clash Joni",
@@ -1133,12 +1243,12 @@
    }
   ],
   "name": "Gammazone",
-  "stars": 85,
+  "stars": 88,
   "tag": "#YG20CR0U"
  },
  "end": "20261126T180515.000Z",
  "opponent": {
-  "destruction": 95.6,
+  "destruction": 97.0,
   "members": [
    {
     "name": "Duke",
@@ -1322,7 +1432,7 @@
    }
   ],
   "name": "Les Mahmoudiens",
-  "stars": 81,
+  "stars": 84,
   "tag": "#2P28UQQ80"
  },
  "start": "20261125T180515.000Z",

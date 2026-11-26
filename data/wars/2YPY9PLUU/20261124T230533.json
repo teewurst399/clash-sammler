@@ -835,11 +835,165 @@
    "p": 93,
    "s": 2,
    "side": "gegner"
+  },
+  {
+   "a": "#V228CVQ8",
+   "ath": 19,
+   "d": "#UJ9299LR",
+   "dth": 19,
+   "dur": 155,
+   "o": 77,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#YP0YC8UCJ",
+   "ath": 19,
+   "d": "#YYQP82VRC",
+   "dth": 19,
+   "dur": 128,
+   "o": 78,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#QUGUGLQG",
+   "ath": 19,
+   "d": "#Q9G8Q9LY",
+   "dth": 19,
+   "dur": 146,
+   "o": 79,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#LPYL98V",
+   "ath": 19,
+   "d": "#2YGV29JGR",
+   "dth": 19,
+   "dur": 151,
+   "o": 80,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#LPYL98V",
+   "ath": 19,
+   "d": "#8C00YVVP",
+   "dth": 19,
+   "dur": 180,
+   "o": 81,
+   "p": 91,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#JLC2VQPU",
+   "ath": 19,
+   "d": "#JC0RQ8YQ",
+   "dth": 18,
+   "dur": 94,
+   "o": 82,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#2YGV29JGR",
+   "ath": 19,
+   "d": "#2Q98JQ0R0",
+   "dth": 19,
+   "dur": 15,
+   "o": 83,
+   "p": 14,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#2YGV29JGR",
+   "ath": 19,
+   "d": "#20J9LPQRU",
+   "dth": 19,
+   "dur": 3,
+   "o": 84,
+   "p": 2,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#JLC2VQPU",
+   "ath": 19,
+   "d": "#YP0YC8UCJ",
+   "dth": 19,
+   "dur": 81,
+   "o": 85,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#QQJYRLJG2",
+   "ath": 19,
+   "d": "#20J9LPQRU",
+   "dth": 19,
+   "dur": 3,
+   "o": 86,
+   "p": 10,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#QQJYRLJG2",
+   "ath": 19,
+   "d": "#9JL9G92CY",
+   "dth": 19,
+   "dur": 3,
+   "o": 87,
+   "p": 8,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#PVYQQG2LJ",
+   "ath": 19,
+   "d": "#YGULUPV9Y",
+   "dth": 19,
+   "dur": 18,
+   "o": 88,
+   "p": 42,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#PVYQQG2LJ",
+   "ath": 19,
+   "d": "#2Q98JQ0R0",
+   "dth": 19,
+   "dur": 13,
+   "o": 89,
+   "p": 39,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#VGQ2JPYR",
+   "ath": 19,
+   "d": "#QQJYRLJG2",
+   "dth": 19,
+   "dur": 161,
+   "o": 90,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 94.28571,
+  "destruction": 100.0,
   "members": [
    {
     "name": "xXStelioXx",
@@ -1053,12 +1207,12 @@
    }
   ],
   "name": "Endzone",
-  "stars": 99,
+  "stars": 105,
   "tag": "#2YPY9PLUU"
  },
  "end": "20261126T220533.000Z",
  "opponent": {
-  "destruction": 94.828575,
+  "destruction": 97.34286,
   "members": [
    {
     "name": "CE BakeThePro",
@@ -1272,7 +1426,7 @@
    }
   ],
   "name": "Cyprus Elites",
-  "stars": 92,
+  "stars": 98,
   "tag": "#8L2PQJUR"
  },
  "start": "20261125T220533.000Z",
