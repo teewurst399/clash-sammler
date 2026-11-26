@@ -582,11 +582,33 @@
    "p": 89,
    "s": 2,
    "side": "gegner"
+  },
+  {
+   "a": "#9PYJ0PJUY",
+   "ath": 19,
+   "d": "#22800UVRU",
+   "dth": 19,
+   "dur": 159,
+   "o": 54,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#9PYJ0PJUY",
+   "ath": 19,
+   "d": "#P900CGV90",
+   "dth": 19,
+   "dur": 150,
+   "o": 55,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 51.325,
+  "destruction": 53.975,
   "members": [
    {
     "name": "Travel327",
@@ -830,7 +852,7 @@
    }
   ],
   "name": "Der Obstorden",
-  "stars": 55,
+  "stars": 60,
   "tag": "#2Q8QPCUCU"
  },
  "end": "20261127T085629.000Z",

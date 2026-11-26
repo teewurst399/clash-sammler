@@ -835,11 +835,44 @@
    "p": 92,
    "s": 1,
    "side": "clan"
+  },
+  {
+   "a": "#L8CVRL8C",
+   "ath": 19,
+   "d": "#QVU29UJL",
+   "dth": 19,
+   "dur": 168,
+   "o": 77,
+   "p": 88,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#L8CVRL8C",
+   "ath": 19,
+   "d": "#LR2LLRJRR",
+   "dth": 18,
+   "dur": 149,
+   "o": 78,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#LLGPQ9CVU",
+   "ath": 19,
+   "d": "#JG8229L9",
+   "dth": 18,
+   "dur": 149,
+   "o": 79,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 85.36667,
+  "destruction": 87.1,
   "members": [
    {
     "name": "Clash Joni",
@@ -1023,7 +1056,7 @@
    }
   ],
   "name": "Gammazone",
-  "stars": 72,
+  "stars": 75,
   "tag": "#YG20CR0U"
  },
  "end": "20261126T180515.000Z",

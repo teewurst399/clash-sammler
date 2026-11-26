@@ -637,11 +637,143 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#R9JCLCVP",
+   "ath": 19,
+   "d": "#88QLJCRP",
+   "dth": 19,
+   "dur": 157,
+   "o": 59,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#R9JCLCVP",
+   "ath": 19,
+   "d": "#YRGJ2YP0",
+   "dth": 19,
+   "dur": 154,
+   "o": 60,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#QQ9Y08QVJ",
+   "ath": 19,
+   "d": "#R9JCLCVP",
+   "dth": 19,
+   "dur": 143,
+   "o": 61,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#QQ9Y08QVJ",
+   "ath": 19,
+   "d": "#98G9RQLYG",
+   "dth": 19,
+   "dur": 143,
+   "o": 62,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#22GJVGG",
+   "ath": 19,
+   "d": "#8L0LJ9YQL",
+   "dth": 19,
+   "dur": 146,
+   "o": 63,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#20QRG0298",
+   "ath": 19,
+   "d": "#2G02080V2",
+   "dth": 19,
+   "dur": 133,
+   "o": 64,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#22GJVGG",
+   "ath": 19,
+   "d": "#YLRR0LQPY",
+   "dth": 19,
+   "dur": 134,
+   "o": 65,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#20QRG0298",
+   "ath": 19,
+   "d": "#Q8UQUULP",
+   "dth": 19,
+   "dur": 161,
+   "o": 66,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#8L0LJ9YQL",
+   "ath": 19,
+   "d": "#8V29GYUR9",
+   "dth": 19,
+   "dur": 180,
+   "o": 67,
+   "p": 98,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#8L0LJ9YQL",
+   "ath": 19,
+   "d": "#LVYVYG28C",
+   "dth": 19,
+   "dur": 149,
+   "o": 68,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#LULP0YVC",
+   "ath": 19,
+   "d": "#2CQCUYGU",
+   "dth": 19,
+   "dur": 77,
+   "o": 69,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#LULP0YVC",
+   "ath": 19,
+   "d": "#P92VRLYRC",
+   "dth": 19,
+   "dur": 95,
+   "o": 70,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 58.511112,
+  "destruction": 67.35555,
   "members": [
    {
     "name": "FL • SKINNYJIMM",
@@ -915,12 +1047,12 @@
    }
   ],
   "name": "FruchtLabor",
-  "stars": 76,
+  "stars": 87,
   "tag": "#28LYJ29CQ"
  },
  "end": "20261127T092103.000Z",
  "opponent": {
-  "destruction": 48.644444,
+  "destruction": 62.2,
   "members": [
    {
     "name": "虎啸⭐️⚔️逆天⚔️⭐️",
@@ -1194,7 +1326,7 @@
    }
   ],
   "name": "虎标万金油",
-  "stars": 63,
+  "stars": 83,
   "tag": "#2P2UQR0UY"
  },
  "start": "20261126T092103.000Z",
