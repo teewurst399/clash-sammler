@@ -1,0 +1,85 @@
+{
+ "attacks": [],
+ "attacksPerMember": 2,
+ "clan": {
+  "destruction": 0.0,
+  "members": [
+   {
+    "name": "WB Teewurst₃",
+    "pos": 3,
+    "tag": "#28CVLRLU",
+    "th": 19
+   },
+   {
+    "name": "vFietz",
+    "pos": 5,
+    "tag": "#G08G0RR98",
+    "th": 11
+   },
+   {
+    "name": "domi2",
+    "pos": 2,
+    "tag": "#GP9R0PUQ8",
+    "th": 18
+   },
+   {
+    "name": "WB Teewurst₄",
+    "pos": 1,
+    "tag": "#GPCQPUQ0Q",
+    "th": 19
+   },
+   {
+    "name": "Pr3d4tor:97",
+    "pos": 4,
+    "tag": "#GV2GJLRVG",
+    "th": 18
+   }
+  ],
+  "name": "Würstchenbude",
+  "stars": 0,
+  "tag": "#2JYURYLCL"
+ },
+ "end": "20261127T122813.000Z",
+ "opponent": {
+  "destruction": 0.0,
+  "members": [
+   {
+    "name": ":)",
+    "pos": 3,
+    "tag": "#QUC0UG9RJ",
+    "th": 18
+   },
+   {
+    "name": "GOD HYUN SU",
+    "pos": 5,
+    "tag": "#G8RGULUV9",
+    "th": 11
+   },
+   {
+    "name": "Star",
+    "pos": 1,
+    "tag": "#2JGYJQYQ0",
+    "th": 19
+   },
+   {
+    "name": "Acclo",
+    "pos": 4,
+    "tag": "#QJQ9L8R9V",
+    "th": 18
+   },
+   {
+    "name": "Xcclo",
+    "pos": 2,
+    "tag": "#L0PJLJR8U",
+    "th": 19
+   }
+  ],
+  "name": "GOD HYEON SU",
+  "stars": 0,
+  "tag": "#28U922R20"
+ },
+ "start": "20261126T122813.000Z",
+ "state": "inWar",
+ "teamSize": 5,
+ "type": "krieg"
+}

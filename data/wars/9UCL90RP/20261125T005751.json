@@ -824,11 +824,88 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#YPQQ02992",
+   "ath": 19,
+   "d": "#2GCL8LRP",
+   "dth": 19,
+   "dur": 172,
+   "o": 76,
+   "p": 92,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#9CQLLYP8",
+   "ath": 19,
+   "d": "#GJGY8CU",
+   "dth": 19,
+   "dur": 177,
+   "o": 77,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#9QQCLYLCL",
+   "ath": 19,
+   "d": "#YLL298R",
+   "dth": 19,
+   "dur": 119,
+   "o": 78,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#9QQCLYLCL",
+   "ath": 19,
+   "d": "#9LPLCJJL",
+   "dth": 19,
+   "dur": 98,
+   "o": 79,
+   "p": 78,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#28UVJJY0V",
+   "ath": 19,
+   "d": "#2LPJG2R8",
+   "dth": 19,
+   "dur": 93,
+   "o": 80,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#28UVJJY0V",
+   "ath": 19,
+   "d": "#8GPVUPJLJ",
+   "dth": 18,
+   "dur": 101,
+   "o": 81,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#8YUR8YY8V",
+   "ath": 19,
+   "d": "#2CG8QJPQR",
+   "dth": 19,
+   "dur": 161,
+   "o": 82,
+   "p": 92,
+   "s": 2,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 66.48889,
+  "destruction": 77.111115,
   "members": [
    {
     "name": "ROBINJO*ALIHAN",
@@ -1102,12 +1179,12 @@
    }
   ],
   "name": "Eiskalte Engel",
-  "stars": 89,
+  "stars": 103,
   "tag": "#9UCL90RP"
  },
  "end": "20261126T235751.000Z",
  "opponent": {
-  "destruction": 69.44444,
+  "destruction": 71.95556,
   "members": [
    {
     "name": "STR∆NGER",
@@ -1381,7 +1458,7 @@
    }
   ],
   "name": "\"THE 6\"",
-  "stars": 84,
+  "stars": 86,
   "tag": "#90RCQ008"
  },
  "start": "20261125T235751.000Z",

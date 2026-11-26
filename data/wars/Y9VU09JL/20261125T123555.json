@@ -43,11 +43,110 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#22YRYPU2R",
+   "ath": 18,
+   "d": "#QCCVUPR22",
+   "dth": 18,
+   "dur": 140,
+   "o": 5,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#22YRYPU2R",
+   "ath": 18,
+   "d": "#LQUP0RCL",
+   "dth": 18,
+   "dur": 175,
+   "o": 6,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#GYCJ8L9LL",
+   "ath": 17,
+   "d": "#909LUC88U",
+   "dth": 17,
+   "dur": 121,
+   "o": 7,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#GYCJ8L9LL",
+   "ath": 17,
+   "d": "#QQVL9QQG0",
+   "dth": 18,
+   "dur": 178,
+   "o": 8,
+   "p": 87,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#99L8CPGJQ",
+   "ath": 19,
+   "d": "#YU92LVVC",
+   "dth": 19,
+   "dur": 180,
+   "o": 9,
+   "p": 77,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#99L8CPGJQ",
+   "ath": 19,
+   "d": "#2J8LLGPQJ",
+   "dth": 19,
+   "dur": 158,
+   "o": 10,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#P8PQ9RVYC",
+   "ath": 19,
+   "d": "#8PLVR82QC",
+   "dth": 19,
+   "dur": 122,
+   "o": 11,
+   "p": 81,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#P8PQ9RVYC",
+   "ath": 19,
+   "d": "#YU92LVVC",
+   "dth": 19,
+   "dur": 150,
+   "o": 12,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#YU92LVVC",
+   "ath": 19,
+   "d": "#P8PQ9RVYC",
+   "dth": 19,
+   "dur": 93,
+   "o": 13,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 2.857143,
+  "destruction": 5.714286,
   "members": [
    {
     "name": "vllo",
@@ -261,12 +360,12 @@
    }
   ],
   "name": "Rising Phoenix",
-  "stars": 3,
+  "stars": 6,
   "tag": "#Y9VU09JL"
  },
  "end": "20261127T113555.000Z",
  "opponent": {
-  "destruction": 8.571428,
+  "destruction": 27.657143,
   "members": [
    {
     "name": "KARAN",
@@ -480,7 +579,7 @@
    }
   ],
   "name": "INDIANS",
-  "stars": 9,
+  "stars": 28,
   "tag": "#2YYRUY2Y"
  },
  "start": "20261126T113555.000Z",

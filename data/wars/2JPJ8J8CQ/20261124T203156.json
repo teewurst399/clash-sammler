@@ -1033,11 +1033,66 @@
    "p": 84,
    "s": 2,
    "side": "gegner"
+  },
+  {
+   "a": "#YRPUG9JV8",
+   "ath": 19,
+   "d": "#LJCGJVL2",
+   "dth": 19,
+   "dur": 126,
+   "o": 95,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#R0YVGCP2",
+   "ath": 19,
+   "d": "#L8RLYLP8",
+   "dth": 19,
+   "dur": 122,
+   "o": 96,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#UULCYVRR",
+   "ath": 19,
+   "d": "#2RV0R0JP9",
+   "dth": 19,
+   "dur": 169,
+   "o": 97,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#UULCYVRR",
+   "ath": 19,
+   "d": "#L9P8RRQ2",
+   "dth": 19,
+   "dur": 180,
+   "o": 98,
+   "p": 93,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#R0YVGCP2",
+   "ath": 19,
+   "d": "#J00G9GC",
+   "dth": 19,
+   "dur": 178,
+   "o": 99,
+   "p": 77,
+   "s": 2,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 85.475,
+  "destruction": 90.3,
   "members": [
    {
     "name": "Louis",
@@ -1281,12 +1336,12 @@
    }
   ],
   "name": "Pokerzone",
-  "stars": 98,
+  "stars": 103,
   "tag": "#2JPJ8J8CQ"
  },
  "end": "20261126T193156.000Z",
  "opponent": {
-  "destruction": 97.9,
+  "destruction": 98.85,
   "members": [
    {
     "name": "Bhors23",
@@ -1530,7 +1585,7 @@
    }
   ],
   "name": "House of Elites",
-  "stars": 113,
+  "stars": 115,
   "tag": "#2YLR0J09Y"
  },
  "start": "20261125T193156.000Z",
