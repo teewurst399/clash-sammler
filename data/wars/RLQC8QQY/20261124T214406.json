@@ -340,6 +340,28 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#2RJUY9JRP",
+   "ath": 19,
+   "d": "#JJ9QP9LP",
+   "dth": 19,
+   "dur": 174,
+   "o": 32,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#G0Q8JRL92",
+   "ath": 19,
+   "d": "#R8RLRU98",
+   "dth": 19,
+   "dur": 180,
+   "o": 33,
+   "p": 81,
+   "s": 2,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -593,7 +615,7 @@
  },
  "end": "20261126T204406.000Z",
  "opponent": {
-  "destruction": 35.0,
+  "destruction": 39.525,
   "members": [
    {
     "name": "CoCscaro",
@@ -837,7 +859,7 @@
    }
   ],
   "name": "Hystéria-_House",
-  "stars": 42,
+  "stars": 47,
   "tag": "#C0UJRLR0"
  },
  "start": "20261125T204406.000Z",

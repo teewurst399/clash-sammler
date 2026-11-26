@@ -406,11 +406,55 @@
    "p": 84,
    "s": 2,
    "side": "gegner"
+  },
+  {
+   "a": "#PGG800ULQ",
+   "ath": 19,
+   "d": "#28V9YJLV",
+   "dth": 19,
+   "dur": 177,
+   "o": 38,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#PGG800ULQ",
+   "ath": 19,
+   "d": "#2YGR0QY09",
+   "dth": 19,
+   "dur": 180,
+   "o": 39,
+   "p": 80,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#LP9QC8JUY",
+   "ath": 19,
+   "d": "#92QJ2CLG",
+   "dth": 19,
+   "dur": 121,
+   "o": 40,
+   "p": 89,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#LP9QC8JUY",
+   "ath": 19,
+   "d": "#Q20YRVJU0",
+   "dth": 19,
+   "dur": 90,
+   "o": 41,
+   "p": 56,
+   "s": 1,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 27.857143,
+  "destruction": 37.142857,
   "members": [
    {
     "name": "Der Checker",
@@ -624,7 +668,7 @@
    }
   ],
   "name": "GhostZone",
-  "stars": 27,
+  "stars": 34,
   "tag": "#JPLG8V2C"
  },
  "end": "20261126T195832.000Z",

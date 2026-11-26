@@ -714,6 +714,17 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#P8J20UJP",
+   "ath": 19,
+   "d": "#9LPGG8P08",
+   "dth": 19,
+   "dur": 151,
+   "o": 66,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -967,7 +978,7 @@
  },
  "end": "20261126T170956.000Z",
  "opponent": {
-  "destruction": 85.0,
+  "destruction": 87.5,
   "members": [
    {
     "name": "Krax mini",
@@ -1211,7 +1222,7 @@
    }
   ],
   "name": "espada",
-  "stars": 102,
+  "stars": 105,
   "tag": "#2GLL8JJLL"
  },
  "start": "20261125T170956.000Z",

@@ -351,6 +351,39 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#8R0V8PRPR",
+   "ath": 19,
+   "d": "#QY29929J9",
+   "dth": 19,
+   "dur": 180,
+   "o": 33,
+   "p": 95,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#8R0V8PRPR",
+   "ath": 19,
+   "d": "#PUYLLGQYP",
+   "dth": 18,
+   "dur": 180,
+   "o": 34,
+   "p": 98,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#2RGCP9URC",
+   "ath": 19,
+   "d": "#28CJJC29U",
+   "dth": 19,
+   "dur": 143,
+   "o": 35,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -574,7 +607,7 @@
  },
  "end": "20261126T194302.000Z",
  "opponent": {
-  "destruction": 27.114286,
+  "destruction": 35.485714,
   "members": [
    {
     "name": "PARD",
@@ -788,7 +821,7 @@
    }
   ],
   "name": "NAШ CLAN",
-  "stars": 27,
+  "stars": 34,
   "tag": "#LCUL0CP8"
  },
  "start": "20261125T194302.000Z",
