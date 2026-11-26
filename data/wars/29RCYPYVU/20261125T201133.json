@@ -1,8 +1,97 @@
 {
- "attacks": [],
+ "attacks": [
+  {
+   "a": "#8GRLUP99",
+   "ath": 19,
+   "d": "#GVGJYRUG",
+   "dth": 19,
+   "dur": 152,
+   "o": 1,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#LCC8CCGCY",
+   "ath": 19,
+   "d": "#GU0999LUL",
+   "dth": 19,
+   "dur": 138,
+   "o": 2,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#LGQ9P8R9C",
+   "ath": 19,
+   "d": "#22CUP2U9R",
+   "dth": 19,
+   "dur": 121,
+   "o": 3,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#8GRLUP99",
+   "ath": 19,
+   "d": "#Y8L8LQYV8",
+   "dth": 19,
+   "dur": 135,
+   "o": 4,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#P0LJYCPUV",
+   "ath": 19,
+   "d": "#YUPG8PVYJ",
+   "dth": 19,
+   "dur": 180,
+   "o": 5,
+   "p": 92,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#LCC8CCGCY",
+   "ath": 19,
+   "d": "#LJQ2JUJUU",
+   "dth": 19,
+   "dur": 135,
+   "o": 6,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#P0LJYCPUV",
+   "ath": 19,
+   "d": "#8GRLUP99",
+   "dth": 19,
+   "dur": 180,
+   "o": 7,
+   "p": 85,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#LGQ9P8R9C",
+   "ath": 19,
+   "d": "#YRLC88R9",
+   "dth": 19,
+   "dur": 155,
+   "o": 8,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  }
+ ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 0.0,
+  "destruction": 24.0,
   "members": [
    {
     "name": "joni",
@@ -156,12 +245,12 @@
    }
   ],
   "name": "German⚡️Elite™️",
-  "stars": 0,
+  "stars": 18,
   "tag": "#29RCYPYVU"
  },
  "end": "20261127T191133.000Z",
  "opponent": {
-  "destruction": 0.0,
+  "destruction": 7.08,
   "members": [
    {
     "name": "AS Flua",
@@ -315,7 +404,7 @@
    }
   ],
   "name": "Arctic Sunbath",
-  "stars": 0,
+  "stars": 4,
   "tag": "#2GQJ0LP8"
  },
  "start": "20261126T191133.000Z",

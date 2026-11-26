@@ -109,11 +109,110 @@
    "p": 99,
    "s": 2,
    "side": "clan"
+  },
+  {
+   "a": "#8YVGY8RU0",
+   "ath": 19,
+   "d": "#22V0Q9GJC",
+   "dth": 19,
+   "dur": 159,
+   "o": 11,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#8YVGY8RU0",
+   "ath": 19,
+   "d": "#GR9QCPVC",
+   "dth": 19,
+   "dur": 163,
+   "o": 12,
+   "p": 92,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#2UCVV0LGV",
+   "ath": 19,
+   "d": "#CYY22JGV",
+   "dth": 19,
+   "dur": 166,
+   "o": 13,
+   "p": 90,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#2UCVV0LGV",
+   "ath": 19,
+   "d": "#J2RUY9LV",
+   "dth": 19,
+   "dur": 180,
+   "o": 14,
+   "p": 88,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#8YG2R0090",
+   "ath": 19,
+   "d": "#G0JVP2G80",
+   "dth": 19,
+   "dur": 150,
+   "o": 15,
+   "p": 86,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#8YG2R0090",
+   "ath": 19,
+   "d": "#G9U0UQY8L",
+   "dth": 19,
+   "dur": 162,
+   "o": 16,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#Q0PCL22U9",
+   "ath": 19,
+   "d": "#LQUYUGUVV",
+   "dth": 19,
+   "dur": 127,
+   "o": 17,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#PQ900UC8",
+   "ath": 18,
+   "d": "#PJUUR8LP",
+   "dth": 19,
+   "dur": 180,
+   "o": 18,
+   "p": 99,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#Q0PCL22U9",
+   "ath": 19,
+   "d": "#2UCVV0LGV",
+   "dth": 19,
+   "dur": 127,
+   "o": 19,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 6.4,
+  "destruction": 13.044444,
   "members": [
    {
     "name": "FL • Kaiser",
@@ -387,12 +486,12 @@
    }
   ],
   "name": "Obstgarten",
-  "stars": 7,
+  "stars": 15,
   "tag": "#2U08QGR9U"
  },
  "end": "20261127T180904.000Z",
  "opponent": {
-  "destruction": 15.0,
+  "destruction": 25.311111,
   "members": [
    {
     "name": "ســـمـــســـم",
@@ -666,7 +765,7 @@
    }
   ],
   "name": "ابطال العالم",
-  "stars": 18,
+  "stars": 30,
   "tag": "#209PGY8GP"
  },
  "start": "20261126T180904.000Z",

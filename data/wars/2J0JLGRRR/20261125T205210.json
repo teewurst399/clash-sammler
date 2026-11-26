@@ -1,0 +1,332 @@
+{
+ "attacks": [
+  {
+   "a": "#YC08Q0CV",
+   "ath": 16,
+   "d": "#Q8YYLVCPV",
+   "dth": 17,
+   "dur": 158,
+   "o": 1,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#YC0P89CGJ",
+   "ath": 17,
+   "d": "#G0VPU8VYC",
+   "dth": 15,
+   "dur": 104,
+   "o": 2,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#YC08Q0CV",
+   "ath": 16,
+   "d": "#QC8GUV8UY",
+   "dth": 17,
+   "dur": 138,
+   "o": 3,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#YC0P89CGJ",
+   "ath": 17,
+   "d": "#PCGCJQQ8V",
+   "dth": 15,
+   "dur": 100,
+   "o": 4,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#98VQ90GQJ",
+   "ath": 17,
+   "d": "#GGGQPYVYG",
+   "dth": 15,
+   "dur": 114,
+   "o": 5,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#98VQ90GQJ",
+   "ath": 17,
+   "d": "#P8GVVQPV9",
+   "dth": 15,
+   "dur": 81,
+   "o": 6,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  }
+ ],
+ "attacksPerMember": 2,
+ "clan": {
+  "destruction": 30.0,
+  "members": [
+   {
+    "name": "mobe2",
+    "pos": 11,
+    "tag": "#YC08Q0CV",
+    "th": 16
+   },
+   {
+    "name": "G!B Badoom 2.0",
+    "pos": 16,
+    "tag": "#QY0CUGGYR",
+    "th": 14
+   },
+   {
+    "name": "Sintai",
+    "pos": 4,
+    "tag": "#GC9UYCQVY",
+    "th": 17
+   },
+   {
+    "name": "Cheeseburger",
+    "pos": 12,
+    "tag": "#CRG2JP0Y",
+    "th": 16
+   },
+   {
+    "name": "DETROX lll",
+    "pos": 8,
+    "tag": "#89299QPG0",
+    "th": 15
+   },
+   {
+    "name": "Tainis",
+    "pos": 13,
+    "tag": "#GUQRRUVL2",
+    "th": 15
+   },
+   {
+    "name": "FeaR‘s Empire",
+    "pos": 5,
+    "tag": "#98VQ90GQJ",
+    "th": 17
+   },
+   {
+    "name": "King Devil",
+    "pos": 9,
+    "tag": "#8JL0VV0GL",
+    "th": 15
+   },
+   {
+    "name": "M.S.M1",
+    "pos": 10,
+    "tag": "#GQLU99U2C",
+    "th": 18
+   },
+   {
+    "name": "Neymar Jr 10",
+    "pos": 1,
+    "tag": "#LGUPGVJ8R",
+    "th": 18
+   },
+   {
+    "name": "ANTIOPE",
+    "pos": 18,
+    "tag": "#GVR82GCQU",
+    "th": 12
+   },
+   {
+    "name": "⚡️FeaR‘sReign⚡️",
+    "pos": 14,
+    "tag": "#YC0P89CGJ",
+    "th": 17
+   },
+   {
+    "name": "Annie 2.0",
+    "pos": 7,
+    "tag": "#LRRRJ0QJG",
+    "th": 16
+   },
+   {
+    "name": "⚔️Simon ⚔️",
+    "pos": 3,
+    "tag": "#QJYCY0CJC",
+    "th": 17
+   },
+   {
+    "name": "Paul☃️3",
+    "pos": 15,
+    "tag": "#R9CP02GCY",
+    "th": 17
+   },
+   {
+    "name": "FeaRedNighTmare",
+    "pos": 20,
+    "tag": "#R82G2YU8L",
+    "th": 10
+   },
+   {
+    "name": "Yanick",
+    "pos": 6,
+    "tag": "#GV9LV9QQL",
+    "th": 16
+   },
+   {
+    "name": "Feuertost261",
+    "pos": 19,
+    "tag": "#R9VUQV2GJ",
+    "th": 11
+   },
+   {
+    "name": "G!B Reshiram",
+    "pos": 2,
+    "tag": "#GPLRJ0G9Q",
+    "th": 18
+   },
+   {
+    "name": "DiaVándy",
+    "pos": 17,
+    "tag": "#GUQJP2282",
+    "th": 13
+   }
+  ],
+  "name": "Get Smurfed!",
+  "stars": 18,
+  "tag": "#2J0JLGRRR"
+ },
+ "end": "20261127T195210.000Z",
+ "opponent": {
+  "destruction": 0.0,
+  "members": [
+   {
+    "name": "Farjana",
+    "pos": 14,
+    "tag": "#P8GVVQPV9",
+    "th": 15
+   },
+   {
+    "name": "Rimon",
+    "pos": 5,
+    "tag": "#Q8YYLVCPV",
+    "th": 17
+   },
+   {
+    "name": "JEWEL",
+    "pos": 6,
+    "tag": "#PRJ90CPG9",
+    "th": 16
+   },
+   {
+    "name": "Rajib soikot",
+    "pos": 16,
+    "tag": "#R0PJ92VGL",
+    "th": 13
+   },
+   {
+    "name": "mario",
+    "pos": 19,
+    "tag": "#R2882V8QY",
+    "th": 11
+   },
+   {
+    "name": "SAJIB",
+    "pos": 1,
+    "tag": "#9JGJLVCP8",
+    "th": 18
+   },
+   {
+    "name": "MAHABUB",
+    "pos": 8,
+    "tag": "#QVG8P2JPG",
+    "th": 16
+   },
+   {
+    "name": "—͞S!ʏAⱮ모",
+    "pos": 20,
+    "tag": "#R2G92RGLP",
+    "th": 9
+   },
+   {
+    "name": "Rimon. 2",
+    "pos": 15,
+    "tag": "#R0VU2CRRC",
+    "th": 16
+   },
+   {
+    "name": "Zidan V!RUS",
+    "pos": 11,
+    "tag": "#G0VPU8VYC",
+    "th": 15
+   },
+   {
+    "name": "RDX Rabbani",
+    "pos": 13,
+    "tag": "#GGGQPYVYG",
+    "th": 15
+   },
+   {
+    "name": "Suraiya Inaya",
+    "pos": 17,
+    "tag": "#R9Y89LYQG",
+    "th": 14
+   },
+   {
+    "name": "amir",
+    "pos": 9,
+    "tag": "#GC82RUP8R",
+    "th": 17
+   },
+   {
+    "name": "⏪⭕U z Z a L⭕⏩",
+    "pos": 7,
+    "tag": "#L8J2G8Y8G",
+    "th": 16
+   },
+   {
+    "name": "Rakib Sajib",
+    "pos": 10,
+    "tag": "#P89QU9Q8V",
+    "th": 16
+   },
+   {
+    "name": "BD KING JOY",
+    "pos": 12,
+    "tag": "#PCGCJQQ8V",
+    "th": 15
+   },
+   {
+    "name": "Rajib",
+    "pos": 4,
+    "tag": "#QC8GUV8UY",
+    "th": 17
+   },
+   {
+    "name": "HASAN4@S",
+    "pos": 2,
+    "tag": "#QYU2CUVUY",
+    "th": 18
+   },
+   {
+    "name": "soikot",
+    "pos": 3,
+    "tag": "#QRUGL20VL",
+    "th": 18
+   },
+   {
+    "name": "Jewel22@",
+    "pos": 18,
+    "tag": "#GRUQYV02Y",
+    "th": 12
+   }
+  ],
+  "name": "DRAGOON MASTER",
+  "stars": 0,
+  "tag": "#2GP9JRQ2Q"
+ },
+ "start": "20261126T195210.000Z",
+ "state": "inWar",
+ "teamSize": 20,
+ "type": "krieg"
+}

@@ -296,11 +296,176 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#PPYJYLCPY",
+   "ath": 19,
+   "d": "#J98VJQPL",
+   "dth": 19,
+   "dur": 131,
+   "o": 28,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#9G88VQU0L",
+   "ath": 19,
+   "d": "#L229RYR8",
+   "dth": 19,
+   "dur": 136,
+   "o": 29,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#PPYJYLCPY",
+   "ath": 19,
+   "d": "#VQ2PURG",
+   "dth": 19,
+   "dur": 135,
+   "o": 30,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#J9JC0RY2",
+   "ath": 19,
+   "d": "#28QLYUJG9",
+   "dth": 19,
+   "dur": 134,
+   "o": 31,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#J9JC0RY2",
+   "ath": 19,
+   "d": "#2J9PQVV8G",
+   "dth": 19,
+   "dur": 118,
+   "o": 32,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#YL8UVU0Y",
+   "ath": 19,
+   "d": "#8YLRURV00",
+   "dth": 19,
+   "dur": 170,
+   "o": 33,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#2V8YQJYL8",
+   "ath": 19,
+   "d": "#LVG20G9V0",
+   "dth": 19,
+   "dur": 112,
+   "o": 34,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#YL8UVU0Y",
+   "ath": 19,
+   "d": "#98QL8CJC2",
+   "dth": 19,
+   "dur": 171,
+   "o": 35,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#2V8YQJYL8",
+   "ath": 19,
+   "d": "#8Q2RRPJYJ",
+   "dth": 19,
+   "dur": 143,
+   "o": 36,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#LG8L920L",
+   "ath": 19,
+   "d": "#9VGU8URQG",
+   "dth": 19,
+   "dur": 131,
+   "o": 37,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#Q8YU2828Y",
+   "ath": 19,
+   "d": "#L2UJC0YRQ",
+   "dth": 19,
+   "dur": 111,
+   "o": 38,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#LG8L920L",
+   "ath": 19,
+   "d": "#2PC9GRR2P",
+   "dth": 19,
+   "dur": 147,
+   "o": 39,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#2RL8PJ8QC",
+   "ath": 19,
+   "d": "#L928QC8UV",
+   "dth": 19,
+   "dur": 156,
+   "o": 40,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#Q8YU2828Y",
+   "ath": 19,
+   "d": "#8022L2QRP",
+   "dth": 19,
+   "dur": 99,
+   "o": 41,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#8R2P8CUUU",
+   "ath": 19,
+   "d": "#PJPG0Y82Q",
+   "dth": 19,
+   "dur": 109,
+   "o": 42,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 8.9,
+  "destruction": 31.4,
   "members": [
    {
     "name": "tojamane",
@@ -544,12 +709,12 @@
    }
   ],
   "name": "Obstsalat",
-  "stars": 10,
+  "stars": 37,
   "tag": "#2Q8CL9Y20"
  },
  "end": "20261127T184921.000Z",
  "opponent": {
-  "destruction": 54.85,
+  "destruction": 69.85,
   "members": [
    {
     "name": "alasmar",
@@ -793,7 +958,7 @@
    }
   ],
   "name": "⛓️THE⚔️GANG.III",
-  "stars": 65,
+  "stars": 83,
   "tag": "#2QUCLLPGJ"
  },
  "start": "20261126T184921.000Z",

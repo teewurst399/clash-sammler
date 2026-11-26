@@ -868,11 +868,55 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#9R0GYQG0U",
+   "ath": 19,
+   "d": "#89UCCJV80",
+   "dth": 19,
+   "dur": 123,
+   "o": 80,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#CR2VRCVU",
+   "ath": 19,
+   "d": "#JQJLYQY9",
+   "dth": 19,
+   "dur": 131,
+   "o": 81,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#2UQ8VJYQ",
+   "ath": 19,
+   "d": "#LPP8220VG",
+   "dth": 19,
+   "dur": 137,
+   "o": 82,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#2UQ8VJYQ",
+   "ath": 19,
+   "d": "#2CV9LGQY9",
+   "dth": 19,
+   "dur": 180,
+   "o": 83,
+   "p": 97,
+   "s": 2,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 88.45,
+  "destruction": 94.55,
   "members": [
    {
     "name": "Travel327",
@@ -1116,7 +1160,7 @@
    }
   ],
   "name": "Der Obstorden",
-  "stars": 101,
+  "stars": 109,
   "tag": "#2Q8QPCUCU"
  },
  "end": "20261127T085629.000Z",

@@ -1440,6 +1440,94 @@
    "p": 97,
    "s": 2,
    "side": "gegner"
+  },
+  {
+   "a": "#8Y09UQYLU",
+   "ath": 19,
+   "d": "#LQ09R8R2C",
+   "dth": 19,
+   "dur": 24,
+   "o": 132,
+   "p": 51,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#8Y09UQYLU",
+   "ath": 19,
+   "d": "#8YUR8YY8V",
+   "dth": 19,
+   "dur": 10,
+   "o": 133,
+   "p": 23,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#L0VVV9C0Q",
+   "ath": 19,
+   "d": "#LQ09R8R2C",
+   "dth": 19,
+   "dur": 12,
+   "o": 134,
+   "p": 28,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#L0VVV9C0Q",
+   "ath": 19,
+   "d": "#8YUR8YY8V",
+   "dth": 19,
+   "dur": 11,
+   "o": 135,
+   "p": 26,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#JY2UPG8P",
+   "ath": 19,
+   "d": "#8LCG9CPQJ",
+   "dth": 19,
+   "dur": 129,
+   "o": 136,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#2GCL8LRP",
+   "ath": 19,
+   "d": "#PJ9U2GQG",
+   "dth": 19,
+   "dur": 21,
+   "o": 137,
+   "p": 11,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#2P0R0UGJL",
+   "ath": 19,
+   "d": "#RLGJJRYQ",
+   "dth": 19,
+   "dur": 174,
+   "o": 138,
+   "p": 99,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#2P0R0UGJL",
+   "ath": 19,
+   "d": "#QUL89RPY",
+   "dth": 19,
+   "dur": 116,
+   "o": 139,
+   "p": 87,
+   "s": 1,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -1723,7 +1811,7 @@
  },
  "end": "20261126T235751.000Z",
  "opponent": {
-  "destruction": 97.17778,
+  "destruction": 97.333336,
   "members": [
    {
     "name": "STR∆NGER",
@@ -1997,7 +2085,7 @@
    }
   ],
   "name": "\"THE 6\"",
-  "stars": 124,
+  "stars": 125,
   "tag": "#90RCQ008"
  },
  "start": "20261125T235751.000Z",
