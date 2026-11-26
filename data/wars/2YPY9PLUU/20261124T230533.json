@@ -516,11 +516,143 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#9RUQ00GLL",
+   "ath": 19,
+   "d": "#PVYQQG2LJ",
+   "dth": 19,
+   "dur": 155,
+   "o": 48,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#C9GY80Y",
+   "ath": 19,
+   "d": "#PUGJV8R8",
+   "dth": 19,
+   "dur": 158,
+   "o": 49,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#C9GY80Y",
+   "ath": 19,
+   "d": "#GY09JUL98",
+   "dth": 19,
+   "dur": 128,
+   "o": 50,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#22YYQRQV9",
+   "ath": 19,
+   "d": "#9LRJCQRQQ",
+   "dth": 19,
+   "dur": 149,
+   "o": 51,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#CVC00QYR",
+   "ath": 19,
+   "d": "#C9GY80Y",
+   "dth": 19,
+   "dur": 127,
+   "o": 52,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#22YYQRQV9",
+   "ath": 19,
+   "d": "#8YPQYQJLV",
+   "dth": 19,
+   "dur": 145,
+   "o": 53,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#CVC00QYR",
+   "ath": 19,
+   "d": "#29YGLRQ29",
+   "dth": 19,
+   "dur": 135,
+   "o": 54,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#2PVG9YG02",
+   "ath": 19,
+   "d": "#QUGUGLQG",
+   "dth": 19,
+   "dur": 156,
+   "o": 55,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#YP0YC8UCJ",
+   "ath": 19,
+   "d": "#JUPV2V0P",
+   "dth": 19,
+   "dur": 134,
+   "o": 56,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#2PVG9YG02",
+   "ath": 19,
+   "d": "#LPYL98V",
+   "dth": 19,
+   "dur": 148,
+   "o": 57,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#Q9G8Q9LY",
+   "ath": 19,
+   "d": "#2GCYYQ8PJ",
+   "dth": 19,
+   "dur": 157,
+   "o": 58,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#Q9G8Q9LY",
+   "ath": 19,
+   "d": "#YYUY09P9R",
+   "dth": 19,
+   "dur": 125,
+   "o": 59,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 56.857143,
+  "destruction": 77.14286,
   "members": [
    {
     "name": "xXStelioXx",
@@ -734,12 +866,12 @@
    }
   ],
   "name": "Endzone",
-  "stars": 59,
+  "stars": 81,
   "tag": "#2YPY9PLUU"
  },
  "end": "20261126T220533.000Z",
  "opponent": {
-  "destruction": 60.514286,
+  "destruction": 71.942856,
   "members": [
    {
     "name": "CE BakeThePro",
@@ -953,7 +1085,7 @@
    }
   ],
   "name": "Cyprus Elites",
-  "stars": 57,
+  "stars": 69,
   "tag": "#8L2PQJUR"
  },
  "start": "20261125T220533.000Z",

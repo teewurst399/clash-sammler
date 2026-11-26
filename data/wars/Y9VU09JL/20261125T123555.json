@@ -1,0 +1,490 @@
+{
+ "attacks": [
+  {
+   "a": "#LR8V8LPG2",
+   "ath": 17,
+   "d": "#G8RCJGV82",
+   "dth": 18,
+   "dur": 116,
+   "o": 1,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#PRCVY8Y0Y",
+   "ath": 19,
+   "d": "#2GLQ2GLY9",
+   "dth": 19,
+   "dur": 135,
+   "o": 2,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#9UGGUQ0C",
+   "ath": 19,
+   "d": "#9U9PYR8UY",
+   "dth": 19,
+   "dur": 142,
+   "o": 3,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#LR8V8LPG2",
+   "ath": 17,
+   "d": "#YVYR82URC",
+   "dth": 17,
+   "dur": 122,
+   "o": 4,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  }
+ ],
+ "attacksPerMember": 2,
+ "clan": {
+  "destruction": 2.857143,
+  "members": [
+   {
+    "name": "vllo",
+    "pos": 6,
+    "tag": "#C0LGVRRL",
+    "th": 19
+   },
+   {
+    "name": "Rising⚡️Andre",
+    "pos": 29,
+    "tag": "#9UPPVGYP",
+    "th": 17
+   },
+   {
+    "name": "Rising⚡️Mika",
+    "pos": 9,
+    "tag": "#9VRQ9L9J",
+    "th": 19
+   },
+   {
+    "name": "FLEXMITRI",
+    "pos": 22,
+    "tag": "#LQUP0RCL",
+    "th": 18
+   },
+   {
+    "name": "Rising⚡️Ronny",
+    "pos": 24,
+    "tag": "#QQVL9QQG0",
+    "th": 18
+   },
+   {
+    "name": "Creed",
+    "pos": 8,
+    "tag": "#QY0QVYCJY",
+    "th": 19
+   },
+   {
+    "name": "Silver Skull",
+    "pos": 13,
+    "tag": "#9UGGUQ0C",
+    "th": 19
+   },
+   {
+    "name": "shape",
+    "pos": 20,
+    "tag": "#R2LQLJ0LR",
+    "th": 19
+   },
+   {
+    "name": "Julian",
+    "pos": 1,
+    "tag": "#8PLVR82QC",
+    "th": 19
+   },
+   {
+    "name": "ʙʀͥᴏ̈ɢɢͣɪͫ.",
+    "pos": 10,
+    "tag": "#2P2V02GC9",
+    "th": 19
+   },
+   {
+    "name": "Rising⚡️OpTic.",
+    "pos": 28,
+    "tag": "#2GCYJUPCU",
+    "th": 17
+   },
+   {
+    "name": "⚡️ MaisyMina ✨",
+    "pos": 33,
+    "tag": "#2QPLG8RRQ",
+    "th": 14
+   },
+   {
+    "name": "Rising⚡Papaya",
+    "pos": 30,
+    "tag": "#L8LY2JQCJ",
+    "th": 15
+   },
+   {
+    "name": "Rising⚡️Sunny",
+    "pos": 11,
+    "tag": "#YLQJJ9UU8",
+    "th": 19
+   },
+   {
+    "name": "Grand OpTic",
+    "pos": 4,
+    "tag": "#2UCVU9YY9",
+    "th": 19
+   },
+   {
+    "name": "Julian",
+    "pos": 19,
+    "tag": "#RQYGYC0P",
+    "th": 19
+   },
+   {
+    "name": "luca 23",
+    "pos": 17,
+    "tag": "#2C0LJVQ9",
+    "th": 19
+   },
+   {
+    "name": "vilo",
+    "pos": 34,
+    "tag": "#R098U0Y2U",
+    "th": 11
+   },
+   {
+    "name": "Halbstark",
+    "pos": 23,
+    "tag": "#GV0JGVCUP",
+    "th": 18
+   },
+   {
+    "name": "Chris",
+    "pos": 26,
+    "tag": "#YVYR82URC",
+    "th": 17
+   },
+   {
+    "name": "creed 2.0",
+    "pos": 21,
+    "tag": "#QCCVUPR22",
+    "th": 18
+   },
+   {
+    "name": "Rising⚡️Julian",
+    "pos": 2,
+    "tag": "#YU92LVVC",
+    "th": 19
+   },
+   {
+    "name": "Vex",
+    "pos": 12,
+    "tag": "#9VG2PR8C0",
+    "th": 19
+   },
+   {
+    "name": "Rising⚡️Dani",
+    "pos": 32,
+    "tag": "#R9CQ9J0R8",
+    "th": 17
+   },
+   {
+    "name": "Ｌｏｃｕｓ",
+    "pos": 7,
+    "tag": "#YYVPRG9Q9",
+    "th": 19
+   },
+   {
+    "name": "Rising⚡️ACL",
+    "pos": 16,
+    "tag": "#P8URCGU9",
+    "th": 19
+   },
+   {
+    "name": "Mika ❤️ Julian",
+    "pos": 15,
+    "tag": "#2CRP0P2Q8",
+    "th": 19
+   },
+   {
+    "name": "Rising⚡️Janne",
+    "pos": 18,
+    "tag": "#2C2PLQUGL",
+    "th": 19
+   },
+   {
+    "name": "OpTic™",
+    "pos": 35,
+    "tag": "#29J9LVR2L",
+    "th": 7
+   },
+   {
+    "name": "Vengeance",
+    "pos": 3,
+    "tag": "#2GLQ2GLY9",
+    "th": 19
+   },
+   {
+    "name": "Rising⚡️Mikmazi",
+    "pos": 25,
+    "tag": "#G8RCJGV82",
+    "th": 18
+   },
+   {
+    "name": "Rising⚡️Nickk",
+    "pos": 14,
+    "tag": "#LJP8JL880",
+    "th": 19
+   },
+   {
+    "name": "Rising⚡️Koala",
+    "pos": 27,
+    "tag": "#909LUC88U",
+    "th": 17
+   },
+   {
+    "name": "Vulture",
+    "pos": 5,
+    "tag": "#2J8LLGPQJ",
+    "th": 19
+   },
+   {
+    "name": "Rising⚡️Lv.1",
+    "pos": 31,
+    "tag": "#LGYRV2URL",
+    "th": 17
+   }
+  ],
+  "name": "Rising Phoenix",
+  "stars": 3,
+  "tag": "#Y9VU09JL"
+ },
+ "end": "20261127T113555.000Z",
+ "opponent": {
+  "destruction": 8.571428,
+  "members": [
+   {
+    "name": "KARAN",
+    "pos": 2,
+    "tag": "#99L8CPGJQ",
+    "th": 19
+   },
+   {
+    "name": "MP..1",
+    "pos": 24,
+    "tag": "#LL89CL8LQ",
+    "th": 18
+   },
+   {
+    "name": "game",
+    "pos": 19,
+    "tag": "#9UULGQG82",
+    "th": 19
+   },
+   {
+    "name": "Clasher",
+    "pos": 16,
+    "tag": "#PRGCRRQR9",
+    "th": 19
+   },
+   {
+    "name": "CLASH MASTER",
+    "pos": 30,
+    "tag": "#22RJL008J",
+    "th": 17
+   },
+   {
+    "name": "Dracula",
+    "pos": 18,
+    "tag": "#2JRPPGVL9",
+    "th": 19
+   },
+   {
+    "name": "Virat",
+    "pos": 11,
+    "tag": "#YL9Q9CV89",
+    "th": 19
+   },
+   {
+    "name": "CAPTAIN AMERICA",
+    "pos": 1,
+    "tag": "#P8PQ9RVYC",
+    "th": 19
+   },
+   {
+    "name": "RAGNAROK",
+    "pos": 33,
+    "tag": "#Y8VR8CQJP",
+    "th": 16
+   },
+   {
+    "name": "Mr harsh",
+    "pos": 25,
+    "tag": "#89YQL09RC",
+    "th": 18
+   },
+   {
+    "name": "Rudhar",
+    "pos": 31,
+    "tag": "#GYCJ8L9LL",
+    "th": 17
+   },
+   {
+    "name": "Aniket",
+    "pos": 22,
+    "tag": "#22YRYPU2R",
+    "th": 18
+   },
+   {
+    "name": "TANISH",
+    "pos": 12,
+    "tag": "#PRV2PJV2Q",
+    "th": 19
+   },
+   {
+    "name": "utkarsh",
+    "pos": 20,
+    "tag": "#9UL9LY008",
+    "th": 19
+   },
+   {
+    "name": "juned",
+    "pos": 28,
+    "tag": "#PP28VR9RV",
+    "th": 17
+   },
+   {
+    "name": "Clash with Drax",
+    "pos": 4,
+    "tag": "#80UVJ80UC",
+    "th": 19
+   },
+   {
+    "name": ".X. ITACHI .X.",
+    "pos": 13,
+    "tag": "#9CG0YQPPQ",
+    "th": 19
+   },
+   {
+    "name": "Akshay gamer",
+    "pos": 21,
+    "tag": "#YC0VC8G0G",
+    "th": 19
+   },
+   {
+    "name": "sumant",
+    "pos": 5,
+    "tag": "#9CYPGRCJ2",
+    "th": 19
+   },
+   {
+    "name": "a j a z_✌️",
+    "pos": 27,
+    "tag": "#QG9V0LCL8",
+    "th": 18
+   },
+   {
+    "name": "deepak",
+    "pos": 6,
+    "tag": "#YPJCCYRC",
+    "th": 19
+   },
+   {
+    "name": "SANDIPAN",
+    "pos": 14,
+    "tag": "#PG0GRVG9Y",
+    "th": 19
+   },
+   {
+    "name": "『BroLy๛』",
+    "pos": 15,
+    "tag": "#PRCVY8Y0Y",
+    "th": 19
+   },
+   {
+    "name": "IND☠️KARTIK",
+    "pos": 9,
+    "tag": "#9U9PYR8UY",
+    "th": 19
+   },
+   {
+    "name": "『Dark Knight 』",
+    "pos": 8,
+    "tag": "#PU2L288V9",
+    "th": 19
+   },
+   {
+    "name": "The legend xyz",
+    "pos": 26,
+    "tag": "#LQVLUCL0P",
+    "th": 18
+   },
+   {
+    "name": "Saurabh",
+    "pos": 32,
+    "tag": "#9LP8PV292",
+    "th": 15
+   },
+   {
+    "name": "IND_Keshav",
+    "pos": 34,
+    "tag": "#GU2RJPCPG",
+    "th": 16
+   },
+   {
+    "name": "Ronny",
+    "pos": 35,
+    "tag": "#8QG0VGU22",
+    "th": 12
+   },
+   {
+    "name": "Man In Black",
+    "pos": 10,
+    "tag": "#8U2RJGPVC",
+    "th": 19
+   },
+   {
+    "name": "KARAN",
+    "pos": 7,
+    "tag": "#8VGVCYJR9",
+    "th": 19
+   },
+   {
+    "name": "CHAMAN",
+    "pos": 29,
+    "tag": "#LR8V8LPG2",
+    "th": 17
+   },
+   {
+    "name": "prantosh",
+    "pos": 17,
+    "tag": "#9LC99C22R",
+    "th": 19
+   },
+   {
+    "name": "ip",
+    "pos": 23,
+    "tag": "#YGJ99PUY",
+    "th": 18
+   },
+   {
+    "name": "Dilpreet",
+    "pos": 3,
+    "tag": "#LP8YGQUVU",
+    "th": 19
+   }
+  ],
+  "name": "INDIANS",
+  "stars": 9,
+  "tag": "#2YYRUY2Y"
+ },
+ "start": "20261126T113555.000Z",
+ "state": "inWar",
+ "teamSize": 35,
+ "type": "krieg"
+}

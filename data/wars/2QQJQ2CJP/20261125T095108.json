@@ -186,11 +186,22 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#PQC8CCP8",
+   "ath": 19,
+   "d": "#Y8YGCJJPY",
+   "dth": 19,
+   "dur": 141,
+   "o": 18,
+   "p": 78,
+   "s": 2,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 20.0,
+  "destruction": 23.9,
   "members": [
    {
     "name": "Bozz⚡️Bandit",
@@ -314,7 +325,7 @@
    }
   ],
   "name": "Infructus",
-  "stars": 12,
+  "stars": 14,
   "tag": "#2QQJQ2CJP"
  },
  "end": "20261127T085108.000Z",

@@ -1000,6 +1000,39 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#QQ9YG8JP",
+   "ath": 19,
+   "d": "#QJL9L0CLR",
+   "dth": 19,
+   "dur": 150,
+   "o": 92,
+   "p": 87,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#QQ9YG8JP",
+   "ath": 19,
+   "d": "#L8RLYLP8",
+   "dth": 19,
+   "dur": 116,
+   "o": 93,
+   "p": 68,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#2LRLCCLYJ",
+   "ath": 19,
+   "d": "#P9PC0R99",
+   "dth": 19,
+   "dur": 155,
+   "o": 94,
+   "p": 84,
+   "s": 2,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -1253,7 +1286,7 @@
  },
  "end": "20261126T193156.000Z",
  "opponent": {
-  "destruction": 97.875,
+  "destruction": 97.9,
   "members": [
    {
     "name": "Bhors23",

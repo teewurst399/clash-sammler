@@ -758,6 +758,61 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#YV8P0R09U",
+   "ath": 18,
+   "d": "#C2GQ2LUJ",
+   "dth": 19,
+   "dur": 140,
+   "o": 70,
+   "p": 75,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#R20LGR0RG",
+   "ath": 15,
+   "d": "#R98PRR0V8",
+   "dth": 16,
+   "dur": 180,
+   "o": 71,
+   "p": 81,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#PJUJ2J0R",
+   "ath": 16,
+   "d": "#YRYQ2V8R8",
+   "dth": 17,
+   "dur": 113,
+   "o": 72,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#R20LGR0RG",
+   "ath": 15,
+   "d": "#QUULPGJY0",
+   "dth": 14,
+   "dur": 106,
+   "o": 73,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#9RQPRRRV",
+   "ath": 19,
+   "d": "#LY2PCYUCP",
+   "dth": 19,
+   "dur": 134,
+   "o": 74,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -921,7 +976,7 @@
  },
  "end": "20261126T155127.000Z",
  "opponent": {
-  "destruction": 98.88,
+  "destruction": 100.0,
   "members": [
    {
     "name": "obe jon",
@@ -1075,7 +1130,7 @@
    }
   ],
   "name": "The Kings",
-  "stars": 73,
+  "stars": 75,
   "tag": "#2J92J8YCY"
  },
  "start": "20261125T155127.000Z",

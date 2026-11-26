@@ -351,11 +351,121 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#820C9QCR",
+   "ath": 19,
+   "d": "#8LQGYYVP",
+   "dth": 19,
+   "dur": 117,
+   "o": 33,
+   "p": 80,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#2G02080V2",
+   "ath": 19,
+   "d": "#G2LV8L92J",
+   "dth": 19,
+   "dur": 173,
+   "o": 34,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#2G02080V2",
+   "ath": 19,
+   "d": "#9PP20URUL",
+   "dth": 19,
+   "dur": 154,
+   "o": 35,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#YUCPJ2UJ8",
+   "ath": 19,
+   "d": "#CGQLLPUV",
+   "dth": 19,
+   "dur": 103,
+   "o": 36,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#YUCPJ2UJ8",
+   "ath": 19,
+   "d": "#J0UJP8GR",
+   "dth": 19,
+   "dur": 127,
+   "o": 37,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#YQRR828C",
+   "ath": 19,
+   "d": "#JUJ9QCUR",
+   "dth": 19,
+   "dur": 154,
+   "o": 38,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#LPLQQY88V",
+   "ath": 19,
+   "d": "#8LQGYYVP",
+   "dth": 19,
+   "dur": 145,
+   "o": 39,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#LPLQQY88V",
+   "ath": 19,
+   "d": "#PQ9GVJ9GJ",
+   "dth": 19,
+   "dur": 94,
+   "o": 40,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#YQRR828C",
+   "ath": 19,
+   "d": "#9LJCR89CQ",
+   "dth": 19,
+   "dur": 150,
+   "o": 41,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#20YQVQLYC",
+   "ath": 19,
+   "d": "#2QGCPVJV2",
+   "dth": 19,
+   "dur": 135,
+   "o": 42,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 31.933332,
+  "destruction": 38.755554,
   "members": [
    {
     "name": "FL • SKINNYJIMM",
@@ -629,12 +739,12 @@
    }
   ],
   "name": "FruchtLabor",
-  "stars": 40,
+  "stars": 50,
   "tag": "#28LYJ29CQ"
  },
  "end": "20261127T092103.000Z",
  "opponent": {
-  "destruction": 25.777779,
+  "destruction": 33.333332,
   "members": [
    {
     "name": "虎啸⭐️⚔️逆天⚔️⭐️",
@@ -908,7 +1018,7 @@
    }
   ],
   "name": "虎标万金油",
-  "stars": 34,
+  "stars": 45,
   "tag": "#2P2UQR0UY"
  },
  "start": "20261126T092103.000Z",

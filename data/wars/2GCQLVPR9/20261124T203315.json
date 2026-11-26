@@ -527,11 +527,55 @@
    "p": 94,
    "s": 2,
    "side": "clan"
+  },
+  {
+   "a": "#9PYLJUUY2",
+   "ath": 19,
+   "d": "#YQ2RYVCLJ",
+   "dth": 19,
+   "dur": 148,
+   "o": 49,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#9PYLJUUY2",
+   "ath": 19,
+   "d": "#YURLGRQQQ",
+   "dth": 19,
+   "dur": 140,
+   "o": 50,
+   "p": 84,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#LUP0UYLPC",
+   "ath": 19,
+   "d": "#LL2U0UQPV",
+   "dth": 19,
+   "dur": 94,
+   "o": 51,
+   "p": 91,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#LUP0UYLPC",
+   "ath": 19,
+   "d": "#YVU0G8JP",
+   "dth": 19,
+   "dur": 102,
+   "o": 52,
+   "p": 74,
+   "s": 1,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 72.8,
+  "destruction": 73.3,
   "members": [
    {
     "name": "×ºkͥyuͣuͫº×",
@@ -655,7 +699,7 @@
    }
   ],
   "name": "Thirdzone",
-  "stars": 40,
+  "stars": 41,
   "tag": "#2GCQLVPR9"
  },
  "end": "20261126T193315.000Z",
