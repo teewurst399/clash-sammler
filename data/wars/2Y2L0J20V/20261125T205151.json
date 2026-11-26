@@ -417,11 +417,77 @@
    "p": 97,
    "s": 2,
    "side": "gegner"
+  },
+  {
+   "a": "#G0VRYC8YY",
+   "ath": 19,
+   "d": "#QCYCJ9V0L",
+   "dth": 19,
+   "dur": 133,
+   "o": 39,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#G0VRYC8YY",
+   "ath": 19,
+   "d": "#QYQ0J298J",
+   "dth": 19,
+   "dur": 124,
+   "o": 40,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#20VYG2LU0",
+   "ath": 19,
+   "d": "#PQUUQUQU8",
+   "dth": 19,
+   "dur": 167,
+   "o": 41,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#20VYG2LU0",
+   "ath": 19,
+   "d": "#208CYLPQ8",
+   "dth": 19,
+   "dur": 166,
+   "o": 42,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#289C2J2CR",
+   "ath": 19,
+   "d": "#JY2V99CR",
+   "dth": 19,
+   "dur": 87,
+   "o": 43,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#289C2J2CR",
+   "ath": 19,
+   "d": "#L29V9VLG0",
+   "dth": 19,
+   "dur": 180,
+   "o": 44,
+   "p": 73,
+   "s": 2,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 48.975,
+  "destruction": 54.425,
   "members": [
    {
     "name": "Chiko",
@@ -665,12 +731,12 @@
    }
   ],
   "name": "GermanGladiator",
-  "stars": 55,
+  "stars": 63,
   "tag": "#2Y2L0J20V"
  },
  "end": "20261127T195151.000Z",
  "opponent": {
-  "destruction": 32.425,
+  "destruction": 36.75,
   "members": [
    {
     "name": "HS 今 DURSUN•1•™",
@@ -914,7 +980,7 @@
    }
   ],
   "name": "(PİNNACLE)",
-  "stars": 38,
+  "stars": 43,
   "tag": "#8PRJG29V"
  },
  "start": "20261126T195151.000Z",

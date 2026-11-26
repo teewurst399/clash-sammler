@@ -329,11 +329,55 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#Q2YLGJ2UY",
+   "ath": 19,
+   "d": "#9902CQR0",
+   "dth": 19,
+   "dur": 115,
+   "o": 31,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#P29YRVGJ",
+   "ath": 19,
+   "d": "#89LJJRL9",
+   "dth": 19,
+   "dur": 122,
+   "o": 32,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#P29YRVGJ",
+   "ath": 19,
+   "d": "#8CVJ8JY2",
+   "dth": 19,
+   "dur": 117,
+   "o": 33,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#LPP0RRG2V",
+   "ath": 19,
+   "d": "#P29YRVGJ",
+   "dth": 19,
+   "dur": 155,
+   "o": 34,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 37.025,
+  "destruction": 42.025,
   "members": [
    {
     "name": "FL • ZΞЯБΞЯЦS³",
@@ -577,12 +621,12 @@
    }
   ],
   "name": "FruchtLabörchen",
-  "stars": 42,
+  "stars": 48,
   "tag": "#2RYP8PQRG"
  },
  "end": "20261127T200631.000Z",
  "opponent": {
-  "destruction": 28.1,
+  "destruction": 31.075,
   "members": [
    {
     "name": "Mario",
@@ -826,7 +870,7 @@
    }
   ],
   "name": "Italian Gods",
-  "stars": 29,
+  "stars": 33,
   "tag": "#8Q0P98GY"
  },
  "start": "20261126T200631.000Z",

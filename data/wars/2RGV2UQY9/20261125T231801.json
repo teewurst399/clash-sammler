@@ -1,8 +1,185 @@
 {
- "attacks": [],
+ "attacks": [
+  {
+   "a": "#2PRR8VVUJ",
+   "ath": 19,
+   "d": "#PGRYQCJQJ",
+   "dth": 19,
+   "dur": 136,
+   "o": 1,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#2PRR8VVUJ",
+   "ath": 19,
+   "d": "#98PQYQLP0",
+   "dth": 19,
+   "dur": 104,
+   "o": 2,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#LQGU0PRPV",
+   "ath": 19,
+   "d": "#LU9UGJ2G8",
+   "dth": 19,
+   "dur": 130,
+   "o": 3,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#LU9UGJ2G8",
+   "ath": 19,
+   "d": "#2PLJ0RVU",
+   "dth": 19,
+   "dur": 118,
+   "o": 4,
+   "p": 65,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#LU9UGJ2G8",
+   "ath": 19,
+   "d": "#GJ0R9P92Y",
+   "dth": 19,
+   "dur": 93,
+   "o": 5,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#LQGU0PRPV",
+   "ath": 19,
+   "d": "#2CL2LCUV",
+   "dth": 19,
+   "dur": 180,
+   "o": 6,
+   "p": 94,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#Y2VPJGYJ",
+   "ath": 19,
+   "d": "#GV9922J0",
+   "dth": 19,
+   "dur": 90,
+   "o": 7,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#GV9922J0",
+   "ath": 19,
+   "d": "#PQJ0QPGC",
+   "dth": 19,
+   "dur": 180,
+   "o": 8,
+   "p": 81,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#Y2VPJGYJ",
+   "ath": 19,
+   "d": "#2CL2LCUV",
+   "dth": 19,
+   "dur": 91,
+   "o": 9,
+   "p": 81,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#GV9922J0",
+   "ath": 19,
+   "d": "#Q88YP8J9",
+   "dth": 19,
+   "dur": 180,
+   "o": 10,
+   "p": 71,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#QJ28VP9P2",
+   "ath": 19,
+   "d": "#LL92LUPLR",
+   "dth": 19,
+   "dur": 137,
+   "o": 11,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#28QYCCPP",
+   "ath": 19,
+   "d": "#2CL2LCUV",
+   "dth": 19,
+   "dur": 123,
+   "o": 12,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#QJ28VP9P2",
+   "ath": 19,
+   "d": "#L202VGU22",
+   "dth": 19,
+   "dur": 107,
+   "o": 13,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#28QYCCPP",
+   "ath": 19,
+   "d": "#QQJCJ8C9G",
+   "dth": 19,
+   "dur": 80,
+   "o": 14,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#90RV8RGU",
+   "ath": 19,
+   "d": "#9UVRLQQLG",
+   "dth": 19,
+   "dur": 140,
+   "o": 15,
+   "p": 89,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#90RV8RGU",
+   "ath": 19,
+   "d": "#82908L9LL",
+   "dth": 19,
+   "dur": 139,
+   "o": 16,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  }
+ ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 0.0,
+  "destruction": 7.925,
   "members": [
    {
     "name": "pAx",
@@ -246,12 +423,12 @@
    }
   ],
   "name": "FruchtLabor III",
-  "stars": 0,
+  "stars": 9,
   "tag": "#2RGV2UQY9"
  },
  "end": "20261127T221801.000Z",
  "opponent": {
-  "destruction": 0.0,
+  "destruction": 24.725,
   "members": [
    {
     "name": "TheDeadKenny",
@@ -495,7 +672,7 @@
    }
   ],
   "name": "Team Winter X",
-  "stars": 0,
+  "stars": 29,
   "tag": "#2JPVV99RP"
  },
  "start": "20261126T221801.000Z",

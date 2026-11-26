@@ -989,11 +989,77 @@
    "p": 4,
    "s": 1,
    "side": "gegner"
+  },
+  {
+   "a": "#Q2V9LQPQ8",
+   "ath": 19,
+   "d": "#G9G020RJ",
+   "dth": 18,
+   "dur": 159,
+   "o": 91,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#Q2V9LQPQ8",
+   "ath": 19,
+   "d": "#GJLCQCL9R",
+   "dth": 16,
+   "dur": 102,
+   "o": 92,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#GJLCQCL9R",
+   "ath": 16,
+   "d": "#Q2RC8YY9U",
+   "dth": 19,
+   "dur": 180,
+   "o": 93,
+   "p": 80,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#PQC82YULC",
+   "ath": 19,
+   "d": "#QQ9Y0YP0G",
+   "dth": 19,
+   "dur": 113,
+   "o": 94,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#L9JU28J8",
+   "ath": 19,
+   "d": "#YGPCVRJGG",
+   "dth": 19,
+   "dur": 18,
+   "o": 95,
+   "p": 12,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#L9JU28J8",
+   "ath": 19,
+   "d": "#P2P2GCP0",
+   "dth": 19,
+   "dur": 19,
+   "o": 96,
+   "p": 15,
+   "s": 1,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 95.0,
+  "destruction": 100.0,
   "members": [
    {
     "name": "Travel327",
@@ -1237,12 +1303,12 @@
    }
   ],
   "name": "Der Obstorden",
-  "stars": 114,
+  "stars": 120,
   "tag": "#2Q8QPCUCU"
  },
  "end": "20261127T085629.000Z",
  "opponent": {
-  "destruction": 76.025,
+  "destruction": 75.925,
   "members": [
    {
     "name": "❤Sâu❤Shi❤",
@@ -1486,7 +1552,7 @@
    }
   ],
   "name": "VIETNAM COC",
-  "stars": 87,
+  "stars": 89,
   "tag": "#222V9RJVU"
  },
  "start": "20261126T085629.000Z",

@@ -219,11 +219,55 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#RUYUU9G",
+   "ath": 19,
+   "d": "#U0LG2GQR",
+   "dth": 19,
+   "dur": 136,
+   "o": 21,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#LUGPYLUP",
+   "ath": 19,
+   "d": "#29GLUQ2VJ",
+   "dth": 19,
+   "dur": 116,
+   "o": 22,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#RUYUU9G",
+   "ath": 19,
+   "d": "#J2LPCPYP",
+   "dth": 18,
+   "dur": 159,
+   "o": 23,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#LUGPYLUP",
+   "ath": 19,
+   "d": "#8V90UPRG",
+   "dth": 19,
+   "dur": 96,
+   "o": 24,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 39.56,
+  "destruction": 52.0,
   "members": [
    {
     "name": "joni",
@@ -377,7 +421,7 @@
    }
   ],
   "name": "German⚡️Elite™️",
-  "stars": 29,
+  "stars": 39,
   "tag": "#29RCYPYVU"
  },
  "end": "20261127T191133.000Z",

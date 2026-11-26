@@ -164,11 +164,110 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#2JP9L009",
+   "ath": 19,
+   "d": "#PR0YVJG8",
+   "dth": 19,
+   "dur": 170,
+   "o": 16,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#YJ28JRR9Y",
+   "ath": 19,
+   "d": "#YGUU9U8Q",
+   "dth": 19,
+   "dur": 153,
+   "o": 17,
+   "p": 79,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#20PJ02GC2",
+   "ath": 19,
+   "d": "#JRPLCCU",
+   "dth": 19,
+   "dur": 172,
+   "o": 18,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#QJVURPLL9",
+   "ath": 19,
+   "d": "#CVUQLG2C",
+   "dth": 19,
+   "dur": 117,
+   "o": 19,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#JRPLCCU",
+   "ath": 19,
+   "d": "#2YRCVQP0G",
+   "dth": 19,
+   "dur": 180,
+   "o": 20,
+   "p": 97,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#PQ28PPRJY",
+   "ath": 19,
+   "d": "#QPU9C029L",
+   "dth": 19,
+   "dur": 180,
+   "o": 21,
+   "p": 96,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#PQ28PPRJY",
+   "ath": 19,
+   "d": "#20PJ02GC2",
+   "dth": 19,
+   "dur": 180,
+   "o": 22,
+   "p": 96,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#PCLUQPYR2",
+   "ath": 19,
+   "d": "#2YRCVQP0G",
+   "dth": 19,
+   "dur": 172,
+   "o": 23,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#QJVURPLL9",
+   "ath": 19,
+   "d": "#99YG8VJG",
+   "dth": 19,
+   "dur": 180,
+   "o": 24,
+   "p": 97,
+   "s": 2,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 15.488889,
+  "destruction": 19.933332,
   "members": [
    {
     "name": "RB",
@@ -442,12 +541,12 @@
    }
   ],
   "name": "Legacy",
-  "stars": 19,
+  "stars": 25,
   "tag": "#2RQR02LJR"
  },
  "end": "20261127T214604.000Z",
  "opponent": {
-  "destruction": 10.644444,
+  "destruction": 19.444445,
   "members": [
    {
     "name": "TW Koprols",
@@ -721,7 +820,7 @@
    }
   ],
   "name": "Team Winter Ice",
-  "stars": 12,
+  "stars": 22,
   "tag": "#P8PGVJJQ"
  },
  "start": "20261126T214604.000Z",

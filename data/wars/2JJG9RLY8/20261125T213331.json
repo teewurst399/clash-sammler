@@ -120,6 +120,17 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#2C0VYL0U9",
+   "ath": 19,
+   "d": "#GLU2RYQUQ",
+   "dth": 19,
+   "dur": 144,
+   "o": 12,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -313,7 +324,7 @@
  },
  "end": "20261127T203331.000Z",
  "opponent": {
-  "destruction": 20.266666,
+  "destruction": 23.6,
   "members": [
    {
     "name": "AlIg47oR",
@@ -497,7 +508,7 @@
    }
   ],
   "name": "UKRAINE",
-  "stars": 16,
+  "stars": 19,
   "tag": "#2GYGCPV"
  },
  "start": "20261126T203331.000Z",

@@ -219,11 +219,132 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#G98LV9LR0",
+   "ath": 18,
+   "d": "#8VVC2LYCG",
+   "dth": 19,
+   "dur": 126,
+   "o": 21,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#RJCYLUJG",
+   "ath": 18,
+   "d": "#GUVJ2JV0V",
+   "dth": 19,
+   "dur": 79,
+   "o": 22,
+   "p": 73,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#RJCYLUJG",
+   "ath": 18,
+   "d": "#8C2YLQUJ",
+   "dth": 19,
+   "dur": 95,
+   "o": 23,
+   "p": 53,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#9UGU90YUR",
+   "ath": 18,
+   "d": "#GV0RJ0082",
+   "dth": 18,
+   "dur": 160,
+   "o": 24,
+   "p": 74,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#8C8Q8000L",
+   "ath": 19,
+   "d": "#L2PCQ8908",
+   "dth": 19,
+   "dur": 144,
+   "o": 25,
+   "p": 78,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#9UGU90YUR",
+   "ath": 18,
+   "d": "#LCQLPVQV9",
+   "dth": 19,
+   "dur": 158,
+   "o": 26,
+   "p": 79,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#Q8G8QLQYC",
+   "ath": 19,
+   "d": "#LVLRC02UY",
+   "dth": 19,
+   "dur": 62,
+   "o": 27,
+   "p": 72,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#LRJQU2PQ",
+   "ath": 19,
+   "d": "#QCG8VYJJ",
+   "dth": 19,
+   "dur": 159,
+   "o": 28,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#LRJQU2PQ",
+   "ath": 19,
+   "d": "#2V929YC0L",
+   "dth": 19,
+   "dur": 144,
+   "o": 29,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#RGYV8GVJ",
+   "ath": 19,
+   "d": "#22UCVPV9",
+   "dth": 19,
+   "dur": 180,
+   "o": 30,
+   "p": 99,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#RGYV8GVJ",
+   "ath": 19,
+   "d": "#9288CYV9Y",
+   "dth": 19,
+   "dur": 139,
+   "o": 31,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 13.133333,
+  "destruction": 24.222221,
   "members": [
    {
     "name": "Saheb",
@@ -497,12 +618,12 @@
    }
   ],
   "name": "Secondzone",
-  "stars": 17,
+  "stars": 31,
   "tag": "#2QQPYRRCU"
  },
  "end": "20261127T205844.000Z",
  "opponent": {
-  "destruction": 24.0,
+  "destruction": 31.955555,
   "members": [
    {
     "name": "KRT",
@@ -776,7 +897,7 @@
    }
   ],
   "name": "ATRAPADOS",
-  "stars": 28,
+  "stars": 38,
   "tag": "#RUJ0QL8"
  },
  "start": "20261126T205844.000Z",

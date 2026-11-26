@@ -87,11 +87,22 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#GUQRRUVL2",
+   "ath": 15,
+   "d": "#R0VU2CRRC",
+   "dth": 16,
+   "dur": 101,
+   "o": 9,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 38.4,
+  "destruction": 43.4,
   "members": [
    {
     "name": "mobe2",
@@ -215,7 +226,7 @@
    }
   ],
   "name": "Get Smurfed!",
-  "stars": 23,
+  "stars": 26,
   "tag": "#2J0JLGRRR"
  },
  "end": "20261127T195210.000Z",

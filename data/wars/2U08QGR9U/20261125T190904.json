@@ -395,6 +395,61 @@
    "p": 93,
    "s": 1,
    "side": "gegner"
+  },
+  {
+   "a": "#G0RGPCL9C",
+   "ath": 19,
+   "d": "#LCVJ0GGVL",
+   "dth": 19,
+   "dur": 104,
+   "o": 37,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#92J00RGVU",
+   "ath": 19,
+   "d": "#LUCCRG0JY",
+   "dth": 19,
+   "dur": 135,
+   "o": 38,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#YCLUUGR9Q",
+   "ath": 19,
+   "d": "#292PCPYQU",
+   "dth": 19,
+   "dur": 161,
+   "o": 39,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#YCLUUGR9Q",
+   "ath": 19,
+   "d": "#CYY22JGV",
+   "dth": 19,
+   "dur": 142,
+   "o": 40,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#92J00RGVU",
+   "ath": 19,
+   "d": "#9UJRVYRCV",
+   "dth": 19,
+   "dur": 164,
+   "o": 41,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -678,7 +733,7 @@
  },
  "end": "20261127T180904.000Z",
  "opponent": {
-  "destruction": 44.644444,
+  "destruction": 51.6,
   "members": [
    {
     "name": "ســـمـــســـم",
@@ -952,7 +1007,7 @@
    }
   ],
   "name": "ابطال العالم",
-  "stars": 55,
+  "stars": 66,
   "tag": "#209PGY8GP"
  },
  "start": "20261126T180904.000Z",

@@ -186,11 +186,132 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#2U9J08929",
+   "ath": 19,
+   "d": "#YU0LRYY08",
+   "dth": 19,
+   "dur": 117,
+   "o": 18,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#2U9J08929",
+   "ath": 19,
+   "d": "#2992VQV9U",
+   "dth": 19,
+   "dur": 100,
+   "o": 19,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#LGGJ9PPG",
+   "ath": 19,
+   "d": "#PLCGL8RC",
+   "dth": 19,
+   "dur": 172,
+   "o": 20,
+   "p": 74,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#9GCQGPJQJ",
+   "ath": 19,
+   "d": "#C0JJJR8R",
+   "dth": 19,
+   "dur": 154,
+   "o": 21,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#UPUQYPQG",
+   "ath": 19,
+   "d": "#2G9Q9JVJ",
+   "dth": 19,
+   "dur": 127,
+   "o": 22,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#QY22L2QP9",
+   "ath": 19,
+   "d": "#Y00YPJUG",
+   "dth": 19,
+   "dur": 175,
+   "o": 23,
+   "p": 87,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#QY22L2QP9",
+   "ath": 19,
+   "d": "#GUJQ0LYP",
+   "dth": 19,
+   "dur": 128,
+   "o": 24,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#UPUQYPQG",
+   "ath": 19,
+   "d": "#RPUGV8VV",
+   "dth": 19,
+   "dur": 126,
+   "o": 25,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#9GCQGPJQJ",
+   "ath": 19,
+   "d": "#VQV8PC0L",
+   "dth": 19,
+   "dur": 158,
+   "o": 26,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#2G2RUVJYP",
+   "ath": 19,
+   "d": "#GJL28LPV",
+   "dth": 19,
+   "dur": 169,
+   "o": 27,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#2G2RUVJYP",
+   "ath": 19,
+   "d": "#QY22L2QP9",
+   "dth": 19,
+   "dur": 163,
+   "o": 28,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 25.0,
+  "destruction": 35.0,
   "members": [
    {
     "name": "Nils^_^",
@@ -434,12 +555,12 @@
    }
   ],
   "name": "Northfront",
-  "stars": 30,
+  "stars": 42,
   "tag": "#2GLJCLYPU"
  },
  "end": "20261127T213041.000Z",
  "opponent": {
-  "destruction": 15.425,
+  "destruction": 30.425,
   "members": [
    {
     "name": "FN Tiger",
@@ -683,7 +804,7 @@
    }
   ],
   "name": "BCN ESPARTANS",
-  "stars": 15,
+  "stars": 32,
   "tag": "#9QPG0LP2"
  },
  "start": "20261126T213041.000Z",

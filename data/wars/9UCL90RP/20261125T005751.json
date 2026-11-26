@@ -1693,6 +1693,17 @@
    "p": 86,
    "s": 1,
    "side": "gegner"
+  },
+  {
+   "a": "#GJLCLQL",
+   "ath": 19,
+   "d": "#9RYVQCY02",
+   "dth": 19,
+   "dur": 180,
+   "o": 155,
+   "p": 99,
+   "s": 2,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -1976,7 +1987,7 @@
  },
  "end": "20261126T235751.000Z",
  "opponent": {
-  "destruction": 98.35555,
+  "destruction": 98.888885,
   "members": [
    {
     "name": "STR∆NGER",
