@@ -538,11 +538,110 @@
    "p": 96,
    "s": 2,
    "side": "clan"
+  },
+  {
+   "a": "#U9PVJ9UY",
+   "ath": 19,
+   "d": "#GJLCLQL",
+   "dth": 19,
+   "dur": 146,
+   "o": 50,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#C88U9VJ0",
+   "ath": 19,
+   "d": "#QLY0RCVJ",
+   "dth": 19,
+   "dur": 103,
+   "o": 51,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#C88U9VJ0",
+   "ath": 19,
+   "d": "#P8R0G28Q",
+   "dth": 19,
+   "dur": 129,
+   "o": 52,
+   "p": 77,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#YCUC8P2C",
+   "ath": 19,
+   "d": "#JY2UPG8P",
+   "dth": 19,
+   "dur": 107,
+   "o": 53,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#9JQ2PQV9G",
+   "ath": 19,
+   "d": "#G9GL20GLG",
+   "dth": 19,
+   "dur": 74,
+   "o": 54,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#9JQ2PQV9G",
+   "ath": 19,
+   "d": "#2L9C28098",
+   "dth": 19,
+   "dur": 104,
+   "o": 55,
+   "p": 81,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#YCUC8P2C",
+   "ath": 19,
+   "d": "#8RR0JCGV",
+   "dth": 19,
+   "dur": 109,
+   "o": 56,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#2YVGGYYG8",
+   "ath": 19,
+   "d": "#9UGP2RP8G",
+   "dth": 19,
+   "dur": 167,
+   "o": 57,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#G8LUY00U",
+   "ath": 19,
+   "d": "#8Y09UQYLU",
+   "dth": 19,
+   "dur": 124,
+   "o": 58,
+   "p": 83,
+   "s": 2,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 28.688889,
+  "destruction": 39.488888,
   "members": [
    {
     "name": "ROBINJO*ALIHAN",
@@ -816,12 +915,12 @@
    }
   ],
   "name": "Eiskalte Engel",
-  "stars": 37,
+  "stars": 51,
   "tag": "#9UCL90RP"
  },
  "end": "20261126T235751.000Z",
  "opponent": {
-  "destruction": 61.044445,
+  "destruction": 66.82222,
   "members": [
    {
     "name": "STR∆NGER",
@@ -1095,7 +1194,7 @@
    }
   ],
   "name": "\"THE 6\"",
-  "stars": 73,
+  "stars": 80,
   "tag": "#90RCQ008"
  },
  "start": "20261125T235751.000Z",

@@ -725,6 +725,39 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#28JP8J8LL",
+   "ath": 19,
+   "d": "#PV9J2J9UG",
+   "dth": 19,
+   "dur": 139,
+   "o": 67,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#28JP8J8LL",
+   "ath": 19,
+   "d": "#LPJYR2288",
+   "dth": 19,
+   "dur": 125,
+   "o": 68,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#90QJ89VY2",
+   "ath": 19,
+   "d": "#890V898QP",
+   "dth": 19,
+   "dur": 140,
+   "o": 69,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -948,7 +981,7 @@
  },
  "end": "20261126T190542.000Z",
  "opponent": {
-  "destruction": 91.42857,
+  "destruction": 100.0,
   "members": [
    {
     "name": "JK❗️HAIDER",
@@ -1162,7 +1195,7 @@
    }
   ],
   "name": "JK EMPIRE",
-  "stars": 96,
+  "stars": 105,
   "tag": "#2JY9P80GR"
  },
  "start": "20261125T190542.000Z",

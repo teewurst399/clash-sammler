@@ -593,11 +593,66 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#LY909YPL",
+   "ath": 19,
+   "d": "#22Q8PGQU8",
+   "dth": 19,
+   "dur": 139,
+   "o": 55,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#LY909YPL",
+   "ath": 19,
+   "d": "#R8QCQRYY",
+   "dth": 19,
+   "dur": 172,
+   "o": 56,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#22Q8PGQU8",
+   "ath": 19,
+   "d": "#P9GYGLGRJ",
+   "dth": 19,
+   "dur": 180,
+   "o": 57,
+   "p": 88,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#9CC2YGGY",
+   "ath": 19,
+   "d": "#2RJUY9JRP",
+   "dth": 19,
+   "dur": 136,
+   "o": 58,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#88Y82VL0",
+   "ath": 18,
+   "d": "#R9088VPG",
+   "dth": 19,
+   "dur": 180,
+   "o": 59,
+   "p": 97,
+   "s": 2,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 39.8,
+  "destruction": 47.3,
   "members": [
    {
     "name": "Gsälzbrot",
@@ -841,12 +896,12 @@
    }
   ],
   "name": "headstart",
-  "stars": 47,
+  "stars": 56,
   "tag": "#RLQC8QQY"
  },
  "end": "20261126T204406.000Z",
  "opponent": {
-  "destruction": 68.75,
+  "destruction": 68.825,
   "members": [
    {
     "name": "CoCscaro",

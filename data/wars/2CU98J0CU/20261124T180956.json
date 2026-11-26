@@ -956,11 +956,88 @@
    "p": 7,
    "s": 1,
    "side": "gegner"
+  },
+  {
+   "a": "#9V9VJR0CC",
+   "ath": 19,
+   "d": "#P8J20UJP",
+   "dth": 19,
+   "dur": 130,
+   "o": 88,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#9VQVQVRQ",
+   "ath": 19,
+   "d": "#22G0C8L0J",
+   "dth": 19,
+   "dur": 109,
+   "o": 89,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#9VQVQVRQ",
+   "ath": 19,
+   "d": "#Y9UV29U09",
+   "dth": 19,
+   "dur": 112,
+   "o": 90,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#YY8JCJQL",
+   "ath": 19,
+   "d": "#LCCCYCP98",
+   "dth": 19,
+   "dur": 143,
+   "o": 91,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#9L8QGQ22G",
+   "ath": 19,
+   "d": "#8R9CUV2G",
+   "dth": 19,
+   "dur": 22,
+   "o": 92,
+   "p": 17,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#9L8QGQ22G",
+   "ath": 19,
+   "d": "#G0YUJYP02",
+   "dth": 19,
+   "dur": 7,
+   "o": 93,
+   "p": 2,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#YGQQJ0PG2",
+   "ath": 19,
+   "d": "#G0YUJYP02",
+   "dth": 19,
+   "dur": 7,
+   "o": 94,
+   "p": 4,
+   "s": 1,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 77.5,
+  "destruction": 87.5,
   "members": [
    {
     "name": "Patrón",
@@ -1204,7 +1281,7 @@
    }
   ],
   "name": "Throne_of_SRG",
-  "stars": 93,
+  "stars": 105,
   "tag": "#2CU98J0CU"
  },
  "end": "20261126T170956.000Z",

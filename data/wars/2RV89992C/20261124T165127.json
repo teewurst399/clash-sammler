@@ -593,11 +593,77 @@
    "p": 88,
    "s": 2,
    "side": "clan"
+  },
+  {
+   "a": "#PPCPQ8CU0",
+   "ath": 16,
+   "d": "#GVJLJJYQ0",
+   "dth": 16,
+   "dur": 124,
+   "o": 55,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#Q2RRP0GPL",
+   "ath": 15,
+   "d": "#GV9QPPPJG",
+   "dth": 15,
+   "dur": 149,
+   "o": 56,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#208LURYQ9",
+   "ath": 19,
+   "d": "#2VYLJC0V",
+   "dth": 19,
+   "dur": 123,
+   "o": 57,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#208LURYQ9",
+   "ath": 19,
+   "d": "#LCL0L9UGC",
+   "dth": 19,
+   "dur": 106,
+   "o": 58,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#GVJLJJYQ0",
+   "ath": 16,
+   "d": "#9RQPRRRV",
+   "dth": 19,
+   "dur": 180,
+   "o": 59,
+   "p": 91,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#YV8P0R09U",
+   "ath": 18,
+   "d": "#9RQPRRRV",
+   "dth": 19,
+   "dur": 142,
+   "o": 60,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 93.68,
+  "destruction": 100.0,
   "members": [
    {
     "name": "Dschini -L-",
@@ -751,12 +817,12 @@
    }
   ],
   "name": "FruchtLabor V",
-  "stars": 70,
+  "stars": 75,
   "tag": "#2RV89992C"
  },
  "end": "20261126T155127.000Z",
  "opponent": {
-  "destruction": 78.0,
+  "destruction": 83.6,
   "members": [
    {
     "name": "obe jon",
@@ -910,7 +976,7 @@
    }
   ],
   "name": "The Kings",
-  "stars": 57,
+  "stars": 62,
   "tag": "#2J92J8YCY"
  },
  "start": "20261125T155127.000Z",

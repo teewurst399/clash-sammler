@@ -428,11 +428,77 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#Q0V9QV8L",
+   "ath": 19,
+   "d": "#JCJ0RV8C",
+   "dth": 19,
+   "dur": 160,
+   "o": 40,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#Q0V9QV8L",
+   "ath": 19,
+   "d": "#YRP9RVQVQ",
+   "dth": 19,
+   "dur": 180,
+   "o": 41,
+   "p": 94,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#YQQYYQV9Q",
+   "ath": 19,
+   "d": "#2UJ2JG9Y0",
+   "dth": 19,
+   "dur": 108,
+   "o": 42,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#YQQYYQV9Q",
+   "ath": 19,
+   "d": "#LL2U0UQPV",
+   "dth": 19,
+   "dur": 137,
+   "o": 43,
+   "p": 94,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#YVU0G8JP",
+   "ath": 19,
+   "d": "#Y2PVG0YP",
+   "dth": 19,
+   "dur": 94,
+   "o": 44,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#YVU0G8JP",
+   "ath": 19,
+   "d": "#2CJPCJUVJ",
+   "dth": 19,
+   "dur": 158,
+   "o": 45,
+   "p": 93,
+   "s": 2,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 43.3,
+  "destruction": 58.1,
   "members": [
    {
     "name": "×ºkͥyuͣuͫº×",
@@ -556,12 +622,12 @@
    }
   ],
   "name": "Thirdzone",
-  "stars": 23,
+  "stars": 32,
   "tag": "#2GCQLVPR9"
  },
  "end": "20261126T193315.000Z",
  "opponent": {
-  "destruction": 99.6,
+  "destruction": 100.0,
   "members": [
    {
     "name": "Ulli",
@@ -685,7 +751,7 @@
    }
   ],
   "name": "Die Tscheckels",
-  "stars": 59,
+  "stars": 60,
   "tag": "#PJC2R0C9"
  },
  "start": "20261125T193315.000Z",
