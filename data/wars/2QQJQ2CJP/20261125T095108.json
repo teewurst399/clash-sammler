@@ -153,11 +153,44 @@
    "p": 93,
    "s": 2,
    "side": "gegner"
+  },
+  {
+   "a": "#PYQ28LVG",
+   "ath": 19,
+   "d": "#PCY8U98LR",
+   "dth": 19,
+   "dur": 152,
+   "o": 15,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#PYQ28LVG",
+   "ath": 19,
+   "d": "#QJP2QL2CP",
+   "dth": 19,
+   "dur": 138,
+   "o": 16,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#PYQLVV02",
+   "ath": 18,
+   "d": "#LQR2URPL2",
+   "dth": 18,
+   "dur": 141,
+   "o": 17,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 15.0,
+  "destruction": 20.0,
   "members": [
    {
     "name": "Bozz⚡️Bandit",
@@ -281,12 +314,12 @@
    }
   ],
   "name": "Infructus",
-  "stars": 9,
+  "stars": 12,
   "tag": "#2QQJQ2CJP"
  },
  "end": "20261127T085108.000Z",
  "opponent": {
-  "destruction": 49.65,
+  "destruction": 55.0,
   "members": [
    {
     "name": "❤️TÙNG_THUÝ❤️",
@@ -410,7 +443,7 @@
    }
   ],
   "name": "Phu Tho",
-  "stars": 29,
+  "stars": 33,
   "tag": "#VJUUL9Y"
  },
  "start": "20261126T085108.000Z",

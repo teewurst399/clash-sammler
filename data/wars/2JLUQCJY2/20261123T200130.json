@@ -821,7 +821,7 @@
   "tag": "#LPR2RY08"
  },
  "start": "20261124T190130.000Z",
- "state": "inWar",
+ "state": "warEnded",
  "teamSize": 20,
  "type": "krieg"
 }

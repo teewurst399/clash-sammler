@@ -1044,11 +1044,55 @@
    "p": 71,
    "s": 2,
    "side": "gegner"
+  },
+  {
+   "a": "#Q2L08RUR",
+   "ath": 19,
+   "d": "#QULVQCLGU",
+   "dth": 19,
+   "dur": 124,
+   "o": 96,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#Q2L08RUR",
+   "ath": 19,
+   "d": "#8GJURP0JV",
+   "dth": 19,
+   "dur": 122,
+   "o": 97,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#92QPJULCR",
+   "ath": 19,
+   "d": "#C99LQY80",
+   "dth": 19,
+   "dur": 156,
+   "o": 98,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#92QPJULCR",
+   "ath": 19,
+   "d": "#9VLUYYJ02",
+   "dth": 19,
+   "dur": 134,
+   "o": 99,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 79.111115,
+  "destruction": 83.55556,
   "members": [
    {
     "name": "THRON",
@@ -1322,12 +1366,12 @@
    }
   ],
   "name": "SteinFrucht",
-  "stars": 105,
+  "stars": 111,
   "tag": "#2JU9URU2L"
  },
  "end": "20261126T174310.000Z",
  "opponent": {
-  "destruction": 89.53333,
+  "destruction": 90.95556,
   "members": [
    {
     "name": "™MD SHARIF 3",
@@ -1601,7 +1645,7 @@
    }
   ],
   "name": "Furious Spirit",
-  "stars": 113,
+  "stars": 116,
   "tag": "#2RU099RG9"
  },
  "start": "20261125T174310.000Z",

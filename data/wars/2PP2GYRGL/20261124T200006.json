@@ -879,6 +879,17 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#2Y2LUY88P",
+   "ath": 19,
+   "d": "#908YLYQC",
+   "dth": 19,
+   "dur": 161,
+   "o": 81,
+   "p": 82,
+   "s": 2,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -1132,7 +1143,7 @@
  },
  "end": "20261126T190006.000Z",
  "opponent": {
-  "destruction": 49.075,
+  "destruction": 51.125,
   "members": [
    {
     "name": "AC Distignifryd",
@@ -1376,7 +1387,7 @@
    }
   ],
   "name": "active city",
-  "stars": 55,
+  "stars": 57,
   "tag": "#2RRVQY29J"
  },
  "start": "20261125T190006.000Z",
