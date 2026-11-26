@@ -274,11 +274,66 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#YYRY98RLC",
+   "ath": 19,
+   "d": "#2UJ2JG9Y0",
+   "dth": 19,
+   "dur": 180,
+   "o": 26,
+   "p": 92,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#2UJ2JG9Y0",
+   "ath": 19,
+   "d": "#PCLJRRPQR",
+   "dth": 19,
+   "dur": 131,
+   "o": 27,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#YRP9RVQVQ",
+   "ath": 19,
+   "d": "#2V88C9PQ9",
+   "dth": 19,
+   "dur": 180,
+   "o": 28,
+   "p": 98,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#2UJ2JG9Y0",
+   "ath": 19,
+   "d": "#QLGLLJUQ",
+   "dth": 19,
+   "dur": 161,
+   "o": 29,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#JCJ0RV8C",
+   "ath": 19,
+   "d": "#2V88C9PQ9",
+   "dth": 19,
+   "dur": 110,
+   "o": 30,
+   "p": 70,
+   "s": 2,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 18.15,
+  "destruction": 25.0,
   "members": [
    {
     "name": "×ºkͥyuͣuͫº×",
@@ -402,12 +457,12 @@
    }
   ],
   "name": "Thirdzone",
-  "stars": 10,
+  "stars": 15,
   "tag": "#2GCQLVPR9"
  },
  "end": "20261126T193315.000Z",
  "opponent": {
-  "destruction": 88.25,
+  "destruction": 93.65,
   "members": [
    {
     "name": "Ulli",
@@ -531,7 +586,7 @@
    }
   ],
   "name": "Die Tscheckels",
-  "stars": 51,
+  "stars": 54,
   "tag": "#PJC2R0C9"
  },
  "start": "20261125T193315.000Z",

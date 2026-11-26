@@ -670,11 +670,55 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#8V9U89CJ",
+   "ath": 19,
+   "d": "#QRU22CLYU",
+   "dth": 19,
+   "dur": 140,
+   "o": 62,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#PGC9P0Q2C",
+   "ath": 19,
+   "d": "#CCGLLJVY",
+   "dth": 19,
+   "dur": 96,
+   "o": 63,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#PGC9P0Q2C",
+   "ath": 19,
+   "d": "#PUCR80RY",
+   "dth": 19,
+   "dur": 119,
+   "o": 64,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#92JVL0C2",
+   "ath": 19,
+   "d": "#2Y2LUY88P",
+   "dth": 19,
+   "dur": 93,
+   "o": 65,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 85.225,
+  "destruction": 85.725,
   "members": [
    {
     "name": "Salih",
@@ -918,12 +962,12 @@
    }
   ],
   "name": "Hoher Geheimrat",
-  "stars": 100,
+  "stars": 101,
   "tag": "#2PP2GYRGL"
  },
  "end": "20261126T190006.000Z",
  "opponent": {
-  "destruction": 37.175,
+  "destruction": 44.675,
   "members": [
    {
     "name": "AC Distignifryd",
@@ -1167,7 +1211,7 @@
    }
   ],
   "name": "active city",
-  "stars": 42,
+  "stars": 51,
   "tag": "#2RRVQY29J"
  },
  "start": "20261125T190006.000Z",
