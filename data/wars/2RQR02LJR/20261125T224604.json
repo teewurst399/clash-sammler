@@ -923,11 +923,187 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#9YR0C2CGY",
+   "ath": 19,
+   "d": "#89P89GLG",
+   "dth": 19,
+   "dur": 154,
+   "o": 85,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#QR9992ULL",
+   "ath": 19,
+   "d": "#9JR2CRCQQ",
+   "dth": 19,
+   "dur": 170,
+   "o": 86,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#9JR2PRYL",
+   "ath": 19,
+   "d": "#9QRYLU9P",
+   "dth": 19,
+   "dur": 180,
+   "o": 87,
+   "p": 15,
+   "s": 0,
+   "side": "gegner"
+  },
+  {
+   "a": "#9JR2PRYL",
+   "ath": 19,
+   "d": "#20PJ02GC2",
+   "dth": 19,
+   "dur": 172,
+   "o": 88,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#9QRYLU9P",
+   "ath": 19,
+   "d": "#C2GVQC0Q",
+   "dth": 19,
+   "dur": 177,
+   "o": 89,
+   "p": 99,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#PCLUQPYR2",
+   "ath": 19,
+   "d": "#9QRYLU9P",
+   "dth": 19,
+   "dur": 146,
+   "o": 90,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#9QRYLU9P",
+   "ath": 19,
+   "d": "#LLYUP92P8",
+   "dth": 19,
+   "dur": 180,
+   "o": 91,
+   "p": 72,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#G9QJVQGLR",
+   "ath": 19,
+   "d": "#PQ28PPRJY",
+   "dth": 19,
+   "dur": 180,
+   "o": 92,
+   "p": 81,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#RU9QJUL8",
+   "ath": 19,
+   "d": "#PQ28PPRJY",
+   "dth": 19,
+   "dur": 134,
+   "o": 93,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#RU9QJUL8",
+   "ath": 19,
+   "d": "#C2GVQC0Q",
+   "dth": 19,
+   "dur": 107,
+   "o": 94,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#Q8V9LRU9G",
+   "ath": 19,
+   "d": "#PJY0028J8",
+   "dth": 19,
+   "dur": 180,
+   "o": 95,
+   "p": 97,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#G9QJVQGLR",
+   "ath": 19,
+   "d": "#LLYUP92P8",
+   "dth": 19,
+   "dur": 145,
+   "o": 96,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#Q8V9LRU9G",
+   "ath": 19,
+   "d": "#2L9LG8LJ9",
+   "dth": 19,
+   "dur": 130,
+   "o": 97,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#L88YLLURR",
+   "ath": 19,
+   "d": "#YJ28JRR9Y",
+   "dth": 19,
+   "dur": 153,
+   "o": 98,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#8P2UG9QR",
+   "ath": 19,
+   "d": "#9YY9L0GL",
+   "dth": 19,
+   "dur": 180,
+   "o": 99,
+   "p": 98,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#2YPY9QCVJ",
+   "ath": 19,
+   "d": "#LCJQGQL2R",
+   "dth": 19,
+   "dur": 146,
+   "o": 100,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 48.644444,
+  "destruction": 57.77778,
   "members": [
    {
     "name": "RB",
@@ -1201,12 +1377,12 @@
    }
   ],
   "name": "Legacy",
-  "stars": 65,
+  "stars": 78,
   "tag": "#2RQR02LJR"
  },
  "end": "20261127T214604.000Z",
  "opponent": {
-  "destruction": 84.44444,
+  "destruction": 94.35555,
   "members": [
    {
     "name": "TW Koprols",
@@ -1480,7 +1656,7 @@
    }
   ],
   "name": "Team Winter Ice",
-  "stars": 107,
+  "stars": 120,
   "tag": "#P8PGVJJQ"
  },
  "start": "20261126T214604.000Z",

@@ -1231,11 +1231,165 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#8YVUC80UQ",
+   "ath": 19,
+   "d": "#2RRR892G2",
+   "dth": 18,
+   "dur": 81,
+   "o": 113,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#QC0C0P2J",
+   "ath": 19,
+   "d": "#82QCU92UR",
+   "dth": 19,
+   "dur": 146,
+   "o": 114,
+   "p": 94,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#8YVUC80UQ",
+   "ath": 19,
+   "d": "#92J00RGVU",
+   "dth": 19,
+   "dur": 92,
+   "o": 115,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#2RRV98GYC",
+   "ath": 19,
+   "d": "#PGL0R80JR",
+   "dth": 19,
+   "dur": 142,
+   "o": 116,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#2RRV98GYC",
+   "ath": 19,
+   "d": "#82QCU92UR",
+   "dth": 19,
+   "dur": 156,
+   "o": 117,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#GYU2Y00RC",
+   "ath": 19,
+   "d": "#92UL9VV2C",
+   "dth": 19,
+   "dur": 158,
+   "o": 118,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#PJUUR8LP",
+   "ath": 19,
+   "d": "#GR9QCPVC",
+   "dth": 19,
+   "dur": 157,
+   "o": 119,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#GYU2Y00RC",
+   "ath": 19,
+   "d": "#PQP9LQ9GQ",
+   "dth": 19,
+   "dur": 155,
+   "o": 120,
+   "p": 83,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#PJUUR8LP",
+   "ath": 19,
+   "d": "#292PCPYQU",
+   "dth": 19,
+   "dur": 179,
+   "o": 121,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#20UQLQRC8",
+   "ath": 19,
+   "d": "#88L9Y0L98",
+   "dth": 19,
+   "dur": 158,
+   "o": 122,
+   "p": 93,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#YQ8QGLPC",
+   "ath": 19,
+   "d": "#G0RGPCL9C",
+   "dth": 19,
+   "dur": 130,
+   "o": 123,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#YQ8QGLPC",
+   "ath": 19,
+   "d": "#9UUU9PC9L",
+   "dth": 19,
+   "dur": 116,
+   "o": 124,
+   "p": 74,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#8VJ2VGJ02",
+   "ath": 19,
+   "d": "#LPJQYGQ02",
+   "dth": 19,
+   "dur": 133,
+   "o": 125,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#292PCPYQU",
+   "ath": 19,
+   "d": "#89RP82R80",
+   "dth": 19,
+   "dur": 129,
+   "o": 126,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 75.04444,
+  "destruction": 96.155556,
   "members": [
    {
     "name": "FL • Kaiser",
@@ -1509,7 +1663,7 @@
    }
   ],
   "name": "Obstgarten",
-  "stars": 99,
+  "stars": 126,
   "tag": "#2U08QGR9U"
  },
  "end": "20261127T180904.000Z",

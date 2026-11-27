@@ -1396,11 +1396,99 @@
    "p": 95,
    "s": 1,
    "side": "clan"
+  },
+  {
+   "a": "#YVRJ2J0PG",
+   "ath": 19,
+   "d": "#Y9GGUQYJ",
+   "dth": 19,
+   "dur": 170,
+   "o": 128,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#2PR8PRC22",
+   "ath": 19,
+   "d": "#LR8PPC2VR",
+   "dth": 19,
+   "dur": 175,
+   "o": 129,
+   "p": 93,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#2JU2C28YV",
+   "ath": 19,
+   "d": "#J0Q2YUP",
+   "dth": 19,
+   "dur": 180,
+   "o": 130,
+   "p": 87,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#2PR8PRC22",
+   "ath": 19,
+   "d": "#9RPCJ2UR2",
+   "dth": 19,
+   "dur": 174,
+   "o": 131,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#VRVJ8LYG",
+   "ath": 19,
+   "d": "#LR8PPC2VR",
+   "dth": 19,
+   "dur": 67,
+   "o": 132,
+   "p": 63,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#VRVJ8LYG",
+   "ath": 19,
+   "d": "#9RPCJ2UR2",
+   "dth": 19,
+   "dur": 58,
+   "o": 133,
+   "p": 60,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#2VY8PV8G8",
+   "ath": 19,
+   "d": "#VRVJ8LYG",
+   "dth": 19,
+   "dur": 75,
+   "o": 134,
+   "p": 68,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#2VY8PV8G8",
+   "ath": 19,
+   "d": "#YVRJ2J0PG",
+   "dth": 19,
+   "dur": 104,
+   "o": 135,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 99.45,
+  "destruction": 99.525,
   "members": [
    {
     "name": "BB •Nico•",
@@ -1644,7 +1732,7 @@
    }
   ],
   "name": "BrawlerBaller",
-  "stars": 117,
+  "stars": 118,
   "tag": "#2GCRL8L8L"
  },
  "end": "20261127T180001.000Z",

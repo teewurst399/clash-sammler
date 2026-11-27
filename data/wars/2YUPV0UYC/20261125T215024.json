@@ -1088,11 +1088,121 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#RCC0LV0P",
+   "ath": 19,
+   "d": "#8CRYGR8RJ",
+   "dth": 19,
+   "dur": 119,
+   "o": 100,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#J9RRG08G",
+   "ath": 19,
+   "d": "#2CGQ0QGYC",
+   "dth": 19,
+   "dur": 34,
+   "o": 101,
+   "p": 23,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#YP0UCU09",
+   "ath": 19,
+   "d": "#YVUPCJ0",
+   "dth": 19,
+   "dur": 74,
+   "o": 102,
+   "p": 65,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#J9RRG08G",
+   "ath": 19,
+   "d": "#2VCL0PQG0",
+   "dth": 19,
+   "dur": 31,
+   "o": 103,
+   "p": 36,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#RCC0LV0P",
+   "ath": 19,
+   "d": "#2JYQG8UCQ",
+   "dth": 19,
+   "dur": 168,
+   "o": 104,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#2LVPVQC2Q",
+   "ath": 19,
+   "d": "#QC8YJGJCG",
+   "dth": 19,
+   "dur": 114,
+   "o": 105,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#2LVPVQC2Q",
+   "ath": 19,
+   "d": "#9RQJ9QJ9P",
+   "dth": 19,
+   "dur": 135,
+   "o": 106,
+   "p": 96,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#QCVQ090P2",
+   "ath": 19,
+   "d": "#2CGQ0QGYC",
+   "dth": 19,
+   "dur": 136,
+   "o": 107,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#U90YUUQV",
+   "ath": 19,
+   "d": "#8CRP9JPGJ",
+   "dth": 19,
+   "dur": 162,
+   "o": 108,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#U90YUUQV",
+   "ath": 19,
+   "d": "#JGYJC09P",
+   "dth": 19,
+   "dur": 141,
+   "o": 109,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 68.55556,
+  "destruction": 83.244446,
   "members": [
    {
     "name": "LOST☆stefan",
@@ -1366,7 +1476,7 @@
    }
   ],
   "name": "LOST 3",
-  "stars": 90,
+  "stars": 109,
   "tag": "#2YUPV0UYC"
  },
  "end": "20261127T205024.000Z",

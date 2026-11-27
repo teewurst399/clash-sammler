@@ -934,11 +934,143 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#Q88YP8J9",
+   "ath": 19,
+   "d": "#9GQGG08QP",
+   "dth": 19,
+   "dur": 126,
+   "o": 86,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#G98V8P9J",
+   "ath": 19,
+   "d": "#9UVRLQQLG",
+   "dth": 19,
+   "dur": 125,
+   "o": 87,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#YCU0RGUL",
+   "ath": 19,
+   "d": "#Y882JQCJY",
+   "dth": 19,
+   "dur": 135,
+   "o": 88,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#PQGP98RJC",
+   "ath": 19,
+   "d": "#Q88YP8J9",
+   "dth": 19,
+   "dur": 119,
+   "o": 89,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#PCCP0YJP",
+   "ath": 19,
+   "d": "#JVJJLJC2",
+   "dth": 19,
+   "dur": 102,
+   "o": 90,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#PCCP0YJP",
+   "ath": 19,
+   "d": "#QC0RCJU8",
+   "dth": 19,
+   "dur": 105,
+   "o": 91,
+   "p": 84,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#80YR8VGQY",
+   "ath": 19,
+   "d": "#PLJ2R0PJ",
+   "dth": 19,
+   "dur": 163,
+   "o": 92,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#PQGP98RJC",
+   "ath": 19,
+   "d": "#QJ0UCR2C0",
+   "dth": 19,
+   "dur": 119,
+   "o": 93,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#80YR8VGQY",
+   "ath": 19,
+   "d": "#P2R8VJURL",
+   "dth": 19,
+   "dur": 149,
+   "o": 94,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#G2Y80G9",
+   "ath": 19,
+   "d": "#20RUYG99",
+   "dth": 19,
+   "dur": 139,
+   "o": 95,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#QLQVJ0RCR",
+   "ath": 19,
+   "d": "#2Y0YJ0UJY",
+   "dth": 19,
+   "dur": 165,
+   "o": 96,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#QLQVJ0RCR",
+   "ath": 19,
+   "d": "#RJJVU2LP",
+   "dth": 19,
+   "dur": 149,
+   "o": 97,
+   "p": 88,
+   "s": 2,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 82.825,
+  "destruction": 88.55,
   "members": [
    {
     "name": "pAx",
@@ -1182,12 +1314,12 @@
    }
   ],
   "name": "FruchtLabor III",
-  "stars": 96,
+  "stars": 103,
   "tag": "#2RGV2UQY9"
  },
  "end": "20261127T221801.000Z",
  "opponent": {
-  "destruction": 90.725,
+  "destruction": 98.725,
   "members": [
    {
     "name": "TheDeadKenny",
@@ -1431,7 +1563,7 @@
    }
   ],
   "name": "Team Winter X",
-  "stars": 99,
+  "stars": 113,
   "tag": "#2JPVV99RP"
  },
  "start": "20261126T221801.000Z",

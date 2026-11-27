@@ -1077,6 +1077,127 @@
    "p": 94,
    "s": 2,
    "side": "gegner"
+  },
+  {
+   "a": "#8YCVPGVRL",
+   "ath": 19,
+   "d": "#2Y9YU0CQR",
+   "dth": 19,
+   "dur": 98,
+   "o": 99,
+   "p": 69,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#8YCVPGVRL",
+   "ath": 19,
+   "d": "#QGJRCQPR",
+   "dth": 19,
+   "dur": 128,
+   "o": 100,
+   "p": 80,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#8YPP0JY8V",
+   "ath": 19,
+   "d": "#G2GRQJC8",
+   "dth": 19,
+   "dur": 157,
+   "o": 101,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#8YPP0JY8V",
+   "ath": 19,
+   "d": "#9JQYGVGPL",
+   "dth": 19,
+   "dur": 155,
+   "o": 102,
+   "p": 81,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#GP9RYGVRR",
+   "ath": 19,
+   "d": "#9JQYGVGPL",
+   "dth": 19,
+   "dur": 52,
+   "o": 103,
+   "p": 8,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#Q22GPG22",
+   "ath": 19,
+   "d": "#GR9U2PCU",
+   "dth": 19,
+   "dur": 146,
+   "o": 104,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#GP9RYGVRR",
+   "ath": 19,
+   "d": "#UV0C2PGQ",
+   "dth": 19,
+   "dur": 68,
+   "o": 105,
+   "p": 23,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#PRP9GJP92",
+   "ath": 19,
+   "d": "#2Y9YU0CQR",
+   "dth": 19,
+   "dur": 146,
+   "o": 106,
+   "p": 84,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#80JQV9PUY",
+   "ath": 18,
+   "d": "#LJJL8L0",
+   "dth": 19,
+   "dur": 118,
+   "o": 107,
+   "p": 59,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#2JU89YQ9",
+   "ath": 19,
+   "d": "#2Y9YU0CQR",
+   "dth": 19,
+   "dur": 109,
+   "o": 108,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#2JU89YQ9",
+   "ath": 19,
+   "d": "#LJJL8L0",
+   "dth": 19,
+   "dur": 138,
+   "o": 109,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -1330,7 +1451,7 @@
  },
  "end": "20261127T195151.000Z",
  "opponent": {
-  "destruction": 98.175,
+  "destruction": 99.125,
   "members": [
    {
     "name": "HS 今 DURSUN•1•™",
@@ -1574,7 +1695,7 @@
    }
   ],
   "name": "(PİNNACLE)",
-  "stars": 115,
+  "stars": 118,
   "tag": "#8PRJG29V"
  },
  "start": "20261126T195151.000Z",

@@ -1506,6 +1506,94 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#LVPVQPY8G",
+   "ath": 19,
+   "d": "#8J92RCJC2",
+   "dth": 19,
+   "dur": 7,
+   "o": 138,
+   "p": 10,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#RP0GJJR9",
+   "ath": 19,
+   "d": "#2QRYPCV8P",
+   "dth": 19,
+   "dur": 145,
+   "o": 139,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#RP0GJJR9",
+   "ath": 19,
+   "d": "#UQ0G82JP",
+   "dth": 19,
+   "dur": 149,
+   "o": 140,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#8VYJ2VYJQ",
+   "ath": 19,
+   "d": "#L9JGJQRV",
+   "dth": 19,
+   "dur": 122,
+   "o": 141,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#8VYJ2VYJQ",
+   "ath": 19,
+   "d": "#LYR2QYVJQ",
+   "dth": 19,
+   "dur": 171,
+   "o": 142,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#PP29LCYLV",
+   "ath": 19,
+   "d": "#LVPVQPY8G",
+   "dth": 19,
+   "dur": 152,
+   "o": 143,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#PP29LCYLV",
+   "ath": 19,
+   "d": "#8LJ8L8RY8",
+   "dth": 19,
+   "dur": 128,
+   "o": 144,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#LRYRJYLVL",
+   "ath": 19,
+   "d": "#9GUJG9QR",
+   "dth": 19,
+   "dur": 156,
+   "o": 145,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -1819,7 +1907,7 @@
  },
  "end": "20261127T184713.000Z",
  "opponent": {
-  "destruction": 78.78,
+  "destruction": 88.02,
   "members": [
    {
     "name": "✨MAX✨مصطفى",
@@ -2123,7 +2211,7 @@
    }
   ],
   "name": "لا نتشابهہ 》♡",
-  "stars": 114,
+  "stars": 131,
   "tag": "#2RQVPJRYQ"
  },
  "start": "20261126T184713.000Z",
