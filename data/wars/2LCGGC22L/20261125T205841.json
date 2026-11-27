@@ -692,6 +692,28 @@
    "p": 61,
    "s": 1,
    "side": "gegner"
+  },
+  {
+   "a": "#RGRCVLC",
+   "ath": 19,
+   "d": "#V9GQYUCJ",
+   "dth": 19,
+   "dur": 148,
+   "o": 64,
+   "p": 58,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#RGRCVLC",
+   "ath": 19,
+   "d": "#RJPGC2JV",
+   "dth": 19,
+   "dur": 166,
+   "o": 65,
+   "p": 61,
+   "s": 2,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -945,7 +967,7 @@
  },
  "end": "20261127T195841.000Z",
  "opponent": {
-  "destruction": 50.95,
+  "destruction": 53.925,
   "members": [
    {
     "name": "suxl",
@@ -1189,7 +1211,7 @@
    }
   ],
   "name": "ANTICO ESERCITO",
-  "stars": 54,
+  "stars": 57,
   "tag": "#2QQC2098Y"
  },
  "start": "20261126T195841.000Z",

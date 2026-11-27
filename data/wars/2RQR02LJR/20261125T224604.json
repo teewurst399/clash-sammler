@@ -692,11 +692,55 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#PJQUVU9LU",
+   "ath": 19,
+   "d": "#LJC09QPPQ",
+   "dth": 19,
+   "dur": 121,
+   "o": 64,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#YVLLC9G0",
+   "ath": 19,
+   "d": "#88JV0U9LG",
+   "dth": 19,
+   "dur": 143,
+   "o": 65,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#YVLLC9G0",
+   "ath": 19,
+   "d": "#82Y2URVGJ",
+   "dth": 19,
+   "dur": 134,
+   "o": 66,
+   "p": 80,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#L022GPY9",
+   "ath": 19,
+   "d": "#RU9QJUL8",
+   "dth": 19,
+   "dur": 108,
+   "o": 67,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 37.533333,
+  "destruction": 39.755554,
   "members": [
    {
     "name": "RB",
@@ -970,12 +1014,12 @@
    }
   ],
   "name": "Legacy",
-  "stars": 50,
+  "stars": 53,
   "tag": "#2RQR02LJR"
  },
  "end": "20261127T214604.000Z",
  "opponent": {
-  "destruction": 66.68889,
+  "destruction": 72.91111,
   "members": [
    {
     "name": "TW Koprols",
@@ -1249,7 +1293,7 @@
    }
   ],
   "name": "Team Winter Ice",
-  "stars": 82,
+  "stars": 90,
   "tag": "#P8PGVJJQ"
  },
  "start": "20261126T214604.000Z",

@@ -472,11 +472,121 @@
    "p": 81,
    "s": 1,
    "side": "clan"
+  },
+  {
+   "a": "#2LCJPYPUC",
+   "ath": 19,
+   "d": "#YV9U2G9QU",
+   "dth": 19,
+   "dur": 180,
+   "o": 44,
+   "p": 86,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#R9Y089CCC",
+   "ath": 11,
+   "d": "#R9LJJ99Y2",
+   "dth": 10,
+   "dur": 74,
+   "o": 45,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#2P8LLGU99",
+   "ath": 19,
+   "d": "#YV9U2G9QU",
+   "dth": 19,
+   "dur": 172,
+   "o": 46,
+   "p": 99,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#2LCJPYPUC",
+   "ath": 19,
+   "d": "#YUQCCRPJ2",
+   "dth": 19,
+   "dur": 128,
+   "o": 47,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#PJJVPLPRP",
+   "ath": 12,
+   "d": "#RPRCPCRLQ",
+   "dth": 12,
+   "dur": 125,
+   "o": 48,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#PJJVPLPRP",
+   "ath": 12,
+   "d": "#YUQV8LVU0",
+   "dth": 14,
+   "dur": 170,
+   "o": 49,
+   "p": 91,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#QRVVCJCV8",
+   "ath": 15,
+   "d": "#QG8CLGQRJ",
+   "dth": 12,
+   "dur": 87,
+   "o": 50,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#PGYYJ89Y9",
+   "ath": 19,
+   "d": "#2LCJPYPUC",
+   "dth": 19,
+   "dur": 160,
+   "o": 51,
+   "p": 98,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#208CU8URU",
+   "ath": 18,
+   "d": "#Y0809C9QJ",
+   "dth": 18,
+   "dur": 102,
+   "o": 52,
+   "p": 58,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#208CU8URU",
+   "ath": 18,
+   "d": "#G8RPVG9QU",
+   "dth": 18,
+   "dur": 180,
+   "o": 53,
+   "p": 96,
+   "s": 2,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 37.82857,
+  "destruction": 48.942856,
   "members": [
    {
     "name": "Doxos_NM",
@@ -690,12 +800,12 @@
    }
   ],
   "name": "Alphazone",
-  "stars": 37,
+  "stars": 47,
   "tag": "#2YCUCPCC0"
  },
  "end": "20261127T205607.000Z",
  "opponent": {
-  "destruction": 67.37143,
+  "destruction": 77.62857,
   "members": [
    {
     "name": "mary",
@@ -909,7 +1019,7 @@
    }
   ],
   "name": "LasT BreaK ♠️",
-  "stars": 69,
+  "stars": 78,
   "tag": "#8GJ9YJ8Y"
  },
  "start": "20261126T205607.000Z",

@@ -736,11 +736,110 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#2900VJ9LG",
+   "ath": 19,
+   "d": "#GR9U2PCU",
+   "dth": 19,
+   "dur": 169,
+   "o": 68,
+   "p": 82,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#208CYLPQ8",
+   "ath": 19,
+   "d": "#GLUL2CCV",
+   "dth": 19,
+   "dur": 144,
+   "o": 69,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#208CYLPQ8",
+   "ath": 19,
+   "d": "#9229JGPG2",
+   "dth": 19,
+   "dur": 168,
+   "o": 70,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#8U9YV9LJU",
+   "ath": 19,
+   "d": "#L8LG22J80",
+   "dth": 19,
+   "dur": 176,
+   "o": 71,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#8U9YV9LJU",
+   "ath": 19,
+   "d": "#C09PG9P",
+   "dth": 19,
+   "dur": 176,
+   "o": 72,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#2900VJ9LG",
+   "ath": 19,
+   "d": "#P0P8CGGJ",
+   "dth": 19,
+   "dur": 180,
+   "o": 73,
+   "p": 85,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#YC9JQUR9L",
+   "ath": 19,
+   "d": "#9VPV292Q8",
+   "dth": 19,
+   "dur": 74,
+   "o": 74,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#YC9JQUR9L",
+   "ath": 19,
+   "d": "#C88U2CQR",
+   "dth": 19,
+   "dur": 97,
+   "o": 75,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#8GGG2PG90",
+   "ath": 19,
+   "d": "#YJGVVRGYP",
+   "dth": 19,
+   "dur": 140,
+   "o": 76,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 74.425,
+  "destruction": 77.25,
   "members": [
    {
     "name": "Chiko",
@@ -984,12 +1083,12 @@
    }
   ],
   "name": "GermanGladiator",
-  "stars": 87,
+  "stars": 92,
   "tag": "#2Y2L0J20V"
  },
  "end": "20261127T195151.000Z",
  "opponent": {
-  "destruction": 61.925,
+  "destruction": 78.6,
   "members": [
    {
     "name": "HS 今 DURSUN•1•™",
@@ -1233,7 +1332,7 @@
    }
   ],
   "name": "(PİNNACLE)",
-  "stars": 74,
+  "stars": 93,
   "tag": "#8PRJG29V"
  },
  "start": "20261126T195151.000Z",
