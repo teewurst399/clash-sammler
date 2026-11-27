@@ -923,6 +923,39 @@
    "p": 84,
    "s": 2,
    "side": "gegner"
+  },
+  {
+   "a": "#9098LQP22",
+   "ath": 18,
+   "d": "#GV9V88LJ",
+   "dth": 19,
+   "dur": 165,
+   "o": 85,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#28Y9YYYQP",
+   "ath": 19,
+   "d": "#2GP0GVGC",
+   "dth": 19,
+   "dur": 165,
+   "o": 86,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#28Y9YYYQP",
+   "ath": 19,
+   "d": "#8V08GR2L2",
+   "dth": 19,
+   "dur": 180,
+   "o": 87,
+   "p": 84,
+   "s": 2,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -1236,7 +1269,7 @@
  },
  "end": "20261127T184713.000Z",
  "opponent": {
-  "destruction": 60.94,
+  "destruction": 66.62,
   "members": [
    {
     "name": "✨MAX✨مصطفى",
@@ -1540,7 +1573,7 @@
    }
   ],
   "name": "لا نتشابهہ 》♡",
-  "stars": 82,
+  "stars": 90,
   "tag": "#2RQVPJRYQ"
  },
  "start": "20261126T184713.000Z",

@@ -857,11 +857,55 @@
    "p": 74,
    "s": 2,
    "side": "gegner"
+  },
+  {
+   "a": "#9CYPGRCJ2",
+   "ath": 19,
+   "d": "#8PLVR82QC",
+   "dth": 19,
+   "dur": 156,
+   "o": 79,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#9CYPGRCJ2",
+   "ath": 19,
+   "d": "#YU92LVVC",
+   "dth": 19,
+   "dur": 113,
+   "o": 80,
+   "p": 68,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#QCCVUPR22",
+   "ath": 18,
+   "d": "#YGJ99PUY",
+   "dth": 18,
+   "dur": 135,
+   "o": 81,
+   "p": 83,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#QY0QVYCJY",
+   "ath": 19,
+   "d": "#YGJ99PUY",
+   "dth": 18,
+   "dur": 165,
+   "o": 82,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 68.4,
+  "destruction": 71.25714,
   "members": [
    {
     "name": "vllo",
@@ -1075,7 +1119,7 @@
    }
   ],
   "name": "Rising Phoenix",
-  "stars": 71,
+  "stars": 74,
   "tag": "#Y9VU09JL"
  },
  "end": "20261127T113555.000Z",

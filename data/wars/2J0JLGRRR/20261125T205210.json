@@ -285,11 +285,55 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#R0VU2CRRC",
+   "ath": 16,
+   "d": "#QY0CUGGYR",
+   "dth": 14,
+   "dur": 132,
+   "o": 27,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#R0VU2CRRC",
+   "ath": 16,
+   "d": "#R9CP02GCY",
+   "dth": 17,
+   "dur": 109,
+   "o": 28,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#R9VUQV2GJ",
+   "ath": 11,
+   "d": "#R2882V8QY",
+   "dth": 11,
+   "dur": 99,
+   "o": 29,
+   "p": 64,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#R9VUQV2GJ",
+   "ath": 11,
+   "d": "#GRUQYV02Y",
+   "dth": 12,
+   "dur": 66,
+   "o": 30,
+   "p": 56,
+   "s": 1,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 48.4,
+  "destruction": 51.6,
   "members": [
    {
     "name": "mobe2",
@@ -413,12 +457,12 @@
    }
   ],
   "name": "Get Smurfed!",
-  "stars": 29,
+  "stars": 31,
   "tag": "#2J0JLGRRR"
  },
  "end": "20261127T195210.000Z",
  "opponent": {
-  "destruction": 77.15,
+  "destruction": 87.15,
   "members": [
    {
     "name": "Farjana",
@@ -542,7 +586,7 @@
    }
   ],
   "name": "DRAGOON MASTER",
-  "stars": 43,
+  "stars": 49,
   "tag": "#2GP9JRQ2Q"
  },
  "start": "20261126T195210.000Z",

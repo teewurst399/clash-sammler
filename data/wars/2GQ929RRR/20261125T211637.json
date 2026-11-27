@@ -516,11 +516,22 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#L9URVCQUV",
+   "ath": 19,
+   "d": "#CYJ2RR2R",
+   "dth": 19,
+   "dur": 174,
+   "o": 48,
+   "p": 97,
+   "s": 2,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 49.4,
+  "destruction": 49.62857,
   "members": [
    {
     "name": "Agent Hulk",

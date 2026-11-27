@@ -571,6 +571,61 @@
    "p": 99,
    "s": 2,
    "side": "gegner"
+  },
+  {
+   "a": "#9RPGVV0U",
+   "ath": 19,
+   "d": "#2UYUY8YP",
+   "dth": 19,
+   "dur": 128,
+   "o": 53,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#8RC9CUCJL",
+   "ath": 19,
+   "d": "#8JJYL2JRP",
+   "dth": 18,
+   "dur": 115,
+   "o": 54,
+   "p": 77,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#8RC9CUCJL",
+   "ath": 19,
+   "d": "#PCVVJY9GQ",
+   "dth": 19,
+   "dur": 82,
+   "o": 55,
+   "p": 57,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#9RPGVV0U",
+   "ath": 19,
+   "d": "#9JL89RPL0",
+   "dth": 19,
+   "dur": 143,
+   "o": 56,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#LCYJ2JVGY",
+   "ath": 19,
+   "d": "#9JCUVQ08",
+   "dth": 19,
+   "dur": 178,
+   "o": 57,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -734,7 +789,7 @@
  },
  "end": "20261127T170352.000Z",
  "opponent": {
-  "destruction": 94.24,
+  "destruction": 95.24,
   "members": [
    {
     "name": "BeirRun",
@@ -888,7 +943,7 @@
    }
   ],
   "name": "GUARDIANS",
-  "stars": 62,
+  "stars": 65,
   "tag": "#2Y0JG2YG"
  },
  "start": "20261126T170352.000Z",

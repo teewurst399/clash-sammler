@@ -747,6 +747,94 @@
    "p": 74,
    "s": 2,
    "side": "gegner"
+  },
+  {
+   "a": "#QP9VG90R8",
+   "ath": 19,
+   "d": "#QJLL9JLYU",
+   "dth": 19,
+   "dur": 180,
+   "o": 69,
+   "p": 98,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#U8PQ8JCG",
+   "ath": 19,
+   "d": "#8YL89PLVR",
+   "dth": 19,
+   "dur": 96,
+   "o": 70,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#PG82YGR0",
+   "ath": 19,
+   "d": "#9JP2LJR9",
+   "dth": 19,
+   "dur": 92,
+   "o": 71,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#PG82YGR0",
+   "ath": 19,
+   "d": "#GUJ0LP",
+   "dth": 19,
+   "dur": 144,
+   "o": 72,
+   "p": 85,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#2P80YP90",
+   "ath": 19,
+   "d": "#YQQPGVL0Y",
+   "dth": 19,
+   "dur": 158,
+   "o": 73,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#2P80YP90",
+   "ath": 19,
+   "d": "#QJLL9JLYU",
+   "dth": 19,
+   "dur": 180,
+   "o": 74,
+   "p": 93,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#QCPUPJ00",
+   "ath": 19,
+   "d": "#QY00RQR9",
+   "dth": 19,
+   "dur": 126,
+   "o": 75,
+   "p": 61,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#GJC22CV2",
+   "ath": 19,
+   "d": "#YVYYRVJRJ",
+   "dth": 18,
+   "dur": 101,
+   "o": 76,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -1000,7 +1088,7 @@
  },
  "end": "20261127T190231.000Z",
  "opponent": {
-  "destruction": 58.8,
+  "destruction": 70.525,
   "members": [
    {
     "name": "Tyr",
@@ -1244,7 +1332,7 @@
    }
   ],
   "name": "Monstergas jr.",
-  "stars": 64,
+  "stars": 79,
   "tag": "#29CV02VC"
  },
  "start": "20261126T190231.000Z",

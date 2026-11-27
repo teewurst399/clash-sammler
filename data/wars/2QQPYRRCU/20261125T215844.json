@@ -593,11 +593,88 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#JQGGRPGQ",
+   "ath": 18,
+   "d": "#8PCU9LG9P",
+   "dth": 19,
+   "dur": 153,
+   "o": 55,
+   "p": 87,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#JQGGRPGQ",
+   "ath": 18,
+   "d": "#8GJ9CLCG",
+   "dth": 19,
+   "dur": 140,
+   "o": 56,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#PRPQR99R",
+   "ath": 19,
+   "d": "#UG0Y882",
+   "dth": 19,
+   "dur": 154,
+   "o": 57,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#Y20PVQYV",
+   "ath": 18,
+   "d": "#GV0RJ0082",
+   "dth": 18,
+   "dur": 78,
+   "o": 58,
+   "p": 58,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#8UUU82U9",
+   "ath": 19,
+   "d": "#UCLPY09L",
+   "dth": 19,
+   "dur": 87,
+   "o": 59,
+   "p": 61,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#PRPQR99R",
+   "ath": 19,
+   "d": "#9CY2RJ9Q",
+   "dth": 19,
+   "dur": 180,
+   "o": 60,
+   "p": 72,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#G98LV9LR0",
+   "ath": 18,
+   "d": "#Y20PVQYV",
+   "dth": 18,
+   "dur": 99,
+   "o": 61,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 26.444445,
+  "destruction": 36.644444,
   "members": [
    {
     "name": "Saheb",
@@ -871,12 +948,12 @@
    }
   ],
   "name": "Secondzone",
-  "stars": 34,
+  "stars": 47,
   "tag": "#2QQPYRRCU"
  },
  "end": "20261127T205844.000Z",
  "opponent": {
-  "destruction": 63.822224,
+  "destruction": 63.266666,
   "members": [
    {
     "name": "KRT",
@@ -1150,7 +1227,7 @@
    }
   ],
   "name": "ATRAPADOS",
-  "stars": 76,
+  "stars": 77,
   "tag": "#RUJ0QL8"
  },
  "start": "20261126T205844.000Z",

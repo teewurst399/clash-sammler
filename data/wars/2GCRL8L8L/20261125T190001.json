@@ -846,6 +846,28 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#8CVUQ0RJ0",
+   "ath": 19,
+   "d": "#YCPYRVGLR",
+   "dth": 19,
+   "dur": 167,
+   "o": 78,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#8CVUQ0RJ0",
+   "ath": 19,
+   "d": "#QRJ89Y9P8",
+   "dth": 19,
+   "dur": 163,
+   "o": 79,
+   "p": 77,
+   "s": 2,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -1099,7 +1121,7 @@
  },
  "end": "20261127T180001.000Z",
  "opponent": {
-  "destruction": 84.725,
+  "destruction": 89.15,
   "members": [
    {
     "name": "byAaleXx",
@@ -1343,7 +1365,7 @@
    }
   ],
   "name": "FURIAROJA.NET",
-  "stars": 99,
+  "stars": 104,
   "tag": "#88G0PRVJ"
  },
  "start": "20261126T180001.000Z",

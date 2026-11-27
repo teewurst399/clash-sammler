@@ -945,6 +945,17 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#LVG20G9V0",
+   "ath": 19,
+   "d": "#Q8LJJCYQ9",
+   "dth": 19,
+   "dur": 136,
+   "o": 87,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,

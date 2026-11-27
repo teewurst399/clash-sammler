@@ -351,6 +351,28 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#LLYUP92P8",
+   "ath": 19,
+   "d": "#9J29PVP2",
+   "dth": 19,
+   "dur": 158,
+   "o": 33,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#LLYUP92P8",
+   "ath": 19,
+   "d": "#2UJPCCL8C",
+   "dth": 19,
+   "dur": 180,
+   "o": 34,
+   "p": 97,
+   "s": 2,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -634,7 +656,7 @@
  },
  "end": "20261127T214604.000Z",
  "opponent": {
-  "destruction": 28.4,
+  "destruction": 32.77778,
   "members": [
    {
     "name": "TW Koprols",
@@ -908,7 +930,7 @@
    }
   ],
   "name": "Team Winter Ice",
-  "stars": 35,
+  "stars": 40,
   "tag": "#P8PGVJJQ"
  },
  "start": "20261126T214604.000Z",

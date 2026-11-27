@@ -1330,6 +1330,39 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#2QG9UJR2P",
+   "ath": 19,
+   "d": "#9R02UGGLP",
+   "dth": 19,
+   "dur": 180,
+   "o": 122,
+   "p": 97,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#Q9Q82U9L0",
+   "ath": 19,
+   "d": "#YGPCVRJGG",
+   "dth": 19,
+   "dur": 166,
+   "o": 123,
+   "p": 68,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#Q9Q82U9L0",
+   "ath": 19,
+   "d": "#P2P2GCP0",
+   "dth": 19,
+   "dur": 90,
+   "o": 124,
+   "p": 31,
+   "s": 1,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
@@ -1583,7 +1616,7 @@
  },
  "end": "20261127T085629.000Z",
  "opponent": {
-  "destruction": 99.375,
+  "destruction": 99.425,
   "members": [
    {
     "name": "❤Sâu❤Shi❤",

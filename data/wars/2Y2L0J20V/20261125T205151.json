@@ -571,6 +571,39 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#2U9QLGRG8",
+   "ath": 19,
+   "d": "#L29V9VLG0",
+   "dth": 19,
+   "dur": 166,
+   "o": 53,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#2JR0GLLQY",
+   "ath": 19,
+   "d": "#2Y2C02CRJ",
+   "dth": 19,
+   "dur": 177,
+   "o": 54,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#2JR0GLLQY",
+   "ath": 19,
+   "d": "#Y0QLJL0LY",
+   "dth": 19,
+   "dur": 130,
+   "o": 55,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -824,7 +857,7 @@
  },
  "end": "20261127T195151.000Z",
  "opponent": {
-  "destruction": 42.475,
+  "destruction": 47.5,
   "members": [
    {
     "name": "HS 今 DURSUN•1•™",
@@ -1068,7 +1101,7 @@
    }
   ],
   "name": "(PİNNACLE)",
-  "stars": 50,
+  "stars": 57,
   "tag": "#8PRJG29V"
  },
  "start": "20261126T195151.000Z",
