@@ -54,11 +54,198 @@
    "p": 84,
    "s": 1,
    "side": "clan"
+  },
+  {
+   "a": "#U0YUCQUQ",
+   "ath": 19,
+   "d": "#PC8QLY8U",
+   "dth": 19,
+   "dur": 110,
+   "o": 6,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#G0JCLUP0V",
+   "ath": 19,
+   "d": "#QRJJ8QQ2Q",
+   "dth": 19,
+   "dur": 175,
+   "o": 7,
+   "p": 90,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#2LPGR202",
+   "ath": 19,
+   "d": "#8URCRLC9",
+   "dth": 19,
+   "dur": 117,
+   "o": 8,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#PC8QLY8U",
+   "ath": 19,
+   "d": "#9QPJVL89J",
+   "dth": 19,
+   "dur": 128,
+   "o": 9,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#2LPGR202",
+   "ath": 19,
+   "d": "#Y202UL08",
+   "dth": 19,
+   "dur": 149,
+   "o": 10,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#PC8QLY8U",
+   "ath": 19,
+   "d": "#JQQLYP8V",
+   "dth": 19,
+   "dur": 132,
+   "o": 11,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#2Y20UPUJ",
+   "ath": 19,
+   "d": "#GY88C22PL",
+   "dth": 19,
+   "dur": 137,
+   "o": 12,
+   "p": 85,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#2YV9VC022",
+   "ath": 19,
+   "d": "#G0JCLUP0V",
+   "dth": 19,
+   "dur": 140,
+   "o": 13,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#80LUYVQPV",
+   "ath": 19,
+   "d": "#U0YUCQUQ",
+   "dth": 19,
+   "dur": 134,
+   "o": 14,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#2YV9VC022",
+   "ath": 19,
+   "d": "#YVJ89PQP",
+   "dth": 19,
+   "dur": 142,
+   "o": 15,
+   "p": 91,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#GU2298VC2",
+   "ath": 16,
+   "d": "#20GJV9GR9",
+   "dth": 17,
+   "dur": 126,
+   "o": 16,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#GU2298VC2",
+   "ath": 16,
+   "d": "#G8CP8GLC",
+   "dth": 17,
+   "dur": 98,
+   "o": 17,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#U2YP0VYC",
+   "ath": 18,
+   "d": "#GYCLYGYVP",
+   "dth": 17,
+   "dur": 121,
+   "o": 18,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#LPGRVYJ2J",
+   "ath": 17,
+   "d": "#YVJ89PQP",
+   "dth": 19,
+   "dur": 135,
+   "o": 19,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#Q0CUG2RVQ",
+   "ath": 19,
+   "d": "#28CJJC29U",
+   "dth": 19,
+   "dur": 180,
+   "o": 20,
+   "p": 97,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#Q0CUG2RVQ",
+   "ath": 19,
+   "d": "#GY88C22PL",
+   "dth": 19,
+   "dur": 147,
+   "o": 21,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#LPGRVYJ2J",
+   "ath": 17,
+   "d": "#QRC8C9YQ",
+   "dth": 19,
+   "dur": 180,
+   "o": 22,
+   "p": 97,
+   "s": 2,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 8.114285,
+  "destruction": 28.485714,
   "members": [
    {
     "name": "Monkey D. Luffy",
@@ -272,12 +459,12 @@
    }
   ],
   "name": "Fourthzone",
-  "stars": 7,
+  "stars": 29,
   "tag": "#2GU0V2VCR"
  },
  "end": "20261128T185852.000Z",
  "opponent": {
-  "destruction": 4.9714284,
+  "destruction": 22.37143,
   "members": [
    {
     "name": "Danils",
@@ -491,7 +678,7 @@
    }
   ],
   "name": "\"WARRIORS\"",
-  "stars": 4,
+  "stars": 21,
   "tag": "#90CYJQ0G"
  },
  "start": "20261127T185852.000Z",

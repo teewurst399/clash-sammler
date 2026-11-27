@@ -2018,7 +2018,7 @@
   "tag": "#8PRJG29V"
  },
  "start": "20261126T195151.000Z",
- "state": "inWar",
+ "state": "warEnded",
  "teamSize": 40,
  "type": "krieg"
 }

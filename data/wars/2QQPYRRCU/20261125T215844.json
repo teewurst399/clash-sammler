@@ -1627,6 +1627,83 @@
    "p": 79,
    "s": 2,
    "side": "gegner"
+  },
+  {
+   "a": "#V0VUVLV",
+   "ath": 19,
+   "d": "#PQQ28CLQ",
+   "dth": 19,
+   "dur": 113,
+   "o": 149,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#22UCVPV9",
+   "ath": 19,
+   "d": "#JQGGRPGQ",
+   "dth": 18,
+   "dur": 144,
+   "o": 150,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#R2JJU2JP9",
+   "ath": 16,
+   "d": "#LUU28VY2",
+   "dth": 19,
+   "dur": 74,
+   "o": 151,
+   "p": 48,
+   "s": 0,
+   "side": "gegner"
+  },
+  {
+   "a": "#LQGYR2J9V",
+   "ath": 18,
+   "d": "#GLGJCJGR0",
+   "dth": 19,
+   "dur": 120,
+   "o": 152,
+   "p": 65,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#LQGYR2J9V",
+   "ath": 18,
+   "d": "#LUU28VY2",
+   "dth": 19,
+   "dur": 89,
+   "o": 153,
+   "p": 41,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#R2JJU2JP9",
+   "ath": 16,
+   "d": "#GLGJCJGR0",
+   "dth": 19,
+   "dur": 66,
+   "o": 154,
+   "p": 20,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#8YYC90CL",
+   "ath": 19,
+   "d": "#PQQ28CLQ",
+   "dth": 19,
+   "dur": 127,
+   "o": 155,
+   "p": 79,
+   "s": 2,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
@@ -1910,7 +1987,7 @@
  },
  "end": "20261127T205844.000Z",
  "opponent": {
-  "destruction": 83.08889,
+  "destruction": 83.155556,
   "members": [
    {
     "name": "KRT",
@@ -2184,7 +2261,7 @@
    }
   ],
   "name": "ATRAPADOS",
-  "stars": 100,
+  "stars": 101,
   "tag": "#RUJ0QL8"
  },
  "start": "20261126T205844.000Z",

@@ -1561,6 +1561,94 @@
    "p": 69,
    "s": 1,
    "side": "gegner"
+  },
+  {
+   "a": "#GPP9QLLLP",
+   "ath": 19,
+   "d": "#28Y28C9UG",
+   "dth": 19,
+   "dur": 113,
+   "o": 143,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#L0VU0R8QU",
+   "ath": 19,
+   "d": "#9RLU98UV",
+   "dth": 18,
+   "dur": 104,
+   "o": 144,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#CYL882VR",
+   "ath": 19,
+   "d": "#82VGPVGJU",
+   "dth": 19,
+   "dur": 138,
+   "o": 145,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#L0VU0R8QU",
+   "ath": 19,
+   "d": "#GPQG0VY2G",
+   "dth": 19,
+   "dur": 118,
+   "o": 146,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#82VGPVGJU",
+   "ath": 19,
+   "d": "#9UYQU8JU",
+   "dth": 19,
+   "dur": 5,
+   "o": 147,
+   "p": 3,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#P89QU20V",
+   "ath": 19,
+   "d": "#LJ99C2UYY",
+   "dth": 19,
+   "dur": 87,
+   "o": 148,
+   "p": 57,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#82VGPVGJU",
+   "ath": 19,
+   "d": "#2Q9PY0LR8",
+   "dth": 19,
+   "dur": 32,
+   "o": 149,
+   "p": 11,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#9JVUJ9RV",
+   "ath": 19,
+   "d": "#LJ99C2UYY",
+   "dth": 19,
+   "dur": 162,
+   "o": 150,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -1814,7 +1902,7 @@
  },
  "end": "20261127T200631.000Z",
  "opponent": {
-  "destruction": 99.6,
+  "destruction": 100.0,
   "members": [
    {
     "name": "Mario",
@@ -2058,11 +2146,11 @@
    }
   ],
   "name": "Italian Gods",
-  "stars": 117,
+  "stars": 120,
   "tag": "#8Q0P98GY"
  },
  "start": "20261126T200631.000Z",
- "state": "inWar",
+ "state": "warEnded",
  "teamSize": 40,
  "type": "krieg"
 }

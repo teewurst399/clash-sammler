@@ -373,11 +373,88 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#QJPQPGV2U",
+   "ath": 19,
+   "d": "#999JJQGGQ",
+   "dth": 19,
+   "dur": 150,
+   "o": 35,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#9JQGVVV8G",
+   "ath": 19,
+   "d": "#LJ0YVGP88",
+   "dth": 19,
+   "dur": 180,
+   "o": 36,
+   "p": 95,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#9JQGVVV8G",
+   "ath": 19,
+   "d": "#R0U2RU2Q2",
+   "dth": 19,
+   "dur": 180,
+   "o": 37,
+   "p": 97,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#20U88Q2Q",
+   "ath": 19,
+   "d": "#UJUC20CP",
+   "dth": 19,
+   "dur": 138,
+   "o": 38,
+   "p": 80,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#QJGCCRVL9",
+   "ath": 19,
+   "d": "#L0RY82VR",
+   "dth": 19,
+   "dur": 109,
+   "o": 39,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#2VQ0P9Q90",
+   "ath": 19,
+   "d": "#8VUU9CP9G",
+   "dth": 19,
+   "dur": 156,
+   "o": 40,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#20U88Q2Q",
+   "ath": 19,
+   "d": "#C99LQY80",
+   "dth": 19,
+   "dur": 104,
+   "o": 41,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 24.95,
+  "destruction": 32.25,
   "members": [
    {
     "name": "THRON",
@@ -621,12 +698,12 @@
    }
   ],
   "name": "SteinFrucht",
-  "stars": 29,
+  "stars": 36,
   "tag": "#2JU9URU2L"
  },
  "end": "20261128T181214.000Z",
  "opponent": {
-  "destruction": 43.65,
+  "destruction": 53.15,
   "members": [
    {
     "name": "Absynthe",
@@ -870,7 +947,7 @@
    }
   ],
   "name": "EFSANE",
-  "stars": 50,
+  "stars": 61,
   "tag": "#2LGQYQJ2R"
  },
  "start": "20261127T181214.000Z",

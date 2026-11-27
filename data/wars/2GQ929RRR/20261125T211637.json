@@ -1363,6 +1363,83 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#VC920V90",
+   "ath": 19,
+   "d": "#220Q0JU8U",
+   "dth": 19,
+   "dur": 126,
+   "o": 125,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#909JUURLR",
+   "ath": 19,
+   "d": "#29LJ8YPCJ",
+   "dth": 19,
+   "dur": 5,
+   "o": 126,
+   "p": 17,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#VC920V90",
+   "ath": 19,
+   "d": "#QQ2UU92Y9",
+   "dth": 19,
+   "dur": 140,
+   "o": 127,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#LGL2PLLJJ",
+   "ath": 19,
+   "d": "#29LJ8YPCJ",
+   "dth": 19,
+   "dur": 15,
+   "o": 128,
+   "p": 11,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#LGL2PLLJJ",
+   "ath": 19,
+   "d": "#8CUVQQQCP",
+   "dth": 19,
+   "dur": 19,
+   "o": 129,
+   "p": 14,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#8RVPYQ0JR",
+   "ath": 19,
+   "d": "#JLPCQVQC",
+   "dth": 19,
+   "dur": 119,
+   "o": 130,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#8RVPYQ0JR",
+   "ath": 19,
+   "d": "#J928QVL9",
+   "dth": 19,
+   "dur": 120,
+   "o": 131,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -1586,7 +1663,7 @@
  },
  "end": "20261127T201637.000Z",
  "opponent": {
-  "destruction": 99.02857,
+  "destruction": 100.0,
   "members": [
    {
     "name": "Clasher",
@@ -1800,11 +1877,11 @@
    }
   ],
   "name": "# U.K ALL STARS",
-  "stars": 103,
+  "stars": 105,
   "tag": "#29P8VRPCG"
  },
  "start": "20261126T201637.000Z",
- "state": "inWar",
+ "state": "warEnded",
  "teamSize": 35,
  "type": "krieg"
 }

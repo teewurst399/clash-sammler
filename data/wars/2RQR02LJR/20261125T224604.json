@@ -1451,6 +1451,138 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#88JV0U9LG",
+   "ath": 19,
+   "d": "#9JU2QYJG",
+   "dth": 19,
+   "dur": 102,
+   "o": 133,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#88JV0U9LG",
+   "ath": 19,
+   "d": "#9UY208RC",
+   "dth": 19,
+   "dur": 116,
+   "o": 134,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#QGVY9QVQC",
+   "ath": 19,
+   "d": "#9JU2QYJG",
+   "dth": 19,
+   "dur": 24,
+   "o": 135,
+   "p": 36,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#QGVY9QVQC",
+   "ath": 19,
+   "d": "#2YYQ00UG",
+   "dth": 19,
+   "dur": 16,
+   "o": 136,
+   "p": 16,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#99YG8VJG",
+   "ath": 19,
+   "d": "#9JU2QYJG",
+   "dth": 19,
+   "dur": 8,
+   "o": 137,
+   "p": 27,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#99YG8VJG",
+   "ath": 19,
+   "d": "#2YYQ00UG",
+   "dth": 19,
+   "dur": 5,
+   "o": 138,
+   "p": 8,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#QCU2RLGUJ",
+   "ath": 19,
+   "d": "#C892GPCY",
+   "dth": 19,
+   "dur": 144,
+   "o": 139,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#82Y2URVGJ",
+   "ath": 19,
+   "d": "#9JU2QYJG",
+   "dth": 19,
+   "dur": 4,
+   "o": 140,
+   "p": 10,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#82Y2URVGJ",
+   "ath": 19,
+   "d": "#9UY208RC",
+   "dth": 19,
+   "dur": 5,
+   "o": 141,
+   "p": 3,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#LCJQGQL2R",
+   "ath": 19,
+   "d": "#9JU2QYJG",
+   "dth": 19,
+   "dur": 9,
+   "o": 142,
+   "p": 10,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#LCJQGQL2R",
+   "ath": 19,
+   "d": "#9UY208RC",
+   "dth": 19,
+   "dur": 19,
+   "o": 143,
+   "p": 11,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#CVUQLG2C",
+   "ath": 19,
+   "d": "#9JU2QYJG",
+   "dth": 19,
+   "dur": 90,
+   "o": 144,
+   "p": 74,
+   "s": 2,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
@@ -1734,7 +1866,7 @@
  },
  "end": "20261127T214604.000Z",
  "opponent": {
-  "destruction": 99.977776,
+  "destruction": 100.0,
   "members": [
    {
     "name": "TW Koprols",
@@ -2008,7 +2140,7 @@
    }
   ],
   "name": "Team Winter Ice",
-  "stars": 134,
+  "stars": 135,
   "tag": "#P8PGVJJQ"
  },
  "start": "20261126T214604.000Z",

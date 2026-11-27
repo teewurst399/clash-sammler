@@ -1550,6 +1550,182 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#CL8RG9VU",
+   "ath": 19,
+   "d": "#9PPLRGC",
+   "dth": 19,
+   "dur": 139,
+   "o": 142,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#QVYVUPGU",
+   "ath": 19,
+   "d": "#2G2VYYCY8",
+   "dth": 19,
+   "dur": 7,
+   "o": 143,
+   "p": 14,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#QVYVUPGU",
+   "ath": 19,
+   "d": "#80YUQJPG",
+   "dth": 19,
+   "dur": 5,
+   "o": 144,
+   "p": 20,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#G0QU02LJ8",
+   "ath": 19,
+   "d": "#9CRYV0PY",
+   "dth": 19,
+   "dur": 150,
+   "o": 145,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#CL8RG9VU",
+   "ath": 19,
+   "d": "#800RYYUYJ",
+   "dth": 19,
+   "dur": 152,
+   "o": 146,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#Y89C0GR0R",
+   "ath": 19,
+   "d": "#YCU9JJ0Y2",
+   "dth": 19,
+   "dur": 9,
+   "o": 147,
+   "p": 6,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#Y89C0GR0R",
+   "ath": 19,
+   "d": "#Q0PUJRQ9",
+   "dth": 19,
+   "dur": 180,
+   "o": 148,
+   "p": 24,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#9L9JQY0J",
+   "ath": 19,
+   "d": "#QPRGLUVU",
+   "dth": 19,
+   "dur": 127,
+   "o": 149,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#LURGUJGP",
+   "ath": 19,
+   "d": "#P00RLV9Q",
+   "dth": 19,
+   "dur": 85,
+   "o": 150,
+   "p": 84,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#Q2L8R9GU8",
+   "ath": 19,
+   "d": "#LYPLRGLQ",
+   "dth": 19,
+   "dur": 135,
+   "o": 151,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#LURGUJGP",
+   "ath": 19,
+   "d": "#QLPP2LPQG",
+   "dth": 19,
+   "dur": 95,
+   "o": 152,
+   "p": 98,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#Q2L8R9GU8",
+   "ath": 19,
+   "d": "#P00RLV9Q",
+   "dth": 19,
+   "dur": 180,
+   "o": 153,
+   "p": 98,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#QL9UVPJQ",
+   "ath": 19,
+   "d": "#LYPLRGLQ",
+   "dth": 19,
+   "dur": 170,
+   "o": 154,
+   "p": 95,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#QL9UVPJQ",
+   "ath": 19,
+   "d": "#P00RLV9Q",
+   "dth": 19,
+   "dur": 136,
+   "o": 155,
+   "p": 91,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#9JQGVY22Q",
+   "ath": 19,
+   "d": "#LYPLRGLQ",
+   "dth": 19,
+   "dur": 46,
+   "o": 156,
+   "p": 53,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#9JQGVY22Q",
+   "ath": 19,
+   "d": "#P00RLV9Q",
+   "dth": 19,
+   "dur": 142,
+   "o": 157,
+   "p": 75,
+   "s": 2,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -1833,7 +2009,7 @@
  },
  "end": "20261127T200444.000Z",
  "opponent": {
-  "destruction": 98.86667,
+  "destruction": 100.0,
   "members": [
    {
     "name": "Cerveza2",
@@ -2107,11 +2283,11 @@
    }
   ],
   "name": "!OstatniBastion",
-  "stars": 132,
+  "stars": 135,
   "tag": "#2G2GLJ800"
  },
  "start": "20261126T200444.000Z",
- "state": "inWar",
+ "state": "warEnded",
  "teamSize": 45,
  "type": "krieg"
 }

@@ -21,11 +21,143 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#9ULULRG98",
+   "ath": 19,
+   "d": "#2V9L0G8J",
+   "dth": 19,
+   "dur": 105,
+   "o": 3,
+   "p": 70,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#9ULULRG98",
+   "ath": 19,
+   "d": "#JVPR08LR",
+   "dth": 19,
+   "dur": 122,
+   "o": 4,
+   "p": 69,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#Y98820U8R",
+   "ath": 19,
+   "d": "#98899CP2P",
+   "dth": 19,
+   "dur": 153,
+   "o": 5,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#Y98820U8R",
+   "ath": 19,
+   "d": "#GPYJUPGU",
+   "dth": 19,
+   "dur": 150,
+   "o": 6,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#YQ2GJJCU",
+   "ath": 19,
+   "d": "#9JYGYL0R",
+   "dth": 19,
+   "dur": 167,
+   "o": 7,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#LPYYY2VUL",
+   "ath": 19,
+   "d": "#YRC2JUY89",
+   "dth": 19,
+   "dur": 107,
+   "o": 8,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#YQ2GJJCU",
+   "ath": 19,
+   "d": "#L8JGQ0908",
+   "dth": 19,
+   "dur": 143,
+   "o": 9,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#LPYYY2VUL",
+   "ath": 19,
+   "d": "#QQ9YG8JP",
+   "dth": 19,
+   "dur": 107,
+   "o": 10,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#98899CP2P",
+   "ath": 19,
+   "d": "#2YYCVCCP",
+   "dth": 19,
+   "dur": 103,
+   "o": 11,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#J8YU9VLQ",
+   "ath": 19,
+   "d": "#8020G0PYC",
+   "dth": 19,
+   "dur": 88,
+   "o": 12,
+   "p": 54,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#98899CP2P",
+   "ath": 19,
+   "d": "#Y98820U8R",
+   "dth": 19,
+   "dur": 108,
+   "o": 13,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#J8YU9VLQ",
+   "ath": 19,
+   "d": "#2PG9YJ88",
+   "dth": 19,
+   "dur": 153,
+   "o": 14,
+   "p": 87,
+   "s": 2,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 0.0,
+  "destruction": 15.0,
   "members": [
    {
     "name": "MOZ.ART",
@@ -269,12 +401,12 @@
    }
   ],
   "name": "Firstzone",
-  "stars": 0,
+  "stars": 18,
   "tag": "#2YQQ80QGL"
  },
  "end": "20261128T191235.000Z",
  "opponent": {
-  "destruction": 5.0,
+  "destruction": 17.0,
   "members": [
    {
     "name": "Bhors23",
@@ -518,7 +650,7 @@
    }
   ],
   "name": "House of Elites",
-  "stars": 6,
+  "stars": 19,
   "tag": "#2YLR0J09Y"
  },
  "start": "20261127T191235.000Z",
