@@ -1715,6 +1715,72 @@
    "p": 2,
    "s": 1,
    "side": "clan"
+  },
+  {
+   "a": "#VPQ99RP2",
+   "ath": 19,
+   "d": "#PP29LCYLV",
+   "dth": 19,
+   "dur": 124,
+   "o": 157,
+   "p": 89,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#YRPL0RJ2",
+   "ath": 19,
+   "d": "#8J92RCJC2",
+   "dth": 19,
+   "dur": 150,
+   "o": 158,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#VPQ99RP2",
+   "ath": 19,
+   "d": "#9URJGJ820",
+   "dth": 19,
+   "dur": 164,
+   "o": 159,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#YRPL0RJ2",
+   "ath": 19,
+   "d": "#2G2LV2VYJ",
+   "dth": 19,
+   "dur": 97,
+   "o": 160,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#2PYJPJRVQ",
+   "ath": 19,
+   "d": "#8V9P9JJQL",
+   "dth": 19,
+   "dur": 166,
+   "o": 161,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#90YLQY9YL",
+   "ath": 19,
+   "d": "#2RLC0J8V9",
+   "dth": 19,
+   "dur": 127,
+   "o": 162,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -2028,7 +2094,7 @@
  },
  "end": "20261127T184713.000Z",
  "opponent": {
-  "destruction": 96.0,
+  "destruction": 100.0,
   "members": [
    {
     "name": "✨MAX✨مصطفى",
@@ -2332,7 +2398,7 @@
    }
   ],
   "name": "لا نتشابهہ 》♡",
-  "stars": 144,
+  "stars": 150,
   "tag": "#2RQVPJRYQ"
  },
  "start": "20261126T184713.000Z",

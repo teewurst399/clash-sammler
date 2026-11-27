@@ -934,11 +934,44 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#Q8J9GJVV",
+   "ath": 19,
+   "d": "#Y0809C9QJ",
+   "dth": 18,
+   "dur": 79,
+   "o": 86,
+   "p": 87,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#Q8J9GJVV",
+   "ath": 19,
+   "d": "#LVJJPQJQR",
+   "dth": 17,
+   "dur": 123,
+   "o": 87,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#9VYLRCVR",
+   "ath": 19,
+   "d": "#98QR08YL9",
+   "dth": 19,
+   "dur": 96,
+   "o": 88,
+   "p": 59,
+   "s": 2,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 91.828575,
+  "destruction": 91.48572,
   "members": [
    {
     "name": "Doxos_NM",
@@ -1152,12 +1185,12 @@
    }
   ],
   "name": "Alphazone",
-  "stars": 90,
+  "stars": 91,
   "tag": "#2YCUCPCC0"
  },
  "end": "20261127T205607.000Z",
  "opponent": {
-  "destruction": 97.828575,
+  "destruction": 98.71429,
   "members": [
    {
     "name": "mary",
@@ -1371,7 +1404,7 @@
    }
   ],
   "name": "LasT BreaK ♠️",
-  "stars": 99,
+  "stars": 100,
   "tag": "#8GJ9YJ8Y"
  },
  "start": "20261126T205607.000Z",

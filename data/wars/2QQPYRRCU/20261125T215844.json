@@ -1451,6 +1451,127 @@
    "p": 60,
    "s": 2,
    "side": "gegner"
+  },
+  {
+   "a": "#LVLRC02UY",
+   "ath": 19,
+   "d": "#QCG8VYJJ",
+   "dth": 19,
+   "dur": 53,
+   "o": 133,
+   "p": 52,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#LCQLPVQV9",
+   "ath": 19,
+   "d": "#PQQ28CLQ",
+   "dth": 19,
+   "dur": 117,
+   "o": 134,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#LVLRC02UY",
+   "ath": 19,
+   "d": "#8QGJ8R98Q",
+   "dth": 19,
+   "dur": 26,
+   "o": 135,
+   "p": 32,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#Q89CCPVR",
+   "ath": 19,
+   "d": "#2RC2PUVPP",
+   "dth": 19,
+   "dur": 180,
+   "o": 136,
+   "p": 89,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#GLUVJCP2P",
+   "ath": 18,
+   "d": "#22UCVPV9",
+   "dth": 19,
+   "dur": 34,
+   "o": 137,
+   "p": 11,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#GLUVJCP2P",
+   "ath": 18,
+   "d": "#UG0Y882",
+   "dth": 19,
+   "dur": 25,
+   "o": 138,
+   "p": 15,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#Q89CCPVR",
+   "ath": 19,
+   "d": "#8QGJ8R98Q",
+   "dth": 19,
+   "dur": 176,
+   "o": 139,
+   "p": 70,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#PU9989CC",
+   "ath": 19,
+   "d": "#JQGGRPGQ",
+   "dth": 18,
+   "dur": 108,
+   "o": 140,
+   "p": 91,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#PQQ28CLQ",
+   "ath": 19,
+   "d": "#QYQYC09RJ",
+   "dth": 19,
+   "dur": 135,
+   "o": 141,
+   "p": 80,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#PU9989CC",
+   "ath": 19,
+   "d": "#LUU28VY2",
+   "dth": 19,
+   "dur": 80,
+   "o": 142,
+   "p": 71,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#PQQ28CLQ",
+   "ath": 19,
+   "d": "#LGRQ2Q0CJ",
+   "dth": 19,
+   "dur": 112,
+   "o": 143,
+   "p": 82,
+   "s": 2,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -1734,7 +1855,7 @@
  },
  "end": "20261127T205844.000Z",
  "opponent": {
-  "destruction": 82.31111,
+  "destruction": 83.08889,
   "members": [
    {
     "name": "KRT",

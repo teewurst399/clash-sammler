@@ -1000,6 +1000,72 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#PRJ9Y2L2G",
+   "ath": 17,
+   "d": "#GLYG9QGGR",
+   "dth": 15,
+   "dur": 142,
+   "o": 92,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#GJYPY80U0",
+   "ath": 19,
+   "d": "#20QV02RYL",
+   "dth": 19,
+   "dur": 22,
+   "o": 93,
+   "p": 57,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#GJYPY80U0",
+   "ath": 19,
+   "d": "#RLYJCCUG",
+   "dth": 19,
+   "dur": 180,
+   "o": 94,
+   "p": 61,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#L8V2L92UG",
+   "ath": 19,
+   "d": "#888L9RRL",
+   "dth": 19,
+   "dur": 10,
+   "o": 95,
+   "p": 20,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#L8V2L92UG",
+   "ath": 19,
+   "d": "#VPQPJ02U",
+   "dth": 19,
+   "dur": 3,
+   "o": 96,
+   "p": 17,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#QL8UYQ22V",
+   "ath": 19,
+   "d": "#20QV02RYL",
+   "dth": 19,
+   "dur": 180,
+   "o": 97,
+   "p": 99,
+   "s": 2,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
@@ -1193,7 +1259,7 @@
  },
  "end": "20261127T202151.000Z",
  "opponent": {
-  "destruction": 97.13333,
+  "destruction": 98.666664,
   "members": [
    {
     "name": "€ ULT$MATE €",
@@ -1377,7 +1443,7 @@
    }
   ],
   "name": "Dieux Du Sang",
-  "stars": 87,
+  "stars": 88,
   "tag": "#98YQRLYJ"
  },
  "start": "20261126T202151.000Z",

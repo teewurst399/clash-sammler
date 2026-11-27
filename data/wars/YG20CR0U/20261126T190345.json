@@ -1,0 +1,408 @@
+{
+ "attacks": [
+  {
+   "a": "#Y2QJPCRU",
+   "ath": 19,
+   "d": "#2CGLPRGQU",
+   "dth": 19,
+   "dur": 113,
+   "o": 1,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#Y2QJPCRU",
+   "ath": 19,
+   "d": "#G8PVYLJGP",
+   "dth": 19,
+   "dur": 120,
+   "o": 2,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  }
+ ],
+ "attacksPerMember": 2,
+ "clan": {
+  "destruction": 0.0,
+  "members": [
+   {
+    "name": "Clash Joni",
+    "pos": 20,
+    "tag": "#Q9U2GRGRC",
+    "th": 19
+   },
+   {
+    "name": "~Fighter~☆☆",
+    "pos": 18,
+    "tag": "#R8RC0Q2C",
+    "th": 19
+   },
+   {
+    "name": "shokzy",
+    "pos": 1,
+    "tag": "#2CGLPRGQU",
+    "th": 19
+   },
+   {
+    "name": "gplay",
+    "pos": 15,
+    "tag": "#82Q9YYG88",
+    "th": 19
+   },
+   {
+    "name": "SHOKZY",
+    "pos": 19,
+    "tag": "#GLJCCRYG",
+    "th": 19
+   },
+   {
+    "name": "Reexinator™",
+    "pos": 17,
+    "tag": "#Q2LG0PGC",
+    "th": 19
+   },
+   {
+    "name": "joker",
+    "pos": 29,
+    "tag": "#PVL8PGQC",
+    "th": 17
+   },
+   {
+    "name": "Kay♡LostLithium",
+    "pos": 25,
+    "tag": "#2G0QQJG9Y",
+    "th": 18
+   },
+   {
+    "name": "ui",
+    "pos": 10,
+    "tag": "#9JRGR0G89",
+    "th": 19
+   },
+   {
+    "name": "Shaddoxil",
+    "pos": 3,
+    "tag": "#G9VR0CPGU",
+    "th": 19
+   },
+   {
+    "name": "Thor of Asgard",
+    "pos": 22,
+    "tag": "#2LUV2P00",
+    "th": 19
+   },
+   {
+    "name": "Floppy",
+    "pos": 2,
+    "tag": "#G8PVYLJGP",
+    "th": 19
+   },
+   {
+    "name": "Goldi®",
+    "pos": 21,
+    "tag": "#2V2PC2VRY",
+    "th": 19
+   },
+   {
+    "name": "EZ⚡️Savi⚡️",
+    "pos": 8,
+    "tag": "#98PC0JYY",
+    "th": 19
+   },
+   {
+    "name": "Neav",
+    "pos": 13,
+    "tag": "#L8CVRL8C",
+    "th": 19
+   },
+   {
+    "name": "♧GOLDI♧",
+    "pos": 11,
+    "tag": "#2PGLCLUVR",
+    "th": 19
+   },
+   {
+    "name": "E-Force",
+    "pos": 28,
+    "tag": "#GVL2RV9V",
+    "th": 17
+   },
+   {
+    "name": "Maybe Later",
+    "pos": 4,
+    "tag": "#QJLJU2UYY",
+    "th": 19
+   },
+   {
+    "name": "Göttergatte",
+    "pos": 9,
+    "tag": "#89J0JUL9",
+    "th": 19
+   },
+   {
+    "name": "Niklas",
+    "pos": 26,
+    "tag": "#2YRGJ208L",
+    "th": 18
+   },
+   {
+    "name": "Shaddoxy",
+    "pos": 23,
+    "tag": "#GRVY0YC2R",
+    "th": 19
+   },
+   {
+    "name": "Sasi",
+    "pos": 5,
+    "tag": "#G8RRPJ0UP",
+    "th": 19
+   },
+   {
+    "name": "Tom",
+    "pos": 24,
+    "tag": "#LLGPQ9CVU",
+    "th": 19
+   },
+   {
+    "name": "VierNeun 2",
+    "pos": 30,
+    "tag": "#QQ9UPPYC2",
+    "th": 17
+   },
+   {
+    "name": "STY • Schultiii",
+    "pos": 14,
+    "tag": "#QJYURJJ90",
+    "th": 19
+   },
+   {
+    "name": "Balu",
+    "pos": 27,
+    "tag": "#GCU2YPJ2U",
+    "th": 19
+   },
+   {
+    "name": "EZ⚡Monger⚡",
+    "pos": 7,
+    "tag": "#YYRCJ2GR8",
+    "th": 19
+   },
+   {
+    "name": "Hans",
+    "pos": 16,
+    "tag": "#9RCCGGLCJ",
+    "th": 19
+   },
+   {
+    "name": "•Filly•",
+    "pos": 6,
+    "tag": "#YYYLYVL80",
+    "th": 19
+   },
+   {
+    "name": "m1o8d7e",
+    "pos": 12,
+    "tag": "#LRGURGV2C",
+    "th": 19
+   }
+  ],
+  "name": "Gammazone",
+  "stars": 0,
+  "tag": "#YG20CR0U"
+ },
+ "end": "20261128T180345.000Z",
+ "opponent": {
+  "destruction": 6.6666665,
+  "members": [
+   {
+    "name": "ChiefGriff",
+    "pos": 7,
+    "tag": "#YRYY0Q9C",
+    "th": 19
+   },
+   {
+    "name": "Nirob Khan",
+    "pos": 28,
+    "tag": "#9YLPU0J88",
+    "th": 18
+   },
+   {
+    "name": "Irrealis",
+    "pos": 21,
+    "tag": "#QUR9JVG28",
+    "th": 19
+   },
+   {
+    "name": "Gambit Jnr",
+    "pos": 24,
+    "tag": "#LCGV0GPLG",
+    "th": 19
+   },
+   {
+    "name": "FALLEN ANGEL",
+    "pos": 9,
+    "tag": "#R2UVLVVP",
+    "th": 19
+   },
+   {
+    "name": "G I Jane",
+    "pos": 8,
+    "tag": "#8LQ9C880L",
+    "th": 19
+   },
+   {
+    "name": "死F1re",
+    "pos": 29,
+    "tag": "#2JPY08V9",
+    "th": 18
+   },
+   {
+    "name": "JB",
+    "pos": 6,
+    "tag": "#PPR98G0L8",
+    "th": 19
+   },
+   {
+    "name": "khromium",
+    "pos": 15,
+    "tag": "#2LYUU9GYR",
+    "th": 19
+   },
+   {
+    "name": "Blood Hound",
+    "pos": 14,
+    "tag": "#GJGJ8C88",
+    "th": 19
+   },
+   {
+    "name": "Khlorine",
+    "pos": 16,
+    "tag": "#LU0RRJQR",
+    "th": 19
+   },
+   {
+    "name": "PeskyMoose",
+    "pos": 2,
+    "tag": "#289QY2J",
+    "th": 19
+   },
+   {
+    "name": "Sun",
+    "pos": 23,
+    "tag": "#9Q9JJPL0U",
+    "th": 19
+   },
+   {
+    "name": "Mekeasaurus",
+    "pos": 22,
+    "tag": "#GGLC900V",
+    "th": 19
+   },
+   {
+    "name": "ClownJuice",
+    "pos": 30,
+    "tag": "#GVUP8YC02",
+    "th": 19
+   },
+   {
+    "name": "PFG⚡️Drewbie",
+    "pos": 11,
+    "tag": "#8YPVCGJ8",
+    "th": 19
+   },
+   {
+    "name": "RegentFlow",
+    "pos": 18,
+    "tag": "#QCPUCLP80",
+    "th": 19
+   },
+   {
+    "name": "Mars",
+    "pos": 19,
+    "tag": "#8YC08PJY9",
+    "th": 19
+   },
+   {
+    "name": "PRATEEK 3",
+    "pos": 27,
+    "tag": "#80URVPVUL",
+    "th": 18
+   },
+   {
+    "name": "mikepitas",
+    "pos": 20,
+    "tag": "#YVY0C8G9C",
+    "th": 19
+   },
+   {
+    "name": "DARK MESSIAH",
+    "pos": 17,
+    "tag": "#LUY2QQQ9",
+    "th": 19
+   },
+   {
+    "name": "*\"SARATH\"*",
+    "pos": 1,
+    "tag": "#P0G99PC8Q",
+    "th": 19
+   },
+   {
+    "name": "PFG⚡️KOBE2.0",
+    "pos": 25,
+    "tag": "#PL90L8PCY",
+    "th": 18
+   },
+   {
+    "name": "PFG⚡️Ishimix",
+    "pos": 13,
+    "tag": "#2J0G9RL02",
+    "th": 19
+   },
+   {
+    "name": "PFG⚡️Prometheu5",
+    "pos": 4,
+    "tag": "#8J9CRJ8C2",
+    "th": 19
+   },
+   {
+    "name": "ٓA",
+    "pos": 12,
+    "tag": "#YJLLJYPPP",
+    "th": 19
+   },
+   {
+    "name": "Thing 1",
+    "pos": 5,
+    "tag": "#29VQ8PJVV",
+    "th": 19
+   },
+   {
+    "name": "Sigenapipol 兒孫",
+    "pos": 10,
+    "tag": "#8YQUU8LVV",
+    "th": 19
+   },
+   {
+    "name": "PFG⚡️Prometheus",
+    "pos": 3,
+    "tag": "#Y2QJPCRU",
+    "th": 19
+   },
+   {
+    "name": "flow",
+    "pos": 26,
+    "tag": "#GRVGCCLQG",
+    "th": 18
+   }
+  ],
+  "name": "Psycho Cadets",
+  "stars": 6,
+  "tag": "#2PLRY88C9"
+ },
+ "start": "20261127T180345.000Z",
+ "state": "inWar",
+ "teamSize": 30,
+ "type": "krieg"
+}

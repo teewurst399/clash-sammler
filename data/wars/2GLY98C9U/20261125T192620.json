@@ -989,6 +989,83 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#9JVR2R9LY",
+   "ath": 18,
+   "d": "#PPQU0PLQL",
+   "dth": 19,
+   "dur": 180,
+   "o": 91,
+   "p": 97,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#88GJJQL0",
+   "ath": 19,
+   "d": "#8QG2PLJCP",
+   "dth": 19,
+   "dur": 71,
+   "o": 92,
+   "p": 54,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#8JGPP20JG",
+   "ath": 19,
+   "d": "#PPQU0PLQL",
+   "dth": 19,
+   "dur": 180,
+   "o": 93,
+   "p": 98,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#9JUGQQ8PV",
+   "ath": 18,
+   "d": "#9UV2YULUG",
+   "dth": 19,
+   "dur": 10,
+   "o": 94,
+   "p": 14,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#9JUGQQ8PV",
+   "ath": 18,
+   "d": "#80J0PU9LV",
+   "dth": 19,
+   "dur": 16,
+   "o": 95,
+   "p": 18,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#QGLPCL08Q",
+   "ath": 18,
+   "d": "#9UV2YULUG",
+   "dth": 19,
+   "dur": 69,
+   "o": 96,
+   "p": 47,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#QGLPCL08Q",
+   "ath": 18,
+   "d": "#80J0PU9LV",
+   "dth": 19,
+   "dur": 102,
+   "o": 97,
+   "p": 59,
+   "s": 2,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
@@ -1182,7 +1259,7 @@
  },
  "end": "20261127T182620.000Z",
  "opponent": {
-  "destruction": 98.13333,
+  "destruction": 98.53333,
   "members": [
    {
     "name": "THE SCORPION",
@@ -1370,7 +1447,7 @@
   "tag": "#Y2CVPCVG"
  },
  "start": "20261126T182620.000Z",
- "state": "inWar",
+ "state": "warEnded",
  "teamSize": 30,
  "type": "krieg"
 }

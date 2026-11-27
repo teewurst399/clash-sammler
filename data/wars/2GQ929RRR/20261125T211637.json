@@ -1220,6 +1220,105 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#9LP2V8CJ",
+   "ath": 19,
+   "d": "#29LJ8YPCJ",
+   "dth": 19,
+   "dur": 18,
+   "o": 112,
+   "p": 24,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#9LP2V8CJ",
+   "ath": 19,
+   "d": "#8RVPYQ0JR",
+   "dth": 19,
+   "dur": 31,
+   "o": 113,
+   "p": 37,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#QQ2UU92Y9",
+   "ath": 19,
+   "d": "#29LJ8YPCJ",
+   "dth": 19,
+   "dur": 19,
+   "o": 114,
+   "p": 32,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#QQ2UU92Y9",
+   "ath": 19,
+   "d": "#QRLVLCV9",
+   "dth": 19,
+   "dur": 9,
+   "o": 115,
+   "p": 9,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#2YJQL2LLQ",
+   "ath": 19,
+   "d": "#822LJ229U",
+   "dth": 19,
+   "dur": 170,
+   "o": 116,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#UQPU8L8L",
+   "ath": 19,
+   "d": "#P8V9JY8LU",
+   "dth": 19,
+   "dur": 160,
+   "o": 117,
+   "p": 90,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#UQPU8L8L",
+   "ath": 19,
+   "d": "#U0GQRG29",
+   "dth": 19,
+   "dur": 122,
+   "o": 118,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#L28GUUPVY",
+   "ath": 19,
+   "d": "#2CVUVJGU8",
+   "dth": 19,
+   "dur": 156,
+   "o": 119,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#L28GUUPVY",
+   "ath": 19,
+   "d": "#909JUURLR",
+   "dth": 19,
+   "dur": 149,
+   "o": 120,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -1443,7 +1542,7 @@
  },
  "end": "20261127T201637.000Z",
  "opponent": {
-  "destruction": 97.62857,
+  "destruction": 98.74286,
   "members": [
    {
     "name": "Clasher",
@@ -1657,7 +1756,7 @@
    }
   ],
   "name": "# U.K ALL STARS",
-  "stars": 98,
+  "stars": 101,
   "tag": "#29P8VRPCG"
  },
  "start": "20261126T201637.000Z",
