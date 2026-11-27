@@ -736,11 +736,165 @@
    "p": 86,
    "s": 2,
    "side": "clan"
+  },
+  {
+   "a": "#PLUUYLU0Q",
+   "ath": 19,
+   "d": "#L9QV0JU9",
+   "dth": 19,
+   "dur": 154,
+   "o": 68,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#20RCV0PJ9",
+   "ath": 19,
+   "d": "#C9PQLUR0",
+   "dth": 19,
+   "dur": 120,
+   "o": 69,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#929Q9Q9G9",
+   "ath": 19,
+   "d": "#20VV2VR2V",
+   "dth": 19,
+   "dur": 160,
+   "o": 70,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#20RCV0PJ9",
+   "ath": 19,
+   "d": "#LY9GPVU88",
+   "dth": 19,
+   "dur": 103,
+   "o": 71,
+   "p": 68,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#929Q9Q9G9",
+   "ath": 19,
+   "d": "#GVV89RLC",
+   "dth": 19,
+   "dur": 180,
+   "o": 72,
+   "p": 93,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#YPRL2GUQ",
+   "ath": 19,
+   "d": "#GQQ02YVY",
+   "dth": 19,
+   "dur": 143,
+   "o": 73,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#YPRL2GUQ",
+   "ath": 19,
+   "d": "#9G9GQ0LQ",
+   "dth": 19,
+   "dur": 142,
+   "o": 74,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#PL2GGQU2U",
+   "ath": 19,
+   "d": "#LY9GPVU88",
+   "dth": 19,
+   "dur": 149,
+   "o": 75,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#LY9GPVU88",
+   "ath": 19,
+   "d": "#QRRR2JQ82",
+   "dth": 19,
+   "dur": 144,
+   "o": 76,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#PGPJUCQR8",
+   "ath": 19,
+   "d": "#YVL20UQPP",
+   "dth": 19,
+   "dur": 138,
+   "o": 77,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#PL2GGQU2U",
+   "ath": 19,
+   "d": "#GVV89RLC",
+   "dth": 19,
+   "dur": 156,
+   "o": 78,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#LY9GPVU88",
+   "ath": 19,
+   "d": "#GCCQL8JR",
+   "dth": 19,
+   "dur": 132,
+   "o": 79,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#PRCYUJUJU",
+   "ath": 19,
+   "d": "#Y9YG9JYPU",
+   "dth": 19,
+   "dur": 151,
+   "o": 80,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#PRCYUJUJU",
+   "ath": 19,
+   "d": "#8LGQ2UGPY",
+   "dth": 19,
+   "dur": 180,
+   "o": 81,
+   "p": 98,
+   "s": 2,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 64.22222,
+  "destruction": 73.111115,
   "members": [
    {
     "name": "DATPotter",
@@ -1014,12 +1168,12 @@
    }
   ],
   "name": "#Black Stone#",
-  "stars": 84,
+  "stars": 96,
   "tag": "#Y898LCJ0"
  },
  "end": "20261127T200444.000Z",
  "opponent": {
-  "destruction": 52.844444,
+  "destruction": 70.577774,
   "members": [
    {
     "name": "Cerveza2",
@@ -1293,7 +1447,7 @@
    }
   ],
   "name": "!OstatniBastion",
-  "stars": 70,
+  "stars": 93,
   "tag": "#2G2GLJ800"
  },
  "start": "20261126T200444.000Z",

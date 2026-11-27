@@ -604,6 +604,83 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#QL9GL08JJ",
+   "ath": 19,
+   "d": "#QCL0GJVV0",
+   "dth": 19,
+   "dur": 150,
+   "o": 56,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#899JQP88",
+   "ath": 19,
+   "d": "#9QC9PJQQ",
+   "dth": 19,
+   "dur": 140,
+   "o": 57,
+   "p": 78,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#980C82V",
+   "ath": 19,
+   "d": "#YULUCPPRY",
+   "dth": 19,
+   "dur": 93,
+   "o": 58,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#980C82V",
+   "ath": 19,
+   "d": "#Q88LJQ29P",
+   "dth": 19,
+   "dur": 106,
+   "o": 59,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#QL9GL08JJ",
+   "ath": 19,
+   "d": "#9QC9PJQQ",
+   "dth": 19,
+   "dur": 180,
+   "o": 60,
+   "p": 93,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#89Y28L00",
+   "ath": 19,
+   "d": "#V9YPURVY",
+   "dth": 19,
+   "dur": 120,
+   "o": 61,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#P9QVCRUC",
+   "ath": 19,
+   "d": "#L882UPRQG",
+   "dth": 18,
+   "dur": 128,
+   "o": 62,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -797,7 +874,7 @@
  },
  "end": "20261127T203331.000Z",
  "opponent": {
-  "destruction": 85.5,
+  "destruction": 93.3,
   "members": [
    {
     "name": "AlIg47oR",
@@ -981,7 +1058,7 @@
    }
   ],
   "name": "UKRAINE",
-  "stars": 65,
+  "stars": 75,
   "tag": "#2GYGCPV"
  },
  "start": "20261126T203331.000Z",

@@ -1341,6 +1341,171 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#QQLVVJL9R",
+   "ath": 19,
+   "d": "#LCVCVVGCJ",
+   "dth": 19,
+   "dur": 106,
+   "o": 123,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#GGP0UJP8",
+   "ath": 19,
+   "d": "#8J92RCJC2",
+   "dth": 19,
+   "dur": 150,
+   "o": 124,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#QQLVVJL9R",
+   "ath": 19,
+   "d": "#YCPPRYY9U",
+   "dth": 18,
+   "dur": 113,
+   "o": 125,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#LGQJQP2GQ",
+   "ath": 19,
+   "d": "#8J92RCJC2",
+   "dth": 19,
+   "dur": 4,
+   "o": 126,
+   "p": 10,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#LGQJQP2GQ",
+   "ath": 19,
+   "d": "#2G2LV2VYJ",
+   "dth": 19,
+   "dur": 6,
+   "o": 127,
+   "p": 13,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#L9JGJQRV",
+   "ath": 19,
+   "d": "#8J92RCJC2",
+   "dth": 19,
+   "dur": 116,
+   "o": 128,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#2LYQGU8YY",
+   "ath": 19,
+   "d": "#LQ80U9LJY",
+   "dth": 19,
+   "dur": 163,
+   "o": 129,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#L9JGJQRV",
+   "ath": 19,
+   "d": "#2G2LV2VYJ",
+   "dth": 19,
+   "dur": 84,
+   "o": 130,
+   "p": 71,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#GV9V88LJ",
+   "ath": 19,
+   "d": "#8J92RCJC2",
+   "dth": 19,
+   "dur": 10,
+   "o": 131,
+   "p": 7,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#GV9V88LJ",
+   "ath": 19,
+   "d": "#2G2LV2VYJ",
+   "dth": 19,
+   "dur": 31,
+   "o": 132,
+   "p": 19,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#2LYQGU8YY",
+   "ath": 19,
+   "d": "#LYR2QYVJQ",
+   "dth": 19,
+   "dur": 180,
+   "o": 133,
+   "p": 99,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#9URJGJ820",
+   "ath": 19,
+   "d": "#LQU0UJGG8",
+   "dth": 19,
+   "dur": 161,
+   "o": 134,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#9URJGJ820",
+   "ath": 19,
+   "d": "#PPQVUL0Y",
+   "dth": 19,
+   "dur": 169,
+   "o": 135,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#8VRPGQCL",
+   "ath": 19,
+   "d": "#PP29LCYLV",
+   "dth": 19,
+   "dur": 96,
+   "o": 136,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#8VRPGQCL",
+   "ath": 19,
+   "d": "#2CVJUGLR2",
+   "dth": 19,
+   "dur": 119,
+   "o": 137,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
@@ -1654,7 +1819,7 @@
  },
  "end": "20261127T184713.000Z",
  "opponent": {
-  "destruction": 76.08,
+  "destruction": 78.78,
   "members": [
    {
     "name": "✨MAX✨مصطفى",
@@ -1958,7 +2123,7 @@
    }
   ],
   "name": "لا نتشابهہ 》♡",
-  "stars": 109,
+  "stars": 114,
   "tag": "#2RQVPJRYQ"
  },
  "start": "20261126T184713.000Z",

@@ -890,11 +890,66 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#RR2PR208",
+   "ath": 19,
+   "d": "#2CVUVJGU8",
+   "dth": 19,
+   "dur": 180,
+   "o": 82,
+   "p": 72,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#88088CVLY",
+   "ath": 19,
+   "d": "#U0GQRG29",
+   "dth": 19,
+   "dur": 128,
+   "o": 83,
+   "p": 85,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#88088CVLY",
+   "ath": 19,
+   "d": "#P8V9JY8LU",
+   "dth": 19,
+   "dur": 131,
+   "o": 84,
+   "p": 85,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#2YJQL2LLQ",
+   "ath": 19,
+   "d": "#L28GUUPVY",
+   "dth": 19,
+   "dur": 123,
+   "o": 85,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#Y0JCJQRG",
+   "ath": 19,
+   "d": "#Q0R0L82G0",
+   "dth": 19,
+   "dur": 116,
+   "o": 86,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 85.71429,
+  "destruction": 89.171425,
   "members": [
    {
     "name": "Agent Hulk",
@@ -1108,12 +1163,12 @@
    }
   ],
   "name": "FruchtLabor II",
-  "stars": 83,
+  "stars": 87,
   "tag": "#2GQ929RRR"
  },
  "end": "20261127T201637.000Z",
  "opponent": {
-  "destruction": 94.51428,
+  "destruction": 94.685715,
   "members": [
    {
     "name": "Clasher",

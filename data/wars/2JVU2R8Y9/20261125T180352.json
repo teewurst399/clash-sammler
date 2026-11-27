@@ -890,6 +890,28 @@
    "p": 71,
    "s": 2,
    "side": "clan"
+  },
+  {
+   "a": "#JG2Y2V90",
+   "ath": 19,
+   "d": "#8JJYL2JRP",
+   "dth": 18,
+   "dur": 180,
+   "o": 82,
+   "p": 91,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#JG2Y2V90",
+   "ath": 19,
+   "d": "#Q8LVJL0R8",
+   "dth": 19,
+   "dur": 180,
+   "o": 83,
+   "p": 98,
+   "s": 2,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -1053,7 +1075,7 @@
  },
  "end": "20261127T170352.000Z",
  "opponent": {
-  "destruction": 98.12,
+  "destruction": 98.56,
   "members": [
    {
     "name": "BeirRun",

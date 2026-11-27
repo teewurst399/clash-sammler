@@ -945,11 +945,143 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#88GULC9PY",
+   "ath": 19,
+   "d": "#YG8GUVGYV",
+   "dth": 19,
+   "dur": 154,
+   "o": 87,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#QGJRCQPR",
+   "ath": 19,
+   "d": "#8P0YG0JC2",
+   "dth": 19,
+   "dur": 158,
+   "o": 88,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#RJ800GLP",
+   "ath": 19,
+   "d": "#PRP9GJP92",
+   "dth": 19,
+   "dur": 140,
+   "o": 89,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#RJ800GLP",
+   "ath": 19,
+   "d": "#8YCVPGVRL",
+   "dth": 19,
+   "dur": 131,
+   "o": 90,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#9229JGPG2",
+   "ath": 19,
+   "d": "#2U9QLGRG8",
+   "dth": 19,
+   "dur": 140,
+   "o": 91,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#PYL2GCCRY",
+   "ath": 19,
+   "d": "#YJVU9QUY",
+   "dth": 19,
+   "dur": 122,
+   "o": 92,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#PYL2GCCRY",
+   "ath": 19,
+   "d": "#RJ800GLP",
+   "dth": 19,
+   "dur": 113,
+   "o": 93,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#9229JGPG2",
+   "ath": 19,
+   "d": "#2JR0GLLQY",
+   "dth": 19,
+   "dur": 140,
+   "o": 94,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#YVQQGLCUG",
+   "ath": 19,
+   "d": "#2Y9YU0CQR",
+   "dth": 19,
+   "dur": 99,
+   "o": 95,
+   "p": 79,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#JY2V99CR",
+   "ath": 19,
+   "d": "#8QVVQGQQC",
+   "dth": 19,
+   "dur": 152,
+   "o": 96,
+   "p": 91,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#JY2V99CR",
+   "ath": 19,
+   "d": "#8JJJGGYL",
+   "dth": 19,
+   "dur": 151,
+   "o": 97,
+   "p": 98,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#QCYCJ9V0L",
+   "ath": 19,
+   "d": "#LJJL8L0",
+   "dth": 19,
+   "dur": 168,
+   "o": 98,
+   "p": 94,
+   "s": 2,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 89.75,
+  "destruction": 100.0,
   "members": [
    {
     "name": "Chiko",
@@ -1193,12 +1325,12 @@
    }
   ],
   "name": "GermanGladiator",
-  "stars": 107,
+  "stars": 120,
   "tag": "#2Y2L0J20V"
  },
  "end": "20261127T195151.000Z",
  "opponent": {
-  "destruction": 88.325,
+  "destruction": 98.175,
   "members": [
    {
     "name": "HS 今 DURSUN•1•™",
@@ -1442,7 +1574,7 @@
    }
   ],
   "name": "(PİNNACLE)",
-  "stars": 104,
+  "stars": 115,
   "tag": "#8PRJG29V"
  },
  "start": "20261126T195151.000Z",

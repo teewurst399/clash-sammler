@@ -450,11 +450,55 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#QJYCY0CJC",
+   "ath": 17,
+   "d": "#L8J2G8Y8G",
+   "dth": 16,
+   "dur": 129,
+   "o": 42,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#CRG2JP0Y",
+   "ath": 16,
+   "d": "#QYU2CUVUY",
+   "dth": 18,
+   "dur": 134,
+   "o": 43,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#QJYCY0CJC",
+   "ath": 17,
+   "d": "#QVG8P2JPG",
+   "dth": 16,
+   "dur": 123,
+   "o": 44,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#CRG2JP0Y",
+   "ath": 16,
+   "d": "#9JGJLVCP8",
+   "dth": 18,
+   "dur": 174,
+   "o": 45,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 75.0,
+  "destruction": 95.0,
   "members": [
    {
     "name": "mobe2",
@@ -578,7 +622,7 @@
    }
   ],
   "name": "Get Smurfed!",
-  "stars": 45,
+  "stars": 57,
   "tag": "#2J0JLGRRR"
  },
  "end": "20261127T195210.000Z",

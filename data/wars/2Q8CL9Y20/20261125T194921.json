@@ -1143,6 +1143,28 @@
    "p": 28,
    "s": 1,
    "side": "clan"
+  },
+  {
+   "a": "#Q0YCR88CC",
+   "ath": 19,
+   "d": "#YUVCJYYQY",
+   "dth": 19,
+   "dur": 134,
+   "o": 105,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#G2PG9CVJL",
+   "ath": 19,
+   "d": "#Q8LJJCYQ9",
+   "dth": 19,
+   "dur": 135,
+   "o": 106,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
