@@ -21,11 +21,198 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#8J9CRJ8C2",
+   "ath": 19,
+   "d": "#G9VR0CPGU",
+   "dth": 19,
+   "dur": 105,
+   "o": 3,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#8J9CRJ8C2",
+   "ath": 19,
+   "d": "#QJLJU2UYY",
+   "dth": 19,
+   "dur": 90,
+   "o": 4,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#GJGJ8C88",
+   "ath": 19,
+   "d": "#G8RRPJ0UP",
+   "dth": 19,
+   "dur": 180,
+   "o": 5,
+   "p": 98,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#289QY2J",
+   "ath": 19,
+   "d": "#YYYLYVL80",
+   "dth": 19,
+   "dur": 116,
+   "o": 6,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#289QY2J",
+   "ath": 19,
+   "d": "#98PC0JYY",
+   "dth": 19,
+   "dur": 128,
+   "o": 7,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#GJGJ8C88",
+   "ath": 19,
+   "d": "#YYRCJ2GR8",
+   "dth": 19,
+   "dur": 157,
+   "o": 8,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#YJLLJYPPP",
+   "ath": 19,
+   "d": "#89J0JUL9",
+   "dth": 19,
+   "dur": 136,
+   "o": 9,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#YJLLJYPPP",
+   "ath": 19,
+   "d": "#9JRGR0G89",
+   "dth": 19,
+   "dur": 134,
+   "o": 10,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#2LUV2P00",
+   "ath": 19,
+   "d": "#YVY0C8G9C",
+   "dth": 19,
+   "dur": 100,
+   "o": 11,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#89J0JUL9",
+   "ath": 19,
+   "d": "#YJLLJYPPP",
+   "dth": 19,
+   "dur": 162,
+   "o": 12,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#8YQUU8LVV",
+   "ath": 19,
+   "d": "#G8RRPJ0UP",
+   "dth": 19,
+   "dur": 153,
+   "o": 13,
+   "p": 94,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#QQ9UPPYC2",
+   "ath": 17,
+   "d": "#GVUP8YC02",
+   "dth": 19,
+   "dur": 119,
+   "o": 14,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#8YQUU8LVV",
+   "ath": 19,
+   "d": "#2PGLCLUVR",
+   "dth": 19,
+   "dur": 92,
+   "o": 15,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#QQ9UPPYC2",
+   "ath": 17,
+   "d": "#2JPY08V9",
+   "dth": 18,
+   "dur": 164,
+   "o": 16,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#89J0JUL9",
+   "ath": 19,
+   "d": "#PPR98G0L8",
+   "dth": 19,
+   "dur": 127,
+   "o": 17,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#GCU2YPJ2U",
+   "ath": 19,
+   "d": "#9YLPU0J88",
+   "dth": 18,
+   "dur": 123,
+   "o": 18,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#GCU2YPJ2U",
+   "ath": 19,
+   "d": "#80URVPVUL",
+   "dth": 18,
+   "dur": 107,
+   "o": 19,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 0.0,
+  "destruction": 23.333334,
   "members": [
    {
     "name": "Clash Joni",
@@ -209,12 +396,12 @@
    }
   ],
   "name": "Gammazone",
-  "stars": 0,
+  "stars": 21,
   "tag": "#YG20CR0U"
  },
  "end": "20261128T180345.000Z",
  "opponent": {
-  "destruction": 6.6666665,
+  "destruction": 36.6,
   "members": [
    {
     "name": "ChiefGriff",
@@ -398,7 +585,7 @@
    }
   ],
   "name": "Psycho Cadets",
-  "stars": 6,
+  "stars": 32,
   "tag": "#2PLRY88C9"
  },
  "start": "20261127T180345.000Z",

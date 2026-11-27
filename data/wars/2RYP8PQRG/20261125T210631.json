@@ -1319,6 +1319,248 @@
    "p": 98,
    "s": 2,
    "side": "gegner"
+  },
+  {
+   "a": "#U0L8CL8U",
+   "ath": 19,
+   "d": "#LJ99C2UYY",
+   "dth": 19,
+   "dur": 173,
+   "o": 121,
+   "p": 93,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#88C82JRJC",
+   "ath": 19,
+   "d": "#2LP8R9C9J",
+   "dth": 19,
+   "dur": 20,
+   "o": 122,
+   "p": 16,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#88C82JRJC",
+   "ath": 19,
+   "d": "#9JPRJ8YL9",
+   "dth": 19,
+   "dur": 7,
+   "o": 123,
+   "p": 6,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#LJ99C2UYY",
+   "ath": 19,
+   "d": "#2LP8R9C9J",
+   "dth": 19,
+   "dur": 24,
+   "o": 124,
+   "p": 21,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#LJ99C2UYY",
+   "ath": 19,
+   "d": "#QVJPRRY",
+   "dth": 19,
+   "dur": 25,
+   "o": 125,
+   "p": 35,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#L99JJ2VV0",
+   "ath": 19,
+   "d": "#GV00JPPP2",
+   "dth": 19,
+   "dur": 136,
+   "o": 126,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#L99JJ2VV0",
+   "ath": 19,
+   "d": "#LP0YV2UQ",
+   "dth": 19,
+   "dur": 140,
+   "o": 127,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#2LGUV982J",
+   "ath": 19,
+   "d": "#QLR08CLP",
+   "dth": 19,
+   "dur": 148,
+   "o": 128,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#8G2JYCRJ",
+   "ath": 19,
+   "d": "#LJ99C2UYY",
+   "dth": 19,
+   "dur": 83,
+   "o": 129,
+   "p": 49,
+   "s": 0,
+   "side": "gegner"
+  },
+  {
+   "a": "#98LY8P2QC",
+   "ath": 19,
+   "d": "#VCY8GLPL",
+   "dth": 19,
+   "dur": 180,
+   "o": 130,
+   "p": 94,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#9902CQR0",
+   "ath": 19,
+   "d": "#9UYQU8JU",
+   "dth": 19,
+   "dur": 7,
+   "o": 131,
+   "p": 5,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#9902CQR0",
+   "ath": 19,
+   "d": "#2Q9PY0LR8",
+   "dth": 19,
+   "dur": 25,
+   "o": 132,
+   "p": 14,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#8G2JYCRJ",
+   "ath": 19,
+   "d": "#28Y28C9UG",
+   "dth": 19,
+   "dur": 139,
+   "o": 133,
+   "p": 81,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#8Q2C88V8",
+   "ath": 19,
+   "d": "#VCY8GLPL",
+   "dth": 19,
+   "dur": 180,
+   "o": 134,
+   "p": 93,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#8Q2C88V8",
+   "ath": 19,
+   "d": "#LJ99C2UYY",
+   "dth": 19,
+   "dur": 164,
+   "o": 135,
+   "p": 89,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#2Q9PY0LR8",
+   "ath": 19,
+   "d": "#GVLYVJL8",
+   "dth": 19,
+   "dur": 121,
+   "o": 136,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#8PRYRRVUQ",
+   "ath": 19,
+   "d": "#9RLU98UV",
+   "dth": 18,
+   "dur": 150,
+   "o": 137,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#8PRYRRVUQ",
+   "ath": 19,
+   "d": "#GPQG0VY2G",
+   "dth": 19,
+   "dur": 83,
+   "o": 138,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#GPQG0VY2G",
+   "ath": 19,
+   "d": "#VCY8GLPL",
+   "dth": 19,
+   "dur": 154,
+   "o": 139,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#QGYPC9L88",
+   "ath": 19,
+   "d": "#2LP8R9C9J",
+   "dth": 19,
+   "dur": 179,
+   "o": 140,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#QGYPC9L88",
+   "ath": 19,
+   "d": "#9U9GUUU",
+   "dth": 19,
+   "dur": 157,
+   "o": 141,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#GPQG0VY2G",
+   "ath": 19,
+   "d": "#LJ99C2UYY",
+   "dth": 19,
+   "dur": 169,
+   "o": 142,
+   "p": 69,
+   "s": 1,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -1572,7 +1814,7 @@
  },
  "end": "20261127T200631.000Z",
  "opponent": {
-  "destruction": 96.95,
+  "destruction": 99.6,
   "members": [
    {
     "name": "Mario",
@@ -1816,7 +2058,7 @@
    }
   ],
   "name": "Italian Gods",
-  "stars": 112,
+  "stars": 117,
   "tag": "#8Q0P98GY"
  },
  "start": "20261126T200631.000Z",

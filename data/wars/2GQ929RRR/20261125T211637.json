@@ -1319,6 +1319,50 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#8RVL2Q29",
+   "ath": 19,
+   "d": "#822LJ229U",
+   "dth": 19,
+   "dur": 41,
+   "o": 121,
+   "p": 51,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#8RVL2Q29",
+   "ath": 19,
+   "d": "#29LJ8YPCJ",
+   "dth": 19,
+   "dur": 29,
+   "o": 122,
+   "p": 28,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#JRC09082",
+   "ath": 19,
+   "d": "#P8V9JY8LU",
+   "dth": 19,
+   "dur": 144,
+   "o": 123,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#2CUCRVJL9",
+   "ath": 19,
+   "d": "#YGP09Q029",
+   "dth": 19,
+   "dur": 157,
+   "o": 124,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -1542,7 +1586,7 @@
  },
  "end": "20261127T201637.000Z",
  "opponent": {
-  "destruction": 98.74286,
+  "destruction": 99.02857,
   "members": [
    {
     "name": "Clasher",
@@ -1756,7 +1800,7 @@
    }
   ],
   "name": "# U.K ALL STARS",
-  "stars": 101,
+  "stars": 103,
   "tag": "#29P8VRPCG"
  },
  "start": "20261126T201637.000Z",

@@ -1121,11 +1121,132 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#YUCY2QGU",
+   "ath": 19,
+   "d": "#8GJLGLPQU",
+   "dth": 18,
+   "dur": 121,
+   "o": 103,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#Y8LLLLURG",
+   "ath": 19,
+   "d": "#8J9CQG9P0",
+   "dth": 19,
+   "dur": 141,
+   "o": 104,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#PVPJLVLV",
+   "ath": 19,
+   "d": "#9UURPQLLJ",
+   "dth": 18,
+   "dur": 118,
+   "o": 105,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#PVPJLVLV",
+   "ath": 19,
+   "d": "#9JUUPV9V9",
+   "dth": 18,
+   "dur": 126,
+   "o": 106,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#Y8LLLLURG",
+   "ath": 19,
+   "d": "#9YGLRUJRG",
+   "dth": 19,
+   "dur": 171,
+   "o": 107,
+   "p": 87,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#L9JL2P8LL",
+   "ath": 19,
+   "d": "#9YGLRUJRG",
+   "dth": 19,
+   "dur": 10,
+   "o": 108,
+   "p": 54,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#L9JL2P8LL",
+   "ath": 19,
+   "d": "#82GYRJL2Q",
+   "dth": 19,
+   "dur": 47,
+   "o": 109,
+   "p": 68,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#GGRJ9GP8",
+   "ath": 19,
+   "d": "#2V2U22R2",
+   "dth": 19,
+   "dur": 135,
+   "o": 110,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#RQJ2P2LV",
+   "ath": 19,
+   "d": "#9YGLRUJRG",
+   "dth": 19,
+   "dur": 168,
+   "o": 111,
+   "p": 77,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#RQJ2P2LV",
+   "ath": 19,
+   "d": "#82GYRJL2Q",
+   "dth": 19,
+   "dur": 85,
+   "o": 112,
+   "p": 66,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#GY28YLCVP",
+   "ath": 19,
+   "d": "#9YGLRUJRG",
+   "dth": 19,
+   "dur": 99,
+   "o": 113,
+   "p": 69,
+   "s": 2,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 94.675,
+  "destruction": 100.0,
   "members": [
    {
     "name": "Sinan |",
@@ -1369,7 +1490,7 @@
    }
   ],
   "name": "#Black Stone# 2",
-  "stars": 112,
+  "stars": 120,
   "tag": "#282PGVRRJ"
  },
  "end": "20261128T004111.000Z",

@@ -1,0 +1,419 @@
+{
+ "attacks": [
+  {
+   "a": "#Y9JQU8LP8",
+   "ath": 19,
+   "d": "#Y2RQL9GR",
+   "dth": 19,
+   "dur": 178,
+   "o": 1,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#8QVQ29YG0",
+   "ath": 19,
+   "d": "#LL2U0UQPV",
+   "dth": 19,
+   "dur": 180,
+   "o": 2,
+   "p": 99,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#Y9JQU8LP8",
+   "ath": 19,
+   "d": "#LL2U0UQPV",
+   "dth": 19,
+   "dur": 180,
+   "o": 3,
+   "p": 98,
+   "s": 2,
+   "side": "gegner"
+  }
+ ],
+ "attacksPerMember": 2,
+ "clan": {
+  "destruction": 0.0,
+  "members": [
+   {
+    "name": "×ºkͥyuͣuͫº×",
+    "pos": 2,
+    "tag": "#LL2U0UQPV",
+    "th": 19
+   },
+   {
+    "name": "truz",
+    "pos": 9,
+    "tag": "#GCRGG08L",
+    "th": 19
+   },
+   {
+    "name": "g o o d y⚡️",
+    "pos": 20,
+    "tag": "#82VQGLC8",
+    "th": 19
+   },
+   {
+    "name": "Trizordo",
+    "pos": 24,
+    "tag": "#J2YQRQQ",
+    "th": 19
+   },
+   {
+    "name": "EZ⚡ZiNox⚡",
+    "pos": 11,
+    "tag": "#QRPUY82R9",
+    "th": 19
+   },
+   {
+    "name": "Pr4nger",
+    "pos": 17,
+    "tag": "#R98Q9VGV",
+    "th": 19
+   },
+   {
+    "name": "Shadow_Fighter",
+    "pos": 21,
+    "tag": "#2V88C9PQ9",
+    "th": 19
+   },
+   {
+    "name": "PeterLuto_2.0",
+    "pos": 27,
+    "tag": "#G2V89JU00",
+    "th": 19
+   },
+   {
+    "name": "Blizzard",
+    "pos": 10,
+    "tag": "#VG9PPGUR",
+    "th": 19
+   },
+   {
+    "name": "Blitzi",
+    "pos": 22,
+    "tag": "#L8C0PP09J",
+    "th": 19
+   },
+   {
+    "name": "Tiger",
+    "pos": 12,
+    "tag": "#L2UUC9G82",
+    "th": 19
+   },
+   {
+    "name": "xDraY",
+    "pos": 29,
+    "tag": "#Q8RUGLGQP",
+    "th": 19
+   },
+   {
+    "name": "GameSports",
+    "pos": 4,
+    "tag": "#YVU0G8JP",
+    "th": 19
+   },
+   {
+    "name": "whitespell",
+    "pos": 26,
+    "tag": "#98CP8L2U2",
+    "th": 19
+   },
+   {
+    "name": "TABAHHKAR!",
+    "pos": 6,
+    "tag": "#PVJR2UYVL",
+    "th": 19
+   },
+   {
+    "name": "n-player2",
+    "pos": 1,
+    "tag": "#Y2RQL9GR",
+    "th": 19
+   },
+   {
+    "name": "chuck morris",
+    "pos": 5,
+    "tag": "#2G8RVJ9R2",
+    "th": 19
+   },
+   {
+    "name": "Julian",
+    "pos": 8,
+    "tag": "#Q0V9QV8L",
+    "th": 19
+   },
+   {
+    "name": "[CG] Mo47",
+    "pos": 28,
+    "tag": "#JUPRQ02C",
+    "th": 19
+   },
+   {
+    "name": "Berchan31",
+    "pos": 18,
+    "tag": "#QQV88C0U2",
+    "th": 19
+   },
+   {
+    "name": "EselAuf3Beinen",
+    "pos": 3,
+    "tag": "#LY0LGR99G",
+    "th": 19
+   },
+   {
+    "name": "dtKim",
+    "pos": 13,
+    "tag": "#9PYLJUUY2",
+    "th": 19
+   },
+   {
+    "name": "Maurice 9u",
+    "pos": 23,
+    "tag": "#Y8992GYPG",
+    "th": 19
+   },
+   {
+    "name": "Benetic1",
+    "pos": 25,
+    "tag": "#PL8P8PP9V",
+    "th": 19
+   },
+   {
+    "name": "⚔Reaper⚔",
+    "pos": 30,
+    "tag": "#LQRUCQYGU",
+    "th": 18
+   },
+   {
+    "name": "arlo",
+    "pos": 15,
+    "tag": "#Q29288RV9",
+    "th": 19
+   },
+   {
+    "name": "4FäusteGegenRio",
+    "pos": 19,
+    "tag": "#2UJ2JG9Y0",
+    "th": 19
+   },
+   {
+    "name": "JSTN",
+    "pos": 7,
+    "tag": "#P02PC8UPU",
+    "th": 19
+   },
+   {
+    "name": "Sucxes",
+    "pos": 16,
+    "tag": "#9PJJ80JYQ",
+    "th": 19
+   },
+   {
+    "name": "stetson",
+    "pos": 14,
+    "tag": "#8RVYPQCRG",
+    "th": 19
+   }
+  ],
+  "name": "Thirdzone",
+  "stars": 0,
+  "tag": "#2GCQLVPR9"
+ },
+ "end": "20261128T184606.000Z",
+ "opponent": {
+  "destruction": 6.633333,
+  "members": [
+   {
+    "name": "WH❤TAKBIR 2",
+    "pos": 14,
+    "tag": "#YQGCLUGVJ",
+    "th": 19
+   },
+   {
+    "name": "❤️SADDAM❤️",
+    "pos": 11,
+    "tag": "#92VC2PPCQ",
+    "th": 19
+   },
+   {
+    "name": "NICE?",
+    "pos": 15,
+    "tag": "#9YJU88R2V",
+    "th": 19
+   },
+   {
+    "name": "R͜͡O͜͡L͜͡E͜͡X͜͡",
+    "pos": 2,
+    "tag": "#8Q2999929",
+    "th": 19
+   },
+   {
+    "name": "WH❤️EAMIN",
+    "pos": 25,
+    "tag": "#Q8RQ9VYLL",
+    "th": 19
+   },
+   {
+    "name": "Simple Clasher",
+    "pos": 24,
+    "tag": "#92CJJGJ2J",
+    "th": 18
+   },
+   {
+    "name": "A z a D",
+    "pos": 4,
+    "tag": "#Y9JQU8LP8",
+    "th": 19
+   },
+   {
+    "name": "WH⚔️☢️Theophil⚔",
+    "pos": 7,
+    "tag": "#2VUYGJVU8",
+    "th": 19
+   },
+   {
+    "name": "⭕Maroon⚔️Fire⭕",
+    "pos": 8,
+    "tag": "#CP08C9LJ",
+    "th": 19
+   },
+   {
+    "name": "WH❤️SUMON",
+    "pos": 27,
+    "tag": "#89PPGP8YC",
+    "th": 18
+   },
+   {
+    "name": "Farhan Sultan ™",
+    "pos": 23,
+    "tag": "#8QYV29282",
+    "th": 19
+   },
+   {
+    "name": "Toma",
+    "pos": 20,
+    "tag": "#P00RVJ0LG",
+    "th": 19
+   },
+   {
+    "name": "Minato Namikaze",
+    "pos": 29,
+    "tag": "#YR2GPUL0Y",
+    "th": 19
+   },
+   {
+    "name": "ra.one",
+    "pos": 6,
+    "tag": "#2880CPJRR",
+    "th": 19
+   },
+   {
+    "name": "ZH SiÂm",
+    "pos": 28,
+    "tag": "#98LGL0C",
+    "th": 18
+   },
+   {
+    "name": "Rᴀғɪᴜʟ Rɪꜱᴀɴ",
+    "pos": 13,
+    "tag": "#80U29QLJG",
+    "th": 19
+   },
+   {
+    "name": "®---<Z•B•M>---®",
+    "pos": 1,
+    "tag": "#98GLYPUCJ",
+    "th": 19
+   },
+   {
+    "name": "WH❤TAKBIR",
+    "pos": 12,
+    "tag": "#Y8RJ0RGUY",
+    "th": 19
+   },
+   {
+    "name": "C.I.D&RONE",
+    "pos": 21,
+    "tag": "#98QJYUUCV",
+    "th": 19
+   },
+   {
+    "name": "Sourav",
+    "pos": 10,
+    "tag": "#88RG0CP2Y",
+    "th": 19
+   },
+   {
+    "name": "Thahomid Islam",
+    "pos": 5,
+    "tag": "#99V2YR8Q",
+    "th": 19
+   },
+   {
+    "name": "NAJIM!",
+    "pos": 3,
+    "tag": "#G92JPLC8",
+    "th": 19
+   },
+   {
+    "name": "⭕⚔️ MAHBUR ⚔️⭕",
+    "pos": 9,
+    "tag": "#P2RJL82PG",
+    "th": 19
+   },
+   {
+    "name": "WH❤️MR.PRO",
+    "pos": 16,
+    "tag": "#CC0UU8C",
+    "th": 19
+   },
+   {
+    "name": "✨MaRuF™️✨007",
+    "pos": 30,
+    "tag": "#8YQ8Q22QR",
+    "th": 19
+   },
+   {
+    "name": "HERCULES",
+    "pos": 26,
+    "tag": "#8JL892YLG",
+    "th": 18
+   },
+   {
+    "name": "Syamol Boiragi",
+    "pos": 17,
+    "tag": "#9J2PYLQC8",
+    "th": 19
+   },
+   {
+    "name": "C.I.D,,RONE",
+    "pos": 22,
+    "tag": "#8UVLLPQPL",
+    "th": 19
+   },
+   {
+    "name": "ISHAQ MINI",
+    "pos": 18,
+    "tag": "#8QVQ29YG0",
+    "th": 19
+   },
+   {
+    "name": "RISHIKESH",
+    "pos": 19,
+    "tag": "#2PV220RY9",
+    "th": 19
+   }
+  ],
+  "name": "WaR HoUsE",
+  "stars": 5,
+  "tag": "#PCCP8LQL"
+ },
+ "start": "20261127T184606.000Z",
+ "state": "inWar",
+ "teamSize": 30,
+ "type": "krieg"
+}

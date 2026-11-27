@@ -934,6 +934,61 @@
    "p": 78,
    "s": 2,
    "side": "clan"
+  },
+  {
+   "a": "#LGUC8PCPJ",
+   "ath": 18,
+   "d": "#2PVG0V0JR",
+   "dth": 19,
+   "dur": 18,
+   "o": 86,
+   "p": 4,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#LGUC8PCPJ",
+   "ath": 18,
+   "d": "#2YUU0U0Q9",
+   "dth": 19,
+   "dur": 19,
+   "o": 87,
+   "p": 3,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#9CPL2YUQU",
+   "ath": 19,
+   "d": "#8PCG2PY9",
+   "dth": 18,
+   "dur": 97,
+   "o": 88,
+   "p": 69,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#JVVLQ9V0",
+   "ath": 19,
+   "d": "#2YV08PJG",
+   "dth": 19,
+   "dur": 99,
+   "o": 89,
+   "p": 83,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#JVVLQ9V0",
+   "ath": 19,
+   "d": "#9CPL2YUQU",
+   "dth": 19,
+   "dur": 79,
+   "o": 90,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
@@ -1097,7 +1152,7 @@
  },
  "end": "20261127T192733.000Z",
  "opponent": {
-  "destruction": 85.64,
+  "destruction": 86.08,
   "members": [
    {
     "name": "Floking",
@@ -1255,7 +1310,7 @@
   "tag": "#2LRYPQRLC"
  },
  "start": "20261126T192733.000Z",
- "state": "inWar",
+ "state": "warEnded",
  "teamSize": 25,
  "type": "krieg"
 }

@@ -846,6 +846,17 @@
    "p": 49,
    "s": 1,
    "side": "clan"
+  },
+  {
+   "a": "#JYCP0JU",
+   "ath": 19,
+   "d": "#PQR08CRJR",
+   "dth": 19,
+   "dur": 180,
+   "o": 78,
+   "p": 91,
+   "s": 2,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -1039,7 +1050,7 @@
  },
  "end": "20261127T203331.000Z",
  "opponent": {
-  "destruction": 94.53333,
+  "destruction": 94.76667,
   "members": [
    {
     "name": "AlIg47oR",

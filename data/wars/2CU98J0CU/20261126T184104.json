@@ -76,11 +76,220 @@
    "p": 98,
    "s": 2,
    "side": "clan"
+  },
+  {
+   "a": "#9JVU8VGU",
+   "ath": 19,
+   "d": "#2QCUYRL00",
+   "dth": 19,
+   "dur": 135,
+   "o": 8,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#PRU0QUPC",
+   "ath": 19,
+   "d": "#G0YUJYP02",
+   "dth": 19,
+   "dur": 180,
+   "o": 9,
+   "p": 92,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#RRLRQUYJ",
+   "ath": 19,
+   "d": "#G0YUJYP02",
+   "dth": 19,
+   "dur": 156,
+   "o": 10,
+   "p": 81,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#LJCV8Y8VQ",
+   "ath": 19,
+   "d": "#JG8JVQ2R",
+   "dth": 19,
+   "dur": 110,
+   "o": 11,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#PRU0QUPC",
+   "ath": 19,
+   "d": "#22RLJ00JV",
+   "dth": 19,
+   "dur": 176,
+   "o": 12,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#CJRL9QR",
+   "ath": 19,
+   "d": "#PVCUJ92U",
+   "dth": 19,
+   "dur": 180,
+   "o": 13,
+   "p": 91,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#CJRL9QR",
+   "ath": 19,
+   "d": "#22R8QYQJ",
+   "dth": 19,
+   "dur": 148,
+   "o": 14,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#LJCV8Y8VQ",
+   "ath": 19,
+   "d": "#G0YUJYP02",
+   "dth": 19,
+   "dur": 136,
+   "o": 15,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#LJQ2QJ28V",
+   "ath": 19,
+   "d": "#YR2RJUJ0",
+   "dth": 19,
+   "dur": 180,
+   "o": 16,
+   "p": 97,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#G9GVQ8PP8",
+   "ath": 19,
+   "d": "#LGU0RC88V",
+   "dth": 19,
+   "dur": 152,
+   "o": 17,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#9JVU8VGU",
+   "ath": 19,
+   "d": "#YR2RJUJ0",
+   "dth": 19,
+   "dur": 158,
+   "o": 18,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#22R8QYQJ",
+   "ath": 19,
+   "d": "#2UR2RQ2C9",
+   "dth": 19,
+   "dur": 153,
+   "o": 19,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#LJQ2QJ28V",
+   "ath": 19,
+   "d": "#P9J2JP88G",
+   "dth": 19,
+   "dur": 160,
+   "o": 20,
+   "p": 76,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#22R8QYQJ",
+   "ath": 19,
+   "d": "#LUVYGRUP",
+   "dth": 19,
+   "dur": 144,
+   "o": 21,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#G9GVQ8PP8",
+   "ath": 19,
+   "d": "#2YYQCR2YL",
+   "dth": 19,
+   "dur": 164,
+   "o": 22,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#YY8JCJQL",
+   "ath": 19,
+   "d": "#QL2YPRGJU",
+   "dth": 19,
+   "dur": 94,
+   "o": 23,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#LGU0RC88V",
+   "ath": 19,
+   "d": "#GU9R8J0",
+   "dth": 19,
+   "dur": 171,
+   "o": 24,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#YCG0LGCPU",
+   "ath": 19,
+   "d": "#PVCUJ92U",
+   "dth": 19,
+   "dur": 172,
+   "o": 25,
+   "p": 92,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#YCG0LGCPU",
+   "ath": 19,
+   "d": "#2Y2RC8JCP",
+   "dth": 19,
+   "dur": 167,
+   "o": 26,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 11.95,
+  "destruction": 21.8,
   "members": [
    {
     "name": "Patrón",
@@ -324,12 +533,12 @@
    }
   ],
   "name": "Throne_of_SRG",
-  "stars": 12,
+  "stars": 24,
   "tag": "#2CU98J0CU"
  },
  "end": "20261128T174104.000Z",
  "opponent": {
-  "destruction": 4.45,
+  "destruction": 26.9,
   "members": [
    {
     "name": "☄️ SELÇUK ☄️",
@@ -573,7 +782,7 @@
    }
   ],
   "name": "BARLAS",
-  "stars": 5,
+  "stars": 32,
   "tag": "#9UYCPVU0"
  },
  "start": "20261127T174104.000Z",

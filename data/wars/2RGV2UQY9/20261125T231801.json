@@ -1253,11 +1253,88 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#PVLQ9GJG9",
+   "ath": 19,
+   "d": "#JCUURC8C",
+   "dth": 19,
+   "dur": 156,
+   "o": 115,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#GJ0R9P92Y",
+   "ath": 19,
+   "d": "#YCU0RGUL",
+   "dth": 19,
+   "dur": 160,
+   "o": 116,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#GJ0R9P92Y",
+   "ath": 19,
+   "d": "#QC0RCJU8",
+   "dth": 19,
+   "dur": 172,
+   "o": 117,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#2CC9U0QP",
+   "ath": 19,
+   "d": "#PGRYQCJQJ",
+   "dth": 19,
+   "dur": 32,
+   "o": 118,
+   "p": 27,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#2CC9U0QP",
+   "ath": 19,
+   "d": "#98PQYQLP0",
+   "dth": 19,
+   "dur": 30,
+   "o": 119,
+   "p": 30,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#Y8GJG9GQ",
+   "ath": 19,
+   "d": "#PGRYQCJQJ",
+   "dth": 19,
+   "dur": 105,
+   "o": 120,
+   "p": 30,
+   "s": 0,
+   "side": "gegner"
+  },
+  {
+   "a": "#Y8GJG9GQ",
+   "ath": 19,
+   "d": "#98PQYQLP0",
+   "dth": 19,
+   "dur": 29,
+   "o": 121,
+   "p": 19,
+   "s": 1,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 99.575,
+  "destruction": 99.725,
   "members": [
    {
     "name": "pAx",
@@ -1501,12 +1578,12 @@
    }
   ],
   "name": "FruchtLabor III",
-  "stars": 118,
+  "stars": 119,
   "tag": "#2RGV2UQY9"
  },
  "end": "20261127T221801.000Z",
  "opponent": {
-  "destruction": 99.45,
+  "destruction": 100.0,
   "members": [
    {
     "name": "TheDeadKenny",
@@ -1750,7 +1827,7 @@
    }
   ],
   "name": "Team Winter X",
-  "stars": 118,
+  "stars": 120,
   "tag": "#2JPVV99RP"
  },
  "start": "20261126T221801.000Z",

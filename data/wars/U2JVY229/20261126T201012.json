@@ -1,0 +1,490 @@
+{
+ "attacks": [
+  {
+   "a": "#208CY00UV",
+   "ath": 19,
+   "d": "#VVC8C892",
+   "dth": 19,
+   "dur": 150,
+   "o": 1,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#2Q82PU98Y",
+   "ath": 19,
+   "d": "#Q8PVYJR2",
+   "dth": 19,
+   "dur": 114,
+   "o": 2,
+   "p": 91,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#QYC9VY8YY",
+   "ath": 19,
+   "d": "#GQCUVVV8",
+   "dth": 19,
+   "dur": 157,
+   "o": 3,
+   "p": 74,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#208CY00UV",
+   "ath": 19,
+   "d": "#Q8PVYJR2",
+   "dth": 19,
+   "dur": 150,
+   "o": 4,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  }
+ ],
+ "attacksPerMember": 2,
+ "clan": {
+  "destruction": 7.8285713,
+  "members": [
+   {
+    "name": "GL™ ReViX",
+    "pos": 17,
+    "tag": "#2PC9RJ8LY",
+    "th": 19
+   },
+   {
+    "name": "GL™ RAF",
+    "pos": 13,
+    "tag": "#2YPVGULQR",
+    "th": 19
+   },
+   {
+    "name": "SpiceLPK",
+    "pos": 25,
+    "tag": "#9UJ2RPU0P",
+    "th": 19
+   },
+   {
+    "name": "Paul",
+    "pos": 21,
+    "tag": "#YY90Y2L8G",
+    "th": 19
+   },
+   {
+    "name": "darkfighter1",
+    "pos": 28,
+    "tag": "#2P0Y8PUV",
+    "th": 19
+   },
+   {
+    "name": "GL™ Alex",
+    "pos": 31,
+    "tag": "#PYL82GJ8",
+    "th": 19
+   },
+   {
+    "name": "GL™Lukas",
+    "pos": 27,
+    "tag": "#Q2VV80GU2",
+    "th": 19
+   },
+   {
+    "name": "GL™️ Regera",
+    "pos": 34,
+    "tag": "#LPJYR2288",
+    "th": 19
+   },
+   {
+    "name": "Drunken.NIKLAS",
+    "pos": 8,
+    "tag": "#G8PVC90Q",
+    "th": 19
+   },
+   {
+    "name": "⚡TYLER DURDEN⚡",
+    "pos": 6,
+    "tag": "#PLJ29CRUG",
+    "th": 19
+   },
+   {
+    "name": "GL ™ Jannis",
+    "pos": 10,
+    "tag": "#PV99LUR8",
+    "th": 19
+   },
+   {
+    "name": "Julian",
+    "pos": 32,
+    "tag": "#8L20LVCUL",
+    "th": 19
+   },
+   {
+    "name": "GL™ menzman",
+    "pos": 3,
+    "tag": "#YGLYR8JRU",
+    "th": 19
+   },
+   {
+    "name": "GL™ Pain",
+    "pos": 35,
+    "tag": "#890V898QP",
+    "th": 19
+   },
+   {
+    "name": "¥Santino¥",
+    "pos": 29,
+    "tag": "#9YUJY9YV",
+    "th": 19
+   },
+   {
+    "name": "FURKAN",
+    "pos": 23,
+    "tag": "#QYVRC2VG",
+    "th": 19
+   },
+   {
+    "name": "Jomama",
+    "pos": 12,
+    "tag": "#QYC9VY8YY",
+    "th": 19
+   },
+   {
+    "name": "GL™ P4!n",
+    "pos": 5,
+    "tag": "#R0RRYUQ8",
+    "th": 19
+   },
+   {
+    "name": "GL™Nils0815",
+    "pos": 4,
+    "tag": "#G2GRRJ9L",
+    "th": 19
+   },
+   {
+    "name": "-_-",
+    "pos": 22,
+    "tag": "#98QR889CJ",
+    "th": 19
+   },
+   {
+    "name": "Johannes",
+    "pos": 24,
+    "tag": "#20U2P99JP",
+    "th": 19
+   },
+   {
+    "name": "GL™ Niko",
+    "pos": 2,
+    "tag": "#208CY00UV",
+    "th": 19
+   },
+   {
+    "name": "GL™ Matex",
+    "pos": 19,
+    "tag": "#PRRPRQU82",
+    "th": 19
+   },
+   {
+    "name": "GL™ DarkEcho012",
+    "pos": 16,
+    "tag": "#QU0QCJRPC",
+    "th": 19
+   },
+   {
+    "name": "GL™ Jаnniк",
+    "pos": 7,
+    "tag": "#Q2YUQL098",
+    "th": 19
+   },
+   {
+    "name": "GL™ Daniel",
+    "pos": 9,
+    "tag": "#2Q82PU98Y",
+    "th": 19
+   },
+   {
+    "name": "gxbrixx",
+    "pos": 15,
+    "tag": "#J920UY2V",
+    "th": 19
+   },
+   {
+    "name": "SkyLine",
+    "pos": 18,
+    "tag": "#LYU2PPG2",
+    "th": 19
+   },
+   {
+    "name": "GL™ Matex093",
+    "pos": 20,
+    "tag": "#2C02PYQCP",
+    "th": 19
+   },
+   {
+    "name": "J-Lo",
+    "pos": 33,
+    "tag": "#P0098RUQ",
+    "th": 19
+   },
+   {
+    "name": "vanilla panda",
+    "pos": 14,
+    "tag": "#80LJ0Q9UC",
+    "th": 19
+   },
+   {
+    "name": "GL™Khodor",
+    "pos": 26,
+    "tag": "#QULYVRP2R",
+    "th": 19
+   },
+   {
+    "name": "GL™ Benjamin",
+    "pos": 1,
+    "tag": "#R0LJR999",
+    "th": 19
+   },
+   {
+    "name": "GL™DennisRuftAn",
+    "pos": 11,
+    "tag": "#80CPR9UQ",
+    "th": 19
+   },
+   {
+    "name": "GL™Max",
+    "pos": 30,
+    "tag": "#LYPV8J8CY",
+    "th": 19
+   }
+  ],
+  "name": "GNADENLOS™",
+  "stars": 8,
+  "tag": "#U2JVY229"
+ },
+ "end": "20261128T191012.000Z",
+ "opponent": {
+  "destruction": 0.0,
+  "members": [
+   {
+    "name": "AQL Moon",
+    "pos": 21,
+    "tag": "#20L8290J2",
+    "th": 19
+   },
+   {
+    "name": "Noam",
+    "pos": 9,
+    "tag": "#GYVUG2G",
+    "th": 19
+   },
+   {
+    "name": "ᴼᵒᵖˢ TwiiReX",
+    "pos": 33,
+    "tag": "#99C880R09",
+    "th": 19
+   },
+   {
+    "name": "AQL AxthisLO",
+    "pos": 5,
+    "tag": "#80RR0GGC",
+    "th": 19
+   },
+   {
+    "name": "꧁lm cute꧂",
+    "pos": 34,
+    "tag": "#2CGRJYUPC",
+    "th": 18
+   },
+   {
+    "name": "ATL I KryKry",
+    "pos": 14,
+    "tag": "#QCRRL9JP9",
+    "th": 19
+   },
+   {
+    "name": "Kaori ✨",
+    "pos": 6,
+    "tag": "#Q8PVYJR2",
+    "th": 19
+   },
+   {
+    "name": "AQL Kywi",
+    "pos": 19,
+    "tag": "#CQC9CYY0",
+    "th": 19
+   },
+   {
+    "name": "Lv.1 Marinos",
+    "pos": 24,
+    "tag": "#LCQYJ90UP",
+    "th": 19
+   },
+   {
+    "name": "AQL SkyStormy",
+    "pos": 3,
+    "tag": "#YLQ9UJR0",
+    "th": 19
+   },
+   {
+    "name": "Hilarant ♠️",
+    "pos": 8,
+    "tag": "#QGPJ8LCGU",
+    "th": 19
+   },
+   {
+    "name": "AQL Max",
+    "pos": 1,
+    "tag": "#VVC8C892",
+    "th": 19
+   },
+   {
+    "name": "AQL Zebul☯️n",
+    "pos": 30,
+    "tag": "#292RYUVJC",
+    "th": 19
+   },
+   {
+    "name": "Vietcong",
+    "pos": 16,
+    "tag": "#L9GPUUYQ",
+    "th": 19
+   },
+   {
+    "name": "AQL Adrien",
+    "pos": 17,
+    "tag": "#9YPGL2YP",
+    "th": 19
+   },
+   {
+    "name": "AQL Feunétyk",
+    "pos": 11,
+    "tag": "#CVYCC2CG",
+    "th": 19
+   },
+   {
+    "name": "seïya2",
+    "pos": 26,
+    "tag": "#Y8J89CGU8",
+    "th": 19
+   },
+   {
+    "name": "ᴳᴼᴬᵀ Loki ™",
+    "pos": 2,
+    "tag": "#GQCUVVV8",
+    "th": 19
+   },
+   {
+    "name": "AQL Amande",
+    "pos": 31,
+    "tag": "#QJLR8UV0",
+    "th": 19
+   },
+   {
+    "name": "[S]hadow",
+    "pos": 27,
+    "tag": "#2CR0GCY90",
+    "th": 19
+   },
+   {
+    "name": "AQL mlgir",
+    "pos": 25,
+    "tag": "#99VLP8VC",
+    "th": 19
+   },
+   {
+    "name": "ATL I GuiGoat",
+    "pos": 32,
+    "tag": "#QPY8CUCQU",
+    "th": 19
+   },
+   {
+    "name": "SimOn",
+    "pos": 20,
+    "tag": "#YLUJ8RVY",
+    "th": 19
+   },
+   {
+    "name": "Alex Breizh",
+    "pos": 18,
+    "tag": "#8280P90L",
+    "th": 19
+   },
+   {
+    "name": "AQL PAPY SAM",
+    "pos": 15,
+    "tag": "#J9U9RG92",
+    "th": 19
+   },
+   {
+    "name": "Lulu",
+    "pos": 12,
+    "tag": "#22YCJ2GLQ",
+    "th": 19
+   },
+   {
+    "name": "AQL AnaKliTiK",
+    "pos": 13,
+    "tag": "#QCLPPR9UG",
+    "th": 19
+   },
+   {
+    "name": "AQL PAPY SAM 35",
+    "pos": 23,
+    "tag": "#9089LJR",
+    "th": 19
+   },
+   {
+    "name": "AQL Léo了哦",
+    "pos": 7,
+    "tag": "#L8RGPJYUJ",
+    "th": 19
+   },
+   {
+    "name": "Hilarant ♣️",
+    "pos": 4,
+    "tag": "#UGQ9L9YQ",
+    "th": 19
+   },
+   {
+    "name": "XyneAs",
+    "pos": 35,
+    "tag": "#82VLRVG9J",
+    "th": 18
+   },
+   {
+    "name": "Kraezed",
+    "pos": 10,
+    "tag": "#UUGLY0YP",
+    "th": 19
+   },
+   {
+    "name": "2L4S Erazzz",
+    "pos": 29,
+    "tag": "#8UVPUJLQ",
+    "th": 19
+   },
+   {
+    "name": "AQL SirAtlo0",
+    "pos": 22,
+    "tag": "#80PRY0JQU",
+    "th": 19
+   },
+   {
+    "name": "ⓐⓡⓟⓐⓝ",
+    "pos": 28,
+    "tag": "#8GYV0YLGJ",
+    "th": 19
+   }
+  ],
+  "name": "AQUILA",
+  "stars": 0,
+  "tag": "#2C2JYY220"
+ },
+ "start": "20261127T191012.000Z",
+ "state": "inWar",
+ "teamSize": 35,
+ "type": "krieg"
+}

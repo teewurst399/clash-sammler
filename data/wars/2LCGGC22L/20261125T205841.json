@@ -1088,6 +1088,171 @@
    "p": 42,
    "s": 1,
    "side": "clan"
+  },
+  {
+   "a": "#V9G0VGYG",
+   "ath": 19,
+   "d": "#20YVJUG0J",
+   "dth": 19,
+   "dur": 128,
+   "o": 100,
+   "p": 69,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#GURVV2R9L",
+   "ath": 19,
+   "d": "#2L8GYRQJ2",
+   "dth": 19,
+   "dur": 48,
+   "o": 101,
+   "p": 45,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#G0L9Q8P0P",
+   "ath": 19,
+   "d": "#C0L9UJ0L",
+   "dth": 19,
+   "dur": 43,
+   "o": 102,
+   "p": 44,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#G0L9Q8P0P",
+   "ath": 19,
+   "d": "#2L8GYRQJ2",
+   "dth": 19,
+   "dur": 54,
+   "o": 103,
+   "p": 42,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#RJPGC2JV",
+   "ath": 19,
+   "d": "#C0L9UJ0L",
+   "dth": 19,
+   "dur": 176,
+   "o": 104,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#RJPGC2JV",
+   "ath": 19,
+   "d": "#2RJ8LR9C",
+   "dth": 19,
+   "dur": 135,
+   "o": 105,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#V9GQYUCJ",
+   "ath": 19,
+   "d": "#G80RGGG0R",
+   "dth": 19,
+   "dur": 141,
+   "o": 106,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#9P880J2P",
+   "ath": 19,
+   "d": "#C0L9UJ0L",
+   "dth": 19,
+   "dur": 124,
+   "o": 107,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#V9GQYUCJ",
+   "ath": 19,
+   "d": "#8P90C0UUU",
+   "dth": 19,
+   "dur": 180,
+   "o": 108,
+   "p": 97,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#9P880J2P",
+   "ath": 19,
+   "d": "#2RJ8LR9C",
+   "dth": 19,
+   "dur": 140,
+   "o": 109,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#PVUUQ82C",
+   "ath": 19,
+   "d": "#G0G00Q9VL",
+   "dth": 19,
+   "dur": 94,
+   "o": 110,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#QJV8UUGRJ",
+   "ath": 19,
+   "d": "#9CQ89GJG",
+   "dth": 19,
+   "dur": 26,
+   "o": 111,
+   "p": 29,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#QJV8UUGRJ",
+   "ath": 19,
+   "d": "#JJV8PRL",
+   "dth": 19,
+   "dur": 13,
+   "o": 112,
+   "p": 14,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#P980GJ9U",
+   "ath": 19,
+   "d": "#9VVPVLVL",
+   "dth": 19,
+   "dur": 62,
+   "o": 113,
+   "p": 57,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#P980GJ9U",
+   "ath": 19,
+   "d": "#9V00PRGU",
+   "dth": 19,
+   "dur": 75,
+   "o": 114,
+   "p": 48,
+   "s": 0,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -1341,7 +1506,7 @@
  },
  "end": "20261127T195841.000Z",
  "opponent": {
-  "destruction": 75.4,
+  "destruction": 78.825,
   "members": [
    {
     "name": "suxl",
@@ -1585,7 +1750,7 @@
    }
   ],
   "name": "ANTICO ESERCITO",
-  "stars": 79,
+  "stars": 85,
   "tag": "#2QQC2098Y"
  },
  "start": "20261126T195841.000Z",

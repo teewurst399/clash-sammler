@@ -1418,6 +1418,105 @@
    "p": 82,
    "s": 2,
    "side": "gegner"
+  },
+  {
+   "a": "#99PJL8080",
+   "ath": 19,
+   "d": "#L8G8GR0C9",
+   "dth": 19,
+   "dur": 146,
+   "o": 130,
+   "p": 77,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#99PJL8080",
+   "ath": 19,
+   "d": "#GUJ0LP",
+   "dth": 19,
+   "dur": 114,
+   "o": 131,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#YUR0QQJUU",
+   "ath": 19,
+   "d": "#QGYVJVQJ",
+   "dth": 19,
+   "dur": 112,
+   "o": 132,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#YUR0QQJUU",
+   "ath": 19,
+   "d": "#QG8CP09L",
+   "dth": 19,
+   "dur": 180,
+   "o": 133,
+   "p": 92,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#P9PR9089U",
+   "ath": 19,
+   "d": "#9GUUYQYLY",
+   "dth": 19,
+   "dur": 180,
+   "o": 134,
+   "p": 96,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#LJY00RRUR",
+   "ath": 19,
+   "d": "#U2JPGRL",
+   "dth": 19,
+   "dur": 145,
+   "o": 135,
+   "p": 86,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#8URVJ0QVG",
+   "ath": 19,
+   "d": "#U8PQ8JCG",
+   "dth": 19,
+   "dur": 12,
+   "o": 136,
+   "p": 50,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#8URVJ0QVG",
+   "ath": 19,
+   "d": "#UCGCYV8J",
+   "dth": 19,
+   "dur": 11,
+   "o": 137,
+   "p": 52,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#LJY00RRUR",
+   "ath": 19,
+   "d": "#9GUUYQYLY",
+   "dth": 19,
+   "dur": 134,
+   "o": 138,
+   "p": 92,
+   "s": 2,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -1671,7 +1770,7 @@
  },
  "end": "20261127T190231.000Z",
  "opponent": {
-  "destruction": 97.1,
+  "destruction": 98.15,
   "members": [
    {
     "name": "Tyr",
@@ -1915,11 +2014,11 @@
    }
   ],
   "name": "Monstergas jr.",
-  "stars": 111,
+  "stars": 113,
   "tag": "#29CV02VC"
  },
  "start": "20261126T190231.000Z",
- "state": "inWar",
+ "state": "warEnded",
  "teamSize": 40,
  "type": "krieg"
 }
