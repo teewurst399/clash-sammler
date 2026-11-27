@@ -538,6 +538,39 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#20CU9J9L2",
+   "ath": 19,
+   "d": "#CV9LC02",
+   "dth": 19,
+   "dur": 180,
+   "o": 50,
+   "p": 98,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#20CU9J9L2",
+   "ath": 19,
+   "d": "#LCY9VGY9",
+   "dth": 19,
+   "dur": 119,
+   "o": 51,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#Q28P20J0",
+   "ath": 19,
+   "d": "#PVPJLVLV",
+   "dth": 19,
+   "dur": 164,
+   "o": 52,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -791,7 +824,7 @@
  },
  "end": "20261128T004111.000Z",
  "opponent": {
-  "destruction": 65.95,
+  "destruction": 73.4,
   "members": [
    {
     "name": "Rey Lagarto",
@@ -1035,7 +1068,7 @@
    }
   ],
   "name": "ONLY ONE LEGEND",
-  "stars": 79,
+  "stars": 86,
   "tag": "#8GPRV92"
  },
  "start": "20261127T004111.000Z",

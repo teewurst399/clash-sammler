@@ -593,6 +593,61 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#LCG09V2YP",
+   "ath": 19,
+   "d": "#L22LLY8UU",
+   "dth": 19,
+   "dur": 149,
+   "o": 55,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#LCG09V2YP",
+   "ath": 19,
+   "d": "#8VCJRY9J",
+   "dth": 19,
+   "dur": 146,
+   "o": 56,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#L9JQLPY00",
+   "ath": 19,
+   "d": "#PQGP98RJC",
+   "dth": 19,
+   "dur": 75,
+   "o": 57,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#L9JQLPY00",
+   "ath": 19,
+   "d": "#2LG0YC0Q",
+   "dth": 19,
+   "dur": 151,
+   "o": 58,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#PQ8V2CJJ",
+   "ath": 19,
+   "d": "#2P9QJRRC",
+   "dth": 19,
+   "dur": 115,
+   "o": 59,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -846,7 +901,7 @@
  },
  "end": "20261127T221801.000Z",
  "opponent": {
-  "destruction": 60.875,
+  "destruction": 73.375,
   "members": [
    {
     "name": "TheDeadKenny",
@@ -1090,7 +1145,7 @@
    }
   ],
   "name": "Team Winter X",
-  "stars": 65,
+  "stars": 80,
   "tag": "#2JPVV99RP"
  },
  "start": "20261126T221801.000Z",

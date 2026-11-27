@@ -1055,11 +1055,66 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#QQJJ0CQ8P",
+   "ath": 19,
+   "d": "#L8G8GR0C9",
+   "dth": 19,
+   "dur": 125,
+   "o": 97,
+   "p": 72,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#RR0R0L8U",
+   "ath": 19,
+   "d": "#GGRQGLQJY",
+   "dth": 19,
+   "dur": 145,
+   "o": 98,
+   "p": 84,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#2RUULQJ0Q",
+   "ath": 19,
+   "d": "#YYVULGY8C",
+   "dth": 18,
+   "dur": 140,
+   "o": 99,
+   "p": 83,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#29QV2CCPY",
+   "ath": 19,
+   "d": "#YYVULGY8C",
+   "dth": 18,
+   "dur": 125,
+   "o": 100,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#GGRQGLQJY",
+   "ath": 19,
+   "d": "#QVVRQLR",
+   "dth": 19,
+   "dur": 129,
+   "o": 101,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 84.65,
+  "destruction": 87.15,
   "members": [
    {
     "name": "EG⚡️KING",
@@ -1303,12 +1358,12 @@
    }
   ],
   "name": "Get Cooked!",
-  "stars": 101,
+  "stars": 104,
   "tag": "#2J922VYQ0"
  },
  "end": "20261127T190231.000Z",
  "opponent": {
-  "destruction": 90.65,
+  "destruction": 93.425,
   "members": [
    {
     "name": "Tyr",
@@ -1552,7 +1607,7 @@
    }
   ],
   "name": "Monstergas jr.",
-  "stars": 102,
+  "stars": 104,
   "tag": "#29CV02VC"
  },
  "start": "20261126T190231.000Z",

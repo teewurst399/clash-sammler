@@ -1033,6 +1033,28 @@
    "p": 18,
    "s": 1,
    "side": "gegner"
+  },
+  {
+   "a": "#PRVVCQJUY",
+   "ath": 19,
+   "d": "#QCVQ090P2",
+   "dth": 19,
+   "dur": 12,
+   "o": 95,
+   "p": 25,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#PRVVCQJUY",
+   "ath": 19,
+   "d": "#28G22C902",
+   "dth": 19,
+   "dur": 8,
+   "o": 96,
+   "p": 7,
+   "s": 1,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,

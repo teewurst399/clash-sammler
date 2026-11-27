@@ -505,11 +505,55 @@
    "p": 93,
    "s": 2,
    "side": "gegner"
+  },
+  {
+   "a": "#Q00CLQ09P",
+   "ath": 19,
+   "d": "#98V80UVCU",
+   "dth": 18,
+   "dur": 144,
+   "o": 47,
+   "p": 96,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#LYL8CCCPL",
+   "ath": 18,
+   "d": "#LU90RRRQV",
+   "dth": 18,
+   "dur": 117,
+   "o": 48,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#VUCJCYRL",
+   "ath": 19,
+   "d": "#9YRYYUU0L",
+   "dth": 19,
+   "dur": 156,
+   "o": 49,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#VUCJCYRL",
+   "ath": 19,
+   "d": "#28Y9U8YU",
+   "dth": 19,
+   "dur": 162,
+   "o": 50,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 58.866665,
+  "destruction": 65.53333,
   "members": [
    {
     "name": "DΔツLion",
@@ -693,12 +737,12 @@
    }
   ],
   "name": "Dark Angel",
-  "stars": 53,
+  "stars": 59,
   "tag": "#2JJG9RLY8"
  },
  "end": "20261127T203331.000Z",
  "opponent": {
-  "destruction": 77.833336,
+  "destruction": 84.36667,
   "members": [
    {
     "name": "AlIg47oR",
@@ -882,7 +926,7 @@
    }
   ],
   "name": "UKRAINE",
-  "stars": 60,
+  "stars": 65,
   "tag": "#2GYGCPV"
  },
  "start": "20261126T203331.000Z",

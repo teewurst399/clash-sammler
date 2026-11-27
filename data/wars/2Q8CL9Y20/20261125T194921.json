@@ -1022,11 +1022,132 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#QJPGQP28",
+   "ath": 19,
+   "d": "#G2PG9CVJL",
+   "dth": 19,
+   "dur": 149,
+   "o": 94,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#QJPGQP28",
+   "ath": 19,
+   "d": "#89L8R2LJQ",
+   "dth": 19,
+   "dur": 133,
+   "o": 95,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#U2LUC088",
+   "ath": 19,
+   "d": "#Q0YJVGC8R",
+   "dth": 19,
+   "dur": 126,
+   "o": 96,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#U2LUC088",
+   "ath": 19,
+   "d": "#9JV82LJYR",
+   "dth": 19,
+   "dur": 89,
+   "o": 97,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#9L8CY8G98",
+   "ath": 19,
+   "d": "#9G88VQU0L",
+   "dth": 19,
+   "dur": 109,
+   "o": 98,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#9L8CY8G98",
+   "ath": 19,
+   "d": "#YLP8Q9JYV",
+   "dth": 19,
+   "dur": 128,
+   "o": 99,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#QQLUYUGJC",
+   "ath": 19,
+   "d": "#Q29R0UQ2J",
+   "dth": 19,
+   "dur": 129,
+   "o": 100,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#2J9PQVV8G",
+   "ath": 19,
+   "d": "#9YCL0PRU",
+   "dth": 19,
+   "dur": 94,
+   "o": 101,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#QQLUYUGJC",
+   "ath": 19,
+   "d": "#JUCLYC99",
+   "dth": 19,
+   "dur": 103,
+   "o": 102,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#Q0YCR88CC",
+   "ath": 19,
+   "d": "#90PRJ82JY",
+   "dth": 19,
+   "dur": 157,
+   "o": 103,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#2J9PQVV8G",
+   "ath": 19,
+   "d": "#LUL8QL020",
+   "dth": 19,
+   "dur": 29,
+   "o": 104,
+   "p": 28,
+   "s": 1,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 79.5,
+  "destruction": 100.0,
   "members": [
    {
     "name": "tojamane",
@@ -1270,7 +1391,7 @@
    }
   ],
   "name": "Obstsalat",
-  "stars": 94,
+  "stars": 120,
   "tag": "#2Q8CL9Y20"
  },
  "end": "20261127T184921.000Z",
