@@ -21,11 +21,77 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#2LJCRGCLY",
+   "ath": 19,
+   "d": "#2UVGVRQP",
+   "dth": 19,
+   "dur": 95,
+   "o": 3,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#9Q92V2VRY",
+   "ath": 19,
+   "d": "#Q8G8V82R",
+   "dth": 19,
+   "dur": 147,
+   "o": 4,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#RCL0PPJJ",
+   "ath": 19,
+   "d": "#9829GG8UL",
+   "dth": 19,
+   "dur": 159,
+   "o": 5,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#RCL0PPJJ",
+   "ath": 19,
+   "d": "#G29V02C9",
+   "dth": 19,
+   "dur": 180,
+   "o": 6,
+   "p": 96,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#QL099JRLR",
+   "ath": 19,
+   "d": "#200JRRVQG",
+   "dth": 19,
+   "dur": 114,
+   "o": 7,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#QL099JRLR",
+   "ath": 19,
+   "d": "#9JVUGVGY8",
+   "dth": 19,
+   "dur": 113,
+   "o": 8,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 5.714286,
+  "destruction": 17.028572,
   "members": [
    {
     "name": "Der Checker",
@@ -239,12 +305,12 @@
    }
   ],
   "name": "GhostZone",
-  "stars": 6,
+  "stars": 17,
   "tag": "#JPLG8V2C"
  },
  "end": "20261128T201052.000Z",
  "opponent": {
-  "destruction": 0.0,
+  "destruction": 5.714286,
   "members": [
    {
     "name": "SRG⭐️Warden",
@@ -458,7 +524,7 @@
    }
   ],
   "name": "SRG GAMING I",
-  "stars": 0,
+  "stars": 6,
   "tag": "#28Y2U099L"
  },
  "start": "20261127T201052.000Z",

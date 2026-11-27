@@ -153,11 +153,110 @@
    "p": 87,
    "s": 2,
    "side": "gegner"
+  },
+  {
+   "a": "#Y982G9Q",
+   "ath": 19,
+   "d": "#2PGG8VLY8",
+   "dth": 19,
+   "dur": 177,
+   "o": 15,
+   "p": 93,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#G892YC2GP",
+   "ath": 19,
+   "d": "#2UUGQULY",
+   "dth": 19,
+   "dur": 117,
+   "o": 16,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#Y982G9Q",
+   "ath": 19,
+   "d": "#UJR8QRCY",
+   "dth": 19,
+   "dur": 180,
+   "o": 17,
+   "p": 91,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#G892YC2GP",
+   "ath": 19,
+   "d": "#2C9CGPQUY",
+   "dth": 19,
+   "dur": 96,
+   "o": 18,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#GPYJUPGU",
+   "ath": 19,
+   "d": "#PC0YR9P0",
+   "dth": 19,
+   "dur": 129,
+   "o": 19,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#GPYJUPGU",
+   "ath": 19,
+   "d": "#28PP0G99",
+   "dth": 19,
+   "dur": 174,
+   "o": 20,
+   "p": 94,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#LQL02RGC8",
+   "ath": 19,
+   "d": "#2JL8CGJV0",
+   "dth": 19,
+   "dur": 128,
+   "o": 21,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#LQL02RGC8",
+   "ath": 19,
+   "d": "#8C9J90RY9",
+   "dth": 19,
+   "dur": 155,
+   "o": 22,
+   "p": 74,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#LQCGLUCQ",
+   "ath": 19,
+   "d": "#8PGPRYPYV",
+   "dth": 19,
+   "dur": 160,
+   "o": 23,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 15.0,
+  "destruction": 31.3,
   "members": [
    {
     "name": "MOZ.ART",
@@ -401,12 +500,12 @@
    }
   ],
   "name": "Firstzone",
-  "stars": 18,
+  "stars": 35,
   "tag": "#2YQQ80QGL"
  },
  "end": "20261128T191235.000Z",
  "opponent": {
-  "destruction": 17.0,
+  "destruction": 22.0,
   "members": [
    {
     "name": "Bhors23",
@@ -650,7 +749,7 @@
    }
   ],
   "name": "House of Elites",
-  "stars": 19,
+  "stars": 25,
   "tag": "#2YLR0J09Y"
  },
  "start": "20261127T191235.000Z",

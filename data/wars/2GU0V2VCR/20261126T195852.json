@@ -241,11 +241,22 @@
    "p": 97,
    "s": 2,
    "side": "clan"
+  },
+  {
+   "a": "#2QV2YCLVG",
+   "ath": 18,
+   "d": "#YGPU8P8YQ",
+   "dth": 19,
+   "dur": 171,
+   "o": 23,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 28.485714,
+  "destruction": 31.342857,
   "members": [
    {
     "name": "Monkey D. Luffy",
@@ -459,7 +470,7 @@
    }
   ],
   "name": "Fourthzone",
-  "stars": 29,
+  "stars": 32,
   "tag": "#2GU0V2VCR"
  },
  "end": "20261128T185852.000Z",

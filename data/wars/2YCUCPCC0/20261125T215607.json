@@ -1297,6 +1297,72 @@
    "p": 93,
    "s": 2,
    "side": "gegner"
+  },
+  {
+   "a": "#GGQ8UL9GY",
+   "ath": 19,
+   "d": "#2PRRJ8CRR",
+   "dth": 19,
+   "dur": 180,
+   "o": 119,
+   "p": 93,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#Q20YUJYV2",
+   "ath": 18,
+   "d": "#Y0809C9QJ",
+   "dth": 18,
+   "dur": 138,
+   "o": 120,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#Q20YUJYV2",
+   "ath": 18,
+   "d": "#G8RPVG9QU",
+   "dth": 18,
+   "dur": 150,
+   "o": 121,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#GG8CU0UY8",
+   "ath": 18,
+   "d": "#2PRRJ8CRR",
+   "dth": 19,
+   "dur": 180,
+   "o": 122,
+   "p": 77,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#GG8CU0UY8",
+   "ath": 18,
+   "d": "#CGGRGRRV",
+   "dth": 19,
+   "dur": 25,
+   "o": 123,
+   "p": 5,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#QJ9CYPGG2",
+   "ath": 19,
+   "d": "#CGGRGRRV",
+   "dth": 19,
+   "dur": 8,
+   "o": 124,
+   "p": 7,
+   "s": 1,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
@@ -1520,7 +1586,7 @@
  },
  "end": "20261127T205607.000Z",
  "opponent": {
-  "destruction": 99.48572,
+  "destruction": 99.97143,
   "members": [
    {
     "name": "mary",
@@ -1734,11 +1800,11 @@
    }
   ],
   "name": "LasT BreaK ♠️",
-  "stars": 102,
+  "stars": 104,
   "tag": "#8GJ9YJ8Y"
  },
  "start": "20261126T205607.000Z",
- "state": "inWar",
+ "state": "warEnded",
  "teamSize": 35,
  "type": "krieg"
 }

@@ -1271,7 +1271,7 @@
   "tag": "#2GYGCPV"
  },
  "start": "20261126T203331.000Z",
- "state": "inWar",
+ "state": "warEnded",
  "teamSize": 30,
  "type": "krieg"
 }

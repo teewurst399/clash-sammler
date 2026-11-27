@@ -252,11 +252,55 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#8YPVCGJ8",
+   "ath": 19,
+   "d": "#LRGURGV2C",
+   "dth": 19,
+   "dur": 180,
+   "o": 24,
+   "p": 90,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#8YPVCGJ8",
+   "ath": 19,
+   "d": "#9RCCGGLCJ",
+   "dth": 19,
+   "dur": 158,
+   "o": 25,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#98PC0JYY",
+   "ath": 19,
+   "d": "#8LQ9C880L",
+   "dth": 19,
+   "dur": 138,
+   "o": 26,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#PPR98G0L8",
+   "ath": 19,
+   "d": "#LRGURGV2C",
+   "dth": 19,
+   "dur": 133,
+   "o": 27,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 36.666668,
+  "destruction": 40.0,
   "members": [
    {
     "name": "Clash Joni",
@@ -440,12 +484,12 @@
    }
   ],
   "name": "Gammazone",
-  "stars": 33,
+  "stars": 36,
   "tag": "#YG20CR0U"
  },
  "end": "20261128T180345.000Z",
  "opponent": {
-  "destruction": 36.6,
+  "destruction": 43.266666,
   "members": [
    {
     "name": "ChiefGriff",
@@ -629,7 +673,7 @@
    }
   ],
   "name": "Psycho Cadets",
-  "stars": 32,
+  "stars": 38,
   "tag": "#2PLRY88C9"
  },
  "start": "20261127T180345.000Z",

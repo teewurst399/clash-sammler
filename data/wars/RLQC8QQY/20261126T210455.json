@@ -21,11 +21,88 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#Y8Q8L88PP",
+   "ath": 19,
+   "d": "#9J8LYLP",
+   "dth": 19,
+   "dur": 121,
+   "o": 3,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#RPVQUR9V",
+   "ath": 19,
+   "d": "#2YPPPG2L0",
+   "dth": 19,
+   "dur": 126,
+   "o": 4,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#Y8Q8L88PP",
+   "ath": 19,
+   "d": "#Y98P2020",
+   "dth": 19,
+   "dur": 157,
+   "o": 5,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#20QCQGRJ",
+   "ath": 19,
+   "d": "#CCL89YC8",
+   "dth": 19,
+   "dur": 144,
+   "o": 6,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#20QCQGRJ",
+   "ath": 19,
+   "d": "#G99QQRQR",
+   "dth": 19,
+   "dur": 180,
+   "o": 7,
+   "p": 98,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#RPVQUR9V",
+   "ath": 19,
+   "d": "#9VUVUYJR",
+   "dth": 19,
+   "dur": 134,
+   "o": 8,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#C0UYRLCQ",
+   "ath": 19,
+   "d": "#PLC9GRCQL",
+   "dth": 19,
+   "dur": 139,
+   "o": 9,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 0.0,
+  "destruction": 4.95,
   "members": [
    {
     "name": "Gsälzbrot",
@@ -269,12 +346,12 @@
    }
   ],
   "name": "headstart",
-  "stars": 0,
+  "stars": 5,
   "tag": "#RLQC8QQY"
  },
  "end": "20261128T200455.000Z",
  "opponent": {
-  "destruction": 5.0,
+  "destruction": 17.5,
   "members": [
    {
     "name": "michael",
@@ -518,7 +595,7 @@
    }
   ],
   "name": "Dutch Dignity",
-  "stars": 6,
+  "stars": 21,
   "tag": "#29PQV9L8R"
  },
  "start": "20261127T200455.000Z",

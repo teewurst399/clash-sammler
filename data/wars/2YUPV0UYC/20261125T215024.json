@@ -1539,6 +1539,149 @@
    "p": 51,
    "s": 1,
    "side": "clan"
+  },
+  {
+   "a": "#9VU9LJG",
+   "ath": 19,
+   "d": "#QCVQ090P2",
+   "dth": 19,
+   "dur": 13,
+   "o": 141,
+   "p": 22,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#9VU9LJG",
+   "ath": 19,
+   "d": "#2GPU29PPJ",
+   "dth": 19,
+   "dur": 9,
+   "o": 142,
+   "p": 8,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#LCGJQVCC0",
+   "ath": 19,
+   "d": "#QCVQ090P2",
+   "dth": 19,
+   "dur": 19,
+   "o": 143,
+   "p": 25,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#LUPP2J8G",
+   "ath": 19,
+   "d": "#2CGQ0QGYC",
+   "dth": 19,
+   "dur": 13,
+   "o": 144,
+   "p": 23,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#LCGJQVCC0",
+   "ath": 19,
+   "d": "#2GPU29PPJ",
+   "dth": 19,
+   "dur": 16,
+   "o": 145,
+   "p": 21,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#LUPP2J8G",
+   "ath": 19,
+   "d": "#2VCL0PQG0",
+   "dth": 19,
+   "dur": 11,
+   "o": 146,
+   "p": 13,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#JRPYP2GG",
+   "ath": 19,
+   "d": "#28G22C902",
+   "dth": 19,
+   "dur": 120,
+   "o": 147,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#Q9P802089",
+   "ath": 19,
+   "d": "#QCVQ090P2",
+   "dth": 19,
+   "dur": 15,
+   "o": 148,
+   "p": 24,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#Q9P802089",
+   "ath": 19,
+   "d": "#2GPU29PPJ",
+   "dth": 19,
+   "dur": 10,
+   "o": 149,
+   "p": 17,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#2CLPCCR98",
+   "ath": 19,
+   "d": "#2GPU29PPJ",
+   "dth": 19,
+   "dur": 8,
+   "o": 150,
+   "p": 16,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#2J80CLYUG",
+   "ath": 19,
+   "d": "#2CGQ0QGYC",
+   "dth": 19,
+   "dur": 12,
+   "o": 151,
+   "p": 21,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#2CLPCCR98",
+   "ath": 19,
+   "d": "#2YPUUU9LG",
+   "dth": 19,
+   "dur": 5,
+   "o": 152,
+   "p": 17,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#2J80CLYUG",
+   "ath": 19,
+   "d": "#2VCL0PQG0",
+   "dth": 19,
+   "dur": 10,
+   "o": 153,
+   "p": 12,
+   "s": 1,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -2100,7 +2243,7 @@
   "tag": "#PGPYYQY9"
  },
  "start": "20261126T205024.000Z",
- "state": "inWar",
+ "state": "warEnded",
  "teamSize": 45,
  "type": "krieg"
 }

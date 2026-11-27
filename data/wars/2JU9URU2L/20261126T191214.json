@@ -450,11 +450,154 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#QGYJJLJGP",
+   "ath": 19,
+   "d": "#2JG8PR92",
+   "dth": 19,
+   "dur": 163,
+   "o": 42,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#QGYJJLJGP",
+   "ath": 19,
+   "d": "#PGJ20QCLR",
+   "dth": 19,
+   "dur": 147,
+   "o": 43,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#P2JRG28U8",
+   "ath": 19,
+   "d": "#RY098J9U",
+   "dth": 19,
+   "dur": 146,
+   "o": 44,
+   "p": 81,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#P2JRG28U8",
+   "ath": 19,
+   "d": "#8R2GU0892",
+   "dth": 19,
+   "dur": 180,
+   "o": 45,
+   "p": 68,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#QGVLVLVVG",
+   "ath": 19,
+   "d": "#Y28CGVGVG",
+   "dth": 19,
+   "dur": 122,
+   "o": 46,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#LGL899998",
+   "ath": 19,
+   "d": "#2JVY2PPC2",
+   "dth": 19,
+   "dur": 89,
+   "o": 47,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#LG9PCRJYQ",
+   "ath": 19,
+   "d": "#Q0VCULCUL",
+   "dth": 19,
+   "dur": 103,
+   "o": 48,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#QGVLVLVVG",
+   "ath": 19,
+   "d": "#9JGCYURV8",
+   "dth": 19,
+   "dur": 179,
+   "o": 49,
+   "p": 77,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#9VLUYYJ02",
+   "ath": 19,
+   "d": "#QQU2QQG2V",
+   "dth": 19,
+   "dur": 174,
+   "o": 50,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#9VLUYYJ02",
+   "ath": 19,
+   "d": "#9UV0VUC8",
+   "dth": 19,
+   "dur": 154,
+   "o": 51,
+   "p": 91,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#LG9PCRJYQ",
+   "ath": 19,
+   "d": "#8V290JRU9",
+   "dth": 19,
+   "dur": 133,
+   "o": 52,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#2JLGC0R0V",
+   "ath": 19,
+   "d": "#G8PG8RRVG",
+   "dth": 19,
+   "dur": 142,
+   "o": 53,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#P9JPV9J9P",
+   "ath": 19,
+   "d": "#L8YQ8CQQU",
+   "dth": 19,
+   "dur": 180,
+   "o": 54,
+   "p": 99,
+   "s": 2,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 32.25,
+  "destruction": 48.95,
   "members": [
    {
     "name": "THRON",
@@ -698,12 +841,12 @@
    }
   ],
   "name": "SteinFrucht",
-  "stars": 36,
+  "stars": 55,
   "tag": "#2JU9URU2L"
  },
  "end": "20261128T181214.000Z",
  "opponent": {
-  "destruction": 53.15,
+  "destruction": 62.675,
   "members": [
    {
     "name": "Absynthe",
@@ -947,7 +1090,7 @@
    }
   ],
   "name": "EFSANE",
-  "stars": 61,
+  "stars": 72,
   "tag": "#2LGQYQJ2R"
  },
  "start": "20261127T181214.000Z",
