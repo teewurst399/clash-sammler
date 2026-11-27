@@ -527,6 +527,116 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#89P28CPJ0",
+   "ath": 19,
+   "d": "#RCC0LV0P",
+   "dth": 19,
+   "dur": 168,
+   "o": 49,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#LGR8G890P",
+   "ath": 19,
+   "d": "#LRQ0Q8LQC",
+   "dth": 19,
+   "dur": 159,
+   "o": 50,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#2YPUUU9LG",
+   "ath": 19,
+   "d": "#LL9YPQGRL",
+   "dth": 19,
+   "dur": 147,
+   "o": 51,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#LGR8G890P",
+   "ath": 19,
+   "d": "#8J928YJ8",
+   "dth": 19,
+   "dur": 135,
+   "o": 52,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#89P28CPJ0",
+   "ath": 19,
+   "d": "#LRGULYG8G",
+   "dth": 19,
+   "dur": 137,
+   "o": 53,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#982GLQ90",
+   "ath": 19,
+   "d": "#9JU8QQLRL",
+   "dth": 19,
+   "dur": 144,
+   "o": 54,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#2YPUUU9LG",
+   "ath": 19,
+   "d": "#LCGJQVCC0",
+   "dth": 19,
+   "dur": 128,
+   "o": 55,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#982GLQ90",
+   "ath": 19,
+   "d": "#8JQ8QG80C",
+   "dth": 19,
+   "dur": 161,
+   "o": 56,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#G08LLL2Q",
+   "ath": 19,
+   "d": "#GJQRUGR9J",
+   "dth": 19,
+   "dur": 85,
+   "o": 57,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#G08LLL2Q",
+   "ath": 19,
+   "d": "#29GUVPPPJ",
+   "dth": 19,
+   "dur": 109,
+   "o": 58,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -810,7 +920,7 @@
  },
  "end": "20261127T205024.000Z",
  "opponent": {
-  "destruction": 55.422222,
+  "destruction": 77.64445,
   "members": [
    {
     "name": "⚡️IR.H⚡️ALI⚡️",
@@ -1084,7 +1194,7 @@
    }
   ],
   "name": "iranian heroes",
-  "stars": 74,
+  "stars": 104,
   "tag": "#PGPYYQY9"
  },
  "start": "20261126T205024.000Z",

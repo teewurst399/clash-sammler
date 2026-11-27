@@ -406,6 +406,83 @@
    "p": 84,
    "s": 1,
    "side": "gegner"
+  },
+  {
+   "a": "#8LQ0LQ29J",
+   "ath": 19,
+   "d": "#G9V9JGQP",
+   "dth": 19,
+   "dur": 167,
+   "o": 38,
+   "p": 88,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#8LQ0LQ29J",
+   "ath": 19,
+   "d": "#U0GQRG29",
+   "dth": 19,
+   "dur": 114,
+   "o": 39,
+   "p": 74,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#U02RLYUJ",
+   "ath": 19,
+   "d": "#8RVL2Q29",
+   "dth": 19,
+   "dur": 114,
+   "o": 40,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#U02RLYUJ",
+   "ath": 19,
+   "d": "#88YJQU0Y8",
+   "dth": 19,
+   "dur": 91,
+   "o": 41,
+   "p": 97,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#GU0GPGC8",
+   "ath": 19,
+   "d": "#LRPJLGY8",
+   "dth": 19,
+   "dur": 94,
+   "o": 42,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#GU0GPGC8",
+   "ath": 19,
+   "d": "#909JUURLR",
+   "dth": 19,
+   "dur": 124,
+   "o": 43,
+   "p": 80,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#8CUVQQQCP",
+   "ath": 19,
+   "d": "#LVL8LYUQU",
+   "dth": 19,
+   "dur": 177,
+   "o": 44,
+   "p": 94,
+   "s": 1,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -629,7 +706,7 @@
  },
  "end": "20261127T201637.000Z",
  "opponent": {
-  "destruction": 44.228573,
+  "destruction": 59.8,
   "members": [
    {
     "name": "Clasher",
@@ -843,7 +920,7 @@
    }
   ],
   "name": "# U.K ALL STARS",
-  "stars": 43,
+  "stars": 56,
   "tag": "#29P8VRPCG"
  },
  "start": "20261126T201637.000Z",

@@ -1341,6 +1341,116 @@
    "p": 91,
    "s": 2,
    "side": "gegner"
+  },
+  {
+   "a": "#J9YJ9LVR",
+   "ath": 19,
+   "d": "#8C8RP02U",
+   "dth": 19,
+   "dur": 134,
+   "o": 123,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#J9YJ9LVR",
+   "ath": 19,
+   "d": "#YLL080LG",
+   "dth": 19,
+   "dur": 158,
+   "o": 124,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#L2UJQP9YJ",
+   "ath": 19,
+   "d": "#QU8JCYPUG",
+   "dth": 19,
+   "dur": 94,
+   "o": 125,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#L2UJQP9YJ",
+   "ath": 19,
+   "d": "#PUVPC2V2C",
+   "dth": 19,
+   "dur": 119,
+   "o": 126,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#2282UP2R",
+   "ath": 19,
+   "d": "#RYUUPP88",
+   "dth": 19,
+   "dur": 126,
+   "o": 127,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#2282UP2R",
+   "ath": 19,
+   "d": "#22J8GYP8L",
+   "dth": 19,
+   "dur": 142,
+   "o": 128,
+   "p": 85,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#8GLV2Y99Q",
+   "ath": 19,
+   "d": "#22J8GYP8L",
+   "dth": 19,
+   "dur": 119,
+   "o": 129,
+   "p": 86,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#8GLV2Y99Q",
+   "ath": 19,
+   "d": "#GCQYC8QL",
+   "dth": 19,
+   "dur": 19,
+   "o": 130,
+   "p": 8,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#YRGJ2YP0",
+   "ath": 19,
+   "d": "#8VPP22U2",
+   "dth": 19,
+   "dur": 135,
+   "o": 131,
+   "p": 82,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#YRGJ2YP0",
+   "ath": 19,
+   "d": "#22J8GYP8L",
+   "dth": 19,
+   "dur": 109,
+   "o": 132,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -1624,7 +1734,7 @@
  },
  "end": "20261127T092103.000Z",
  "opponent": {
-  "destruction": 92.91111,
+  "destruction": 100.0,
   "members": [
    {
     "name": "虎啸⭐️⚔️逆天⚔️⭐️",
@@ -1898,7 +2008,7 @@
    }
   ],
   "name": "虎标万金油",
-  "stars": 123,
+  "stars": 135,
   "tag": "#2P2UQR0UY"
  },
  "start": "20261126T092103.000Z",

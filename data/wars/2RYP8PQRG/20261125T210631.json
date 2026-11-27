@@ -439,11 +439,22 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#V8LR0LC8",
+   "ath": 19,
+   "d": "#2Q9PY0LR8",
+   "dth": 19,
+   "dur": 109,
+   "o": 41,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 49.95,
+  "destruction": 52.45,
   "members": [
    {
     "name": "FL • ZΞЯБΞЯЦS³",
@@ -687,7 +698,7 @@
    }
   ],
   "name": "FruchtLabörchen",
-  "stars": 59,
+  "stars": 62,
   "tag": "#2RYP8PQRG"
  },
  "end": "20261127T200631.000Z",

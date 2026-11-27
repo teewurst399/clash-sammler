@@ -494,6 +494,28 @@
    "p": 54,
    "s": 2,
    "side": "gegner"
+  },
+  {
+   "a": "#8YQGVV9GP",
+   "ath": 19,
+   "d": "#8YYC90CL",
+   "dth": 19,
+   "dur": 76,
+   "o": 46,
+   "p": 47,
+   "s": 0,
+   "side": "gegner"
+  },
+  {
+   "a": "#8YQGVV9GP",
+   "ath": 19,
+   "d": "#L8P2YUJJ8",
+   "dth": 19,
+   "dur": 110,
+   "o": 47,
+   "p": 71,
+   "s": 2,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -777,7 +799,7 @@
  },
  "end": "20261127T205844.000Z",
  "opponent": {
-  "destruction": 52.933334,
+  "destruction": 54.511112,
   "members": [
    {
     "name": "KRT",
@@ -1051,7 +1073,7 @@
    }
   ],
   "name": "ATRAPADOS",
-  "stars": 63,
+  "stars": 65,
   "tag": "#RUJ0QL8"
  },
  "start": "20261126T205844.000Z",

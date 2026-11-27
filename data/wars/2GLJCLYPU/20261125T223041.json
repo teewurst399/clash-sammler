@@ -417,6 +417,50 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#98C2LGPLV",
+   "ath": 19,
+   "d": "#99880VJYV",
+   "dth": 19,
+   "dur": 164,
+   "o": 39,
+   "p": 80,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#98C2LGPLV",
+   "ath": 19,
+   "d": "#GLRG0YGLC",
+   "dth": 19,
+   "dur": 180,
+   "o": 40,
+   "p": 82,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#20GPVYG9U",
+   "ath": 19,
+   "d": "#LUJPLCYR",
+   "dth": 19,
+   "dur": 163,
+   "o": 41,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#20GPVYG9U",
+   "ath": 19,
+   "d": "#LVGVCP2U",
+   "dth": 19,
+   "dur": 180,
+   "o": 42,
+   "p": 84,
+   "s": 2,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -670,7 +714,7 @@
  },
  "end": "20261127T213041.000Z",
  "opponent": {
-  "destruction": 50.425,
+  "destruction": 59.075,
   "members": [
    {
     "name": "FN Tiger",
@@ -914,7 +958,7 @@
    }
   ],
   "name": "BCN ESPARTANS",
-  "stars": 56,
+  "stars": 65,
   "tag": "#9QPG0LP2"
  },
  "start": "20261126T213041.000Z",

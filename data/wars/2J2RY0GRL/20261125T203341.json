@@ -450,11 +450,22 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#C8JY2LVQ",
+   "ath": 19,
+   "d": "#Y9QGCVYY",
+   "dth": 19,
+   "dur": 116,
+   "o": 42,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 47.5,
+  "destruction": 50.0,
   "members": [
    {
     "name": "PaPaPatrick",
@@ -698,7 +709,7 @@
    }
   ],
   "name": "Confusion II",
-  "stars": 57,
+  "stars": 60,
   "tag": "#2J2RY0GRL"
  },
  "end": "20261127T193341.000Z",
