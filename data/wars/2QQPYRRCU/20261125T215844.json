@@ -384,6 +384,116 @@
    "p": 73,
    "s": 2,
    "side": "gegner"
+  },
+  {
+   "a": "#L9JQ2RVU0",
+   "ath": 19,
+   "d": "#UCLPY09L",
+   "dth": 19,
+   "dur": 140,
+   "o": 36,
+   "p": 86,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#PJVQ28LJ9",
+   "ath": 19,
+   "d": "#PRPQR99R",
+   "dth": 19,
+   "dur": 163,
+   "o": 37,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#9PC80QGR8",
+   "ath": 19,
+   "d": "#UUV9LLJ9",
+   "dth": 19,
+   "dur": 180,
+   "o": 38,
+   "p": 88,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#9PC80QGR8",
+   "ath": 19,
+   "d": "#8YYC90CL",
+   "dth": 19,
+   "dur": 97,
+   "o": 39,
+   "p": 83,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#2V929YC0L",
+   "ath": 19,
+   "d": "#L9PY0PLVC",
+   "dth": 19,
+   "dur": 130,
+   "o": 40,
+   "p": 77,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#2V929YC0L",
+   "ath": 19,
+   "d": "#RGYV8GVJ",
+   "dth": 19,
+   "dur": 156,
+   "o": 41,
+   "p": 92,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#PJVQ28LJ9",
+   "ath": 19,
+   "d": "#GLVU89UP",
+   "dth": 19,
+   "dur": 154,
+   "o": 42,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#8GJ9CLCG",
+   "ath": 19,
+   "d": "#PU9VG808Q",
+   "dth": 19,
+   "dur": 69,
+   "o": 43,
+   "p": 73,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#GP8G08P9",
+   "ath": 19,
+   "d": "#28J08YV0Y",
+   "dth": 19,
+   "dur": 149,
+   "o": 44,
+   "p": 57,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#GP8G08P9",
+   "ath": 19,
+   "d": "#8JGVU2JC8",
+   "dth": 19,
+   "dur": 84,
+   "o": 45,
+   "p": 54,
+   "s": 2,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -667,7 +777,7 @@
  },
  "end": "20261127T205844.000Z",
  "opponent": {
-  "destruction": 34.933334,
+  "destruction": 52.933334,
   "members": [
    {
     "name": "KRT",
@@ -941,7 +1051,7 @@
    }
   ],
   "name": "ATRAPADOS",
-  "stars": 42,
+  "stars": 63,
   "tag": "#RUJ0QL8"
  },
  "start": "20261126T205844.000Z",

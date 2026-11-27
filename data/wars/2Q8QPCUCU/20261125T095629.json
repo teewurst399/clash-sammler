@@ -1077,6 +1077,138 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#8LULV90P",
+   "ath": 19,
+   "d": "#JVCR9GG0",
+   "dth": 19,
+   "dur": 180,
+   "o": 99,
+   "p": 94,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#8LULV90P",
+   "ath": 19,
+   "d": "#QUL2VY20",
+   "dth": 19,
+   "dur": 132,
+   "o": 100,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#9L99UL88",
+   "ath": 19,
+   "d": "#9UP9LYC2Q",
+   "dth": 19,
+   "dur": 153,
+   "o": 101,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#9L99UL88",
+   "ath": 19,
+   "d": "#JVCR9GG0",
+   "dth": 19,
+   "dur": 153,
+   "o": 102,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#LL00LCCJG",
+   "ath": 19,
+   "d": "#9R02UGGLP",
+   "dth": 19,
+   "dur": 180,
+   "o": 103,
+   "p": 95,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#YG80Y2GR8",
+   "ath": 19,
+   "d": "#LV298CCGJ",
+   "dth": 19,
+   "dur": 139,
+   "o": 104,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#YG80Y2GR8",
+   "ath": 19,
+   "d": "#L8VYGYLY",
+   "dth": 19,
+   "dur": 117,
+   "o": 105,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#LL00LCCJG",
+   "ath": 19,
+   "d": "#9RU9LCJ9V",
+   "dth": 19,
+   "dur": 180,
+   "o": 106,
+   "p": 97,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#22PJ0PLYR",
+   "ath": 19,
+   "d": "#P2P2GCP0",
+   "dth": 19,
+   "dur": 32,
+   "o": 107,
+   "p": 42,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#22PJ0PLYR",
+   "ath": 19,
+   "d": "#YG80Y2GR8",
+   "dth": 19,
+   "dur": 23,
+   "o": 108,
+   "p": 26,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#2Q8P8P9J0",
+   "ath": 19,
+   "d": "#P2P2GCP0",
+   "dth": 19,
+   "dur": 28,
+   "o": 109,
+   "p": 39,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#2Q8P8P9J0",
+   "ath": 19,
+   "d": "#YG80Y2GR8",
+   "dth": 19,
+   "dur": 23,
+   "o": 110,
+   "p": 32,
+   "s": 1,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
@@ -1330,7 +1462,7 @@
  },
  "end": "20261127T085629.000Z",
  "opponent": {
-  "destruction": 75.925,
+  "destruction": 91.0,
   "members": [
    {
     "name": "❤Sâu❤Shi❤",
@@ -1574,7 +1706,7 @@
    }
   ],
   "name": "VIETNAM COC",
-  "stars": 89,
+  "stars": 106,
   "tag": "#222V9RJVU"
  },
  "start": "20261126T085629.000Z",

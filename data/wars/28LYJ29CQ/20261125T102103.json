@@ -1231,6 +1231,72 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#2PPRU8CVR",
+   "ath": 19,
+   "d": "#GCJV29VY",
+   "dth": 19,
+   "dur": 119,
+   "o": 113,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#2PPRU8CVR",
+   "ath": 19,
+   "d": "#LQQJ9L9QY",
+   "dth": 19,
+   "dur": 124,
+   "o": 114,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#QG29RGQC8",
+   "ath": 19,
+   "d": "#8QQ8U9P88",
+   "dth": 19,
+   "dur": 135,
+   "o": 115,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#QG29RGQC8",
+   "ath": 19,
+   "d": "#9LQ9V0LC",
+   "dth": 19,
+   "dur": 150,
+   "o": 116,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#G82G8J2V2",
+   "ath": 19,
+   "d": "#GY98RUQQ",
+   "dth": 19,
+   "dur": 10,
+   "o": 117,
+   "p": 6,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#G82G8J2V2",
+   "ath": 19,
+   "d": "#G2LV8L92J",
+   "dth": 19,
+   "dur": 22,
+   "o": 118,
+   "p": 6,
+   "s": 1,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
@@ -1514,7 +1580,7 @@
  },
  "end": "20261127T092103.000Z",
  "opponent": {
-  "destruction": 75.53333,
+  "destruction": 84.422226,
   "members": [
    {
     "name": "虎啸⭐️⚔️逆天⚔️⭐️",
@@ -1788,7 +1854,7 @@
    }
   ],
   "name": "虎标万金油",
-  "stars": 101,
+  "stars": 113,
   "tag": "#2P2UQR0UY"
  },
  "start": "20261126T092103.000Z",

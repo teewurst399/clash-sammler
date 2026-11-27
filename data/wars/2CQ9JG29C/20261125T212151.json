@@ -318,11 +318,88 @@
    "p": 92,
    "s": 2,
    "side": "gegner"
+  },
+  {
+   "a": "#LJYQQ29Y8",
+   "ath": 19,
+   "d": "#L8V2L92UG",
+   "dth": 19,
+   "dur": 162,
+   "o": 30,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#LJYQQ29Y8",
+   "ath": 19,
+   "d": "#8UR2LJ8G",
+   "dth": 19,
+   "dur": 140,
+   "o": 31,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#2GJYLLPCG",
+   "ath": 19,
+   "d": "#LG0G29VU",
+   "dth": 19,
+   "dur": 127,
+   "o": 32,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#GQVVRGCL8",
+   "ath": 17,
+   "d": "#GJYPY80U0",
+   "dth": 19,
+   "dur": 116,
+   "o": 33,
+   "p": 58,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#Q829G8VGL",
+   "ath": 16,
+   "d": "#G9V9JGLVV",
+   "dth": 16,
+   "dur": 142,
+   "o": 34,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#Q829G8VGL",
+   "ath": 16,
+   "d": "#G8CC8U2LC",
+   "dth": 15,
+   "dur": 120,
+   "o": 35,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#G9V9JGLVV",
+   "ath": 16,
+   "d": "#PRJ9Y2L2G",
+   "dth": 17,
+   "dur": 126,
+   "o": 36,
+   "p": 92,
+   "s": 2,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 25.6,
+  "destruction": 32.0,
   "members": [
    {
     "name": "OblatensalatF2P",
@@ -506,12 +583,12 @@
    }
   ],
   "name": "KiwiKartell",
-  "stars": 23,
+  "stars": 28,
   "tag": "#2CQ9JG29C"
  },
  "end": "20261127T202151.000Z",
  "opponent": {
-  "destruction": 47.833332,
+  "destruction": 57.533333,
   "members": [
    {
     "name": "€ ULT$MATE €",
@@ -695,7 +772,7 @@
    }
   ],
   "name": "Dieux Du Sang",
-  "stars": 39,
+  "stars": 50,
   "tag": "#98YQRLYJ"
  },
  "start": "20261126T202151.000Z",

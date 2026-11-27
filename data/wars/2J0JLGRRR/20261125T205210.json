@@ -109,6 +109,50 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#PRJ90CPG9",
+   "ath": 16,
+   "d": "#GQLU99U2C",
+   "dth": 18,
+   "dur": 115,
+   "o": 11,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#GRUQYV02Y",
+   "ath": 12,
+   "d": "#R9VUQV2GJ",
+   "dth": 11,
+   "dur": 70,
+   "o": 12,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#GRUQYV02Y",
+   "ath": 12,
+   "d": "#R82G2YU8L",
+   "dth": 10,
+   "dur": 60,
+   "o": 13,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#PRJ90CPG9",
+   "ath": 16,
+   "d": "#8JL0VV0GL",
+   "dth": 15,
+   "dur": 126,
+   "o": 14,
+   "p": 97,
+   "s": 1,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -242,7 +286,7 @@
  },
  "end": "20261127T195210.000Z",
  "opponent": {
-  "destruction": 0.0,
+  "destruction": 19.85,
   "members": [
    {
     "name": "Farjana",
@@ -366,7 +410,7 @@
    }
   ],
   "name": "DRAGOON MASTER",
-  "stars": 0,
+  "stars": 10,
   "tag": "#2GP9JRQ2Q"
  },
  "start": "20261126T195210.000Z",

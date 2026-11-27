@@ -1385,6 +1385,72 @@
    "p": 52,
    "s": 1,
    "side": "clan"
+  },
+  {
+   "a": "#PVCYJ2RLV",
+   "ath": 19,
+   "d": "#LC2VLRCCG",
+   "dth": 19,
+   "dur": 164,
+   "o": 127,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#2VPJGV2LP",
+   "ath": 19,
+   "d": "#PQ2YUVCG",
+   "dth": 19,
+   "dur": 172,
+   "o": 128,
+   "p": 89,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#2VPJGV2LP",
+   "ath": 19,
+   "d": "#UQJLU0RL",
+   "dth": 19,
+   "dur": 180,
+   "o": 129,
+   "p": 92,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#8CCCU28QY",
+   "ath": 19,
+   "d": "#PQ2YUVCG",
+   "dth": 19,
+   "dur": 25,
+   "o": 130,
+   "p": 30,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#8CCCU28QY",
+   "ath": 19,
+   "d": "#QV829Q0P",
+   "dth": 19,
+   "dur": 13,
+   "o": 131,
+   "p": 14,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#Y0YC8G822",
+   "ath": 19,
+   "d": "#9L08Q29U",
+   "dth": 19,
+   "dur": 9,
+   "o": 132,
+   "p": 10,
+   "s": 1,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
@@ -1668,7 +1734,7 @@
  },
  "end": "20261127T052802.000Z",
  "opponent": {
-  "destruction": 99.53333,
+  "destruction": 100.0,
   "members": [
    {
     "name": "⭐️Pinoy⭐️Bogz j",
@@ -1942,7 +2008,7 @@
    }
   ],
   "name": "ExecutiveGamers",
-  "stars": 134,
+  "stars": 135,
   "tag": "#2PJY90CCY"
  },
  "start": "20261126T052802.000Z",

@@ -120,11 +120,143 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#LVQJGJCV",
+   "ath": 19,
+   "d": "#YV9U2G9QU",
+   "dth": 19,
+   "dur": 180,
+   "o": 12,
+   "p": 94,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#98QR08YL9",
+   "ath": 19,
+   "d": "#9PRPRP2Y",
+   "dth": 19,
+   "dur": 156,
+   "o": 13,
+   "p": 95,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#Q2JQUC90R",
+   "ath": 19,
+   "d": "#PGYYJ89Y9",
+   "dth": 19,
+   "dur": 116,
+   "o": 14,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#98QR08YL9",
+   "ath": 19,
+   "d": "#QLRVJYG9",
+   "dth": 19,
+   "dur": 154,
+   "o": 15,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#Q2JQUC90R",
+   "ath": 19,
+   "d": "#20PP2GGCU",
+   "dth": 19,
+   "dur": 85,
+   "o": 16,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#G8CV8QL98",
+   "ath": 18,
+   "d": "#9VYLRCVR",
+   "dth": 19,
+   "dur": 134,
+   "o": 17,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#G8CV8QL98",
+   "ath": 18,
+   "d": "#GGQ8UL9GY",
+   "dth": 19,
+   "dur": 180,
+   "o": 18,
+   "p": 95,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#RPRCPCRLQ",
+   "ath": 12,
+   "d": "#R2RP9V90J",
+   "dth": 11,
+   "dur": 150,
+   "o": 19,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#GGV90Q8UJ",
+   "ath": 17,
+   "d": "#8YGPJVJR9",
+   "dth": 17,
+   "dur": 141,
+   "o": 20,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#GGV90Q8UJ",
+   "ath": 17,
+   "d": "#LLRRLUC2",
+   "dth": 17,
+   "dur": 146,
+   "o": 21,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#RPRCPCRLQ",
+   "ath": 12,
+   "d": "#LGGLP0YUL",
+   "dth": 12,
+   "dur": 97,
+   "o": 22,
+   "p": 71,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#2P0R0P8G",
+   "ath": 18,
+   "d": "#QJ9CYPGG2",
+   "dth": 19,
+   "dur": 105,
+   "o": 23,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 7.542857,
+  "destruction": 13.257143,
   "members": [
    {
     "name": "Doxos_NM",
@@ -338,12 +470,12 @@
    }
   ],
   "name": "Alphazone",
-  "stars": 8,
+  "stars": 14,
   "tag": "#2YCUCPCC0"
  },
  "end": "20261127T205607.000Z",
  "opponent": {
-  "destruction": 22.028572,
+  "destruction": 47.285713,
   "members": [
    {
     "name": "mary",
@@ -557,7 +689,7 @@
    }
   ],
   "name": "LasT BreaK ♠️",
-  "stars": 23,
+  "stars": 47,
   "tag": "#8GJ9YJ8Y"
  },
  "start": "20261126T205607.000Z",

@@ -65,11 +65,55 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#GPCQPUQ0Q",
+   "ath": 19,
+   "d": "#2JGYJQYQ0",
+   "dth": 19,
+   "dur": 128,
+   "o": 7,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#GPCQPUQ0Q",
+   "ath": 19,
+   "d": "#L0PJLJR8U",
+   "dth": 19,
+   "dur": 131,
+   "o": 8,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#28CVLRLU",
+   "ath": 19,
+   "d": "#G8RGULUV9",
+   "dth": 11,
+   "dur": 69,
+   "o": 9,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#28CVLRLU",
+   "ath": 19,
+   "d": "#2JGYJQYQ0",
+   "dth": 19,
+   "dur": 110,
+   "o": 10,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 40.0,
+  "destruction": 100.0,
   "members": [
    {
     "name": "WB Teewurst₃",
@@ -103,7 +147,7 @@
    }
   ],
   "name": "Würstchenbude",
-  "stars": 6,
+  "stars": 15,
   "tag": "#2JYURYLCL"
  },
  "end": "20261127T122813.000Z",
