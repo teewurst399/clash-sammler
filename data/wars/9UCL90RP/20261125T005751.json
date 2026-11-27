@@ -1704,6 +1704,50 @@
    "p": 99,
    "s": 2,
    "side": "gegner"
+  },
+  {
+   "a": "#LVUVL2YLR",
+   "ath": 19,
+   "d": "#YP20PVLCU",
+   "dth": 19,
+   "dur": 60,
+   "o": 156,
+   "p": 65,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#2UPJLP0Y",
+   "ath": 19,
+   "d": "#L0VVV9C0Q",
+   "dth": 19,
+   "dur": 130,
+   "o": 157,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#LVUVL2YLR",
+   "ath": 19,
+   "d": "#9RYVQCY02",
+   "dth": 19,
+   "dur": 94,
+   "o": 158,
+   "p": 71,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#G9GL20GLG",
+   "ath": 19,
+   "d": "#9RYVQCY02",
+   "dth": 19,
+   "dur": 117,
+   "o": 159,
+   "p": 77,
+   "s": 2,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -1987,7 +2031,7 @@
  },
  "end": "20261126T235751.000Z",
  "opponent": {
-  "destruction": 98.888885,
+  "destruction": 99.04444,
   "members": [
    {
     "name": "STR∆NGER",
@@ -2261,11 +2305,11 @@
    }
   ],
   "name": "\"THE 6\"",
-  "stars": 128,
+  "stars": 129,
   "tag": "#90RCQ008"
  },
  "start": "20261125T235751.000Z",
- "state": "inWar",
+ "state": "warEnded",
  "teamSize": 45,
  "type": "krieg"
 }

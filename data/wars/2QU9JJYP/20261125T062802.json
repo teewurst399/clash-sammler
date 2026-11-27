@@ -1352,6 +1352,39 @@
    "p": 4,
    "s": 1,
    "side": "clan"
+  },
+  {
+   "a": "#8L2RVPU9Y",
+   "ath": 19,
+   "d": "#9L08Q29U",
+   "dth": 19,
+   "dur": 11,
+   "o": 124,
+   "p": 5,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#QQUVV0PQP",
+   "ath": 19,
+   "d": "#RJC2UJ8V",
+   "dth": 19,
+   "dur": 10,
+   "o": 125,
+   "p": 53,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#QQUVV0PQP",
+   "ath": 19,
+   "d": "#Y8UQJCGR",
+   "dth": 19,
+   "dur": 10,
+   "o": 126,
+   "p": 52,
+   "s": 1,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
