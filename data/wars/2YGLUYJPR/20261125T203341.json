@@ -439,6 +439,17 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#C8JY2LVQ",
+   "ath": 19,
+   "d": "#2808Y8QY0",
+   "dth": 19,
+   "dur": 111,
+   "o": 41,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -692,7 +703,7 @@
  },
  "end": "20261127T193341.000Z",
  "opponent": {
-  "destruction": 47.05,
+  "destruction": 47.5,
   "members": [
    {
     "name": "PaPaPatrick",
@@ -936,7 +947,7 @@
    }
   ],
   "name": "Confusion II",
-  "stars": 55,
+  "stars": 57,
   "tag": "#2J2RY0GRL"
  },
  "start": "20261126T193341.000Z",

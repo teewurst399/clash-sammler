@@ -186,6 +186,28 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#YJUYURL2G",
+   "ath": 19,
+   "d": "#CQR0U8VV",
+   "dth": 19,
+   "dur": 158,
+   "o": 18,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#YJUYURL2G",
+   "ath": 19,
+   "d": "#PQQ90JLP",
+   "dth": 19,
+   "dur": 167,
+   "o": 19,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -439,7 +461,7 @@
  },
  "end": "20261127T221801.000Z",
  "opponent": {
-  "destruction": 27.225,
+  "destruction": 32.225,
   "members": [
    {
     "name": "TheDeadKenny",
@@ -683,7 +705,7 @@
    }
   ],
   "name": "Team Winter X",
-  "stars": 32,
+  "stars": 38,
   "tag": "#2JPVV99RP"
  },
  "start": "20261126T221801.000Z",

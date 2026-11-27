@@ -252,11 +252,22 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#R0U9JJUGU",
+   "ath": 15,
+   "d": "#QRVVCJCV8",
+   "dth": 15,
+   "dur": 180,
+   "o": 24,
+   "p": 91,
+   "s": 2,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 13.257143,
+  "destruction": 15.857142,
   "members": [
    {
     "name": "Doxos_NM",
@@ -470,7 +481,7 @@
    }
   ],
   "name": "Alphazone",
-  "stars": 14,
+  "stars": 16,
   "tag": "#2YCUCPCC0"
  },
  "end": "20261127T205607.000Z",
