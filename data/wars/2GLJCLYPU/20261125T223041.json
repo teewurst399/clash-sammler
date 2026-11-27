@@ -714,6 +714,17 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#GUP9Q2VQJ",
+   "ath": 19,
+   "d": "#2LL02LYYR",
+   "dth": 19,
+   "dur": 171,
+   "o": 66,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -967,7 +978,7 @@
  },
  "end": "20261127T213041.000Z",
  "opponent": {
-  "destruction": 77.0,
+  "destruction": 77.45,
   "members": [
    {
     "name": "FN Tiger",
@@ -1211,7 +1222,7 @@
    }
   ],
   "name": "BCN ESPARTANS",
-  "stars": 85,
+  "stars": 86,
   "tag": "#9QPG0LP2"
  },
  "start": "20261126T213041.000Z",

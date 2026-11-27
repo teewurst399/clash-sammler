@@ -571,11 +571,55 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#8YQQVGVL",
+   "ath": 19,
+   "d": "#GCYRQVCLJ",
+   "dth": 1,
+   "dur": 13,
+   "o": 53,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#8YQQVGVL",
+   "ath": 19,
+   "d": "#GRG9QPJ2R",
+   "dth": 8,
+   "dur": 40,
+   "o": 54,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#QLPP2LPQG",
+   "ath": 19,
+   "d": "#Y9Y8LJ00Y",
+   "dth": 19,
+   "dur": 145,
+   "o": 55,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#QLPP2LPQG",
+   "ath": 19,
+   "d": "#C0PYYCUV",
+   "dth": 19,
+   "dur": 164,
+   "o": 56,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 46.155556,
+  "destruction": 50.6,
   "members": [
    {
     "name": "DATPotter",
@@ -849,12 +893,12 @@
    }
   ],
   "name": "#Black Stone#",
-  "stars": 58,
+  "stars": 64,
   "tag": "#Y898LCJ0"
  },
  "end": "20261127T200444.000Z",
  "opponent": {
-  "destruction": 41.733334,
+  "destruction": 46.177776,
   "members": [
    {
     "name": "Cerveza2",
@@ -1128,7 +1172,7 @@
    }
   ],
   "name": "!OstatniBastion",
-  "stars": 55,
+  "stars": 61,
   "tag": "#2G2GLJ800"
  },
  "start": "20261126T200444.000Z",

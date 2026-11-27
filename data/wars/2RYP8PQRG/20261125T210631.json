@@ -703,11 +703,132 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#89LJJRL9",
+   "ath": 19,
+   "d": "#8LYJLUP8",
+   "dth": 19,
+   "dur": 114,
+   "o": 65,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#9U9GUUU",
+   "ath": 19,
+   "d": "#88C82JRJC",
+   "dth": 19,
+   "dur": 180,
+   "o": 66,
+   "p": 95,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#9C2VJUL9R",
+   "ath": 19,
+   "d": "#UJ9R2R20",
+   "dth": 19,
+   "dur": 123,
+   "o": 67,
+   "p": 90,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#20UQYRJR9",
+   "ath": 19,
+   "d": "#8PRYRRVUQ",
+   "dth": 19,
+   "dur": 149,
+   "o": 68,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#8CVJ8JY2",
+   "ath": 19,
+   "d": "#YQVCG0U2G",
+   "dth": 19,
+   "dur": 144,
+   "o": 69,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#CJ880YRJ",
+   "ath": 18,
+   "d": "#GPQG0VY2G",
+   "dth": 19,
+   "dur": 118,
+   "o": 70,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#200UJRV9",
+   "ath": 19,
+   "d": "#8Y0UCUY22",
+   "dth": 19,
+   "dur": 156,
+   "o": 71,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#CJ880YRJ",
+   "ath": 18,
+   "d": "#20UQYRJR9",
+   "dth": 19,
+   "dur": 114,
+   "o": 72,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#200UJRV9",
+   "ath": 19,
+   "d": "#8YU9Y9L9",
+   "dth": 19,
+   "dur": 180,
+   "o": 73,
+   "p": 93,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#9JPRJ8YL9",
+   "ath": 19,
+   "d": "#Y2C0GPUGY",
+   "dth": 19,
+   "dur": 135,
+   "o": 74,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#8888GJQVY",
+   "ath": 19,
+   "d": "#8YU9Y9L9",
+   "dth": 19,
+   "dur": 163,
+   "o": 75,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 67.25,
+  "destruction": 72.25,
   "members": [
    {
     "name": "FL • ZΞЯБΞЯЦS³",
@@ -951,12 +1072,12 @@
    }
   ],
   "name": "FruchtLabörchen",
-  "stars": 79,
+  "stars": 85,
   "tag": "#2RYP8PQRG"
  },
  "end": "20261127T200631.000Z",
  "opponent": {
-  "destruction": 62.45,
+  "destruction": 78.0,
   "members": [
    {
     "name": "Mario",
@@ -1200,7 +1321,7 @@
    }
   ],
   "name": "Italian Gods",
-  "stars": 66,
+  "stars": 84,
   "tag": "#8Q0P98GY"
  },
  "start": "20261126T200631.000Z",

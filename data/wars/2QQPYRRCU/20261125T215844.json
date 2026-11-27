@@ -1055,6 +1055,39 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#LVUPG8LC0",
+   "ath": 19,
+   "d": "#QYQYC09RJ",
+   "dth": 19,
+   "dur": 173,
+   "o": 97,
+   "p": 84,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#Q9J2J8PJ",
+   "ath": 19,
+   "d": "#209GYP08U",
+   "dth": 19,
+   "dur": 167,
+   "o": 98,
+   "p": 94,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#LVUPG8LC0",
+   "ath": 19,
+   "d": "#P8JVJ802J",
+   "dth": 19,
+   "dur": 129,
+   "o": 99,
+   "p": 79,
+   "s": 2,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -1338,7 +1371,7 @@
  },
  "end": "20261127T205844.000Z",
  "opponent": {
-  "destruction": 73.155556,
+  "destruction": 78.86667,
   "members": [
    {
     "name": "KRT",
@@ -1612,7 +1645,7 @@
    }
   ],
   "name": "ATRAPADOS",
-  "stars": 89,
+  "stars": 95,
   "tag": "#RUJ0QL8"
  },
  "start": "20261126T205844.000Z",

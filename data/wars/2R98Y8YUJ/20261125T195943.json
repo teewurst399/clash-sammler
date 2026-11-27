@@ -1330,11 +1330,44 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#L08CGQPQC",
+   "ath": 19,
+   "d": "#QUCU2L8G",
+   "dth": 19,
+   "dur": 139,
+   "o": 122,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#2QP8PV2CG",
+   "ath": 19,
+   "d": "#9UQCV2RQP",
+   "dth": 19,
+   "dur": 146,
+   "o": 123,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#2QP8PV2CG",
+   "ath": 19,
+   "d": "#20YYPPYCC",
+   "dth": 19,
+   "dur": 136,
+   "o": 124,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 88.0,
+  "destruction": 94.0,
   "members": [
    {
     "name": "Hunga Munga",
@@ -1638,7 +1671,7 @@
    }
   ],
   "name": "Get Buttered!",
-  "stars": 132,
+  "stars": 141,
   "tag": "#2R98Y8YUJ"
  },
  "end": "20261127T185943.000Z",

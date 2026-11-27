@@ -945,11 +945,77 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#QC8YJGJCG",
+   "ath": 19,
+   "d": "#2CGQ0QGYC",
+   "dth": 19,
+   "dur": 151,
+   "o": 87,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#QC8YJGJCG",
+   "ath": 19,
+   "d": "#2VCL0PQG0",
+   "dth": 19,
+   "dur": 177,
+   "o": 88,
+   "p": 90,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#YVUPCJ0",
+   "ath": 19,
+   "d": "#2CGQ0QGYC",
+   "dth": 19,
+   "dur": 180,
+   "o": 89,
+   "p": 21,
+   "s": 0,
+   "side": "gegner"
+  },
+  {
+   "a": "#LRGULYG8G",
+   "ath": 19,
+   "d": "#LPP00VUJ",
+   "dth": 19,
+   "dur": 78,
+   "o": 90,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#22800PYCR",
+   "ath": 19,
+   "d": "#2G0PGYPJG",
+   "dth": 19,
+   "dur": 92,
+   "o": 91,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#LRGULYG8G",
+   "ath": 19,
+   "d": "#2LCP99V2",
+   "dth": 19,
+   "dur": 76,
+   "o": 92,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 59.666668,
+  "destruction": 66.333336,
   "members": [
    {
     "name": "LOST☆stefan",
@@ -1223,7 +1289,7 @@
    }
   ],
   "name": "LOST 3",
-  "stars": 78,
+  "stars": 87,
   "tag": "#2YUPV0UYC"
  },
  "end": "20261127T205024.000Z",

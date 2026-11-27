@@ -692,11 +692,121 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#PVCQ2QCC",
+   "ath": 19,
+   "d": "#2GRYPC89",
+   "dth": 19,
+   "dur": 108,
+   "o": 64,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#PVCQ2QCC",
+   "ath": 19,
+   "d": "#22CCVJLJ9",
+   "dth": 19,
+   "dur": 124,
+   "o": 65,
+   "p": 95,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#9V9CR088P",
+   "ath": 19,
+   "d": "#L92U2GG8C",
+   "dth": 19,
+   "dur": 152,
+   "o": 66,
+   "p": 87,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#9V9CR088P",
+   "ath": 19,
+   "d": "#QUULPQ209",
+   "dth": 19,
+   "dur": 166,
+   "o": 67,
+   "p": 86,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#9JG0L89R",
+   "ath": 19,
+   "d": "#8YG2R0090",
+   "dth": 19,
+   "dur": 180,
+   "o": 68,
+   "p": 99,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#9JG0L89R",
+   "ath": 19,
+   "d": "#2P0VPV2YQ",
+   "dth": 19,
+   "dur": 110,
+   "o": 69,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#208909QGP",
+   "ath": 19,
+   "d": "#L92U2GG8C",
+   "dth": 19,
+   "dur": 153,
+   "o": 70,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#208909QGP",
+   "ath": 19,
+   "d": "#QUULPQ209",
+   "dth": 19,
+   "dur": 165,
+   "o": 71,
+   "p": 78,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#8J0VUYPR9",
+   "ath": 19,
+   "d": "#8PJ9VLCQU",
+   "dth": 19,
+   "dur": 167,
+   "o": 72,
+   "p": 91,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#8J0VUYPR9",
+   "ath": 19,
+   "d": "#Y2LUQ282Y",
+   "dth": 19,
+   "dur": 164,
+   "o": 73,
+   "p": 88,
+   "s": 1,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 45.68889,
+  "destruction": 54.444443,
   "members": [
    {
     "name": "FL • Kaiser",
@@ -970,12 +1080,12 @@
    }
   ],
   "name": "Obstgarten",
-  "stars": 59,
+  "stars": 67,
   "tag": "#2U08QGR9U"
  },
  "end": "20261127T180904.000Z",
  "opponent": {
-  "destruction": 58.844444,
+  "destruction": 61.11111,
   "members": [
    {
     "name": "ســـمـــســـم",
@@ -1249,7 +1359,7 @@
    }
   ],
   "name": "ابطال العالم",
-  "stars": 77,
+  "stars": 80,
   "tag": "#209PGY8GP"
  },
  "start": "20261126T180904.000Z",
