@@ -593,11 +593,110 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#8V2JUQCJR",
+   "ath": 19,
+   "d": "#CL888QQJ",
+   "dth": 19,
+   "dur": 176,
+   "o": 55,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#LCVJ0GGVL",
+   "ath": 19,
+   "d": "#LUCPUJCRG",
+   "dth": 19,
+   "dur": 155,
+   "o": 56,
+   "p": 84,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#8V2JUQCJR",
+   "ath": 19,
+   "d": "#2GRYPC89",
+   "dth": 19,
+   "dur": 174,
+   "o": 57,
+   "p": 86,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#LUCPUJCRG",
+   "ath": 19,
+   "d": "#J2RUY9LV",
+   "dth": 19,
+   "dur": 168,
+   "o": 58,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#LUCPUJCRG",
+   "ath": 19,
+   "d": "#2RRV98GYC",
+   "dth": 19,
+   "dur": 132,
+   "o": 59,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#PJ0C9R00U",
+   "ath": 19,
+   "d": "#22CCVJLJ9",
+   "dth": 19,
+   "dur": 146,
+   "o": 60,
+   "p": 93,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#CYY22JGV",
+   "ath": 19,
+   "d": "#YCLUUGR9Q",
+   "dth": 19,
+   "dur": 75,
+   "o": 61,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#PJ0C9R00U",
+   "ath": 19,
+   "d": "#8L0RC0UQG",
+   "dth": 19,
+   "dur": 149,
+   "o": 62,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#CYY22JGV",
+   "ath": 19,
+   "d": "#Y0CQGYGPG",
+   "dth": 19,
+   "dur": 91,
+   "o": 63,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 30.955555,
+  "destruction": 45.68889,
   "members": [
    {
     "name": "FL • Kaiser",
@@ -871,12 +970,12 @@
    }
   ],
   "name": "Obstgarten",
-  "stars": 41,
+  "stars": 59,
   "tag": "#2U08QGR9U"
  },
  "end": "20261127T180904.000Z",
  "opponent": {
-  "destruction": 58.511112,
+  "destruction": 58.844444,
   "members": [
    {
     "name": "ســـمـــســـم",
@@ -1150,7 +1249,7 @@
    }
   ],
   "name": "ابطال العالم",
-  "stars": 75,
+  "stars": 77,
   "tag": "#209PGY8GP"
  },
  "start": "20261126T180904.000Z",

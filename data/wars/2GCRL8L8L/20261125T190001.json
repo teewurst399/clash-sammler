@@ -1011,11 +1011,132 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#JGYC80JP",
+   "ath": 19,
+   "d": "#QRJ89Y9P8",
+   "dth": 19,
+   "dur": 118,
+   "o": 93,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#VLLCRUJJ",
+   "ath": 19,
+   "d": "#GQCPR29Y",
+   "dth": 19,
+   "dur": 180,
+   "o": 94,
+   "p": 88,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#9V0Y8PRU",
+   "ath": 19,
+   "d": "#J0Q2YUP",
+   "dth": 19,
+   "dur": 177,
+   "o": 95,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#VLLCRUJJ",
+   "ath": 19,
+   "d": "#2L8VG89U",
+   "dth": 19,
+   "dur": 140,
+   "o": 96,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#9V0Y8PRU",
+   "ath": 19,
+   "d": "#2GCQ2GGYL",
+   "dth": 19,
+   "dur": 155,
+   "o": 97,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#GPU2PJGVY",
+   "ath": 19,
+   "d": "#GCQYRRJU",
+   "dth": 19,
+   "dur": 135,
+   "o": 98,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#VL2LLYC8",
+   "ath": 19,
+   "d": "#LR8PPC2VR",
+   "dth": 19,
+   "dur": 163,
+   "o": 99,
+   "p": 85,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#GPU2PJGVY",
+   "ath": 19,
+   "d": "#9V0Y8PRU",
+   "dth": 19,
+   "dur": 122,
+   "o": 100,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#VL2LLYC8",
+   "ath": 19,
+   "d": "#9RPCJ2UR2",
+   "dth": 19,
+   "dur": 170,
+   "o": 101,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#GCQYRRJU",
+   "ath": 19,
+   "d": "#9RPCJ2UR2",
+   "dth": 19,
+   "dur": 159,
+   "o": 102,
+   "p": 90,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#GCQYRRJU",
+   "ath": 19,
+   "d": "#LR8PPC2VR",
+   "dth": 19,
+   "dur": 150,
+   "o": 103,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 86.7,
+  "destruction": 91.675,
   "members": [
    {
     "name": "BB •Nico•",
@@ -1259,12 +1380,12 @@
    }
   ],
   "name": "BrawlerBaller",
-  "stars": 99,
+  "stars": 106,
   "tag": "#2GCRL8L8L"
  },
  "end": "20261127T180001.000Z",
  "opponent": {
-  "destruction": 99.15,
+  "destruction": 100.0,
   "members": [
    {
     "name": "byAaleXx",
@@ -1508,7 +1629,7 @@
    }
   ],
   "name": "FURIAROJA.NET",
-  "stars": 117,
+  "stars": 120,
   "tag": "#88G0PRVJ"
  },
  "start": "20261126T180001.000Z",

@@ -670,6 +670,28 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#C88U2CQR",
+   "ath": 19,
+   "d": "#QLGPCQC2",
+   "dth": 19,
+   "dur": 109,
+   "o": 62,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#C88U2CQR",
+   "ath": 19,
+   "d": "#29PQRJRVR",
+   "dth": 19,
+   "dur": 127,
+   "o": 63,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -923,7 +945,7 @@
  },
  "end": "20261127T195151.000Z",
  "opponent": {
-  "destruction": 47.5,
+  "destruction": 52.5,
   "members": [
    {
     "name": "HS 今 DURSUN•1•™",
@@ -1167,7 +1189,7 @@
    }
   ],
   "name": "(PİNNACLE)",
-  "stars": 57,
+  "stars": 63,
   "tag": "#8PRJG29V"
  },
  "start": "20261126T195151.000Z",

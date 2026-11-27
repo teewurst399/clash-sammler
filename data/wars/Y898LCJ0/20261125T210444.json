@@ -560,6 +560,17 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#8GUCV9VCQ",
+   "ath": 19,
+   "d": "#80UJY8QR2",
+   "dth": 18,
+   "dur": 128,
+   "o": 52,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -843,7 +854,7 @@
  },
  "end": "20261127T200444.000Z",
  "opponent": {
-  "destruction": 41.644444,
+  "destruction": 41.733334,
   "members": [
    {
     "name": "Cerveza2",
@@ -1117,7 +1128,7 @@
    }
   ],
   "name": "!OstatniBastion",
-  "stars": 54,
+  "stars": 55,
   "tag": "#2G2GLJ800"
  },
  "start": "20261126T200444.000Z",

@@ -109,6 +109,28 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#L0PJLJR8U",
+   "ath": 19,
+   "d": "#GP9R0PUQ8",
+   "dth": 18,
+   "dur": 140,
+   "o": 11,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#L0PJLJR8U",
+   "ath": 19,
+   "d": "#GPCQPUQ0Q",
+   "dth": 19,
+   "dur": 158,
+   "o": 12,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -152,7 +174,7 @@
  },
  "end": "20261127T122813.000Z",
  "opponent": {
-  "destruction": 80.0,
+  "destruction": 100.0,
   "members": [
    {
     "name": ":)",
@@ -186,7 +208,7 @@
    }
   ],
   "name": "GOD HYEON SU",
-  "stars": 12,
+  "stars": 15,
   "tag": "#28U922R20"
  },
  "start": "20261126T122813.000Z",

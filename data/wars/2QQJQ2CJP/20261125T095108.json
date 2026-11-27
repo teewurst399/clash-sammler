@@ -1096,7 +1096,7 @@
   "tag": "#VJUUL9Y"
  },
  "start": "20261126T085108.000Z",
- "state": "inWar",
+ "state": "warEnded",
  "teamSize": 20,
  "type": "krieg"
 }

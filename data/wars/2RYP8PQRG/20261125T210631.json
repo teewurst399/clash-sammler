@@ -604,11 +604,110 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#9VUGLUGGJ",
+   "ath": 19,
+   "d": "#LP0YV2UQ",
+   "dth": 19,
+   "dur": 118,
+   "o": 56,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#YQVCG0U2G",
+   "ath": 19,
+   "d": "#LV22URPY0",
+   "dth": 19,
+   "dur": 147,
+   "o": 57,
+   "p": 92,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#YQVCG0U2G",
+   "ath": 19,
+   "d": "#9RLU98UV",
+   "dth": 18,
+   "dur": 113,
+   "o": 58,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#LP0YV2UQ",
+   "ath": 19,
+   "d": "#Y90UU0QQ",
+   "dth": 19,
+   "dur": 130,
+   "o": 59,
+   "p": 88,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#Y90UU0QQ",
+   "ath": 19,
+   "d": "#U0L8CL8U",
+   "dth": 19,
+   "dur": 112,
+   "o": 60,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#QVP88PPQ",
+   "ath": 19,
+   "d": "#Y2YPCJ9U",
+   "dth": 19,
+   "dur": 138,
+   "o": 61,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#QVJPRRY",
+   "ath": 19,
+   "d": "#QQJYRLUL",
+   "dth": 19,
+   "dur": 113,
+   "o": 62,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#89LJJRL9",
+   "ath": 19,
+   "d": "#8GGYYJ0LQ",
+   "dth": 19,
+   "dur": 96,
+   "o": 63,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#98LY8P2QC",
+   "ath": 19,
+   "d": "#PGVLPPQR",
+   "dth": 19,
+   "dur": 129,
+   "o": 64,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 59.85,
+  "destruction": 67.25,
   "members": [
    {
     "name": "FL • ZΞЯБΞЯЦS³",
@@ -852,12 +951,12 @@
    }
   ],
   "name": "FruchtLabörchen",
-  "stars": 70,
+  "stars": 79,
   "tag": "#2RYP8PQRG"
  },
  "end": "20261127T200631.000Z",
  "opponent": {
-  "destruction": 51.95,
+  "destruction": 62.45,
   "members": [
    {
     "name": "Mario",
@@ -1101,7 +1200,7 @@
    }
   ],
   "name": "Italian Gods",
-  "stars": 54,
+  "stars": 66,
   "tag": "#8Q0P98GY"
  },
  "start": "20261126T200631.000Z",

@@ -1418,6 +1418,83 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#JGLV0YQQ",
+   "ath": 19,
+   "d": "#9R02UGGLP",
+   "dth": 19,
+   "dur": 180,
+   "o": 130,
+   "p": 88,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#LYUG02LG0",
+   "ath": 19,
+   "d": "#9R02UGGLP",
+   "dth": 19,
+   "dur": 115,
+   "o": 131,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#LYUG02LG0",
+   "ath": 19,
+   "d": "#YG8CPV2V2",
+   "dth": 18,
+   "dur": 94,
+   "o": 132,
+   "p": 92,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#YG8CPV2V2",
+   "ath": 18,
+   "d": "#YG80Y2GR8",
+   "dth": 19,
+   "dur": 8,
+   "o": 133,
+   "p": 2,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#YG8CPV2V2",
+   "ath": 18,
+   "d": "#P900CGV90",
+   "dth": 19,
+   "dur": 23,
+   "o": 134,
+   "p": 7,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#Q08UYRVJG",
+   "ath": 19,
+   "d": "#PRG9JQC0Q",
+   "dth": 19,
+   "dur": 30,
+   "o": 135,
+   "p": 6,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#Q08UYRVJG",
+   "ath": 19,
+   "d": "#CLUYR89L",
+   "dth": 19,
+   "dur": 67,
+   "o": 136,
+   "p": 50,
+   "s": 2,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -1671,7 +1748,7 @@
  },
  "end": "20261127T085629.000Z",
  "opponent": {
-  "destruction": 99.925,
+  "destruction": 100.0,
   "members": [
    {
     "name": "❤Sâu❤Shi❤",
@@ -1915,11 +1992,11 @@
    }
   ],
   "name": "VIETNAM COC",
-  "stars": 119,
+  "stars": 120,
   "tag": "#222V9RJVU"
  },
  "start": "20261126T085629.000Z",
- "state": "inWar",
+ "state": "warEnded",
  "teamSize": 40,
  "type": "krieg"
 }

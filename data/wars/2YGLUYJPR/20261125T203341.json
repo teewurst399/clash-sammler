@@ -648,11 +648,187 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#GJL29928",
+   "ath": 19,
+   "d": "#GCGRUPR8G",
+   "dth": 3,
+   "dur": 4,
+   "o": 60,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#QV8YG2UL",
+   "ath": 19,
+   "d": "#Q9RPVRRY",
+   "dth": 19,
+   "dur": 145,
+   "o": 61,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#GJL29928",
+   "ath": 19,
+   "d": "#9U8P002R2",
+   "dth": 19,
+   "dur": 146,
+   "o": 62,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#L80UU2VG0",
+   "ath": 18,
+   "d": "#QQQPJJVGU",
+   "dth": 19,
+   "dur": 100,
+   "o": 63,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#L80UU2VG0",
+   "ath": 18,
+   "d": "#PRC82RG2",
+   "dth": 19,
+   "dur": 126,
+   "o": 64,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#8029PCUP",
+   "ath": 19,
+   "d": "#2082CUU8R",
+   "dth": 19,
+   "dur": 79,
+   "o": 65,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#9GYVGLVUC",
+   "ath": 19,
+   "d": "#8R89GQR2P",
+   "dth": 19,
+   "dur": 142,
+   "o": 66,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#8029PCUP",
+   "ath": 19,
+   "d": "#Y8UUY2QY",
+   "dth": 19,
+   "dur": 149,
+   "o": 67,
+   "p": 95,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#9GYVGLVUC",
+   "ath": 19,
+   "d": "#QVJ9GPR8",
+   "dth": 19,
+   "dur": 132,
+   "o": 68,
+   "p": 77,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#9YP28RYPC",
+   "ath": 19,
+   "d": "#C8JY2LVQ",
+   "dth": 19,
+   "dur": 139,
+   "o": 69,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#JLG0L9C",
+   "ath": 19,
+   "d": "#VUQ9P9L9",
+   "dth": 19,
+   "dur": 123,
+   "o": 70,
+   "p": 94,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#JLG0L9C",
+   "ath": 19,
+   "d": "#Y8UUY2QY",
+   "dth": 19,
+   "dur": 107,
+   "o": 71,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#YVYQ8J9V9",
+   "ath": 19,
+   "d": "#L9C0J0CP",
+   "dth": 19,
+   "dur": 122,
+   "o": 72,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#QVJ9GPR8",
+   "ath": 19,
+   "d": "#9YP28RYPC",
+   "dth": 19,
+   "dur": 108,
+   "o": 73,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#QVJ9GPR8",
+   "ath": 19,
+   "d": "#2YVY9QLYY",
+   "dth": 19,
+   "dur": 180,
+   "o": 74,
+   "p": 99,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#YUGPPJ92R",
+   "ath": 19,
+   "d": "#22QQVVQP",
+   "dth": 19,
+   "dur": 160,
+   "o": 75,
+   "p": 91,
+   "s": 2,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 71.925,
+  "destruction": 91.7,
   "members": [
    {
     "name": "DTA Insomniac",
@@ -896,12 +1072,12 @@
    }
   ],
   "name": "Beerenbrüder",
-  "stars": 85,
+  "stars": 109,
   "tag": "#2YGLUYJPR"
  },
  "end": "20261127T193341.000Z",
  "opponent": {
-  "destruction": 57.5,
+  "destruction": 67.475,
   "members": [
    {
     "name": "PaPaPatrick",
@@ -1145,7 +1321,7 @@
    }
   ],
   "name": "Confusion II",
-  "stars": 69,
+  "stars": 80,
   "tag": "#2J2RY0GRL"
  },
  "start": "20261126T193341.000Z",

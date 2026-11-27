@@ -637,11 +637,88 @@
    "p": 68,
    "s": 2,
    "side": "gegner"
+  },
+  {
+   "a": "#LJGQLCLR",
+   "ath": 19,
+   "d": "#QURJQLC2L",
+   "dth": 19,
+   "dur": 134,
+   "o": 59,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#UJ028R80",
+   "ath": 19,
+   "d": "#LG8JPLP",
+   "dth": 19,
+   "dur": 180,
+   "o": 60,
+   "p": 98,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#LJGQLCLR",
+   "ath": 19,
+   "d": "#JR8Q2Y8L",
+   "dth": 19,
+   "dur": 141,
+   "o": 61,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#UJ028R80",
+   "ath": 19,
+   "d": "#280V0YLUR",
+   "dth": 19,
+   "dur": 151,
+   "o": 62,
+   "p": 88,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#GRGUL982L",
+   "ath": 19,
+   "d": "#PYQU08UVR",
+   "dth": 19,
+   "dur": 149,
+   "o": 63,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#GVRYC8U",
+   "ath": 19,
+   "d": "#89GC2PRYP",
+   "dth": 19,
+   "dur": 135,
+   "o": 64,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#GRGUL982L",
+   "ath": 19,
+   "d": "#LLQQRJ9L2",
+   "dth": 19,
+   "dur": 152,
+   "o": 65,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 60.0,
+  "destruction": 72.15,
   "members": [
    {
     "name": "Nils^_^",
@@ -885,12 +962,12 @@
    }
   ],
   "name": "Northfront",
-  "stars": 72,
+  "stars": 85,
   "tag": "#2GLJCLYPU"
  },
  "end": "20261127T213041.000Z",
  "opponent": {
-  "destruction": 74.1,
+  "destruction": 77.0,
   "members": [
    {
     "name": "FN Tiger",
@@ -1134,7 +1211,7 @@
    }
   ],
   "name": "BCN ESPARTANS",
-  "stars": 81,
+  "stars": 85,
   "tag": "#9QPG0LP2"
  },
  "start": "20261126T213041.000Z",
