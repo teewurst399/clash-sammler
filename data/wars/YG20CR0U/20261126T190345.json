@@ -406,11 +406,99 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#G8PVYLJGP",
+   "ath": 19,
+   "d": "#LUY2QQQ9",
+   "dth": 19,
+   "dur": 149,
+   "o": 38,
+   "p": 92,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#YRYY0Q9C",
+   "ath": 19,
+   "d": "#Q9U2GRGRC",
+   "dth": 19,
+   "dur": 150,
+   "o": 39,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#YRYY0Q9C",
+   "ath": 19,
+   "d": "#2LUV2P00",
+   "dth": 19,
+   "dur": 153,
+   "o": 40,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#8YC08PJY9",
+   "ath": 19,
+   "d": "#2V2PC2VRY",
+   "dth": 19,
+   "dur": 140,
+   "o": 41,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#29VQ8PJVV",
+   "ath": 19,
+   "d": "#2G0QQJG9Y",
+   "dth": 18,
+   "dur": 148,
+   "o": 42,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#8LQ9C880L",
+   "ath": 19,
+   "d": "#GRVY0YC2R",
+   "dth": 19,
+   "dur": 132,
+   "o": 43,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#2J0G9RL02",
+   "ath": 19,
+   "d": "#LLGPQ9CVU",
+   "dth": 19,
+   "dur": 136,
+   "o": 44,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#2J0G9RL02",
+   "ath": 19,
+   "d": "#2YRGJ208L",
+   "dth": 18,
+   "dur": 148,
+   "o": 45,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 43.066666,
+  "destruction": 46.133335,
   "members": [
    {
     "name": "Clash Joni",
@@ -594,12 +682,12 @@
    }
   ],
   "name": "Gammazone",
-  "stars": 38,
+  "stars": 40,
   "tag": "#YG20CR0U"
  },
  "end": "20261128T180345.000Z",
  "opponent": {
-  "destruction": 63.333332,
+  "destruction": 86.666664,
   "members": [
    {
     "name": "ChiefGriff",
@@ -783,7 +871,7 @@
    }
   ],
   "name": "Psycho Cadets",
-  "stars": 57,
+  "stars": 78,
   "tag": "#2PLRY88C9"
  },
  "start": "20261127T180345.000Z",

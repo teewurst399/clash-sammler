@@ -1,0 +1,457 @@
+{
+ "attacks": [
+  {
+   "a": "#998PJGU8",
+   "ath": 19,
+   "d": "#CVC00QYR",
+   "dth": 19,
+   "dur": 175,
+   "o": 1,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  }
+ ],
+ "attacksPerMember": 2,
+ "clan": {
+  "destruction": 0.0,
+  "members": [
+   {
+    "name": "xXStelioXx",
+    "pos": 7,
+    "tag": "#PUGJV8R8",
+    "th": 19
+   },
+   {
+    "name": "Sandro",
+    "pos": 26,
+    "tag": "#JUPV2V0P",
+    "th": 19
+   },
+   {
+    "name": "BP Lattenschuss",
+    "pos": 2,
+    "tag": "#UJ9299LR",
+    "th": 19
+   },
+   {
+    "name": "Stefan",
+    "pos": 19,
+    "tag": "#2PRG0RPL",
+    "th": 19
+   },
+   {
+    "name": "Fįkį♚",
+    "pos": 27,
+    "tag": "#YRRYV0VP",
+    "th": 19
+   },
+   {
+    "name": "P@CK@RD",
+    "pos": 12,
+    "tag": "#LGCPRQYJ",
+    "th": 19
+   },
+   {
+    "name": "TrainerPaul",
+    "pos": 13,
+    "tag": "#9QRV2GR",
+    "th": 19
+   },
+   {
+    "name": "EZ⚡️Chep⚡️",
+    "pos": 23,
+    "tag": "#UGUP0YG2",
+    "th": 19
+   },
+   {
+    "name": "AnonymuZz",
+    "pos": 24,
+    "tag": "#8C00YVVP",
+    "th": 19
+   },
+   {
+    "name": "Chepper",
+    "pos": 5,
+    "tag": "#20JGLU9PP",
+    "th": 19
+   },
+   {
+    "name": "DarkWolf",
+    "pos": 33,
+    "tag": "#CVC00QYR",
+    "th": 19
+   },
+   {
+    "name": "INDY317",
+    "pos": 14,
+    "tag": "#Q9G8Q9LY",
+    "th": 19
+   },
+   {
+    "name": "KJ",
+    "pos": 1,
+    "tag": "#22PUVQU29",
+    "th": 19
+   },
+   {
+    "name": "Hattori",
+    "pos": 8,
+    "tag": "#PL292QGG",
+    "th": 19
+   },
+   {
+    "name": "Code: Chepper",
+    "pos": 29,
+    "tag": "#999UUPGC8",
+    "th": 19
+   },
+   {
+    "name": "★☆● krebZ ○★☆",
+    "pos": 20,
+    "tag": "#22YYQRQV9",
+    "th": 19
+   },
+   {
+    "name": "Milotic",
+    "pos": 30,
+    "tag": "#2QV0QG8CU",
+    "th": 19
+   },
+   {
+    "name": "Cobel",
+    "pos": 15,
+    "tag": "#9QLYQPP2",
+    "th": 19
+   },
+   {
+    "name": "♚Marcell♚",
+    "pos": 6,
+    "tag": "#U0RC2QGV",
+    "th": 19
+   },
+   {
+    "name": "Legend of Death",
+    "pos": 31,
+    "tag": "#2Y8CCJQ0",
+    "th": 19
+   },
+   {
+    "name": "EZ⚡️NoPeace⚡️",
+    "pos": 10,
+    "tag": "#GY09JUL98",
+    "th": 19
+   },
+   {
+    "name": "♡♡~Samy~♡♡",
+    "pos": 25,
+    "tag": "#Q8RPYQ9VC",
+    "th": 19
+   },
+   {
+    "name": "BoaJunge",
+    "pos": 9,
+    "tag": "#Y9Q2JUL9",
+    "th": 19
+   },
+   {
+    "name": "ZEN Akaza",
+    "pos": 16,
+    "tag": "#9V20J9PJ9",
+    "th": 19
+   },
+   {
+    "name": "SMILE",
+    "pos": 3,
+    "tag": "#JLC2VQPU",
+    "th": 19
+   },
+   {
+    "name": "XxStelioxX",
+    "pos": 17,
+    "tag": "#2VRV2URGP",
+    "th": 19
+   },
+   {
+    "name": "♡☆~Samy~☆♡",
+    "pos": 18,
+    "tag": "#9JPLVQ8RJ",
+    "th": 19
+   },
+   {
+    "name": "INDY3️⃣1️⃣7️⃣",
+    "pos": 28,
+    "tag": "#2PVG9YG02",
+    "th": 19
+   },
+   {
+    "name": "Robbie",
+    "pos": 22,
+    "tag": "#2YGV29JGR",
+    "th": 19
+   },
+   {
+    "name": "FalscherErlöser",
+    "pos": 21,
+    "tag": "#LJPCRGPPG",
+    "th": 19
+   },
+   {
+    "name": "Sir iron",
+    "pos": 4,
+    "tag": "#9Y9G8J9Q9",
+    "th": 19
+   },
+   {
+    "name": "EZ⚡️lil Peace",
+    "pos": 34,
+    "tag": "#99PP99LLC",
+    "th": 16
+   },
+   {
+    "name": "SMILE 2.0",
+    "pos": 32,
+    "tag": "#QQJYRLJG2",
+    "th": 19
+   },
+   {
+    "name": "Chep",
+    "pos": 35,
+    "tag": "#QJLG828GC",
+    "th": 9
+   },
+   {
+    "name": "EZ⚡️Chepper⚡️",
+    "pos": 11,
+    "tag": "#LURR922JY",
+    "th": 19
+   }
+  ],
+  "name": "Endzone",
+  "stars": 0,
+  "tag": "#2YPY9PLUU"
+ },
+ "end": "20261128T224703.000Z",
+ "opponent": {
+  "destruction": 2.857143,
+  "members": [
+   {
+    "name": "爱意总模糊",
+    "pos": 14,
+    "tag": "#2Y2YG288Y",
+    "th": 19
+   },
+   {
+    "name": "千颂伊",
+    "pos": 15,
+    "tag": "#QUP0RUQGL",
+    "th": 19
+   },
+   {
+    "name": "侠影迷城",
+    "pos": 28,
+    "tag": "#VJ2P9J2Y",
+    "th": 19
+   },
+   {
+    "name": "hoe8332",
+    "pos": 10,
+    "tag": "#9VPRYC9L",
+    "th": 19
+   },
+   {
+    "name": "dirty_fish",
+    "pos": 4,
+    "tag": "#82RVRVU2",
+    "th": 19
+   },
+   {
+    "name": "小龙问路",
+    "pos": 9,
+    "tag": "#20VPVC80Y",
+    "th": 19
+   },
+   {
+    "name": "sky",
+    "pos": 35,
+    "tag": "#G0UUPPU9C",
+    "th": 19
+   },
+   {
+    "name": "半夏",
+    "pos": 5,
+    "tag": "#CYC98RJ",
+    "th": 19
+   },
+   {
+    "name": "倒吊人",
+    "pos": 8,
+    "tag": "#QR8YYQRGP",
+    "th": 19
+   },
+   {
+    "name": "春秋•Mr_Kin",
+    "pos": 18,
+    "tag": "#CY89CPQ",
+    "th": 19
+   },
+   {
+    "name": "oOo",
+    "pos": 25,
+    "tag": "#YCRRLP09",
+    "th": 19
+   },
+   {
+    "name": "红叶",
+    "pos": 26,
+    "tag": "#GGYJV8J9P",
+    "th": 19
+   },
+   {
+    "name": "milo",
+    "pos": 21,
+    "tag": "#2C8YRVGUQ",
+    "th": 19
+   },
+   {
+    "name": "箍骷",
+    "pos": 7,
+    "tag": "#82YVR9L",
+    "th": 19
+   },
+   {
+    "name": "卡里巴啦啦",
+    "pos": 30,
+    "tag": "#GRJ8R2CUY",
+    "th": 19
+   },
+   {
+    "name": "young",
+    "pos": 11,
+    "tag": "#2L90PGU9R",
+    "th": 19
+   },
+   {
+    "name": "elites",
+    "pos": 2,
+    "tag": "#8L8U298P",
+    "th": 19
+   },
+   {
+    "name": "熠熠",
+    "pos": 24,
+    "tag": "#2YPCLR2QQ",
+    "th": 19
+   },
+   {
+    "name": "Cruel",
+    "pos": 27,
+    "tag": "#GLLLJLGL8",
+    "th": 19
+   },
+   {
+    "name": "☀paw☀",
+    "pos": 1,
+    "tag": "#RQLUC2PY",
+    "th": 19
+   },
+   {
+    "name": "鳳少♚暗鳳馆♚",
+    "pos": 3,
+    "tag": "#RCJJL0PP",
+    "th": 19
+   },
+   {
+    "name": "French Fries",
+    "pos": 6,
+    "tag": "#JPU8J2JU",
+    "th": 19
+   },
+   {
+    "name": "Chimpanz3s",
+    "pos": 34,
+    "tag": "#LG9PUCPV",
+    "th": 18
+   },
+   {
+    "name": "小白不白【黑三雇佣兵版】",
+    "pos": 20,
+    "tag": "#9PQ9YLVPC",
+    "th": 19
+   },
+   {
+    "name": "那个谁",
+    "pos": 32,
+    "tag": "#998PJGU8",
+    "th": 19
+   },
+   {
+    "name": "精忠部落",
+    "pos": 13,
+    "tag": "#22LQ8QY88",
+    "th": 19
+   },
+   {
+    "name": "milk",
+    "pos": 23,
+    "tag": "#YJYUVQ0CR",
+    "th": 19
+   },
+   {
+    "name": "圣魂流花",
+    "pos": 16,
+    "tag": "#QUYPG8ULR",
+    "th": 19
+   },
+   {
+    "name": "油炸炸弹人#暗鳳馆#",
+    "pos": 17,
+    "tag": "#ULLJRJVJ",
+    "th": 19
+   },
+   {
+    "name": "匆匆而过之你我他 XING",
+    "pos": 33,
+    "tag": "#98VC2VQC9",
+    "th": 19
+   },
+   {
+    "name": "Socialman",
+    "pos": 29,
+    "tag": "#GPCVGQL29",
+    "th": 19
+   },
+   {
+    "name": "学霸之都-四葉",
+    "pos": 31,
+    "tag": "#QJVCC8YR8",
+    "th": 19
+   },
+   {
+    "name": "糖果超甜",
+    "pos": 19,
+    "tag": "#9QRQQVJ0L",
+    "th": 19
+   },
+   {
+    "name": "kimochiaaaaaa",
+    "pos": 12,
+    "tag": "#L2Q0R8LR8",
+    "th": 19
+   },
+   {
+    "name": "Cat&dog",
+    "pos": 22,
+    "tag": "#QQLYUQP8Q",
+    "th": 19
+   }
+  ],
+  "name": "暗鳳馆★★★",
+  "stars": 3,
+  "tag": "#P0LJQJRY"
+ },
+ "start": "20261127T224703.000Z",
+ "state": "inWar",
+ "teamSize": 35,
+ "type": "krieg"
+}

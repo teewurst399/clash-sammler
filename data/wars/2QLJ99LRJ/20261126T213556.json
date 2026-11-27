@@ -10,11 +10,110 @@
    "p": 95,
    "s": 2,
    "side": "gegner"
+  },
+  {
+   "a": "#YY99YQ02L",
+   "ath": 14,
+   "d": "#Q808CUJYG",
+   "dth": 15,
+   "dur": 125,
+   "o": 2,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#9CCJGGL9J",
+   "ath": 19,
+   "d": "#9CQ8LLVQ8",
+   "dth": 19,
+   "dur": 164,
+   "o": 3,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#8QYV8VULV",
+   "ath": 18,
+   "d": "#Y20VYRGLJ",
+   "dth": 18,
+   "dur": 161,
+   "o": 4,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#8QYV8VULV",
+   "ath": 18,
+   "d": "#G92QC8LGU",
+   "dth": 19,
+   "dur": 161,
+   "o": 5,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#C9VP88Y8",
+   "ath": 19,
+   "d": "#9022C00YL",
+   "dth": 19,
+   "dur": 144,
+   "o": 6,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#802PR80C8",
+   "ath": 12,
+   "d": "#GPPQUQ90C",
+   "dth": 12,
+   "dur": 86,
+   "o": 7,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#22V9U90U",
+   "ath": 13,
+   "d": "#PCR8VC8J2",
+   "dth": 13,
+   "dur": 180,
+   "o": 8,
+   "p": 98,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#C9VP88Y8",
+   "ath": 19,
+   "d": "#Y9VL9CR88",
+   "dth": 19,
+   "dur": 172,
+   "o": 9,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#9CCJGGL9J",
+   "ath": 19,
+   "d": "#9U0PJLVVY",
+   "dth": 19,
+   "dur": 129,
+   "o": 10,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 0.0,
+  "destruction": 26.6,
   "members": [
    {
     "name": "❗️B༏g BaསG❗️",
@@ -198,12 +297,12 @@
    }
   ],
   "name": "Betazone",
-  "stars": 0,
+  "stars": 23,
   "tag": "#2QLJ99LRJ"
  },
  "end": "20261128T203556.000Z",
  "opponent": {
-  "destruction": 3.1666667,
+  "destruction": 6.5,
   "members": [
    {
     "name": "Varun",
@@ -387,7 +486,7 @@
    }
   ],
   "name": "u n me",
-  "stars": 2,
+  "stars": 5,
   "tag": "#JC0829Y2"
  },
  "start": "20261127T203556.000Z",
