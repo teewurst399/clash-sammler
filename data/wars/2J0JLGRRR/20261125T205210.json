@@ -175,6 +175,116 @@
    "p": 74,
    "s": 2,
    "side": "gegner"
+  },
+  {
+   "a": "#P8GVVQPV9",
+   "ath": 15,
+   "d": "#CRG2JP0Y",
+   "dth": 16,
+   "dur": 125,
+   "o": 17,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#P8GVVQPV9",
+   "ath": 15,
+   "d": "#YC08Q0CV",
+   "dth": 16,
+   "dur": 180,
+   "o": 18,
+   "p": 98,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#R0PJ92VGL",
+   "ath": 13,
+   "d": "#GVR82GCQU",
+   "dth": 12,
+   "dur": 80,
+   "o": 19,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#R0PJ92VGL",
+   "ath": 13,
+   "d": "#GUQJP2282",
+   "dth": 13,
+   "dur": 153,
+   "o": 20,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#GGGQPYVYG",
+   "ath": 15,
+   "d": "#GUQRRUVL2",
+   "dth": 15,
+   "dur": 147,
+   "o": 21,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#GGGQPYVYG",
+   "ath": 15,
+   "d": "#YC0P89CGJ",
+   "dth": 17,
+   "dur": 131,
+   "o": 22,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#QC8GUV8UY",
+   "ath": 17,
+   "d": "#QJYCY0CJC",
+   "dth": 17,
+   "dur": 129,
+   "o": 23,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#QC8GUV8UY",
+   "ath": 17,
+   "d": "#GC9UYCQVY",
+   "dth": 17,
+   "dur": 152,
+   "o": 24,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#Q8YYLVCPV",
+   "ath": 17,
+   "d": "#98VQ90GQJ",
+   "dth": 17,
+   "dur": 123,
+   "o": 25,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#Q8YYLVCPV",
+   "ath": 17,
+   "d": "#GV9LV9QQL",
+   "dth": 16,
+   "dur": 137,
+   "o": 26,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -308,7 +418,7 @@
  },
  "end": "20261127T195210.000Z",
  "opponent": {
-  "destruction": 27.25,
+  "destruction": 77.15,
   "members": [
    {
     "name": "Farjana",
@@ -432,7 +542,7 @@
    }
   ],
   "name": "DRAGOON MASTER",
-  "stars": 14,
+  "stars": 43,
   "tag": "#2GP9JRQ2Q"
  },
  "start": "20261126T195210.000Z",

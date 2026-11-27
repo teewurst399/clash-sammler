@@ -461,11 +461,44 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#QRRL20GR",
+   "ath": 19,
+   "d": "#JGQ9CUUG",
+   "dth": 19,
+   "dur": 159,
+   "o": 43,
+   "p": 92,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#QRRL20GR",
+   "ath": 19,
+   "d": "#22P0P9PPJ",
+   "dth": 19,
+   "dur": 118,
+   "o": 44,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#2808Y8QY0",
+   "ath": 19,
+   "d": "#P2QYY9GV",
+   "dth": 14,
+   "dur": 92,
+   "o": 45,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 40.0,
+  "destruction": 42.5,
   "members": [
    {
     "name": "DTA Insomniac",
@@ -709,12 +742,12 @@
    }
   ],
   "name": "Beerenbrüder",
-  "stars": 48,
+  "stars": 51,
   "tag": "#2YGLUYJPR"
  },
  "end": "20261127T193341.000Z",
  "opponent": {
-  "destruction": 50.0,
+  "destruction": 54.8,
   "members": [
    {
     "name": "PaPaPatrick",
@@ -958,7 +991,7 @@
    }
   ],
   "name": "Confusion II",
-  "stars": 60,
+  "stars": 65,
   "tag": "#2J2RY0GRL"
  },
  "start": "20261126T193341.000Z",

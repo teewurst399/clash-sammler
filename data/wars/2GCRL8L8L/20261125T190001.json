@@ -802,6 +802,50 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#P9PV298GP",
+   "ath": 19,
+   "d": "#VLLCRUJJ",
+   "dth": 19,
+   "dur": 176,
+   "o": 74,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#P9PV298GP",
+   "ath": 19,
+   "d": "#8YL2J9GRJ",
+   "dth": 19,
+   "dur": 151,
+   "o": 75,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#8208C820J",
+   "ath": 19,
+   "d": "#8VGPVP2V",
+   "dth": 19,
+   "dur": 180,
+   "o": 76,
+   "p": 98,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#8208C820J",
+   "ath": 19,
+   "d": "#PGGRYQP0U",
+   "dth": 19,
+   "dur": 164,
+   "o": 77,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -1055,7 +1099,7 @@
  },
  "end": "20261127T180001.000Z",
  "opponent": {
-  "destruction": 74.775,
+  "destruction": 84.725,
   "members": [
    {
     "name": "byAaleXx",
@@ -1299,7 +1343,7 @@
    }
   ],
   "name": "FURIAROJA.NET",
-  "stars": 89,
+  "stars": 99,
   "tag": "#88G0PRVJ"
  },
  "start": "20261126T180001.000Z",

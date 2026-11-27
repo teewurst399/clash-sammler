@@ -725,6 +725,28 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#99JVV8UL0",
+   "ath": 18,
+   "d": "#YVYYRVJRJ",
+   "dth": 18,
+   "dur": 133,
+   "o": 67,
+   "p": 90,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#99JVV8UL0",
+   "ath": 18,
+   "d": "#L8G8GR0C9",
+   "dth": 19,
+   "dur": 114,
+   "o": 68,
+   "p": 74,
+   "s": 2,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -978,7 +1000,7 @@
  },
  "end": "20261127T190231.000Z",
  "opponent": {
-  "destruction": 54.7,
+  "destruction": 58.8,
   "members": [
    {
     "name": "Tyr",
@@ -1222,7 +1244,7 @@
    }
   ],
   "name": "Monstergas jr.",
-  "stars": 60,
+  "stars": 64,
   "tag": "#29CV02VC"
  },
  "start": "20261126T190231.000Z",

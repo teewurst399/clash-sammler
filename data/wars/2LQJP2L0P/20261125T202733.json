@@ -142,6 +142,17 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#9CPL2YUQU",
+   "ath": 19,
+   "d": "#CYQC0GJC",
+   "dth": 19,
+   "dur": 125,
+   "o": 14,
+   "p": 79,
+   "s": 2,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -305,7 +316,7 @@
  },
  "end": "20261127T192733.000Z",
  "opponent": {
-  "destruction": 3.24,
+  "destruction": 6.4,
   "members": [
    {
     "name": "Floking",
@@ -459,7 +470,7 @@
    }
   ],
   "name": "Freunde",
-  "stars": 2,
+  "stars": 4,
   "tag": "#2LRYPQRLC"
  },
  "start": "20261126T192733.000Z",
