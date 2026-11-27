@@ -384,6 +384,17 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#CGGRGRRV",
+   "ath": 19,
+   "d": "#8QC8VJG2U",
+   "dth": 19,
+   "dur": 107,
+   "o": 36,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -607,7 +618,7 @@
  },
  "end": "20261127T205607.000Z",
  "opponent": {
-  "destruction": 58.514286,
+  "destruction": 61.37143,
   "members": [
    {
     "name": "mary",
@@ -821,7 +832,7 @@
    }
   ],
   "name": "LasT BreaK ♠️",
-  "stars": 58,
+  "stars": 61,
   "tag": "#8GJ9YJ8Y"
  },
  "start": "20261126T205607.000Z",

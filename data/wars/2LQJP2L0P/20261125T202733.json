@@ -153,11 +153,22 @@
    "p": 79,
    "s": 2,
    "side": "gegner"
+  },
+  {
+   "a": "#LLQ2989",
+   "ath": 16,
+   "d": "#QLJYVYQU2",
+   "dth": 15,
+   "dur": 134,
+   "o": 15,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 46.04,
+  "destruction": 50.04,
   "members": [
    {
     "name": "sa",
@@ -311,7 +322,7 @@
    }
   ],
   "name": "Beta-Beeren",
-  "stars": 33,
+  "stars": 36,
   "tag": "#2LQJP2L0P"
  },
  "end": "20261127T192733.000Z",

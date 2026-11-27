@@ -681,11 +681,77 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#LCPQ99V8C",
+   "ath": 19,
+   "d": "#U90YUUQV",
+   "dth": 19,
+   "dur": 112,
+   "o": 63,
+   "p": 85,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#LCPQ99V8C",
+   "ath": 19,
+   "d": "#PRVVCQJUY",
+   "dth": 19,
+   "dur": 117,
+   "o": 64,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#2CGQ0QGYC",
+   "ath": 19,
+   "d": "#JJGPQUYY",
+   "dth": 19,
+   "dur": 97,
+   "o": 65,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#8YYQRLUQP",
+   "ath": 19,
+   "d": "#29U2C9CJY",
+   "dth": 19,
+   "dur": 135,
+   "o": 66,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#2CGQ0QGYC",
+   "ath": 19,
+   "d": "#PY09JCVRR",
+   "dth": 19,
+   "dur": 88,
+   "o": 67,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#YVUPCJ0",
+   "ath": 19,
+   "d": "#22800PYCR",
+   "dth": 19,
+   "dur": 152,
+   "o": 68,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 37.466667,
+  "destruction": 39.711113,
   "members": [
    {
     "name": "LOST☆stefan",
@@ -959,12 +1025,12 @@
    }
   ],
   "name": "LOST 3",
-  "stars": 48,
+  "stars": 52,
   "tag": "#2YUPV0UYC"
  },
  "end": "20261127T205024.000Z",
  "opponent": {
-  "destruction": 86.53333,
+  "destruction": 93.0,
   "members": [
    {
     "name": "⚡️IR.H⚡️ALI⚡️",
@@ -1238,7 +1304,7 @@
    }
   ],
   "name": "iranian heroes",
-  "stars": 116,
+  "stars": 125,
   "tag": "#PGPYYQY9"
  },
  "start": "20261126T205024.000Z",

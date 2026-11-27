@@ -351,6 +351,17 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#UG0QQ80R",
+   "ath": 19,
+   "d": "#8CUYY0V2U",
+   "dth": 19,
+   "dur": 171,
+   "o": 33,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -514,7 +525,7 @@
  },
  "end": "20261127T191133.000Z",
  "opponent": {
-  "destruction": 60.0,
+  "destruction": 64.0,
   "members": [
    {
     "name": "AS Flua",
@@ -668,7 +679,7 @@
    }
   ],
   "name": "Arctic Sunbath",
-  "stars": 45,
+  "stars": 48,
   "tag": "#2GQJ0LP8"
  },
  "start": "20261126T191133.000Z",

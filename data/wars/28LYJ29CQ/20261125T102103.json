@@ -1495,6 +1495,17 @@
    "p": 91,
    "s": 2,
    "side": "gegner"
+  },
+  {
+   "a": "#CGQLLPUV",
+   "ath": 19,
+   "d": "#LCVJJJCRJ",
+   "dth": 19,
+   "dur": 99,
+   "o": 137,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
