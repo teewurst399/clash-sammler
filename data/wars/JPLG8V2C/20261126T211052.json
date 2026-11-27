@@ -87,11 +87,176 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#9URRRL2P",
+   "ath": 19,
+   "d": "#QUVJL8PYY",
+   "dth": 19,
+   "dur": 146,
+   "o": 9,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#R099UVUJU",
+   "ath": 19,
+   "d": "#2UCPPR8Q",
+   "dth": 19,
+   "dur": 180,
+   "o": 10,
+   "p": 93,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#9URRRL2P",
+   "ath": 19,
+   "d": "#2UCQGJQYY",
+   "dth": 19,
+   "dur": 128,
+   "o": 11,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#R099UVUJU",
+   "ath": 19,
+   "d": "#8P00Y8YRR",
+   "dth": 19,
+   "dur": 114,
+   "o": 12,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#Q8G8V82R",
+   "ath": 19,
+   "d": "#PYPUJ98",
+   "dth": 19,
+   "dur": 180,
+   "o": 13,
+   "p": 93,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#2LGPVGY9",
+   "ath": 19,
+   "d": "#8R0G9RY2",
+   "dth": 19,
+   "dur": 129,
+   "o": 14,
+   "p": 98,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#PGG800ULQ",
+   "ath": 19,
+   "d": "#8R2CLULPY",
+   "dth": 19,
+   "dur": 136,
+   "o": 15,
+   "p": 92,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#PGG800ULQ",
+   "ath": 19,
+   "d": "#2L8RU0LQ0",
+   "dth": 19,
+   "dur": 141,
+   "o": 16,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#JRVPR0VP",
+   "ath": 19,
+   "d": "#PRPP0LQUY",
+   "dth": 19,
+   "dur": 106,
+   "o": 17,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#LCC2VQG8V",
+   "ath": 18,
+   "d": "#PLU0RJ0G2",
+   "dth": 19,
+   "dur": 112,
+   "o": 18,
+   "p": 89,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#LCC2VQG8V",
+   "ath": 18,
+   "d": "#Q8VPLC2RJ",
+   "dth": 19,
+   "dur": 124,
+   "o": 19,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#JRVPR0VP",
+   "ath": 19,
+   "d": "#22PVVLRLJ",
+   "dth": 19,
+   "dur": 118,
+   "o": 20,
+   "p": 85,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#9Q92V2VRY",
+   "ath": 19,
+   "d": "#8R0G9RY2",
+   "dth": 19,
+   "dur": 180,
+   "o": 21,
+   "p": 86,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#2J990UYRL",
+   "ath": 19,
+   "d": "#29RL2VURJ",
+   "dth": 19,
+   "dur": 127,
+   "o": 22,
+   "p": 96,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#2J990UYRL",
+   "ath": 19,
+   "d": "#8JV2LVVRV",
+   "dth": 19,
+   "dur": 123,
+   "o": 23,
+   "p": 86,
+   "s": 2,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 17.028572,
+  "destruction": 36.17143,
   "members": [
    {
     "name": "Der Checker",
@@ -305,12 +470,12 @@
    }
   ],
   "name": "GhostZone",
-  "stars": 17,
+  "stars": 34,
   "tag": "#JPLG8V2C"
  },
  "end": "20261128T201052.000Z",
  "opponent": {
-  "destruction": 5.714286,
+  "destruction": 24.62857,
   "members": [
    {
     "name": "SRG⭐️Warden",
@@ -524,7 +689,7 @@
    }
   ],
   "name": "SRG GAMING I",
-  "stars": 6,
+  "stars": 20,
   "tag": "#28Y2U099L"
  },
  "start": "20261127T201052.000Z",

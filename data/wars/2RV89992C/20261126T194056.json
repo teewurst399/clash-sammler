@@ -318,11 +318,44 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#9CPV2QGPP",
+   "ath": 17,
+   "d": "#YRYQ2V8R8",
+   "dth": 17,
+   "dur": 96,
+   "o": 30,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#9CPV2QGPP",
+   "ath": 17,
+   "d": "#GC9VGU0LL",
+   "dth": 18,
+   "dur": 106,
+   "o": 31,
+   "p": 75,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#GC2CURPRP",
+   "ath": 18,
+   "d": "#20PJ90PC",
+   "dth": 18,
+   "dur": 154,
+   "o": 32,
+   "p": 74,
+   "s": 2,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 29.966667,
+  "destruction": 32.433334,
   "members": [
    {
     "name": "Dschini -L-",
@@ -506,12 +539,12 @@
    }
   ],
   "name": "FruchtLabor V",
-  "stars": 26,
+  "stars": 28,
   "tag": "#2RV89992C"
  },
  "end": "20261128T184056.000Z",
  "opponent": {
-  "destruction": 59.133335,
+  "destruction": 64.96667,
   "members": [
    {
     "name": "Pinguina",
@@ -695,7 +728,7 @@
    }
   ],
   "name": "Anteiku.",
-  "stars": 50,
+  "stars": 55,
   "tag": "#22RUCUPJV"
  },
  "start": "20261127T184056.000Z",

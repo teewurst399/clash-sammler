@@ -296,11 +296,121 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#PPR98G0L8",
+   "ath": 19,
+   "d": "#G8RRPJ0UP",
+   "dth": 19,
+   "dur": 141,
+   "o": 28,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#LCGV0GPLG",
+   "ath": 19,
+   "d": "#L8CVRL8C",
+   "dth": 19,
+   "dur": 180,
+   "o": 29,
+   "p": 96,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#LCGV0GPLG",
+   "ath": 19,
+   "d": "#Q2LG0PGC",
+   "dth": 19,
+   "dur": 177,
+   "o": 30,
+   "p": 93,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#LUY2QQQ9",
+   "ath": 19,
+   "d": "#L8CVRL8C",
+   "dth": 19,
+   "dur": 139,
+   "o": 31,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#P0G99PC8Q",
+   "ath": 19,
+   "d": "#QJYURJJ90",
+   "dth": 19,
+   "dur": 132,
+   "o": 32,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#GVL2RV9V",
+   "ath": 17,
+   "d": "#PL90L8PCY",
+   "dth": 18,
+   "dur": 180,
+   "o": 33,
+   "p": 92,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#R2UVLVVP",
+   "ath": 19,
+   "d": "#R8RC0Q2C",
+   "dth": 19,
+   "dur": 153,
+   "o": 34,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#P0G99PC8Q",
+   "ath": 19,
+   "d": "#82Q9YYG88",
+   "dth": 19,
+   "dur": 144,
+   "o": 35,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#LUY2QQQ9",
+   "ath": 19,
+   "d": "#Q2LG0PGC",
+   "dth": 19,
+   "dur": 124,
+   "o": 36,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#R2UVLVVP",
+   "ath": 19,
+   "d": "#GLJCCRYG",
+   "dth": 19,
+   "dur": 119,
+   "o": 37,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 40.0,
+  "destruction": 43.066666,
   "members": [
    {
     "name": "Clash Joni",
@@ -484,12 +594,12 @@
    }
   ],
   "name": "Gammazone",
-  "stars": 36,
+  "stars": 38,
   "tag": "#YG20CR0U"
  },
  "end": "20261128T180345.000Z",
  "opponent": {
-  "destruction": 43.266666,
+  "destruction": 63.333332,
   "members": [
    {
     "name": "ChiefGriff",
@@ -673,7 +783,7 @@
    }
   ],
   "name": "Psycho Cadets",
-  "stars": 38,
+  "stars": 57,
   "tag": "#2PLRY88C9"
  },
  "start": "20261127T180345.000Z",

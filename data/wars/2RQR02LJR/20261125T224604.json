@@ -2232,7 +2232,7 @@
   "tag": "#P8PGVJJQ"
  },
  "start": "20261126T214604.000Z",
- "state": "inWar",
+ "state": "warEnded",
  "teamSize": 45,
  "type": "krieg"
 }

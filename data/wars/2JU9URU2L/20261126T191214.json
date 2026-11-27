@@ -593,11 +593,110 @@
    "p": 99,
    "s": 2,
    "side": "gegner"
+  },
+  {
+   "a": "#G8PG8RRVG",
+   "ath": 19,
+   "d": "#G8GY98YY0",
+   "dth": 19,
+   "dur": 134,
+   "o": 55,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#8R2GU0892",
+   "ath": 19,
+   "d": "#LY9UGYG9G",
+   "dth": 19,
+   "dur": 137,
+   "o": 56,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#8R2GU0892",
+   "ath": 19,
+   "d": "#292G8GVU8",
+   "dth": 19,
+   "dur": 180,
+   "o": 57,
+   "p": 93,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#LUGGC9JV",
+   "ath": 19,
+   "d": "#9VLUYYJ02",
+   "dth": 19,
+   "dur": 137,
+   "o": 58,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#292G8GVU8",
+   "ath": 19,
+   "d": "#PC0Y2VGVJ",
+   "dth": 19,
+   "dur": 117,
+   "o": 59,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#292G8GVU8",
+   "ath": 19,
+   "d": "#LQVCGC20",
+   "dth": 19,
+   "dur": 180,
+   "o": 60,
+   "p": 97,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#9UYVCYGPY",
+   "ath": 19,
+   "d": "#L2CRYC28L",
+   "dth": 18,
+   "dur": 111,
+   "o": 61,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#999JJQGGQ",
+   "ath": 19,
+   "d": "#2YRGGQR0Q",
+   "dth": 19,
+   "dur": 121,
+   "o": 62,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#9UYVCYGPY",
+   "ath": 19,
+   "d": "#9G9PU2YRC",
+   "dth": 18,
+   "dur": 130,
+   "o": 63,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 48.95,
+  "destruction": 56.325,
   "members": [
    {
     "name": "THRON",
@@ -841,12 +940,12 @@
    }
   ],
   "name": "SteinFrucht",
-  "stars": 55,
+  "stars": 64,
   "tag": "#2JU9URU2L"
  },
  "end": "20261128T181214.000Z",
  "opponent": {
-  "destruction": 62.675,
+  "destruction": 75.1,
   "members": [
    {
     "name": "Absynthe",
@@ -1090,7 +1189,7 @@
    }
   ],
   "name": "EFSANE",
-  "stars": 72,
+  "stars": 86,
   "tag": "#2LGQYQJ2R"
  },
  "start": "20261127T181214.000Z",

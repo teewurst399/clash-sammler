@@ -252,11 +252,132 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#QUY28QLV",
+   "ath": 19,
+   "d": "#2YV9VC022",
+   "dth": 19,
+   "dur": 136,
+   "o": 24,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#QRU8QQVL9",
+   "ath": 17,
+   "d": "#8GCUUUGRL",
+   "dth": 17,
+   "dur": 155,
+   "o": 25,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#QRU8QQVL9",
+   "ath": 17,
+   "d": "#2Q9RPP9JU",
+   "dth": 17,
+   "dur": 136,
+   "o": 26,
+   "p": 68,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#G2JLCGRVQ",
+   "ath": 18,
+   "d": "#QY8YUVV2",
+   "dth": 18,
+   "dur": 129,
+   "o": 27,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#8QQ280V28",
+   "ath": 19,
+   "d": "#29QRUCYGJ",
+   "dth": 18,
+   "dur": 128,
+   "o": 28,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#8QQ280V28",
+   "ath": 19,
+   "d": "#G2PQGG29",
+   "dth": 19,
+   "dur": 149,
+   "o": 29,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#G2JLCGRVQ",
+   "ath": 18,
+   "d": "#829CGRRC2",
+   "dth": 19,
+   "dur": 151,
+   "o": 30,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#82JUJYLV",
+   "ath": 19,
+   "d": "#2LPGR202",
+   "dth": 19,
+   "dur": 103,
+   "o": 31,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#UPRG0VUP",
+   "ath": 18,
+   "d": "#LPGRVYJ2J",
+   "dth": 17,
+   "dur": 180,
+   "o": 32,
+   "p": 79,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#Q8YR2J8PC",
+   "ath": 19,
+   "d": "#QUY28QLV",
+   "dth": 19,
+   "dur": 133,
+   "o": 33,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#Q8YR2J8PC",
+   "ath": 19,
+   "d": "#82JUJYLV",
+   "dth": 19,
+   "dur": 139,
+   "o": 34,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 31.342857,
+  "destruction": 53.285713,
   "members": [
    {
     "name": "Monkey D. Luffy",
@@ -470,12 +591,12 @@
    }
   ],
   "name": "Fourthzone",
-  "stars": 32,
+  "stars": 55,
   "tag": "#2GU0V2VCR"
  },
  "end": "20261128T185852.000Z",
  "opponent": {
-  "destruction": 22.37143,
+  "destruction": 30.342857,
   "members": [
    {
     "name": "Danils",
@@ -689,7 +810,7 @@
    }
   ],
   "name": "\"WARRIORS\"",
-  "stars": 21,
+  "stars": 29,
   "tag": "#90CYJQ0G"
  },
  "start": "20261127T185852.000Z",
