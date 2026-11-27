@@ -758,11 +758,187 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#20PP2GGCU",
+   "ath": 19,
+   "d": "#P09CJRCC",
+   "dth": 19,
+   "dur": 127,
+   "o": 70,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#2PJJ2ULJG",
+   "ath": 18,
+   "d": "#Q20YUJYV2",
+   "dth": 18,
+   "dur": 114,
+   "o": 71,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#2PJJ2ULJG",
+   "ath": 18,
+   "d": "#208CU8URU",
+   "dth": 18,
+   "dur": 95,
+   "o": 72,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#QRG0P2J20",
+   "ath": 17,
+   "d": "#YUC09CRCL",
+   "dth": 19,
+   "dur": 155,
+   "o": 73,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#L88J28P9V",
+   "ath": 17,
+   "d": "#V02C880G",
+   "dth": 14,
+   "dur": 87,
+   "o": 74,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#QRG0P2J20",
+   "ath": 17,
+   "d": "#2P0R0P8G",
+   "dth": 18,
+   "dur": 87,
+   "o": 75,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#P09CJRCC",
+   "ath": 19,
+   "d": "#2QLUPY88J",
+   "dth": 19,
+   "dur": 113,
+   "o": 76,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#Q88JJ00G0",
+   "ath": 19,
+   "d": "#2PRRJ8CRR",
+   "dth": 19,
+   "dur": 180,
+   "o": 77,
+   "p": 99,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#P09CJRCC",
+   "ath": 19,
+   "d": "#R9Y089CCC",
+   "dth": 11,
+   "dur": 61,
+   "o": 78,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#8Y8C2QPQP",
+   "ath": 18,
+   "d": "#LVRPQJ998",
+   "dth": 19,
+   "dur": 146,
+   "o": 79,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#9PRPRP2Y",
+   "ath": 19,
+   "d": "#CGGRGRRV",
+   "dth": 19,
+   "dur": 176,
+   "o": 80,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#Q88JJ00G0",
+   "ath": 19,
+   "d": "#RRP0QLPR",
+   "dth": 19,
+   "dur": 180,
+   "o": 81,
+   "p": 92,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#8Y8C2QPQP",
+   "ath": 18,
+   "d": "#98QR08YL9",
+   "dth": 19,
+   "dur": 180,
+   "o": 82,
+   "p": 71,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#9PRPRP2Y",
+   "ath": 19,
+   "d": "#LVQJGJCV",
+   "dth": 19,
+   "dur": 180,
+   "o": 83,
+   "p": 92,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#QLRVJYG9",
+   "ath": 19,
+   "d": "#2LCJPYPUC",
+   "dth": 19,
+   "dur": 168,
+   "o": 84,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#G9YJ2LG02",
+   "ath": 17,
+   "d": "#QY9QUQV8J",
+   "dth": 16,
+   "dur": 107,
+   "o": 85,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 60.028572,
+  "destruction": 91.828575,
   "members": [
    {
     "name": "Doxos_NM",
@@ -976,12 +1152,12 @@
    }
   ],
   "name": "Alphazone",
-  "stars": 59,
+  "stars": 90,
   "tag": "#2YCUCPCC0"
  },
  "end": "20261127T205607.000Z",
  "opponent": {
-  "destruction": 93.37143,
+  "destruction": 97.828575,
   "members": [
    {
     "name": "mary",
@@ -1195,7 +1371,7 @@
    }
   ],
   "name": "LasT BreaK ♠️",
-  "stars": 93,
+  "stars": 99,
   "tag": "#8GJ9YJ8Y"
  },
  "start": "20261126T205607.000Z",

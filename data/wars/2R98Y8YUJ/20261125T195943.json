@@ -1759,6 +1759,39 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#9Y2GYVJ9U",
+   "ath": 19,
+   "d": "#P9CV98Y8P",
+   "dth": 19,
+   "dur": 180,
+   "o": 161,
+   "p": 96,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#2Y9VUY02L",
+   "ath": 19,
+   "d": "#GVG8L980",
+   "dth": 19,
+   "dur": 131,
+   "o": 162,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#2Y9VUY02L",
+   "ath": 19,
+   "d": "#YYRQ8L22",
+   "dth": 19,
+   "dur": 149,
+   "o": 163,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
@@ -2072,7 +2105,7 @@
  },
  "end": "20261127T185943.000Z",
  "opponent": {
-  "destruction": 99.56,
+  "destruction": 99.6,
   "members": [
    {
     "name": "Meysam",

@@ -1099,11 +1099,132 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#9UUCYJPY",
+   "ath": 19,
+   "d": "#GULLG9L0",
+   "dth": 19,
+   "dur": 89,
+   "o": 101,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#L88YLLURR",
+   "ath": 19,
+   "d": "#20CYPLPQY",
+   "dth": 19,
+   "dur": 173,
+   "o": 102,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#2YPY9QCVJ",
+   "ath": 19,
+   "d": "#800JQQV8U",
+   "dth": 19,
+   "dur": 157,
+   "o": 103,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#9UUCYJPY",
+   "ath": 19,
+   "d": "#G0VQUU90P",
+   "dth": 19,
+   "dur": 93,
+   "o": 104,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#9YY9L0GL",
+   "ath": 19,
+   "d": "#Y8PJLP8U9",
+   "dth": 19,
+   "dur": 114,
+   "o": 105,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#9YY9L0GL",
+   "ath": 19,
+   "d": "#2U02L2RJ",
+   "dth": 19,
+   "dur": 167,
+   "o": 106,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#YL8VC0CG",
+   "ath": 19,
+   "d": "#9JR2PRYL",
+   "dth": 19,
+   "dur": 140,
+   "o": 107,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#YL8VC0CG",
+   "ath": 19,
+   "d": "#LYYVUYG",
+   "dth": 19,
+   "dur": 123,
+   "o": 108,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#LYYVUYG",
+   "ath": 19,
+   "d": "#L0GQGUV00",
+   "dth": 19,
+   "dur": 131,
+   "o": 109,
+   "p": 89,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#QRRP8UG9P",
+   "ath": 19,
+   "d": "#PJY0028J8",
+   "dth": 19,
+   "dur": 163,
+   "o": 110,
+   "p": 84,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#LYYVUYG",
+   "ath": 19,
+   "d": "#PJQUVU9LU",
+   "dth": 19,
+   "dur": 109,
+   "o": 111,
+   "p": 94,
+   "s": 2,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 57.77778,
+  "destruction": 73.333336,
   "members": [
    {
     "name": "RB",
@@ -1377,12 +1498,12 @@
    }
   ],
   "name": "Legacy",
-  "stars": 78,
+  "stars": 99,
   "tag": "#2RQR02LJR"
  },
  "end": "20261127T214604.000Z",
  "opponent": {
-  "destruction": 94.35555,
+  "destruction": 98.755554,
   "members": [
    {
     "name": "TW Koprols",
@@ -1656,7 +1777,7 @@
    }
   ],
   "name": "Team Winter Ice",
-  "stars": 120,
+  "stars": 126,
   "tag": "#P8PGVJJQ"
  },
  "start": "20261126T214604.000Z",

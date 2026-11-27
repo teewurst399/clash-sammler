@@ -1594,6 +1594,127 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#YPU99RQV0",
+   "ath": 19,
+   "d": "#8J92RCJC2",
+   "dth": 19,
+   "dur": 11,
+   "o": 146,
+   "p": 2,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#PQPGGL0VG",
+   "ath": 19,
+   "d": "#Q9JRU8G2",
+   "dth": 19,
+   "dur": 158,
+   "o": 147,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#YPU99RQV0",
+   "ath": 19,
+   "d": "#2G2LV2VYJ",
+   "dth": 19,
+   "dur": 17,
+   "o": 148,
+   "p": 29,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#LRYRJYLVL",
+   "ath": 19,
+   "d": "#9R92UYRUC",
+   "dth": 19,
+   "dur": 138,
+   "o": 149,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#PQPGGL0VG",
+   "ath": 19,
+   "d": "#UCPJ2QPL",
+   "dth": 19,
+   "dur": 163,
+   "o": 150,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#2PYJPJRVQ",
+   "ath": 19,
+   "d": "#29V9QV8LC",
+   "dth": 19,
+   "dur": 161,
+   "o": 151,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#JQ8J8882",
+   "ath": 19,
+   "d": "#QCU8909Y8",
+   "dth": 19,
+   "dur": 167,
+   "o": 152,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#8CV0UGJY2",
+   "ath": 19,
+   "d": "#8GJLG82VY",
+   "dth": 19,
+   "dur": 162,
+   "o": 153,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#8CV0UGJY2",
+   "ath": 19,
+   "d": "#9GJJPRRQJ",
+   "dth": 19,
+   "dur": 148,
+   "o": 154,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#Q9JRU8G2",
+   "ath": 19,
+   "d": "#8J92RCJC2",
+   "dth": 19,
+   "dur": 5,
+   "o": 155,
+   "p": 2,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#Q9JRU8G2",
+   "ath": 19,
+   "d": "#80C0ULVGV",
+   "dth": 19,
+   "dur": 7,
+   "o": 156,
+   "p": 2,
+   "s": 1,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
@@ -1907,7 +2028,7 @@
  },
  "end": "20261127T184713.000Z",
  "opponent": {
-  "destruction": 88.02,
+  "destruction": 96.0,
   "members": [
    {
     "name": "✨MAX✨مصطفى",
@@ -2211,7 +2332,7 @@
    }
   ],
   "name": "لا نتشابهہ 》♡",
-  "stars": 131,
+  "stars": 144,
   "tag": "#2RQVPJRYQ"
  },
  "start": "20261126T184713.000Z",

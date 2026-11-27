@@ -1000,11 +1000,121 @@
    "p": 89,
    "s": 2,
    "side": "gegner"
+  },
+  {
+   "a": "#8PJC0GRGY",
+   "ath": 19,
+   "d": "#2L08LC020",
+   "dth": 19,
+   "dur": 109,
+   "o": 92,
+   "p": 72,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#8PJC0GRGY",
+   "ath": 19,
+   "d": "#LPJVPJQCL",
+   "dth": 19,
+   "dur": 134,
+   "o": 93,
+   "p": 88,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#UVCVY0VR",
+   "ath": 19,
+   "d": "#9G2PPPGC",
+   "dth": 19,
+   "dur": 161,
+   "o": 94,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#8G0YUJGUU",
+   "ath": 19,
+   "d": "#LPJVPJQCL",
+   "dth": 19,
+   "dur": 180,
+   "o": 95,
+   "p": 61,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#9GY98LQLQ",
+   "ath": 19,
+   "d": "#2U9J08929",
+   "dth": 19,
+   "dur": 175,
+   "o": 96,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#2L08LC020",
+   "ath": 19,
+   "d": "#CCRV08JG",
+   "dth": 19,
+   "dur": 180,
+   "o": 97,
+   "p": 91,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#YPVUQYCG",
+   "ath": 19,
+   "d": "#CCRV08JG",
+   "dth": 19,
+   "dur": 23,
+   "o": 98,
+   "p": 26,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#YPVUQYCG",
+   "ath": 19,
+   "d": "#Q8VVJPLY9",
+   "dth": 19,
+   "dur": 11,
+   "o": 99,
+   "p": 3,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#Q2LGVLG2L",
+   "ath": 19,
+   "d": "#99880VJYV",
+   "dth": 19,
+   "dur": 126,
+   "o": 100,
+   "p": 86,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#Q2LGVLG2L",
+   "ath": 19,
+   "d": "#LPJVPJQCL",
+   "dth": 19,
+   "dur": 156,
+   "o": 101,
+   "p": 88,
+   "s": 2,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 99.7,
+  "destruction": 100.0,
   "members": [
    {
     "name": "Nils^_^",
@@ -1248,12 +1358,12 @@
    }
   ],
   "name": "Northfront",
-  "stars": 119,
+  "stars": 120,
   "tag": "#2GLJCLYPU"
  },
  "end": "20261127T213041.000Z",
  "opponent": {
-  "destruction": 89.85,
+  "destruction": 93.875,
   "members": [
    {
     "name": "FN Tiger",
@@ -1497,7 +1607,7 @@
    }
   ],
   "name": "BCN ESPARTANS",
-  "stars": 101,
+  "stars": 105,
   "tag": "#9QPG0LP2"
  },
  "start": "20261126T213041.000Z",

@@ -780,6 +780,50 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#PP2QRLUY",
+   "ath": 19,
+   "d": "#LL0PJCUG",
+   "dth": 19,
+   "dur": 165,
+   "o": 72,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#PQR08CRJR",
+   "ath": 19,
+   "d": "#QQPCR8CJ",
+   "dth": 19,
+   "dur": 34,
+   "o": 73,
+   "p": 30,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#PQR08CRJR",
+   "ath": 19,
+   "d": "#LVR9028P",
+   "dth": 19,
+   "dur": 25,
+   "o": 74,
+   "p": 8,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#PP2QRLUY",
+   "ath": 19,
+   "d": "#VUCJCYRL",
+   "dth": 19,
+   "dur": 172,
+   "o": 75,
+   "p": 91,
+   "s": 2,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -973,7 +1017,7 @@
  },
  "end": "20261127T203331.000Z",
  "opponent": {
-  "destruction": 93.7,
+  "destruction": 94.53333,
   "members": [
    {
     "name": "AlIg47oR",
@@ -1157,7 +1201,7 @@
    }
   ],
   "name": "UKRAINE",
-  "stars": 76,
+  "stars": 77,
   "tag": "#2GYGCPV"
  },
  "start": "20261126T203331.000Z",

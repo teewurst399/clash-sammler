@@ -978,11 +978,253 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#LCPG8GPUC",
+   "ath": 19,
+   "d": "#299LQL8R0",
+   "dth": 19,
+   "dur": 132,
+   "o": 90,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#YQL8UJQP0",
+   "ath": 19,
+   "d": "#VC920V90",
+   "dth": 19,
+   "dur": 162,
+   "o": 91,
+   "p": 79,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#29LJ8YPCJ",
+   "ath": 19,
+   "d": "#88YJQU0Y8",
+   "dth": 19,
+   "dur": 126,
+   "o": 92,
+   "p": 90,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#YQL8UJQP0",
+   "ath": 19,
+   "d": "#QRRYG9G",
+   "dth": 19,
+   "dur": 144,
+   "o": 93,
+   "p": 96,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#G92RVCQL",
+   "ath": 19,
+   "d": "#P89GGJGJQ",
+   "dth": 19,
+   "dur": 162,
+   "o": 94,
+   "p": 90,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#822LJ229U",
+   "ath": 19,
+   "d": "#88YJQU0Y8",
+   "dth": 19,
+   "dur": 174,
+   "o": 95,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#9C990JRG",
+   "ath": 19,
+   "d": "#Q9P8JLGR",
+   "dth": 19,
+   "dur": 120,
+   "o": 96,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#LCPG8GPUC",
+   "ath": 19,
+   "d": "#UQPU8L8L",
+   "dth": 19,
+   "dur": 172,
+   "o": 97,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#29LJ8YPCJ",
+   "ath": 19,
+   "d": "#L9URVCQUV",
+   "dth": 19,
+   "dur": 116,
+   "o": 98,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#9C990JRG",
+   "ath": 19,
+   "d": "#QGPQ0QLV",
+   "dth": 19,
+   "dur": 122,
+   "o": 99,
+   "p": 98,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#2CVUVJGU8",
+   "ath": 19,
+   "d": "#QGPQ0QLV",
+   "dth": 19,
+   "dur": 95,
+   "o": 100,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#Q9P8JLGR",
+   "ath": 19,
+   "d": "#P8V9JY8LU",
+   "dth": 19,
+   "dur": 163,
+   "o": 101,
+   "p": 94,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#2CVUVJGU8",
+   "ath": 19,
+   "d": "#P89GGJGJQ",
+   "dth": 19,
+   "dur": 124,
+   "o": 102,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#JLPCQVQC",
+   "ath": 19,
+   "d": "#GU0GPGC8",
+   "dth": 19,
+   "dur": 149,
+   "o": 103,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#QRRYG9G",
+   "ath": 19,
+   "d": "#JY28C8QL",
+   "dth": 19,
+   "dur": 124,
+   "o": 104,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#LRPJLGY8",
+   "ath": 19,
+   "d": "#2YRUJLJRQ",
+   "dth": 19,
+   "dur": 99,
+   "o": 105,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#JLPCQVQC",
+   "ath": 19,
+   "d": "#QRRYG9G",
+   "dth": 19,
+   "dur": 154,
+   "o": 106,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#LRPJLGY8",
+   "ath": 19,
+   "d": "#VC920V90",
+   "dth": 19,
+   "dur": 180,
+   "o": 107,
+   "p": 96,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#L9URVCQUV",
+   "ath": 19,
+   "d": "#VC920V90",
+   "dth": 19,
+   "dur": 166,
+   "o": 108,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#G9V9JGQP",
+   "ath": 19,
+   "d": "#29LJ8YPCJ",
+   "dth": 19,
+   "dur": 10,
+   "o": 109,
+   "p": 13,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#G9V9JGQP",
+   "ath": 19,
+   "d": "#QRLVLCV9",
+   "dth": 19,
+   "dur": 9,
+   "o": 110,
+   "p": 7,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#22GG00QYJ",
+   "ath": 19,
+   "d": "#GU0GPGC8",
+   "dth": 19,
+   "dur": 124,
+   "o": 111,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 89.171425,
+  "destruction": 100.0,
   "members": [
    {
     "name": "Agent Hulk",
@@ -1196,12 +1438,12 @@
    }
   ],
   "name": "FruchtLabor II",
-  "stars": 87,
+  "stars": 105,
   "tag": "#2GQ929RRR"
  },
  "end": "20261127T201637.000Z",
  "opponent": {
-  "destruction": 96.057144,
+  "destruction": 97.62857,
   "members": [
    {
     "name": "Clasher",
@@ -1415,7 +1657,7 @@
    }
   ],
   "name": "# U.K ALL STARS",
-  "stars": 95,
+  "stars": 98,
   "tag": "#29P8VRPCG"
  },
  "start": "20261126T201637.000Z",

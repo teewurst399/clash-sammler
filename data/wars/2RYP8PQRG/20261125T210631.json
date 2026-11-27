@@ -1077,11 +1077,143 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#LPP0RRG2V",
+   "ath": 19,
+   "d": "#28Y28C9UG",
+   "dth": 19,
+   "dur": 161,
+   "o": 99,
+   "p": 98,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#28RCVQ0JG",
+   "ath": 19,
+   "d": "#CJ880YRJ",
+   "dth": 18,
+   "dur": 115,
+   "o": 100,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#28RCVQ0JG",
+   "ath": 19,
+   "d": "#QGYPC9L88",
+   "dth": 19,
+   "dur": 133,
+   "o": 101,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#PGVLPPQR",
+   "ath": 19,
+   "d": "#229G0G08C",
+   "dth": 19,
+   "dur": 121,
+   "o": 102,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#QVJQJUCRJ",
+   "ath": 19,
+   "d": "#PQ09CQQ0C",
+   "dth": 19,
+   "dur": 95,
+   "o": 103,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#QVJQJUCRJ",
+   "ath": 19,
+   "d": "#JCCRVY0R",
+   "dth": 19,
+   "dur": 112,
+   "o": 104,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#GCU2JLJ",
+   "ath": 19,
+   "d": "#98LY8P2QC",
+   "dth": 19,
+   "dur": 107,
+   "o": 105,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#GCU2JLJ",
+   "ath": 19,
+   "d": "#9UYQU8JU",
+   "dth": 19,
+   "dur": 6,
+   "o": 106,
+   "p": 5,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#QLR08CLP",
+   "ath": 19,
+   "d": "#2LP8R9C9J",
+   "dth": 19,
+   "dur": 111,
+   "o": 107,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#QLR08CLP",
+   "ath": 19,
+   "d": "#9U9GUUU",
+   "dth": 19,
+   "dur": 61,
+   "o": 108,
+   "p": 76,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#PGVLPPQR",
+   "ath": 19,
+   "d": "#98LY8P2QC",
+   "dth": 19,
+   "dur": 121,
+   "o": 109,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#9RLU98UV",
+   "ath": 18,
+   "d": "#GVLYVJL8",
+   "dth": 19,
+   "dur": 134,
+   "o": 110,
+   "p": 93,
+   "s": 2,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 99.8,
+  "destruction": 100.0,
   "members": [
    {
     "name": "FL • ZΞЯБΞЯЦS³",
@@ -1325,12 +1457,12 @@
    }
   ],
   "name": "FruchtLabörchen",
-  "stars": 118,
+  "stars": 120,
   "tag": "#2RYP8PQRG"
  },
  "end": "20261127T200631.000Z",
  "opponent": {
-  "destruction": 86.075,
+  "destruction": 96.15,
   "members": [
    {
     "name": "Mario",
@@ -1574,7 +1706,7 @@
    }
   ],
   "name": "Italian Gods",
-  "stars": 96,
+  "stars": 109,
   "tag": "#8Q0P98GY"
  },
  "start": "20261126T200631.000Z",

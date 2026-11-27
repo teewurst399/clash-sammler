@@ -989,11 +989,110 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#8JJYL2JRP",
+   "ath": 18,
+   "d": "#2CVC0RU20",
+   "dth": 19,
+   "dur": 174,
+   "o": 91,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#8JJYL2JRP",
+   "ath": 18,
+   "d": "#P0GYPLYC",
+   "dth": 19,
+   "dur": 130,
+   "o": 92,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#8CPR2R9",
+   "ath": 19,
+   "d": "#UYVY92PG",
+   "dth": 19,
+   "dur": 147,
+   "o": 93,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#8CPR2R9",
+   "ath": 19,
+   "d": "#CGRUP2R0",
+   "dth": 19,
+   "dur": 160,
+   "o": 94,
+   "p": 89,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#CGRUP2R0",
+   "ath": 19,
+   "d": "#209Y2RUG9",
+   "dth": 19,
+   "dur": 127,
+   "o": 95,
+   "p": 74,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#2QYGPY0CG",
+   "ath": 19,
+   "d": "#8JJYL2JRP",
+   "dth": 18,
+   "dur": 158,
+   "o": 96,
+   "p": 76,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#2CVC0RU20",
+   "ath": 19,
+   "d": "#Q8LVJL0R8",
+   "dth": 19,
+   "dur": 117,
+   "o": 97,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#2QYGPY0CG",
+   "ath": 19,
+   "d": "#CGRUP2R0",
+   "dth": 19,
+   "dur": 180,
+   "o": 98,
+   "p": 79,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#2CVC0RU20",
+   "ath": 19,
+   "d": "#202RU8GJG",
+   "dth": 19,
+   "dur": 148,
+   "o": 99,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 95.0,
+  "destruction": 95.96,
   "members": [
    {
     "name": "R A B B I",
@@ -1147,12 +1246,12 @@
    }
   ],
   "name": "HolzFrucht",
-  "stars": 65,
+  "stars": 67,
   "tag": "#2JVU2R8Y9"
  },
  "end": "20261127T170352.000Z",
  "opponent": {
-  "destruction": 98.64,
+  "destruction": 98.84,
   "members": [
    {
     "name": "BeirRun",
@@ -1306,11 +1405,11 @@
    }
   ],
   "name": "GUARDIANS",
-  "stars": 69,
+  "stars": 72,
   "tag": "#2Y0JG2YG"
  },
  "start": "20261126T170352.000Z",
- "state": "inWar",
+ "state": "warEnded",
  "teamSize": 25,
  "type": "krieg"
 }
