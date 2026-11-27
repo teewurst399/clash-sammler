@@ -692,11 +692,110 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#LG0G29VU",
+   "ath": 19,
+   "d": "#20LL9QP0P",
+   "dth": 19,
+   "dur": 137,
+   "o": 64,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#8QYCV8RP",
+   "ath": 19,
+   "d": "#YUY8LCLYJ",
+   "dth": 19,
+   "dur": 180,
+   "o": 65,
+   "p": 96,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#LG0G29VU",
+   "ath": 19,
+   "d": "#GJGPLQJJ",
+   "dth": 19,
+   "dur": 163,
+   "o": 66,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#2LJRU2P8Q",
+   "ath": 19,
+   "d": "#29UJPR2YC",
+   "dth": 19,
+   "dur": 148,
+   "o": 67,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#29L90GUUL",
+   "ath": 19,
+   "d": "#GJRJY898Q",
+   "dth": 19,
+   "dur": 144,
+   "o": 68,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#2PLLQV9L0",
+   "ath": 19,
+   "d": "#QGVJL8RQR",
+   "dth": 19,
+   "dur": 149,
+   "o": 69,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#2PLLQV9L0",
+   "ath": 19,
+   "d": "#QL8UYQ22V",
+   "dth": 19,
+   "dur": 131,
+   "o": 70,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#29L90GUUL",
+   "ath": 19,
+   "d": "#G998CCYJR",
+   "dth": 19,
+   "dur": 124,
+   "o": 71,
+   "p": 81,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#2LJRU2P8Q",
+   "ath": 19,
+   "d": "#GJYPY80U0",
+   "dth": 19,
+   "dur": 146,
+   "o": 72,
+   "p": 89,
+   "s": 2,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 86.5,
+  "destruction": 89.7,
   "members": [
    {
     "name": "OblatensalatF2P",
@@ -880,12 +979,12 @@
    }
   ],
   "name": "KiwiKartell",
-  "stars": 77,
+  "stars": 78,
   "tag": "#2CQ9JG29C"
  },
  "end": "20261127T202151.000Z",
  "opponent": {
-  "destruction": 74.666664,
+  "destruction": 86.13333,
   "members": [
    {
     "name": "€ ULT$MATE €",
@@ -1069,7 +1168,7 @@
    }
   ],
   "name": "Dieux Du Sang",
-  "stars": 63,
+  "stars": 75,
   "tag": "#98YQRLYJ"
  },
  "start": "20261126T202151.000Z",

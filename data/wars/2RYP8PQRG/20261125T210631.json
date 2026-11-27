@@ -967,6 +967,28 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#J9PYJJCL",
+   "ath": 19,
+   "d": "#88C82JRJC",
+   "dth": 19,
+   "dur": 164,
+   "o": 89,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#J9PYJJCL",
+   "ath": 19,
+   "d": "#2RCLC0LL",
+   "dth": 19,
+   "dur": 180,
+   "o": 90,
+   "p": 94,
+   "s": 2,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -1220,7 +1242,7 @@
  },
  "end": "20261127T200631.000Z",
  "opponent": {
-  "destruction": 85.9,
+  "destruction": 86.075,
   "members": [
    {
     "name": "Mario",
@@ -1464,7 +1486,7 @@
    }
   ],
   "name": "Italian Gods",
-  "stars": 95,
+  "stars": 96,
   "tag": "#8Q0P98GY"
  },
  "start": "20261126T200631.000Z",

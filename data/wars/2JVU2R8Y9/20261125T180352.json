@@ -780,11 +780,121 @@
    "p": 79,
    "s": 2,
    "side": "gegner"
+  },
+  {
+   "a": "#2UYUY8YP",
+   "ath": 19,
+   "d": "#209Y2RUG9",
+   "dth": 19,
+   "dur": 169,
+   "o": 72,
+   "p": 81,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#QL0QPUJQ",
+   "ath": 19,
+   "d": "#GQ92Y99YV",
+   "dth": 19,
+   "dur": 163,
+   "o": 73,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#2UYUY8YP",
+   "ath": 19,
+   "d": "#2L82PQ2JU",
+   "dth": 19,
+   "dur": 159,
+   "o": 74,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#PPVQVRPQY",
+   "ath": 19,
+   "d": "#9RPGVV0U",
+   "dth": 19,
+   "dur": 115,
+   "o": 75,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#PC8G08GU",
+   "ath": 19,
+   "d": "#PCVVJY9GQ",
+   "dth": 19,
+   "dur": 111,
+   "o": 76,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#PCVVJY9GQ",
+   "ath": 19,
+   "d": "#QL2Q9RV0",
+   "dth": 19,
+   "dur": 144,
+   "o": 77,
+   "p": 90,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#UJ2LLJL8",
+   "ath": 19,
+   "d": "#GRPQUVY9",
+   "dth": 19,
+   "dur": 135,
+   "o": 78,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#P0GYPLYC",
+   "ath": 19,
+   "d": "#Q8LVJL0R8",
+   "dth": 19,
+   "dur": 151,
+   "o": 79,
+   "p": 84,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#P0GYPLYC",
+   "ath": 19,
+   "d": "#LG882GJLY",
+   "dth": 19,
+   "dur": 158,
+   "o": 80,
+   "p": 61,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#UJ2LLJL8",
+   "ath": 19,
+   "d": "#LCYJ2JVGY",
+   "dth": 19,
+   "dur": 101,
+   "o": 81,
+   "p": 71,
+   "s": 2,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 86.88,
+  "destruction": 92.28,
   "members": [
    {
     "name": "R A B B I",
@@ -938,12 +1048,12 @@
    }
   ],
   "name": "HolzFrucht",
-  "stars": 58,
+  "stars": 63,
   "tag": "#2JVU2R8Y9"
  },
  "end": "20261127T170352.000Z",
  "opponent": {
-  "destruction": 96.28,
+  "destruction": 98.12,
   "members": [
    {
     "name": "BeirRun",
@@ -1097,7 +1207,7 @@
    }
   ],
   "name": "GUARDIANS",
-  "stars": 66,
+  "stars": 68,
   "tag": "#2Y0JG2YG"
  },
  "start": "20261126T170352.000Z",

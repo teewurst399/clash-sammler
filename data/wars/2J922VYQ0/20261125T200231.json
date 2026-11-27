@@ -1110,11 +1110,143 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#GGRQGLQJY",
+   "ath": 19,
+   "d": "#GJC22CV2",
+   "dth": 19,
+   "dur": 129,
+   "o": 102,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#RJRV20CC",
+   "ath": 19,
+   "d": "#QQJJ0CQ8P",
+   "dth": 19,
+   "dur": 137,
+   "o": 103,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#RJRV20CC",
+   "ath": 19,
+   "d": "#9VQLCY9C",
+   "dth": 19,
+   "dur": 135,
+   "o": 104,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#YYVULGY8C",
+   "ath": 18,
+   "d": "#GP0GCJV9V",
+   "dth": 19,
+   "dur": 121,
+   "o": 105,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#YYVULGY8C",
+   "ath": 18,
+   "d": "#CVJYJRPU",
+   "dth": 18,
+   "dur": 150,
+   "o": 106,
+   "p": 92,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#QG2L0JC8",
+   "ath": 19,
+   "d": "#2RUULQJ0Q",
+   "dth": 19,
+   "dur": 86,
+   "o": 107,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#82VGUC280",
+   "ath": 19,
+   "d": "#CVJYJRPU",
+   "dth": 18,
+   "dur": 158,
+   "o": 108,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#82VGUC280",
+   "ath": 19,
+   "d": "#U8PQ8JCG",
+   "dth": 19,
+   "dur": 9,
+   "o": 109,
+   "p": 13,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#QG2L0JC8",
+   "ath": 19,
+   "d": "#U8PQ8JCG",
+   "dth": 19,
+   "dur": 106,
+   "o": 110,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#2LUU9RR2U",
+   "ath": 19,
+   "d": "#UVLCJ9RR",
+   "dth": 19,
+   "dur": 130,
+   "o": 111,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#2LUU9RR2U",
+   "ath": 19,
+   "d": "#QJLL9JLYU",
+   "dth": 19,
+   "dur": 112,
+   "o": 112,
+   "p": 85,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#LRVCRPJRJ",
+   "ath": 19,
+   "d": "#QG2L0JC8",
+   "dth": 19,
+   "dur": 123,
+   "o": 113,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 87.15,
+  "destruction": 100.0,
   "members": [
    {
     "name": "EG⚡️KING",
@@ -1358,12 +1490,12 @@
    }
   ],
   "name": "Get Cooked!",
-  "stars": 104,
+  "stars": 120,
   "tag": "#2J922VYQ0"
  },
  "end": "20261127T190231.000Z",
  "opponent": {
-  "destruction": 93.425,
+  "destruction": 93.95,
   "members": [
    {
     "name": "Tyr",
@@ -1607,7 +1739,7 @@
    }
   ],
   "name": "Monstergas jr.",
-  "stars": 104,
+  "stars": 106,
   "tag": "#29CV02VC"
  },
  "start": "20261126T190231.000Z",

@@ -934,11 +934,132 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#9CLJVLUP8",
+   "ath": 19,
+   "d": "#QVJ9GPR8",
+   "dth": 19,
+   "dur": 173,
+   "o": 86,
+   "p": 99,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#8U2RLLYJL",
+   "ath": 19,
+   "d": "#8QJUVLUYU",
+   "dth": 19,
+   "dur": 154,
+   "o": 87,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#8U2RLLYJL",
+   "ath": 19,
+   "d": "#QVJ9GPR8",
+   "dth": 19,
+   "dur": 152,
+   "o": 88,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#YGCLCQ0G9",
+   "ath": 19,
+   "d": "#QRRL20GR",
+   "dth": 19,
+   "dur": 12,
+   "o": 89,
+   "p": 12,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#YGCLCQ0G9",
+   "ath": 19,
+   "d": "#8QJUVLUYU",
+   "dth": 19,
+   "dur": 15,
+   "o": 90,
+   "p": 12,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#JGQ9CUUG",
+   "ath": 19,
+   "d": "#LRVJGG902",
+   "dth": 19,
+   "dur": 7,
+   "o": 91,
+   "p": 14,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#LG2JYG8RC",
+   "ath": 19,
+   "d": "#YGCLCQ0G9",
+   "dth": 19,
+   "dur": 90,
+   "o": 92,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#Q2UUQJUPP",
+   "ath": 19,
+   "d": "#9CLJVLUP8",
+   "dth": 19,
+   "dur": 127,
+   "o": 93,
+   "p": 70,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#LV2QC0C2",
+   "ath": 19,
+   "d": "#GJL29928",
+   "dth": 19,
+   "dur": 180,
+   "o": 94,
+   "p": 97,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#Q2UUQJUPP",
+   "ath": 19,
+   "d": "#G0Y88PR8U",
+   "dth": 19,
+   "dur": 159,
+   "o": 95,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#LV2QC0C2",
+   "ath": 19,
+   "d": "#GY999URVG",
+   "dth": 19,
+   "dur": 168,
+   "o": 96,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 99.675,
+  "destruction": 100.0,
   "members": [
    {
     "name": "DTA Insomniac",
@@ -1182,12 +1303,12 @@
    }
   ],
   "name": "Beerenbrüder",
-  "stars": 118,
+  "stars": 120,
   "tag": "#2YGLUYJPR"
  },
  "end": "20261127T193341.000Z",
  "opponent": {
-  "destruction": 75.0,
+  "destruction": 86.675,
   "members": [
    {
     "name": "PaPaPatrick",
@@ -1431,7 +1552,7 @@
    }
   ],
   "name": "Confusion II",
-  "stars": 90,
+  "stars": 103,
   "tag": "#2J2RY0GRL"
  },
  "start": "20261126T193341.000Z",

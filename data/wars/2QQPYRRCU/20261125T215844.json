@@ -1154,11 +1154,77 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#LPL88Q20R",
+   "ath": 19,
+   "d": "#8QGYCLG0",
+   "dth": 19,
+   "dur": 89,
+   "o": 106,
+   "p": 64,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#8QU98PCRG",
+   "ath": 19,
+   "d": "#22YPJR29Y",
+   "dth": 19,
+   "dur": 93,
+   "o": 107,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#LPL88Q20R",
+   "ath": 19,
+   "d": "#LUU28VY2",
+   "dth": 19,
+   "dur": 81,
+   "o": 108,
+   "p": 62,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#LGRQ2Q0CJ",
+   "ath": 19,
+   "d": "#PJVQ28LJ9",
+   "dth": 19,
+   "dur": 105,
+   "o": 109,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#YRPYLRUG0",
+   "ath": 19,
+   "d": "#L8P2YUJJ8",
+   "dth": 19,
+   "dur": 180,
+   "o": 110,
+   "p": 88,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#YRPYLRUG0",
+   "ath": 19,
+   "d": "#8QU98PCRG",
+   "dth": 19,
+   "dur": 180,
+   "o": 111,
+   "p": 84,
+   "s": 2,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 92.844444,
+  "destruction": 97.28889,
   "members": [
    {
     "name": "Saheb",
@@ -1432,12 +1498,12 @@
    }
   ],
   "name": "Secondzone",
-  "stars": 124,
+  "stars": 130,
   "tag": "#2QQPYRRCU"
  },
  "end": "20261127T205844.000Z",
  "opponent": {
-  "destruction": 79.95556,
+  "destruction": 82.08889,
   "members": [
    {
     "name": "KRT",
@@ -1711,7 +1777,7 @@
    }
   ],
   "name": "ATRAPADOS",
-  "stars": 97,
+  "stars": 99,
   "tag": "#RUJ0QL8"
  },
  "start": "20261126T205844.000Z",

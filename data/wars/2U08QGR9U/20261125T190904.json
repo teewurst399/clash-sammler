@@ -978,11 +978,88 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#LUCCRG0JY",
+   "ath": 19,
+   "d": "#208909QGP",
+   "dth": 19,
+   "dur": 105,
+   "o": 90,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#22CCVJLJ9",
+   "ath": 19,
+   "d": "#PJ0C9R00U",
+   "dth": 19,
+   "dur": 148,
+   "o": 91,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#LQUYUGUVV",
+   "ath": 19,
+   "d": "#L9J8RQLQ2",
+   "dth": 19,
+   "dur": 157,
+   "o": 92,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#22CCVJLJ9",
+   "ath": 19,
+   "d": "#QP8CRC9L",
+   "dth": 19,
+   "dur": 180,
+   "o": 93,
+   "p": 78,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#LQUYUGUVV",
+   "ath": 19,
+   "d": "#Q2C0G8CUV",
+   "dth": 19,
+   "dur": 147,
+   "o": 94,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#QUULPQ209",
+   "ath": 19,
+   "d": "#92UL9VV2C",
+   "dth": 19,
+   "dur": 125,
+   "o": 95,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#QUULPQ209",
+   "ath": 19,
+   "d": "#Y2LUQ282Y",
+   "dth": 19,
+   "dur": 155,
+   "o": 96,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 59.066666,
+  "destruction": 63.77778,
   "members": [
    {
     "name": "FL • Kaiser",
@@ -1256,12 +1333,12 @@
    }
   ],
   "name": "Obstgarten",
-  "stars": 73,
+  "stars": 81,
   "tag": "#2U08QGR9U"
  },
  "end": "20261127T180904.000Z",
  "opponent": {
-  "destruction": 84.422226,
+  "destruction": 90.62222,
   "members": [
    {
     "name": "ســـمـــســـم",
@@ -1535,7 +1612,7 @@
    }
   ],
   "name": "ابطال العالم",
-  "stars": 113,
+  "stars": 121,
   "tag": "#209PGY8GP"
  },
  "start": "20261126T180904.000Z",

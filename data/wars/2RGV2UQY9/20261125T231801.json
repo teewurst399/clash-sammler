@@ -648,11 +648,154 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#PQ8V2CJJ",
+   "ath": 19,
+   "d": "#L2CP28VL",
+   "dth": 19,
+   "dur": 180,
+   "o": 60,
+   "p": 98,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#PQJ0QPGC",
+   "ath": 19,
+   "d": "#LGVQ8YYPV",
+   "dth": 19,
+   "dur": 95,
+   "o": 61,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#QRPP28L09",
+   "ath": 19,
+   "d": "#YQPUCPU9",
+   "dth": 19,
+   "dur": 101,
+   "o": 62,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#PQJ0QPGC",
+   "ath": 19,
+   "d": "#GCCPPVU8",
+   "dth": 19,
+   "dur": 94,
+   "o": 63,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#QRPP28L09",
+   "ath": 19,
+   "d": "#2Y0YJ0UJY",
+   "dth": 19,
+   "dur": 97,
+   "o": 64,
+   "p": 92,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#GQYUYUV98",
+   "ath": 18,
+   "d": "#20RUYG99",
+   "dth": 19,
+   "dur": 157,
+   "o": 65,
+   "p": 85,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#20RUYG99",
+   "ath": 19,
+   "d": "#G2Y80G9",
+   "dth": 19,
+   "dur": 173,
+   "o": 66,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#GQYUYUV98",
+   "ath": 18,
+   "d": "#YRQRVGL0V",
+   "dth": 19,
+   "dur": 152,
+   "o": 67,
+   "p": 95,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#20RUYG99",
+   "ath": 19,
+   "d": "#80YR8VGQY",
+   "dth": 19,
+   "dur": 175,
+   "o": 68,
+   "p": 96,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#Y882JQCJY",
+   "ath": 19,
+   "d": "#P2R8VJURL",
+   "dth": 19,
+   "dur": 151,
+   "o": 69,
+   "p": 80,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#Y882JQCJY",
+   "ath": 19,
+   "d": "#22Y2L0U0Q",
+   "dth": 19,
+   "dur": 180,
+   "o": 70,
+   "p": 98,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#YRQRVGL0V",
+   "ath": 19,
+   "d": "#80YR8VGQY",
+   "dth": 19,
+   "dur": 148,
+   "o": 71,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#YRQRVGL0V",
+   "ath": 19,
+   "d": "#20RP9L8G8",
+   "dth": 19,
+   "dur": 159,
+   "o": 72,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 47.525,
+  "destruction": 52.825,
   "members": [
    {
     "name": "pAx",
@@ -896,12 +1039,12 @@
    }
   ],
   "name": "FruchtLabor III",
-  "stars": 53,
+  "stars": 60,
   "tag": "#2RGV2UQY9"
  },
  "end": "20261127T221801.000Z",
  "opponent": {
-  "destruction": 73.375,
+  "destruction": 88.225,
   "members": [
    {
     "name": "TheDeadKenny",
@@ -1145,7 +1288,7 @@
    }
   ],
   "name": "Team Winter X",
-  "stars": 80,
+  "stars": 96,
   "tag": "#2JPVV99RP"
  },
  "start": "20261126T221801.000Z",

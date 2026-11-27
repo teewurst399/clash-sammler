@@ -659,11 +659,55 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#GPJGVRLVL",
+   "ath": 19,
+   "d": "#99V2QV8PL",
+   "dth": 19,
+   "dur": 129,
+   "o": 61,
+   "p": 94,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#R0RJR9VJC",
+   "ath": 15,
+   "d": "#8PCG2PY9",
+   "dth": 18,
+   "dur": 56,
+   "o": 62,
+   "p": 38,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#GGPG9JY2C",
+   "ath": 19,
+   "d": "#YCRYVGYUV",
+   "dth": 19,
+   "dur": 111,
+   "o": 63,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#GGPG9JY2C",
+   "ath": 19,
+   "d": "#8JVUGR90L",
+   "dth": 19,
+   "dur": 147,
+   "o": 64,
+   "p": 74,
+   "s": 1,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 78.96,
+  "destruction": 89.68,
   "members": [
    {
     "name": "sa",
@@ -817,7 +861,7 @@
    }
   ],
   "name": "Beta-Beeren",
-  "stars": 56,
+  "stars": 62,
   "tag": "#2LQJP2L0P"
  },
  "end": "20261127T192733.000Z",
