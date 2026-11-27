@@ -1066,11 +1066,132 @@
    "p": 91,
    "s": 2,
    "side": "gegner"
+  },
+  {
+   "a": "#QL890GGYV",
+   "ath": 19,
+   "d": "#RQ2CGRVY",
+   "dth": 19,
+   "dur": 111,
+   "o": 98,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#QL890GGYV",
+   "ath": 19,
+   "d": "#CPUP0L9P",
+   "dth": 19,
+   "dur": 147,
+   "o": 99,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#PRQPLPG0Q",
+   "ath": 19,
+   "d": "#9C8GU8R0",
+   "dth": 19,
+   "dur": 145,
+   "o": 100,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#LPQPP0GJ8",
+   "ath": 19,
+   "d": "#2QP8PV2CG",
+   "dth": 19,
+   "dur": 176,
+   "o": 101,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#LPQPP0GJ8",
+   "ath": 19,
+   "d": "#U80R2VLL",
+   "dth": 19,
+   "dur": 175,
+   "o": 102,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#28CUJCLU0",
+   "ath": 19,
+   "d": "#Q0RUJC9J2",
+   "dth": 19,
+   "dur": 133,
+   "o": 103,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#28CUJCLU0",
+   "ath": 19,
+   "d": "#90PUQL00J",
+   "dth": 19,
+   "dur": 135,
+   "o": 104,
+   "p": 79,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#LQPLVRQVR",
+   "ath": 19,
+   "d": "#YU29YJ8L8",
+   "dth": 19,
+   "dur": 3,
+   "o": 105,
+   "p": 11,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#LQPLVRQVR",
+   "ath": 19,
+   "d": "#20J8RGGQJ",
+   "dth": 19,
+   "dur": 4,
+   "o": 106,
+   "p": 16,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#JJP980GL",
+   "ath": 19,
+   "d": "#90PUQL00J",
+   "dth": 19,
+   "dur": 154,
+   "o": 107,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#U00VQ98Y",
+   "ath": 19,
+   "d": "#G8JJY0UJQ",
+   "dth": 19,
+   "dur": 99,
+   "o": 108,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 79.94,
+  "destruction": 81.94,
   "members": [
    {
     "name": "Hunga Munga",
@@ -1374,12 +1495,12 @@
    }
   ],
   "name": "Get Buttered!",
-  "stars": 119,
+  "stars": 122,
   "tag": "#2R98Y8YUJ"
  },
  "end": "20261127T185943.000Z",
  "opponent": {
-  "destruction": 70.94,
+  "destruction": 78.4,
   "members": [
    {
     "name": "Meysam",
@@ -1683,7 +1804,7 @@
    }
   ],
   "name": "برمودا",
-  "stars": 97,
+  "stars": 110,
   "tag": "#YRG02QQP"
  },
  "start": "20261126T185943.000Z",

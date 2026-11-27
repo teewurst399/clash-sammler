@@ -934,11 +934,121 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#9LC99C22R",
+   "ath": 19,
+   "d": "#2GLQ2GLY9",
+   "dth": 19,
+   "dur": 180,
+   "o": 86,
+   "p": 77,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#LQUP0RCL",
+   "ath": 18,
+   "d": "#PP28VR9RV",
+   "dth": 17,
+   "dur": 138,
+   "o": 87,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#9VRQ9L9J",
+   "ath": 19,
+   "d": "#LL89CL8LQ",
+   "dth": 18,
+   "dur": 114,
+   "o": 88,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#YLQJJ9UU8",
+   "ath": 19,
+   "d": "#LR8V8LPG2",
+   "dth": 17,
+   "dur": 143,
+   "o": 89,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#QQVL9QQG0",
+   "ath": 18,
+   "d": "#22RJL008J",
+   "dth": 17,
+   "dur": 146,
+   "o": 90,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#9LC99C22R",
+   "ath": 19,
+   "d": "#8PLVR82QC",
+   "dth": 19,
+   "dur": 165,
+   "o": 91,
+   "p": 89,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#G8RCJGV82",
+   "ath": 18,
+   "d": "#GYCJ8L9LL",
+   "dth": 17,
+   "dur": 126,
+   "o": 92,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#9UPPVGYP",
+   "ath": 17,
+   "d": "#8QG0VGU22",
+   "dth": 12,
+   "dur": 57,
+   "o": 93,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#9VRQ9L9J",
+   "ath": 19,
+   "d": "#9LP8PV292",
+   "dth": 15,
+   "dur": 141,
+   "o": 94,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#2C2PLQUGL",
+   "ath": 19,
+   "d": "#Y8VR8CQJP",
+   "dth": 16,
+   "dur": 90,
+   "o": 95,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 76.97143,
+  "destruction": 97.14286,
   "members": [
    {
     "name": "vllo",
@@ -1152,7 +1262,7 @@
    }
   ],
   "name": "Rising Phoenix",
-  "stars": 80,
+  "stars": 102,
   "tag": "#Y9VU09JL"
  },
  "end": "20261127T113555.000Z",

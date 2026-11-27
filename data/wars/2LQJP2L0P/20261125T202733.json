@@ -164,11 +164,209 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#2YV08PJG",
+   "ath": 19,
+   "d": "#8YYYV28C",
+   "dth": 19,
+   "dur": 112,
+   "o": 16,
+   "p": 85,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#9CCGCV282",
+   "ath": 16,
+   "d": "#Q99RQCUGC",
+   "dth": 16,
+   "dur": 124,
+   "o": 17,
+   "p": 94,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#GJGUQRL2Q",
+   "ath": 13,
+   "d": "#9RUG98QRR",
+   "dth": 16,
+   "dur": 65,
+   "o": 18,
+   "p": 44,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#GJGUQRL2Q",
+   "ath": 13,
+   "d": "#9CCGCV282",
+   "dth": 16,
+   "dur": 64,
+   "o": 19,
+   "p": 39,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#2Y9U8PQ22",
+   "ath": 17,
+   "d": "#20VJ2PLJV",
+   "dth": 18,
+   "dur": 180,
+   "o": 20,
+   "p": 93,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#QLJYVYQU2",
+   "ath": 15,
+   "d": "#9RUG98QRR",
+   "dth": 16,
+   "dur": 112,
+   "o": 21,
+   "p": 74,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#2Y9U8PQ22",
+   "ath": 17,
+   "d": "#YYJJ090L9",
+   "dth": 18,
+   "dur": 180,
+   "o": 22,
+   "p": 98,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#QLJYVYQU2",
+   "ath": 15,
+   "d": "#9CCGCV282",
+   "dth": 16,
+   "dur": 110,
+   "o": 23,
+   "p": 79,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#QP00PVC80",
+   "ath": 16,
+   "d": "#LJVGPVYQL",
+   "dth": 16,
+   "dur": 117,
+   "o": 24,
+   "p": 62,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#QP00PVC80",
+   "ath": 16,
+   "d": "#9RUG98QRR",
+   "dth": 16,
+   "dur": 131,
+   "o": 25,
+   "p": 99,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#LG08R9YVG",
+   "ath": 16,
+   "d": "#LLQ2989",
+   "dth": 16,
+   "dur": 112,
+   "o": 26,
+   "p": 92,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#LG08R9YVG",
+   "ath": 16,
+   "d": "#9RUG98QRR",
+   "dth": 16,
+   "dur": 105,
+   "o": 27,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#Q99RQCUGC",
+   "ath": 16,
+   "d": "#9CCGCV282",
+   "dth": 16,
+   "dur": 118,
+   "o": 28,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#CYQC0GJC",
+   "ath": 19,
+   "d": "#9CPL2YUQU",
+   "dth": 19,
+   "dur": 104,
+   "o": 29,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#Q99RQCUGC",
+   "ath": 16,
+   "d": "#2PCGYPVYY",
+   "dth": 16,
+   "dur": 162,
+   "o": 30,
+   "p": 95,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#Q080GQQCC",
+   "ath": 17,
+   "d": "#LJVGPVYQL",
+   "dth": 16,
+   "dur": 106,
+   "o": 31,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#Q080GQQCC",
+   "ath": 17,
+   "d": "#LLQ2989",
+   "dth": 16,
+   "dur": 143,
+   "o": 32,
+   "p": 93,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#QCJYLC2V2",
+   "ath": 17,
+   "d": "#LG08R9YVG",
+   "dth": 16,
+   "dur": 94,
+   "o": 33,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 50.04,
+  "destruction": 66.0,
   "members": [
    {
     "name": "sa",
@@ -322,12 +520,12 @@
    }
   ],
   "name": "Beta-Beeren",
-  "stars": 36,
+  "stars": 46,
   "tag": "#2LQJP2L0P"
  },
  "end": "20261127T192733.000Z",
  "opponent": {
-  "destruction": 6.4,
+  "destruction": 29.32,
   "members": [
    {
     "name": "Floking",
@@ -481,7 +679,7 @@
    }
   ],
   "name": "Freunde",
-  "stars": 4,
+  "stars": 19,
   "tag": "#2LRYPQRLC"
  },
  "start": "20261126T192733.000Z",

@@ -945,11 +945,77 @@
    "p": 98,
    "s": 2,
    "side": "gegner"
+  },
+  {
+   "a": "#C2YVLYR",
+   "ath": 19,
+   "d": "#8VGPVP2V",
+   "dth": 19,
+   "dur": 151,
+   "o": 87,
+   "p": 77,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#JGYC80JP",
+   "ath": 19,
+   "d": "#8VGPVP2V",
+   "dth": 19,
+   "dur": 155,
+   "o": 88,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#PGGRYQP0U",
+   "ath": 19,
+   "d": "#8208C820J",
+   "dth": 19,
+   "dur": 167,
+   "o": 89,
+   "p": 98,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#QRJ89Y9P8",
+   "ath": 19,
+   "d": "#8CVUQ0RJ0",
+   "dth": 19,
+   "dur": 118,
+   "o": 90,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#PGGRYQP0U",
+   "ath": 19,
+   "d": "#9YQ2RGRVP",
+   "dth": 19,
+   "dur": 91,
+   "o": 91,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#QRJ89Y9P8",
+   "ath": 19,
+   "d": "#8208C820J",
+   "dth": 19,
+   "dur": 96,
+   "o": 92,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 79.2,
+  "destruction": 86.7,
   "members": [
    {
     "name": "BB •Nico•",
@@ -1193,12 +1259,12 @@
    }
   ],
   "name": "BrawlerBaller",
-  "stars": 90,
+  "stars": 99,
   "tag": "#2GCRL8L8L"
  },
  "end": "20261127T180001.000Z",
  "opponent": {
-  "destruction": 99.1,
+  "destruction": 99.15,
   "members": [
    {
     "name": "byAaleXx",
@@ -1442,7 +1508,7 @@
    }
   ],
   "name": "FURIAROJA.NET",
-  "stars": 115,
+  "stars": 117,
   "tag": "#88G0PRVJ"
  },
  "start": "20261126T180001.000Z",

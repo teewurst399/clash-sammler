@@ -461,11 +461,110 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#82JV0VPL",
+   "ath": 19,
+   "d": "#9Y980880U",
+   "dth": 19,
+   "dur": 156,
+   "o": 43,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#82JV0VPL",
+   "ath": 19,
+   "d": "#QL9UVPJQ",
+   "dth": 19,
+   "dur": 146,
+   "o": 44,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#YVL20UQPP",
+   "ath": 19,
+   "d": "#PGPJUCQR8",
+   "dth": 19,
+   "dur": 148,
+   "o": 45,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#9P9UQ8LYC",
+   "ath": 18,
+   "d": "#80UJY8QR2",
+   "dth": 18,
+   "dur": 175,
+   "o": 46,
+   "p": 96,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#YVL20UQPP",
+   "ath": 19,
+   "d": "#UPPLV9GV",
+   "dth": 19,
+   "dur": 168,
+   "o": 47,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#8GR08QLPL",
+   "ath": 19,
+   "d": "#PG0QQY28V",
+   "dth": 19,
+   "dur": 96,
+   "o": 48,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#8GR08QLPL",
+   "ath": 19,
+   "d": "#YVCVJ20V",
+   "dth": 19,
+   "dur": 95,
+   "o": 49,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#8YLLQULP0",
+   "ath": 19,
+   "d": "#8GUCV9VCQ",
+   "dth": 19,
+   "dur": 136,
+   "o": 50,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#8YLLQULP0",
+   "ath": 19,
+   "d": "#L2QLLL229",
+   "dth": 19,
+   "dur": 132,
+   "o": 51,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 32.822224,
+  "destruction": 46.155556,
   "members": [
    {
     "name": "DATPotter",
@@ -739,12 +838,12 @@
    }
   ],
   "name": "#Black Stone#",
-  "stars": 40,
+  "stars": 58,
   "tag": "#Y898LCJ0"
  },
  "end": "20261127T200444.000Z",
  "opponent": {
-  "destruction": 39.244446,
+  "destruction": 41.644444,
   "members": [
    {
     "name": "Cerveza2",
@@ -1018,7 +1117,7 @@
    }
   ],
   "name": "!OstatniBastion",
-  "stars": 50,
+  "stars": 54,
   "tag": "#2G2GLJ800"
  },
  "start": "20261126T200444.000Z",
