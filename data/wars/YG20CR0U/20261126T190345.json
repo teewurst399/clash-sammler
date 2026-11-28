@@ -494,6 +494,94 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#QUR9JVG28",
+   "ath": 19,
+   "d": "#GCU2YPJ2U",
+   "dth": 19,
+   "dur": 102,
+   "o": 46,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#QUR9JVG28",
+   "ath": 19,
+   "d": "#GVL2RV9V",
+   "dth": 17,
+   "dur": 108,
+   "o": 47,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#QCPUCLP80",
+   "ath": 19,
+   "d": "#PVL8PGQC",
+   "dth": 17,
+   "dur": 139,
+   "o": 48,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#QCPUCLP80",
+   "ath": 19,
+   "d": "#QQ9UPPYC2",
+   "dth": 17,
+   "dur": 116,
+   "o": 49,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#GRVGCCLQG",
+   "ath": 18,
+   "d": "#2CGLPRGQU",
+   "dth": 19,
+   "dur": 160,
+   "o": 50,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#GRVGCCLQG",
+   "ath": 18,
+   "d": "#G8PVYLJGP",
+   "dth": 19,
+   "dur": 122,
+   "o": 51,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#2JPY08V9",
+   "ath": 18,
+   "d": "#2CGLPRGQU",
+   "dth": 19,
+   "dur": 176,
+   "o": 52,
+   "p": 75,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#2JPY08V9",
+   "ath": 18,
+   "d": "#G8PVYLJGP",
+   "dth": 19,
+   "dur": 180,
+   "o": 53,
+   "p": 99,
+   "s": 2,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -687,7 +775,7 @@
  },
  "end": "20261128T180345.000Z",
  "opponent": {
-  "destruction": 86.666664,
+  "destruction": 100.0,
   "members": [
    {
     "name": "ChiefGriff",
@@ -871,7 +959,7 @@
    }
   ],
   "name": "Psycho Cadets",
-  "stars": 78,
+  "stars": 90,
   "tag": "#2PLRY88C9"
  },
  "start": "20261127T180345.000Z",

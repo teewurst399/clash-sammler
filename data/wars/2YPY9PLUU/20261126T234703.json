@@ -10,11 +10,77 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#98VC2VQC9",
+   "ath": 19,
+   "d": "#YRRYV0VP",
+   "dth": 19,
+   "dur": 168,
+   "o": 2,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#2Y8CCJQ0",
+   "ath": 19,
+   "d": "#RQLUC2PY",
+   "dth": 19,
+   "dur": 120,
+   "o": 3,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#98VC2VQC9",
+   "ath": 19,
+   "d": "#JUPV2V0P",
+   "dth": 19,
+   "dur": 157,
+   "o": 4,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#2Y8CCJQ0",
+   "ath": 19,
+   "d": "#8L8U298P",
+   "dth": 19,
+   "dur": 134,
+   "o": 5,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#GGYJV8J9P",
+   "ath": 19,
+   "d": "#JLC2VQPU",
+   "dth": 19,
+   "dur": 128,
+   "o": 6,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#QUP0RUQGL",
+   "ath": 19,
+   "d": "#22PUVQU29",
+   "dth": 19,
+   "dur": 155,
+   "o": 7,
+   "p": 87,
+   "s": 2,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 0.0,
+  "destruction": 5.714286,
   "members": [
    {
     "name": "xXStelioXx",
@@ -228,12 +294,12 @@
    }
   ],
   "name": "Endzone",
-  "stars": 0,
+  "stars": 6,
   "tag": "#2YPY9PLUU"
  },
  "end": "20261128T224703.000Z",
  "opponent": {
-  "destruction": 2.857143,
+  "destruction": 13.914286,
   "members": [
    {
     "name": "爱意总模糊",
@@ -447,7 +513,7 @@
    }
   ],
   "name": "暗鳳馆★★★",
-  "stars": 3,
+  "stars": 14,
   "tag": "#P0LJQJRY"
  },
  "start": "20261127T224703.000Z",

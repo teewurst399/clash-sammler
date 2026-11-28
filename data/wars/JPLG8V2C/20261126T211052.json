@@ -329,11 +329,121 @@
    "p": 91,
    "s": 2,
    "side": "gegner"
+  },
+  {
+   "a": "#Q0U0UGYG",
+   "ath": 19,
+   "d": "#Q9CPYRC2C",
+   "dth": 19,
+   "dur": 157,
+   "o": 31,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#QV82V2URV",
+   "ath": 19,
+   "d": "#RCL0PPJJ",
+   "dth": 19,
+   "dur": 132,
+   "o": 32,
+   "p": 83,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#QV82V2URV",
+   "ath": 19,
+   "d": "#2CRVJQJY",
+   "dth": 19,
+   "dur": 90,
+   "o": 33,
+   "p": 63,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#Q8G8V82R",
+   "ath": 19,
+   "d": "#2L08LGGR",
+   "dth": 19,
+   "dur": 120,
+   "o": 34,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#R0PJP82G",
+   "ath": 19,
+   "d": "#QL099JRLR",
+   "dth": 19,
+   "dur": 109,
+   "o": 35,
+   "p": 80,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#R0PJP82G",
+   "ath": 19,
+   "d": "#PLU0RJ0G2",
+   "dth": 19,
+   "dur": 102,
+   "o": 36,
+   "p": 65,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#200JRRVQG",
+   "ath": 19,
+   "d": "#PVQUQ29L",
+   "dth": 19,
+   "dur": 150,
+   "o": 37,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#9829GG8UL",
+   "ath": 19,
+   "d": "#LP9QC8JUY",
+   "dth": 19,
+   "dur": 161,
+   "o": 38,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#200JRRVQG",
+   "ath": 19,
+   "d": "#YJ2VLJV88",
+   "dth": 19,
+   "dur": 137,
+   "o": 39,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#9829GG8UL",
+   "ath": 19,
+   "d": "#9UCVJCU8U",
+   "dth": 19,
+   "dur": 161,
+   "o": 40,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 47.17143,
+  "destruction": 50.028572,
   "members": [
    {
     "name": "Der Checker",
@@ -547,12 +657,12 @@
    }
   ],
   "name": "GhostZone",
-  "stars": 45,
+  "stars": 48,
   "tag": "#JPLG8V2C"
  },
  "end": "20261128T201052.000Z",
  "opponent": {
-  "destruction": 32.942856,
+  "destruction": 53.0,
   "members": [
    {
     "name": "SRG⭐️Warden",
@@ -766,7 +876,7 @@
    }
   ],
   "name": "SRG GAMING I",
-  "stars": 28,
+  "stars": 49,
   "tag": "#28Y2U099L"
  },
  "start": "20261127T201052.000Z",

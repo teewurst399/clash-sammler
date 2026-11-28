@@ -703,6 +703,17 @@
    "p": 94,
    "s": 2,
    "side": "gegner"
+  },
+  {
+   "a": "#2JLGC0R0V",
+   "ath": 19,
+   "d": "#8R2GU0892",
+   "dth": 19,
+   "dur": 114,
+   "o": 65,
+   "p": 79,
+   "s": 2,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -956,7 +967,7 @@
  },
  "end": "20261128T181214.000Z",
  "opponent": {
-  "destruction": 77.45,
+  "destruction": 77.6,
   "members": [
    {
     "name": "Absynthe",
