@@ -450,6 +450,17 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#YGPU8P8YQ",
+   "ath": 19,
+   "d": "#2QV2YCLVG",
+   "dth": 18,
+   "dur": 138,
+   "o": 42,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -673,7 +684,7 @@
  },
  "end": "20261128T185852.000Z",
  "opponent": {
-  "destruction": 39.17143,
+  "destruction": 42.028572,
   "members": [
    {
     "name": "Danils",
@@ -887,7 +898,7 @@
    }
   ],
   "name": "\"WARRIORS\"",
-  "stars": 38,
+  "stars": 41,
   "tag": "#90CYJQ0G"
  },
  "start": "20261127T185852.000Z",

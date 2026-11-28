@@ -461,6 +461,28 @@
    "p": 81,
    "s": 2,
    "side": "clan"
+  },
+  {
+   "a": "#220UVPYRP",
+   "ath": 19,
+   "d": "#JRVPR0VP",
+   "dth": 19,
+   "dur": 165,
+   "o": 43,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#220UVPYRP",
+   "ath": 19,
+   "d": "#QL099JRLR",
+   "dth": 19,
+   "dur": 152,
+   "o": 44,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -684,7 +706,7 @@
  },
  "end": "20261128T201052.000Z",
  "opponent": {
-  "destruction": 53.0,
+  "destruction": 56.42857,
   "members": [
    {
     "name": "SRG⭐️Warden",
@@ -898,7 +920,7 @@
    }
   ],
   "name": "SRG GAMING I",
-  "stars": 49,
+  "stars": 54,
   "tag": "#28Y2U099L"
  },
  "start": "20261127T201052.000Z",

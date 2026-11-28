@@ -626,6 +626,28 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#2QY2LLQC",
+   "ath": 19,
+   "d": "#PP228YP8R",
+   "dth": 19,
+   "dur": 136,
+   "o": 58,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#2QY2LLQC",
+   "ath": 19,
+   "d": "#2QYQY990",
+   "dth": 19,
+   "dur": 145,
+   "o": 59,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -879,7 +901,7 @@
  },
  "end": "20261128T174104.000Z",
  "opponent": {
-  "destruction": 59.325,
+  "destruction": 60.0,
   "members": [
    {
     "name": "☄️ SELÇUK ☄️",
@@ -1123,7 +1145,7 @@
    }
   ],
   "name": "BARLAS",
-  "stars": 70,
+  "stars": 72,
   "tag": "#9UYCPVU0"
  },
  "start": "20261127T174104.000Z",

@@ -736,6 +736,28 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#2GCRGRVJJ",
+   "ath": 19,
+   "d": "#UJUC20CP",
+   "dth": 19,
+   "dur": 180,
+   "o": 68,
+   "p": 97,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#2GCRGRVJJ",
+   "ath": 19,
+   "d": "#LQVCGC20",
+   "dth": 19,
+   "dur": 177,
+   "o": 69,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -989,7 +1011,7 @@
  },
  "end": "20261128T181214.000Z",
  "opponent": {
-  "destruction": 77.6,
+  "destruction": 78.1,
   "members": [
    {
     "name": "Absynthe",
@@ -1233,7 +1255,7 @@
    }
   ],
   "name": "EFSANE",
-  "stars": 88,
+  "stars": 89,
   "tag": "#2LGQYQJ2R"
  },
  "start": "20261127T181214.000Z",

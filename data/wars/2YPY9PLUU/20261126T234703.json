@@ -285,11 +285,110 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#82RVRVU2",
+   "ath": 19,
+   "d": "#LGCPRQYJ",
+   "dth": 19,
+   "dur": 130,
+   "o": 27,
+   "p": 86,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#G0UUPPU9C",
+   "ath": 19,
+   "d": "#2QV0QG8CU",
+   "dth": 19,
+   "dur": 180,
+   "o": 28,
+   "p": 97,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#G0UUPPU9C",
+   "ath": 19,
+   "d": "#99PP99LLC",
+   "dth": 16,
+   "dur": 77,
+   "o": 29,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#82RVRVU2",
+   "ath": 19,
+   "d": "#9QRV2GR",
+   "dth": 19,
+   "dur": 150,
+   "o": 30,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#Q9G8Q9LY",
+   "ath": 19,
+   "d": "#RCJJL0PP",
+   "dth": 19,
+   "dur": 180,
+   "o": 31,
+   "p": 97,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#2PVG9YG02",
+   "ath": 19,
+   "d": "#RCJJL0PP",
+   "dth": 19,
+   "dur": 136,
+   "o": 32,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#2PVG9YG02",
+   "ath": 19,
+   "d": "#82RVRVU2",
+   "dth": 19,
+   "dur": 163,
+   "o": 33,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#Q9G8Q9LY",
+   "ath": 19,
+   "d": "#CYC98RJ",
+   "dth": 19,
+   "dur": 180,
+   "o": 34,
+   "p": 95,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#QUP0RUQGL",
+   "ath": 19,
+   "d": "#GY09JUL98",
+   "dth": 19,
+   "dur": 136,
+   "o": 35,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 5.714286,
+  "destruction": 14.142858,
   "members": [
    {
     "name": "xXStelioXx",
@@ -503,12 +602,12 @@
    }
   ],
   "name": "Endzone",
-  "stars": 6,
+  "stars": 14,
   "tag": "#2YPY9PLUU"
  },
  "end": "20261128T224703.000Z",
  "opponent": {
-  "destruction": 60.771427,
+  "destruction": 69.74286,
   "members": [
    {
     "name": "爱意总模糊",
@@ -722,7 +821,7 @@
    }
   ],
   "name": "暗鳳馆★★★",
-  "stars": 61,
+  "stars": 71,
   "tag": "#P0LJQJRY"
  },
  "start": "20261127T224703.000Z",
