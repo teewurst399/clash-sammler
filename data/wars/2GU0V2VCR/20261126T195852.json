@@ -912,11 +912,77 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#L8ULPU9JV",
+   "ath": 19,
+   "d": "#V9VVYYP9",
+   "dth": 19,
+   "dur": 180,
+   "o": 84,
+   "p": 98,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#L8ULPU9JV",
+   "ath": 19,
+   "d": "#PJUP9JUYL",
+   "dth": 19,
+   "dur": 161,
+   "o": 85,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#28CJJC29U",
+   "ath": 19,
+   "d": "#JVU8YCYP",
+   "dth": 19,
+   "dur": 105,
+   "o": 86,
+   "p": 83,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#9QPJVL89J",
+   "ath": 19,
+   "d": "#QRC8C9YQ",
+   "dth": 19,
+   "dur": 167,
+   "o": 87,
+   "p": 97,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#9QPJVL89J",
+   "ath": 19,
+   "d": "#Q0CUG2RVQ",
+   "dth": 19,
+   "dur": 137,
+   "o": 88,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#RQ00CPY",
+   "ath": 17,
+   "d": "#JVU8YCYP",
+   "dth": 19,
+   "dur": 113,
+   "o": 89,
+   "p": 78,
+   "s": 1,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 91.11429,
+  "destruction": 99.28571,
   "members": [
    {
     "name": "Monkey D. Luffy",
@@ -1130,7 +1196,7 @@
    }
   ],
   "name": "Fourthzone",
-  "stars": 93,
+  "stars": 100,
   "tag": "#2GU0V2VCR"
  },
  "end": "20261128T185852.000Z",

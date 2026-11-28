@@ -87,6 +87,94 @@
    "p": 61,
    "s": 1,
    "side": "gegner"
+  },
+  {
+   "a": "#GUG9QUC0J",
+   "ath": 19,
+   "d": "#R089G2CJR",
+   "dth": 3,
+   "dur": 19,
+   "o": 9,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#GUG9QUC0J",
+   "ath": 19,
+   "d": "#G8YYG2RYV",
+   "dth": 18,
+   "dur": 91,
+   "o": 10,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#R0LQJLJ0C",
+   "ath": 19,
+   "d": "#Q2QQVP8C9",
+   "dth": 18,
+   "dur": 180,
+   "o": 11,
+   "p": 97,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#R0LQJLJ0C",
+   "ath": 19,
+   "d": "#PYQLVV02",
+   "dth": 18,
+   "dur": 91,
+   "o": 12,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#GC80JJ0G9",
+   "ath": 19,
+   "d": "#Q2QQVP8C9",
+   "dth": 18,
+   "dur": 126,
+   "o": 13,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#GC80JJ0G9",
+   "ath": 19,
+   "d": "#LC82P9PU",
+   "dth": 18,
+   "dur": 109,
+   "o": 14,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#20UC0YRU",
+   "ath": 19,
+   "d": "#QUQJUVP9",
+   "dth": 19,
+   "dur": 169,
+   "o": 15,
+   "p": 72,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#20UC0YRU",
+   "ath": 19,
+   "d": "#GCUU8Q2LQ",
+   "dth": 19,
+   "dur": 140,
+   "o": 16,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -220,7 +308,7 @@
  },
  "end": "20261129T090819.000Z",
  "opponent": {
-  "destruction": 8.65,
+  "destruction": 42.25,
   "members": [
    {
     "name": "닝기리",
@@ -344,7 +432,7 @@
    }
   ],
   "name": "낭만",
-  "stars": 4,
+  "stars": 24,
   "tag": "#2QGUUQ0PU"
  },
  "start": "20261128T090819.000Z",

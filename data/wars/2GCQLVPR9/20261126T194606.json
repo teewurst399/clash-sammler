@@ -285,11 +285,121 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#YVU0G8JP",
+   "ath": 19,
+   "d": "#98GLYPUCJ",
+   "dth": 19,
+   "dur": 102,
+   "o": 27,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#YVU0G8JP",
+   "ath": 19,
+   "d": "#99V2YR8Q",
+   "dth": 19,
+   "dur": 107,
+   "o": 28,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#R98Q9VGV",
+   "ath": 19,
+   "d": "#8YQ8Q22QR",
+   "dth": 19,
+   "dur": 126,
+   "o": 29,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#R98Q9VGV",
+   "ath": 19,
+   "d": "#YR2GPUL0Y",
+   "dth": 19,
+   "dur": 83,
+   "o": 30,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#P02PC8UPU",
+   "ath": 19,
+   "d": "#98LGL0C",
+   "dth": 18,
+   "dur": 106,
+   "o": 31,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#Y2RQL9GR",
+   "ath": 19,
+   "d": "#2880CPJRR",
+   "dth": 19,
+   "dur": 97,
+   "o": 32,
+   "p": 95,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#Y2RQL9GR",
+   "ath": 19,
+   "d": "#2VUYGJVU8",
+   "dth": 19,
+   "dur": 100,
+   "o": 33,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#Q0V9QV8L",
+   "ath": 19,
+   "d": "#CP08C9LJ",
+   "dth": 19,
+   "dur": 92,
+   "o": 34,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#Q0V9QV8L",
+   "ath": 19,
+   "d": "#88RG0CP2Y",
+   "dth": 19,
+   "dur": 113,
+   "o": 35,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#P2RJL82PG",
+   "ath": 19,
+   "d": "#QRPUY82R9",
+   "dth": 19,
+   "dur": 180,
+   "o": 36,
+   "p": 96,
+   "s": 2,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 32.933334,
+  "destruction": 56.5,
   "members": [
    {
     "name": "×ºkͥyuͣuͫº×",
@@ -473,12 +583,12 @@
    }
   ],
   "name": "Thirdzone",
-  "stars": 27,
+  "stars": 49,
   "tag": "#2GCQLVPR9"
  },
  "end": "20261128T184606.000Z",
  "opponent": {
-  "destruction": 35.833332,
+  "destruction": 39.033333,
   "members": [
    {
     "name": "WH❤TAKBIR 2",
@@ -662,7 +772,7 @@
    }
   ],
   "name": "WaR HoUsE",
-  "stars": 27,
+  "stars": 29,
   "tag": "#PCCP8LQL"
  },
  "start": "20261127T184606.000Z",

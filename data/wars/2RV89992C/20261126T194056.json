@@ -725,6 +725,28 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#PVJVV9CR",
+   "ath": 16,
+   "d": "#JR0R0LC9",
+   "dth": 16,
+   "dur": 180,
+   "o": 67,
+   "p": 91,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#PVJVV9CR",
+   "ath": 16,
+   "d": "#UV2L88J0",
+   "dth": 16,
+   "dur": 156,
+   "o": 68,
+   "p": 98,
+   "s": 1,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -918,7 +940,7 @@
  },
  "end": "20261128T184056.000Z",
  "opponent": {
-  "destruction": 96.166664,
+  "destruction": 98.26667,
   "members": [
    {
     "name": "Pinguina",
@@ -1102,7 +1124,7 @@
    }
   ],
   "name": "Anteiku.",
-  "stars": 84,
+  "stars": 85,
   "tag": "#22RUCUPJV"
  },
  "start": "20261127T184056.000Z",

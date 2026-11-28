@@ -307,11 +307,143 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#GCYGULRQP",
+   "ath": 18,
+   "d": "#P8QQYPYYL",
+   "dth": 19,
+   "dur": 103,
+   "o": 29,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#22GLPLLQ0",
+   "ath": 19,
+   "d": "#Q2V9LQPQ8",
+   "dth": 19,
+   "dur": 142,
+   "o": 30,
+   "p": 77,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#GCYGULRQP",
+   "ath": 18,
+   "d": "#Q2QQ8V0PJ",
+   "dth": 18,
+   "dur": 118,
+   "o": 31,
+   "p": 85,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#9JGQ99J8U",
+   "ath": 19,
+   "d": "#9R0GYQG0U",
+   "dth": 19,
+   "dur": 101,
+   "o": 32,
+   "p": 50,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#G9VCRUUPC",
+   "ath": 19,
+   "d": "#9UP9LYC2Q",
+   "dth": 19,
+   "dur": 180,
+   "o": 33,
+   "p": 77,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#G9VCRUUPC",
+   "ath": 19,
+   "d": "#YG8CPV2V2",
+   "dth": 18,
+   "dur": 157,
+   "o": 34,
+   "p": 75,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#2UV0GPRCC",
+   "ath": 19,
+   "d": "#R89R2VLG",
+   "dth": 19,
+   "dur": 119,
+   "o": 35,
+   "p": 87,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#2UV0GPRCC",
+   "ath": 19,
+   "d": "#9UP9LYC2Q",
+   "dth": 19,
+   "dur": 96,
+   "o": 36,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#Q9Q82U9L0",
+   "ath": 19,
+   "d": "#G9VCRUUPC",
+   "dth": 19,
+   "dur": 110,
+   "o": 37,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#200VRU22",
+   "ath": 19,
+   "d": "#2JL28PPVQ",
+   "dth": 19,
+   "dur": 148,
+   "o": 38,
+   "p": 93,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#200VRU22",
+   "ath": 19,
+   "d": "#PGLQ8PUL0",
+   "dth": 19,
+   "dur": 104,
+   "o": 39,
+   "p": 76,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#QYQ8RCQQV",
+   "ath": 19,
+   "d": "#QUL2VY20",
+   "dth": 19,
+   "dur": 157,
+   "o": 40,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 42.375,
+  "destruction": 53.725,
   "members": [
    {
     "name": "Travel327",
@@ -555,12 +687,12 @@
    }
   ],
   "name": "Der Obstorden",
-  "stars": 49,
+  "stars": 60,
   "tag": "#2Q8QPCUCU"
  },
  "end": "20261129T084638.000Z",
  "opponent": {
-  "destruction": 24.55,
+  "destruction": 36.775,
   "members": [
    {
     "name": "Albert",
@@ -804,7 +936,7 @@
    }
   ],
   "name": "CLAN OF MON",
-  "stars": 28,
+  "stars": 42,
   "tag": "#2YQ2V92YC"
  },
  "start": "20261128T084638.000Z",

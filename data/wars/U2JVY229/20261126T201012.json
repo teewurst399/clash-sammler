@@ -813,6 +813,39 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#292RYUVJC",
+   "ath": 19,
+   "d": "#98QR889CJ",
+   "dth": 19,
+   "dur": 166,
+   "o": 75,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#LYU2PPG2",
+   "ath": 19,
+   "d": "#9YPGL2YP",
+   "dth": 19,
+   "dur": 117,
+   "o": 76,
+   "p": 92,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#CQC9CYY0",
+   "ath": 19,
+   "d": "#9YUJY9YV",
+   "dth": 19,
+   "dur": 164,
+   "o": 77,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -1036,7 +1069,7 @@
  },
  "end": "20261128T191012.000Z",
  "opponent": {
-  "destruction": 81.65714,
+  "destruction": 87.37143,
   "members": [
    {
     "name": "AQL Moon",
@@ -1250,7 +1283,7 @@
    }
   ],
   "name": "AQUILA",
-  "stars": 84,
+  "stars": 90,
   "tag": "#2C2JYY220"
  },
  "start": "20261127T191012.000Z",

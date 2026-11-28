@@ -648,6 +648,127 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#GLCCYGYVC",
+   "ath": 19,
+   "d": "#9VP8UCC9",
+   "dth": 19,
+   "dur": 86,
+   "o": 60,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#8P2L8C2L",
+   "ath": 19,
+   "d": "#28JPJCYUV",
+   "dth": 19,
+   "dur": 146,
+   "o": 61,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#8P2L8C2L",
+   "ath": 19,
+   "d": "#LQVGRULVU",
+   "dth": 19,
+   "dur": 109,
+   "o": 62,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#9L9CPUYPJ",
+   "ath": 19,
+   "d": "#8GU8JVQ9R",
+   "dth": 19,
+   "dur": 170,
+   "o": 63,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#VR8UJRUP",
+   "ath": 19,
+   "d": "#8V2929802",
+   "dth": 19,
+   "dur": 101,
+   "o": 64,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#9999RG8YP",
+   "ath": 19,
+   "d": "#P2P0QR89P",
+   "dth": 19,
+   "dur": 175,
+   "o": 65,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#2YPJ8YCCP",
+   "ath": 19,
+   "d": "#9UC0Y0V2R",
+   "dth": 19,
+   "dur": 180,
+   "o": 66,
+   "p": 82,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#VR8UJRUP",
+   "ath": 19,
+   "d": "#YJLGG9P2",
+   "dth": 19,
+   "dur": 110,
+   "o": 67,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#C9YQQ2Q2",
+   "ath": 19,
+   "d": "#282Y20PQU",
+   "dth": 19,
+   "dur": 180,
+   "o": 68,
+   "p": 98,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#G0GRL2YL9",
+   "ath": 19,
+   "d": "#98G0GQL0V",
+   "dth": 19,
+   "dur": 98,
+   "o": 69,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#G0GRL2YL9",
+   "ath": 19,
+   "d": "#9UC0Y0V2R",
+   "dth": 19,
+   "dur": 177,
+   "o": 70,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -931,7 +1052,7 @@
  },
  "end": "20261129T083802.000Z",
  "opponent": {
-  "destruction": 79.577774,
+  "destruction": 99.888885,
   "members": [
    {
     "name": "nobnobnob",
@@ -1205,7 +1326,7 @@
    }
   ],
   "name": "Heroes Korea",
-  "stars": 106,
+  "stars": 133,
   "tag": "#982JCPJU"
  },
  "start": "20261128T083802.000Z",

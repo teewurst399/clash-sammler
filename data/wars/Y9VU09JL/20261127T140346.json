@@ -1,0 +1,468 @@
+{
+ "attacks": [
+  {
+   "a": "#2J8LLGPQJ",
+   "ath": 19,
+   "d": "#28VY0Q92Y",
+   "dth": 19,
+   "dur": 89,
+   "o": 1,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#L8VCLUVPC",
+   "ath": 18,
+   "d": "#QCCVUPR22",
+   "dth": 18,
+   "dur": 145,
+   "o": 2,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  }
+ ],
+ "attacksPerMember": 2,
+ "clan": {
+  "destruction": 2.857143,
+  "members": [
+   {
+    "name": "vllo",
+    "pos": 6,
+    "tag": "#C0LGVRRL",
+    "th": 19
+   },
+   {
+    "name": "Rising⚡️Andre",
+    "pos": 30,
+    "tag": "#9UPPVGYP",
+    "th": 17
+   },
+   {
+    "name": "clarissa",
+    "pos": 19,
+    "tag": "#YR09QJQ2",
+    "th": 19
+   },
+   {
+    "name": "Rising⚡️Mika",
+    "pos": 9,
+    "tag": "#9VRQ9L9J",
+    "th": 19
+   },
+   {
+    "name": "FLEXMITRI",
+    "pos": 22,
+    "tag": "#LQUP0RCL",
+    "th": 18
+   },
+   {
+    "name": "Rising⚡️Ronny",
+    "pos": 24,
+    "tag": "#QQVL9QQG0",
+    "th": 18
+   },
+   {
+    "name": "Creed",
+    "pos": 7,
+    "tag": "#QY0QVYCJY",
+    "th": 19
+   },
+   {
+    "name": "Silver Skull",
+    "pos": 13,
+    "tag": "#9UGGUQ0C",
+    "th": 19
+   },
+   {
+    "name": "shape",
+    "pos": 20,
+    "tag": "#R2LQLJ0LR",
+    "th": 19
+   },
+   {
+    "name": "Julian",
+    "pos": 1,
+    "tag": "#8PLVR82QC",
+    "th": 19
+   },
+   {
+    "name": "ʙʀͥᴏ̈ɢɢͣɪͫ.",
+    "pos": 8,
+    "tag": "#2P2V02GC9",
+    "th": 19
+   },
+   {
+    "name": "Rising⚡️OpTic.",
+    "pos": 29,
+    "tag": "#2GCYJUPCU",
+    "th": 17
+   },
+   {
+    "name": "⚡️ MaisyMina ✨",
+    "pos": 33,
+    "tag": "#2QPLG8RRQ",
+    "th": 14
+   },
+   {
+    "name": "Rising⚡️Sunny",
+    "pos": 10,
+    "tag": "#YLQJJ9UU8",
+    "th": 19
+   },
+   {
+    "name": "Grand OpTic",
+    "pos": 5,
+    "tag": "#2UCVU9YY9",
+    "th": 19
+   },
+   {
+    "name": "Julian",
+    "pos": 18,
+    "tag": "#RQYGYC0P",
+    "th": 19
+   },
+   {
+    "name": "luca 23",
+    "pos": 15,
+    "tag": "#2C0LJVQ9",
+    "th": 19
+   },
+   {
+    "name": "Rising⚡️Mika",
+    "pos": 31,
+    "tag": "#GVC29JQJ",
+    "th": 16
+   },
+   {
+    "name": "vilo",
+    "pos": 34,
+    "tag": "#R098U0Y2U",
+    "th": 11
+   },
+   {
+    "name": "Halbstark",
+    "pos": 23,
+    "tag": "#GV0JGVCUP",
+    "th": 18
+   },
+   {
+    "name": "Chris",
+    "pos": 27,
+    "tag": "#YVYR82URC",
+    "th": 17
+   },
+   {
+    "name": "creed 2.0",
+    "pos": 21,
+    "tag": "#QCCVUPR22",
+    "th": 18
+   },
+   {
+    "name": "Rising⚡️Julian",
+    "pos": 3,
+    "tag": "#YU92LVVC",
+    "th": 19
+   },
+   {
+    "name": "Julian ❤️ Mika",
+    "pos": 25,
+    "tag": "#2J2PU82RL",
+    "th": 17
+   },
+   {
+    "name": "Vex",
+    "pos": 11,
+    "tag": "#9VG2PR8C0",
+    "th": 19
+   },
+   {
+    "name": "Rising⚡️ACL",
+    "pos": 16,
+    "tag": "#P8URCGU9",
+    "th": 19
+   },
+   {
+    "name": "Mika ❤️ Julian",
+    "pos": 12,
+    "tag": "#2CRP0P2Q8",
+    "th": 19
+   },
+   {
+    "name": "Rising⚡️Janne",
+    "pos": 17,
+    "tag": "#2C2PLQUGL",
+    "th": 19
+   },
+   {
+    "name": "OpTic™",
+    "pos": 35,
+    "tag": "#29J9LVR2L",
+    "th": 7
+   },
+   {
+    "name": "Vengeance",
+    "pos": 4,
+    "tag": "#2GLQ2GLY9",
+    "th": 19
+   },
+   {
+    "name": "Rising⚡️Mikmazi",
+    "pos": 26,
+    "tag": "#G8RCJGV82",
+    "th": 18
+   },
+   {
+    "name": "Rising⚡️Nickk",
+    "pos": 14,
+    "tag": "#LJP8JL880",
+    "th": 19
+   },
+   {
+    "name": "Rising⚡️Koala",
+    "pos": 28,
+    "tag": "#909LUC88U",
+    "th": 17
+   },
+   {
+    "name": "Vulture",
+    "pos": 2,
+    "tag": "#2J8LLGPQJ",
+    "th": 19
+   },
+   {
+    "name": "Rising⚡️Lv.1",
+    "pos": 32,
+    "tag": "#LGYRV2URL",
+    "th": 17
+   }
+  ],
+  "name": "Rising Phoenix",
+  "stars": 3,
+  "tag": "#Y9VU09JL"
+ },
+ "end": "20261129T130346.000Z",
+ "opponent": {
+  "destruction": 2.857143,
+  "members": [
+   {
+    "name": "hema.❤",
+    "pos": 7,
+    "tag": "#Q9CJY9ULL",
+    "th": 19
+   },
+   {
+    "name": "Rahell",
+    "pos": 1,
+    "tag": "#28VY0Q92Y",
+    "th": 19
+   },
+   {
+    "name": "~ÄBĐÖ~",
+    "pos": 35,
+    "tag": "#Y9YQRYQCR",
+    "th": 12
+   },
+   {
+    "name": "joker",
+    "pos": 28,
+    "tag": "#QQLP89U22",
+    "th": 19
+   },
+   {
+    "name": "EG⚡Ibrahim",
+    "pos": 24,
+    "tag": "#QUC0RLGY9",
+    "th": 17
+   },
+   {
+    "name": "islam",
+    "pos": 16,
+    "tag": "#8PYQCG9G",
+    "th": 19
+   },
+   {
+    "name": "HEAVEN KINGDOM",
+    "pos": 20,
+    "tag": "#9G820CL99",
+    "th": 18
+   },
+   {
+    "name": "亗Aʙᴅᴏ亗",
+    "pos": 15,
+    "tag": "#YRL0V89RQ",
+    "th": 19
+   },
+   {
+    "name": "Mohamed Ahmed ✨",
+    "pos": 2,
+    "tag": "#YG2R8PJYL",
+    "th": 19
+   },
+   {
+    "name": "آلقہدسہ",
+    "pos": 10,
+    "tag": "#LC0C88GPU",
+    "th": 19
+   },
+   {
+    "name": "moaawya yaser",
+    "pos": 21,
+    "tag": "#L8VCLUVPC",
+    "th": 18
+   },
+   {
+    "name": "المحترف",
+    "pos": 9,
+    "tag": "#9GR8JRQCU",
+    "th": 19
+   },
+   {
+    "name": "p.e.k.k.a",
+    "pos": 30,
+    "tag": "#Y8J22LLVU",
+    "th": 16
+   },
+   {
+    "name": "mory gamer yt",
+    "pos": 14,
+    "tag": "#9C8U8GQLC",
+    "th": 19
+   },
+   {
+    "name": "NOUR",
+    "pos": 6,
+    "tag": "#LY9VJVPG9",
+    "th": 19
+   },
+   {
+    "name": "Grim Reaper",
+    "pos": 5,
+    "tag": "#92R9G80Y",
+    "th": 19
+   },
+   {
+    "name": "¥✌TEEFA✌¥",
+    "pos": 3,
+    "tag": "#2G89VUVC0",
+    "th": 19
+   },
+   {
+    "name": "shbrawy",
+    "pos": 29,
+    "tag": "#20CCUJY00",
+    "th": 16
+   },
+   {
+    "name": "PRINCE SA3DANY",
+    "pos": 4,
+    "tag": "#CPUJGQQC",
+    "th": 19
+   },
+   {
+    "name": "Mahmoud Yahia",
+    "pos": 19,
+    "tag": "#2LY0P82GL",
+    "th": 18
+   },
+   {
+    "name": "Ä7: Abø Dimàã ❤",
+    "pos": 13,
+    "tag": "#PLYUJPLL2",
+    "th": 19
+   },
+   {
+    "name": "القاتللللل ميدو",
+    "pos": 32,
+    "tag": "#QJRPR2G0Y",
+    "th": 15
+   },
+   {
+    "name": "HEMA ✌ CHAMPION",
+    "pos": 33,
+    "tag": "#2UQC898G",
+    "th": 15
+   },
+   {
+    "name": "Mahmoud",
+    "pos": 31,
+    "tag": "#PLJLCQL8P",
+    "th": 15
+   },
+   {
+    "name": "Dragon Flame",
+    "pos": 17,
+    "tag": "#PC0VUUY8Y",
+    "th": 19
+   },
+   {
+    "name": "mostafa",
+    "pos": 12,
+    "tag": "#PY9GL0GGL",
+    "th": 19
+   },
+   {
+    "name": "Abo Hamza",
+    "pos": 8,
+    "tag": "#LCV2JGG82",
+    "th": 19
+   },
+   {
+    "name": "Mohammad telfah",
+    "pos": 26,
+    "tag": "#PPU99C0JL",
+    "th": 17
+   },
+   {
+    "name": "么Aʙᴅᴏ么",
+    "pos": 18,
+    "tag": "#GYQVPC99U",
+    "th": 19
+   },
+   {
+    "name": "اللهو الخفي",
+    "pos": 34,
+    "tag": "#Y9GJ29GUC",
+    "th": 14
+   },
+   {
+    "name": "Shrief_floki 1",
+    "pos": 27,
+    "tag": "#GY8JJGJRY",
+    "th": 17
+   },
+   {
+    "name": "《~ HANA ~》",
+    "pos": 23,
+    "tag": "#QLGUL8LQ9",
+    "th": 17
+   },
+   {
+    "name": "Mohamed Saad 9",
+    "pos": 11,
+    "tag": "#L9J09VCLR",
+    "th": 19
+   },
+   {
+    "name": "omar",
+    "pos": 22,
+    "tag": "#LLRLYCC9P",
+    "th": 18
+   },
+   {
+    "name": "Commander",
+    "pos": 25,
+    "tag": "#G0VVLJ092",
+    "th": 17
+   }
+  ],
+  "name": "Egypt",
+  "stars": 3,
+  "tag": "#2QQ9C2PUJ"
+ },
+ "start": "20261128T130346.000Z",
+ "state": "inWar",
+ "teamSize": 35,
+ "type": "krieg"
+}
