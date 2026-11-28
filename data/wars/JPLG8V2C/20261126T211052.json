@@ -538,11 +538,110 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#2PGPUGJG9",
+   "ath": 19,
+   "d": "#9JVY2UQJ",
+   "dth": 19,
+   "dur": 138,
+   "o": 50,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#R88C9VCG",
+   "ath": 19,
+   "d": "#GQQ8QVQ",
+   "dth": 19,
+   "dur": 92,
+   "o": 51,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#2PGPUGJG9",
+   "ath": 19,
+   "d": "#2J990UYRL",
+   "dth": 19,
+   "dur": 98,
+   "o": 52,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#R88C9VCG",
+   "ath": 19,
+   "d": "#2PPJR8QV",
+   "dth": 19,
+   "dur": 111,
+   "o": 53,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#8P00Y8YRR",
+   "ath": 19,
+   "d": "#PRU0JVL",
+   "dth": 19,
+   "dur": 128,
+   "o": 54,
+   "p": 85,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#8P00Y8YRR",
+   "ath": 19,
+   "d": "#8R2CLULPY",
+   "dth": 19,
+   "dur": 130,
+   "o": 55,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#PRU0JVL",
+   "ath": 19,
+   "d": "#GP9P2UL",
+   "dth": 19,
+   "dur": 166,
+   "o": 56,
+   "p": 95,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#PRU0JVL",
+   "ath": 19,
+   "d": "#P8G2UPJ0G",
+   "dth": 19,
+   "dur": 115,
+   "o": 57,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#J2CJUJGR",
+   "ath": 19,
+   "d": "#Q8YUQGV8",
+   "dth": 19,
+   "dur": 169,
+   "o": 58,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 56.17143,
+  "destruction": 62.114285,
   "members": [
    {
     "name": "Der Checker",
@@ -756,12 +855,12 @@
    }
   ],
   "name": "GhostZone",
-  "stars": 55,
+  "stars": 63,
   "tag": "#JPLG8V2C"
  },
  "end": "20261128T201052.000Z",
  "opponent": {
-  "destruction": 64.62857,
+  "destruction": 78.77143,
   "members": [
    {
     "name": "SRG⭐️Warden",
@@ -975,7 +1074,7 @@
    }
   ],
   "name": "SRG GAMING I",
-  "stars": 62,
+  "stars": 76,
   "tag": "#28Y2U099L"
  },
  "start": "20261127T201052.000Z",

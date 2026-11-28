@@ -571,11 +571,110 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#RL9JYPP2",
+   "ath": 19,
+   "d": "#8YGV2RQV",
+   "dth": 19,
+   "dur": 80,
+   "o": 53,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#RLPJV8P",
+   "ath": 19,
+   "d": "#UULCYVRR",
+   "dth": 19,
+   "dur": 137,
+   "o": 54,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#GY29L92G8",
+   "ath": 19,
+   "d": "#8CCPURQVP",
+   "dth": 19,
+   "dur": 152,
+   "o": 55,
+   "p": 98,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#228R88GRP",
+   "ath": 19,
+   "d": "#LYLL0J9G8",
+   "dth": 19,
+   "dur": 142,
+   "o": 56,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#9PJQ8QVPU",
+   "ath": 19,
+   "d": "#22V9GUQ9Y",
+   "dth": 19,
+   "dur": 155,
+   "o": 57,
+   "p": 87,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#9PJQ8QVPU",
+   "ath": 19,
+   "d": "#QJL9L0CLR",
+   "dth": 19,
+   "dur": 123,
+   "o": 58,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#2LYYCVC8R",
+   "ath": 19,
+   "d": "#228R88GRP",
+   "dth": 19,
+   "dur": 164,
+   "o": 59,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#2LYYCVC8R",
+   "ath": 19,
+   "d": "#2UQ9VY0G9",
+   "dth": 19,
+   "dur": 177,
+   "o": 60,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#8P8VV8C9",
+   "ath": 19,
+   "d": "#C9J89CGU",
+   "dth": 19,
+   "dur": 143,
+   "o": 61,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 58.8,
+  "destruction": 70.171425,
   "members": [
    {
     "name": "Louis",
@@ -789,12 +888,12 @@
    }
   ],
   "name": "Pokerzone",
-  "stars": 58,
+  "stars": 69,
   "tag": "#2JPJ8J8CQ"
  },
  "end": "20261128T203822.000Z",
  "opponent": {
-  "destruction": 63.6,
+  "destruction": 72.28571,
   "members": [
    {
     "name": "ᐯᶠᴼᴿᐯＥＮＤＥＴＴＡ",
@@ -1008,7 +1107,7 @@
    }
   ],
   "name": "SUPERBIA PkTr",
-  "stars": 61,
+  "stars": 71,
   "tag": "#VPLRRJUG"
  },
  "start": "20261127T203822.000Z",

@@ -230,6 +230,17 @@
    "p": 16,
    "s": 1,
    "side": "gegner"
+  },
+  {
+   "a": "#CP08C9LJ",
+   "ath": 19,
+   "d": "#GCRGG08L",
+   "dth": 19,
+   "dur": 138,
+   "o": 22,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -423,7 +434,7 @@
  },
  "end": "20261128T184606.000Z",
  "opponent": {
-  "destruction": 27.133333,
+  "destruction": 30.466667,
   "members": [
    {
     "name": "WH❤TAKBIR 2",
@@ -607,7 +618,7 @@
    }
   ],
   "name": "WaR HoUsE",
-  "stars": 20,
+  "stars": 23,
   "tag": "#PCCP8LQL"
  },
  "start": "20261127T184606.000Z",

@@ -472,11 +472,110 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#YPY89QR9",
+   "ath": 19,
+   "d": "#2QLJC00JG",
+   "dth": 19,
+   "dur": 109,
+   "o": 44,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#CCL89YC8",
+   "ath": 19,
+   "d": "#8UPR9JCQV",
+   "dth": 19,
+   "dur": 173,
+   "o": 45,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#YPY89QR9",
+   "ath": 19,
+   "d": "#QQCRLCQ",
+   "dth": 19,
+   "dur": 180,
+   "o": 46,
+   "p": 94,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#UV2GV2YP",
+   "ath": 19,
+   "d": "#R8RLRU98",
+   "dth": 19,
+   "dur": 156,
+   "o": 47,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#8YGQ2PGQG",
+   "ath": 19,
+   "d": "#L8RCRC2G",
+   "dth": 19,
+   "dur": 147,
+   "o": 48,
+   "p": 89,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#8YGQ2PGQG",
+   "ath": 19,
+   "d": "#U2VGY99G",
+   "dth": 19,
+   "dur": 102,
+   "o": 49,
+   "p": 70,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#L8RCRC2G",
+   "ath": 19,
+   "d": "#8LJVL0CV",
+   "dth": 19,
+   "dur": 151,
+   "o": 50,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#L8RCRC2G",
+   "ath": 19,
+   "d": "#G99QQRQR",
+   "dth": 19,
+   "dur": 180,
+   "o": 51,
+   "p": 95,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#2Y0CCJ09",
+   "ath": 19,
+   "d": "#CGV0902L",
+   "dth": 19,
+   "dur": 97,
+   "o": 52,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 40.95,
+  "destruction": 41.3,
   "members": [
    {
     "name": "Gsälzbrot",
@@ -720,12 +819,12 @@
    }
   ],
   "name": "headstart",
-  "stars": 46,
+  "stars": 47,
   "tag": "#RLQC8QQY"
  },
  "end": "20261128T200455.000Z",
  "opponent": {
-  "destruction": 53.75,
+  "destruction": 70.075,
   "members": [
    {
     "name": "michael",
@@ -969,7 +1068,7 @@
    }
   ],
   "name": "Dutch Dignity",
-  "stars": 63,
+  "stars": 80,
   "tag": "#29PQV9L8R"
  },
  "start": "20261127T200455.000Z",

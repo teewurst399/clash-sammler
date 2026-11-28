@@ -593,11 +593,44 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#QQLYUQP8Q",
+   "ath": 19,
+   "d": "#2Y8CCJQ0",
+   "dth": 19,
+   "dur": 128,
+   "o": 55,
+   "p": 92,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#YJYUVQ0CR",
+   "ath": 19,
+   "d": "#QJLG828GC",
+   "dth": 9,
+   "dur": 65,
+   "o": 56,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#22PUVQU29",
+   "ath": 19,
+   "d": "#CYC98RJ",
+   "dth": 19,
+   "dur": 177,
+   "o": 57,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 22.714285,
+  "destruction": 22.857143,
   "members": [
    {
     "name": "xXStelioXx",
@@ -811,12 +844,12 @@
    }
   ],
   "name": "Endzone",
-  "stars": 23,
+  "stars": 24,
   "tag": "#2YPY9PLUU"
  },
  "end": "20261128T224703.000Z",
  "opponent": {
-  "destruction": 96.4,
+  "destruction": 99.77143,
   "members": [
    {
     "name": "爱意总模糊",
@@ -1030,7 +1063,7 @@
    }
   ],
   "name": "暗鳳馆★★★",
-  "stars": 101,
+  "stars": 104,
   "tag": "#P0LJQJRY"
  },
  "start": "20261127T224703.000Z",

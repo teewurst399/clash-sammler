@@ -1,0 +1,550 @@
+{
+ "attacks": [
+  {
+   "a": "#PVVJ0QQPG",
+   "ath": 19,
+   "d": "#8VPP22U2",
+   "dth": 19,
+   "dur": 94,
+   "o": 1,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#GCJV29VY",
+   "ath": 19,
+   "d": "#8JUY22JGP",
+   "dth": 19,
+   "dur": 131,
+   "o": 2,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#PVVJ0QQPG",
+   "ath": 19,
+   "d": "#JCUJJ2P0",
+   "dth": 19,
+   "dur": 92,
+   "o": 3,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#GCJV29VY",
+   "ath": 19,
+   "d": "#QQYL9YYQQ",
+   "dth": 19,
+   "dur": 107,
+   "o": 4,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  }
+ ],
+ "attacksPerMember": 2,
+ "clan": {
+  "destruction": 5.0,
+  "members": [
+   {
+    "name": "FL • SKINNYJIMM",
+    "pos": 22,
+    "tag": "#2CQCUYGU",
+    "th": 19
+   },
+   {
+    "name": "FL • Milkatrix",
+    "pos": 9,
+    "tag": "#G9RLGJJU",
+    "th": 19
+   },
+   {
+    "name": "░S░a░m░o²",
+    "pos": 20,
+    "tag": "#GPY0LC9",
+    "th": 19
+   },
+   {
+    "name": "山凡尺乚ロ尺刀",
+    "pos": 38,
+    "tag": "#8J9LVQLJJ",
+    "th": 19
+   },
+   {
+    "name": "⭕️Caz⭕️",
+    "pos": 10,
+    "tag": "#PQ9GVJ9GJ",
+    "th": 19
+   },
+   {
+    "name": "Aurelius.",
+    "pos": 26,
+    "tag": "#9LQ9V0LC",
+    "th": 19
+   },
+   {
+    "name": "FL • NoName",
+    "pos": 16,
+    "tag": "#2G02080V2",
+    "th": 19
+   },
+   {
+    "name": "Mats",
+    "pos": 3,
+    "tag": "#GCQYC8QL",
+    "th": 19
+   },
+   {
+    "name": "Tyron",
+    "pos": 36,
+    "tag": "#8C8RP02U",
+    "th": 19
+   },
+   {
+    "name": "BlackZero0815",
+    "pos": 35,
+    "tag": "#22J8GYP8L",
+    "th": 19
+   },
+   {
+    "name": "Bluefame2",
+    "pos": 29,
+    "tag": "#G82G8J2V2",
+    "th": 19
+   },
+   {
+    "name": "FL • BluuBerry",
+    "pos": 37,
+    "tag": "#YLL080LG",
+    "th": 19
+   },
+   {
+    "name": "Maiko24",
+    "pos": 2,
+    "tag": "#JCUJJ2P0",
+    "th": 19
+   },
+   {
+    "name": "⚡Julian⚡",
+    "pos": 23,
+    "tag": "#PGL8RJ00V",
+    "th": 19
+   },
+   {
+    "name": "ByChrisiYT",
+    "pos": 27,
+    "tag": "#RYUUPP88",
+    "th": 19
+   },
+   {
+    "name": "Obsi",
+    "pos": 31,
+    "tag": "#GCJV29VY",
+    "th": 19
+   },
+   {
+    "name": "BlueFame",
+    "pos": 18,
+    "tag": "#G0RCVCC",
+    "th": 19
+   },
+   {
+    "name": "julian",
+    "pos": 8,
+    "tag": "#QGPLG8QR",
+    "th": 19
+   },
+   {
+    "name": "Dunklerkristall",
+    "pos": 32,
+    "tag": "#8QQ8U9P88",
+    "th": 19
+   },
+   {
+    "name": "FunnyFrog",
+    "pos": 7,
+    "tag": "#2QGCPVJV2",
+    "th": 19
+   },
+   {
+    "name": "Nico",
+    "pos": 19,
+    "tag": "#Q8UQUULP",
+    "th": 19
+   },
+   {
+    "name": "FL • Super",
+    "pos": 33,
+    "tag": "#YCQYCLVRL",
+    "th": 19
+   },
+   {
+    "name": "Philip",
+    "pos": 24,
+    "tag": "#2RYJGPJ8",
+    "th": 19
+   },
+   {
+    "name": "HendrikLamaar",
+    "pos": 17,
+    "tag": "#98G9RQLYG",
+    "th": 19
+   },
+   {
+    "name": "Aurelius",
+    "pos": 12,
+    "tag": "#8QU2V2Y",
+    "th": 19
+   },
+   {
+    "name": "FL • / Maxi™ \\",
+    "pos": 1,
+    "tag": "#8VPP22U2",
+    "th": 19
+   },
+   {
+    "name": "D4M4GE",
+    "pos": 11,
+    "tag": "#R9JCLCVP",
+    "th": 19
+   },
+   {
+    "name": "-+ HUNTER +-",
+    "pos": 5,
+    "tag": "#2YVQ90GL",
+    "th": 19
+   },
+   {
+    "name": "макс",
+    "pos": 34,
+    "tag": "#P2V0QQCJ2",
+    "th": 19
+   },
+   {
+    "name": "Chrizz Khalifa",
+    "pos": 21,
+    "tag": "#LQQJ9L9QY",
+    "th": 19
+   },
+   {
+    "name": "FL • Sandman",
+    "pos": 39,
+    "tag": "#PUVPC2V2C",
+    "th": 19
+   },
+   {
+    "name": "J҉O҉K҉E҉R҉",
+    "pos": 28,
+    "tag": "#Q0R9QPCJV",
+    "th": 19
+   },
+   {
+    "name": "Sts™",
+    "pos": 15,
+    "tag": "#8L0LJ9YQL",
+    "th": 19
+   },
+   {
+    "name": "FL • Rubinfeige",
+    "pos": 13,
+    "tag": "#LCVJJJCRJ",
+    "th": 19
+   },
+   {
+    "name": "FL • ϟ×STORM↯",
+    "pos": 4,
+    "tag": "#8LQGYYVP",
+    "th": 19
+   },
+   {
+    "name": "AtiGaming9",
+    "pos": 40,
+    "tag": "#QU8JCYPUG",
+    "th": 19
+   },
+   {
+    "name": "Kaito™️",
+    "pos": 14,
+    "tag": "#PVVPQ8JR9",
+    "th": 19
+   },
+   {
+    "name": "Shah Ati✓",
+    "pos": 30,
+    "tag": "#20GCPRV0R",
+    "th": 19
+   },
+   {
+    "name": "FL • SASND",
+    "pos": 6,
+    "tag": "#8UC9C280U",
+    "th": 19
+   },
+   {
+    "name": "Omega",
+    "pos": 25,
+    "tag": "#P92VRLYRC",
+    "th": 19
+   }
+  ],
+  "name": "FruchtLabor",
+  "stars": 6,
+  "tag": "#28LYJ29CQ"
+ },
+ "end": "20261129T090818.000Z",
+ "opponent": {
+  "destruction": 5.0,
+  "members": [
+   {
+    "name": "雪菜肉絲",
+    "pos": 7,
+    "tag": "#99PUGQQ8",
+    "th": 19
+   },
+   {
+    "name": "悲傷小鳥 j",
+    "pos": 3,
+    "tag": "#PCR0VCC9",
+    "th": 19
+   },
+   {
+    "name": "雪ころに布丁",
+    "pos": 21,
+    "tag": "#RYJCU8UP",
+    "th": 19
+   },
+   {
+    "name": "南帝",
+    "pos": 23,
+    "tag": "#U8P8989C",
+    "th": 19
+   },
+   {
+    "name": "男叶",
+    "pos": 2,
+    "tag": "#QQYL9YYQQ",
+    "th": 19
+   },
+   {
+    "name": "Bennybhl",
+    "pos": 9,
+    "tag": "#U888RLJJ",
+    "th": 19
+   },
+   {
+    "name": "五香肉丁",
+    "pos": 13,
+    "tag": "#LCGV0J8QU",
+    "th": 19
+   },
+   {
+    "name": "The Bygone Days",
+    "pos": 19,
+    "tag": "#2V89PPJCY",
+    "th": 19
+   },
+   {
+    "name": "黄家梁",
+    "pos": 24,
+    "tag": "#YQQYQYGU",
+    "th": 19
+   },
+   {
+    "name": "SLD⚡️隱潤掏光妳的心❤️",
+    "pos": 4,
+    "tag": "#8PPVVVYUY",
+    "th": 19
+   },
+   {
+    "name": "金記茶餐廳",
+    "pos": 8,
+    "tag": "#9V8R00LJY",
+    "th": 19
+   },
+   {
+    "name": "『天堂制造』",
+    "pos": 33,
+    "tag": "#QJQV9YJGV",
+    "th": 19
+   },
+   {
+    "name": "澳洲省建设厅厅长❤️",
+    "pos": 25,
+    "tag": "#2P8Y8QUC",
+    "th": 19
+   },
+   {
+    "name": "99%✨W",
+    "pos": 28,
+    "tag": "#QVUQ9YPJC",
+    "th": 19
+   },
+   {
+    "name": "Blue",
+    "pos": 14,
+    "tag": "#RR2YPP9R",
+    "th": 19
+   },
+   {
+    "name": "永恒",
+    "pos": 5,
+    "tag": "#YL2V89V9V",
+    "th": 19
+   },
+   {
+    "name": "晨牧丿",
+    "pos": 16,
+    "tag": "#GQ9YRCR2J",
+    "th": 19
+   },
+   {
+    "name": "✨Cj⚡️1✨☯️忍天者☯️",
+    "pos": 12,
+    "tag": "#9CR8PCC",
+    "th": 19
+   },
+   {
+    "name": "只會玩空軍的小葦",
+    "pos": 27,
+    "tag": "#99RJ8LL9",
+    "th": 19
+   },
+   {
+    "name": "7M✨VTEC TURBO",
+    "pos": 34,
+    "tag": "#ULUJCRUC",
+    "th": 19
+   },
+   {
+    "name": "Lang vei å gå",
+    "pos": 39,
+    "tag": "#QRV8Q0JRR",
+    "th": 19
+   },
+   {
+    "name": "QLS KT",
+    "pos": 20,
+    "tag": "#LPLR9YY8J",
+    "th": 19
+   },
+   {
+    "name": "rtt 杰尔夫特",
+    "pos": 32,
+    "tag": "#PVVJ0QQPG",
+    "th": 19
+   },
+   {
+    "name": "lilil",
+    "pos": 29,
+    "tag": "#RP9CG2",
+    "th": 19
+   },
+   {
+    "name": "KING IGG",
+    "pos": 10,
+    "tag": "#82RJYCRRC",
+    "th": 19
+   },
+   {
+    "name": "99%✨M",
+    "pos": 31,
+    "tag": "#LCQ2RJU2J",
+    "th": 19
+   },
+   {
+    "name": "Emperor Kun",
+    "pos": 36,
+    "tag": "#GJQ0VP0V8",
+    "th": 19
+   },
+   {
+    "name": "ZhiYi",
+    "pos": 17,
+    "tag": "#GPJYU0VC8",
+    "th": 19
+   },
+   {
+    "name": "7M✨VTEC TURBO",
+    "pos": 37,
+    "tag": "#R9PYCLCQ",
+    "th": 19
+   },
+   {
+    "name": "Big wewe✨",
+    "pos": 30,
+    "tag": "#G2CGVYRUY",
+    "th": 19
+   },
+   {
+    "name": "最强部落 小霸王",
+    "pos": 38,
+    "tag": "#C9RCJVY2",
+    "th": 19
+   },
+   {
+    "name": "最强部落 阿农",
+    "pos": 26,
+    "tag": "#YUVCLCCU0",
+    "th": 19
+   },
+   {
+    "name": "雨辰",
+    "pos": 15,
+    "tag": "#GPRR90R0G",
+    "th": 19
+   },
+   {
+    "name": "Eddy TZY",
+    "pos": 18,
+    "tag": "#QLR29JR0",
+    "th": 19
+   },
+   {
+    "name": "心底奶号",
+    "pos": 1,
+    "tag": "#8JUY22JGP",
+    "th": 19
+   },
+   {
+    "name": "丹丹",
+    "pos": 6,
+    "tag": "#L9R8VGJJL",
+    "th": 19
+   },
+   {
+    "name": "AE.HH✨TDat✨",
+    "pos": 35,
+    "tag": "#989C8LC28",
+    "th": 19
+   },
+   {
+    "name": "随风",
+    "pos": 22,
+    "tag": "#GYLC2JC08",
+    "th": 19
+   },
+   {
+    "name": "晨牧丶",
+    "pos": 40,
+    "tag": "#GC029QVVV",
+    "th": 19
+   },
+   {
+    "name": "maxmax",
+    "pos": 11,
+    "tag": "#L989JUQ2L",
+    "th": 19
+   }
+  ],
+  "name": "最强部落",
+  "stars": 6,
+  "tag": "#22RR0PPUL"
+ },
+ "start": "20261128T090818.000Z",
+ "state": "inWar",
+ "teamSize": 40,
+ "type": "krieg"
+}

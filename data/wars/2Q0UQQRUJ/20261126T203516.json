@@ -549,6 +549,105 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#GCR222QG0",
+   "ath": 15,
+   "d": "#G282GL0C0",
+   "dth": 17,
+   "dur": 115,
+   "o": 51,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#GCR222QG0",
+   "ath": 15,
+   "d": "#PLJPQL0Y8",
+   "dth": 18,
+   "dur": 118,
+   "o": 52,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#QJURJJPV",
+   "ath": 19,
+   "d": "#GLCVJJP8G",
+   "dth": 19,
+   "dur": 152,
+   "o": 53,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#GYQ2LULYC",
+   "ath": 17,
+   "d": "#GRCLGPPG",
+   "dth": 17,
+   "dur": 136,
+   "o": 54,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#GYQ2LULYC",
+   "ath": 17,
+   "d": "#GG9QUVJRL",
+   "dth": 18,
+   "dur": 180,
+   "o": 55,
+   "p": 98,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#VPR2JCP8",
+   "ath": 17,
+   "d": "#20J0LPYG0",
+   "dth": 17,
+   "dur": 155,
+   "o": 56,
+   "p": 85,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#902CC2J2C",
+   "ath": 18,
+   "d": "#Y9PU0RCGR",
+   "dth": 19,
+   "dur": 149,
+   "o": 57,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#VPR2JCP8",
+   "ath": 17,
+   "d": "#GRCLGPPG",
+   "dth": 17,
+   "dur": 117,
+   "o": 58,
+   "p": 59,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#88V9CYQL",
+   "ath": 17,
+   "d": "#GG9QUVJRL",
+   "dth": 18,
+   "dur": 159,
+   "o": 59,
+   "p": 86,
+   "s": 1,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -742,7 +841,7 @@
  },
  "end": "20261128T193516.000Z",
  "opponent": {
-  "destruction": 72.166664,
+  "destruction": 89.566666,
   "members": [
    {
     "name": "mcc",
@@ -926,7 +1025,7 @@
    }
   ],
   "name": "#KriegsElite",
-  "stars": 63,
+  "stars": 77,
   "tag": "#20G9PL2G"
  },
  "start": "20261127T193516.000Z",

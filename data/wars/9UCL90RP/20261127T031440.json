@@ -593,11 +593,165 @@
    "p": 85,
    "s": 1,
    "side": "clan"
+  },
+  {
+   "a": "#PJ0YRPC22",
+   "ath": 19,
+   "d": "#P22VQLRG",
+   "dth": 19,
+   "dur": 180,
+   "o": 55,
+   "p": 91,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#P0C2JYJRJ",
+   "ath": 19,
+   "d": "#98YR8QL0",
+   "dth": 19,
+   "dur": 169,
+   "o": 56,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#L8CR092Q",
+   "ath": 19,
+   "d": "#8LCG9CPQJ",
+   "dth": 19,
+   "dur": 122,
+   "o": 57,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#PCR99YL0",
+   "ath": 19,
+   "d": "#2R8URGRQ8",
+   "dth": 19,
+   "dur": 101,
+   "o": 58,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#PCR99YL0",
+   "ath": 19,
+   "d": "#9Y0URUUUP",
+   "dth": 19,
+   "dur": 170,
+   "o": 59,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#P0C2JYJRJ",
+   "ath": 19,
+   "d": "#8RUYVJQ2Q",
+   "dth": 19,
+   "dur": 130,
+   "o": 60,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#2LQP8JUJ",
+   "ath": 19,
+   "d": "#P22VQLRG",
+   "dth": 19,
+   "dur": 146,
+   "o": 61,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#8RUYVJQ2Q",
+   "ath": 19,
+   "d": "#2GJ8RRL8U",
+   "dth": 19,
+   "dur": 147,
+   "o": 62,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#2LQP8JUJ",
+   "ath": 19,
+   "d": "#P8R0G28Q",
+   "dth": 19,
+   "dur": 150,
+   "o": 63,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#P22VQLRG",
+   "ath": 19,
+   "d": "#QRU8VGC22",
+   "dth": 19,
+   "dur": 97,
+   "o": 64,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#8RUYVJQ2Q",
+   "ath": 19,
+   "d": "#QCLC2CVL",
+   "dth": 19,
+   "dur": 179,
+   "o": 65,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#P22VQLRG",
+   "ath": 19,
+   "d": "#P0C2JYJRJ",
+   "dth": 19,
+   "dur": 124,
+   "o": 66,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#2CG8QJPQR",
+   "ath": 19,
+   "d": "#GJQ0VLG8",
+   "dth": 19,
+   "dur": 180,
+   "o": 67,
+   "p": 88,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#2CG8QJPQR",
+   "ath": 19,
+   "d": "#Y9JR92G9U",
+   "dth": 19,
+   "dur": 180,
+   "o": 68,
+   "p": 95,
+   "s": 2,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 50.177776,
+  "destruction": 67.577774,
   "members": [
    {
     "name": "ROBINJO*ALIHAN",
@@ -871,12 +1025,12 @@
    }
   ],
   "name": "Eiskalte Engel",
-  "stars": 62,
+  "stars": 84,
   "tag": "#9UCL90RP"
  },
  "end": "20261129T021440.000Z",
  "opponent": {
-  "destruction": 57.755554,
+  "destruction": 65.04444,
   "members": [
    {
     "name": "Tyler/Neo",
@@ -1150,7 +1304,7 @@
    }
   ],
   "name": "War Maniacs",
-  "stars": 72,
+  "stars": 84,
   "tag": "#9VVU2Q0V"
  },
  "start": "20261128T021440.000Z",
