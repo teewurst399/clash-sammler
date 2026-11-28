@@ -76,6 +76,116 @@
    "p": 87,
    "s": 2,
    "side": "gegner"
+  },
+  {
+   "a": "#2Y2YG288Y",
+   "ath": 19,
+   "d": "#22PUVQU29",
+   "dth": 19,
+   "dur": 151,
+   "o": 8,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#8L8U298P",
+   "ath": 19,
+   "d": "#UJ9299LR",
+   "dth": 19,
+   "dur": 143,
+   "o": 9,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#2Y2YG288Y",
+   "ath": 19,
+   "d": "#9Y9G8J9Q9",
+   "dth": 19,
+   "dur": 153,
+   "o": 10,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#8L8U298P",
+   "ath": 19,
+   "d": "#20JGLU9PP",
+   "dth": 19,
+   "dur": 143,
+   "o": 11,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#QJVCC8YR8",
+   "ath": 19,
+   "d": "#UGUP0YG2",
+   "dth": 19,
+   "dur": 137,
+   "o": 12,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#QJVCC8YR8",
+   "ath": 19,
+   "d": "#999UUPGC8",
+   "dth": 19,
+   "dur": 146,
+   "o": 13,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#82YVR9L",
+   "ath": 19,
+   "d": "#QQJYRLJG2",
+   "dth": 19,
+   "dur": 124,
+   "o": 14,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#VJ2P9J2Y",
+   "ath": 19,
+   "d": "#2PVG9YG02",
+   "dth": 19,
+   "dur": 126,
+   "o": 15,
+   "p": 86,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#2YPCLR2QQ",
+   "ath": 19,
+   "d": "#8C00YVVP",
+   "dth": 19,
+   "dur": 161,
+   "o": 16,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#VJ2P9J2Y",
+   "ath": 19,
+   "d": "#2Y8CCJQ0",
+   "dth": 19,
+   "dur": 120,
+   "o": 17,
+   "p": 72,
+   "s": 2,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -299,7 +409,7 @@
  },
  "end": "20261128T224703.000Z",
  "opponent": {
-  "destruction": 13.914286,
+  "destruction": 38.8,
   "members": [
    {
     "name": "爱意总模糊",
@@ -513,7 +623,7 @@
    }
   ],
   "name": "暗鳳馆★★★",
-  "stars": 14,
+  "stars": 40,
   "tag": "#P0LJQJRY"
  },
  "start": "20261127T224703.000Z",

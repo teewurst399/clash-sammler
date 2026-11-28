@@ -417,11 +417,110 @@
    "p": 94,
    "s": 2,
    "side": "gegner"
+  },
+  {
+   "a": "#2UUGQULY",
+   "ath": 19,
+   "d": "#UJR8QRCY",
+   "dth": 19,
+   "dur": 129,
+   "o": 39,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#2UUGQULY",
+   "ath": 19,
+   "d": "#G892YC2GP",
+   "dth": 19,
+   "dur": 173,
+   "o": 40,
+   "p": 87,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#YYVPRPY8",
+   "ath": 19,
+   "d": "#LQCGLUCQ",
+   "dth": 19,
+   "dur": 180,
+   "o": 41,
+   "p": 91,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#22UR9QVGV",
+   "ath": 19,
+   "d": "#YQ2GJJCU",
+   "dth": 19,
+   "dur": 144,
+   "o": 42,
+   "p": 89,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#22UR9QVGV",
+   "ath": 19,
+   "d": "#LP0LVY99Q",
+   "dth": 19,
+   "dur": 111,
+   "o": 43,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#YJ28U9VQC",
+   "ath": 19,
+   "d": "#9209J8R9L",
+   "dth": 19,
+   "dur": 95,
+   "o": 44,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#9Y2Y0J8QG",
+   "ath": 19,
+   "d": "#9R2GCULGP",
+   "dth": 19,
+   "dur": 171,
+   "o": 45,
+   "p": 85,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#9Y2Y0J8QG",
+   "ath": 19,
+   "d": "#LQCGLUCQ",
+   "dth": 19,
+   "dur": 153,
+   "o": 46,
+   "p": 74,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#LP0LVY99Q",
+   "ath": 19,
+   "d": "#9ULULRG98",
+   "dth": 19,
+   "dur": 154,
+   "o": 47,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 48.25,
+  "destruction": 50.725,
   "members": [
    {
     "name": "MOZ.ART",
@@ -665,12 +764,12 @@
    }
   ],
   "name": "Firstzone",
-  "stars": 52,
+  "stars": 57,
   "tag": "#2YQQ80QGL"
  },
  "end": "20261128T191235.000Z",
  "opponent": {
-  "destruction": 38.95,
+  "destruction": 50.15,
   "members": [
    {
     "name": "Bhors23",
@@ -914,7 +1013,7 @@
    }
   ],
   "name": "House of Elites",
-  "stars": 44,
+  "stars": 55,
   "tag": "#2YLR0J09Y"
  },
  "start": "20261127T191235.000Z",

@@ -615,11 +615,22 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#YR2RJUJ0",
+   "ath": 19,
+   "d": "#LJCV8Y8VQ",
+   "dth": 19,
+   "dur": 160,
+   "o": 57,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 52.5,
+  "destruction": 55.0,
   "members": [
    {
     "name": "Patrón",
@@ -863,7 +874,7 @@
    }
   ],
   "name": "Throne_of_SRG",
-  "stars": 63,
+  "stars": 66,
   "tag": "#2CU98J0CU"
  },
  "end": "20261128T174104.000Z",
