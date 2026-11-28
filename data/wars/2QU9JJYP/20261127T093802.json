@@ -164,11 +164,264 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#GL89CLYLV",
+   "ath": 19,
+   "d": "#22LPGY0QU",
+   "dth": 19,
+   "dur": 153,
+   "o": 16,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#GL89CLYLV",
+   "ath": 19,
+   "d": "#QJR9L9GCJ",
+   "dth": 19,
+   "dur": 136,
+   "o": 17,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#JVJ9QR22",
+   "ath": 19,
+   "d": "#VPCL2PVQ",
+   "dth": 19,
+   "dur": 87,
+   "o": 18,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#G0V0P8JC2",
+   "ath": 19,
+   "d": "#LGCURJJ0",
+   "dth": 19,
+   "dur": 85,
+   "o": 19,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#2YPJ8YCCP",
+   "ath": 19,
+   "d": "#2828UJQVQ",
+   "dth": 19,
+   "dur": 93,
+   "o": 20,
+   "p": 72,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#JVJ9QR22",
+   "ath": 19,
+   "d": "#QRQVJ8L09",
+   "dth": 19,
+   "dur": 100,
+   "o": 21,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#URJ08GC9",
+   "ath": 19,
+   "d": "#22LC2CVJP",
+   "dth": 19,
+   "dur": 169,
+   "o": 22,
+   "p": 87,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#G0V0P8JC2",
+   "ath": 19,
+   "d": "#Q9Q2YJR2",
+   "dth": 19,
+   "dur": 83,
+   "o": 23,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#URJ08GC9",
+   "ath": 19,
+   "d": "#2LGV9G8P",
+   "dth": 19,
+   "dur": 147,
+   "o": 24,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#Y2GJJ9L0",
+   "ath": 19,
+   "d": "#YCV2R8L2",
+   "dth": 19,
+   "dur": 131,
+   "o": 25,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#RYGJ8GPQ",
+   "ath": 19,
+   "d": "#9QYPJ8J9V",
+   "dth": 19,
+   "dur": 118,
+   "o": 26,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#8CY2PYJ8P",
+   "ath": 19,
+   "d": "#YGC2P8QUR",
+   "dth": 19,
+   "dur": 156,
+   "o": 27,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#2RP8CGQ0C",
+   "ath": 19,
+   "d": "#YQ2VL0VJ9",
+   "dth": 19,
+   "dur": 147,
+   "o": 28,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#GQYQY99C2",
+   "ath": 19,
+   "d": "#2828UJQVQ",
+   "dth": 19,
+   "dur": 119,
+   "o": 29,
+   "p": 83,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#RYGJ8GPQ",
+   "ath": 19,
+   "d": "#PYJJLUYRV",
+   "dth": 19,
+   "dur": 125,
+   "o": 30,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#G0CQJJ8R",
+   "ath": 19,
+   "d": "#9LCC99GC",
+   "dth": 19,
+   "dur": 137,
+   "o": 31,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#22PC99C82",
+   "ath": 19,
+   "d": "#CQQJUUQY",
+   "dth": 19,
+   "dur": 153,
+   "o": 32,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#G0CQJJ8R",
+   "ath": 19,
+   "d": "#L9QLLJ8GU",
+   "dth": 19,
+   "dur": 180,
+   "o": 33,
+   "p": 96,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#8CY2PYJ8P",
+   "ath": 19,
+   "d": "#2L0LYU22Q",
+   "dth": 19,
+   "dur": 139,
+   "o": 34,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#V9CJYR28",
+   "ath": 19,
+   "d": "#22LC2CVJP",
+   "dth": 19,
+   "dur": 168,
+   "o": 35,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#V9CJYR28",
+   "ath": 19,
+   "d": "#2828UJQVQ",
+   "dth": 19,
+   "dur": 131,
+   "o": 36,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#L82L8LQC",
+   "ath": 19,
+   "d": "#LC2VLRCCG",
+   "dth": 19,
+   "dur": 127,
+   "o": 37,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#2LLQLUPGY",
+   "ath": 19,
+   "d": "#Q9LCPJ0PR",
+   "dth": 19,
+   "dur": 124,
+   "o": 38,
+   "p": 97,
+   "s": 2,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 13.333333,
+  "destruction": 17.688889,
   "members": [
    {
     "name": "Ben",
@@ -442,12 +695,12 @@
    }
   ],
   "name": "Confusion",
-  "stars": 18,
+  "stars": 23,
   "tag": "#2QU9JJYP"
  },
  "end": "20261129T083802.000Z",
  "opponent": {
-  "destruction": 17.622223,
+  "destruction": 55.488888,
   "members": [
    {
     "name": "nobnobnob",
@@ -721,7 +974,7 @@
    }
   ],
   "name": "Heroes Korea",
-  "stars": 23,
+  "stars": 74,
   "tag": "#982JCPJU"
  },
  "start": "20261128T083802.000Z",

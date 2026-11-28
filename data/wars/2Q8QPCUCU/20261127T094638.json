@@ -43,11 +43,110 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#8CQU8QRPC",
+   "ath": 19,
+   "d": "#Q9VJGU0UR",
+   "dth": 19,
+   "dur": 180,
+   "o": 5,
+   "p": 93,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#8GCLJJVQY",
+   "ath": 19,
+   "d": "#G0GV20PUP",
+   "dth": 19,
+   "dur": 180,
+   "o": 6,
+   "p": 89,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#8CQU8QRPC",
+   "ath": 19,
+   "d": "#9R02UGGLP",
+   "dth": 19,
+   "dur": 116,
+   "o": 7,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#GPRLQCC9",
+   "ath": 19,
+   "d": "#Q9RLCUJ2J",
+   "dth": 19,
+   "dur": 123,
+   "o": 8,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#GPRLQCC9",
+   "ath": 19,
+   "d": "#29PVQ9L08",
+   "dth": 19,
+   "dur": 172,
+   "o": 9,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#29PVQ9L08",
+   "ath": 19,
+   "d": "#9JGQ99J8U",
+   "dth": 19,
+   "dur": 130,
+   "o": 10,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#902C29LU9",
+   "ath": 19,
+   "d": "#PYRQ8CLVQ",
+   "dth": 19,
+   "dur": 129,
+   "o": 11,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#902C29LU9",
+   "ath": 19,
+   "d": "#2L8YGQR29",
+   "dth": 19,
+   "dur": 116,
+   "o": 12,
+   "p": 99,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#Q2RC8YY9U",
+   "ath": 19,
+   "d": "#QC2U2YRGC",
+   "dth": 19,
+   "dur": 163,
+   "o": 13,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 5.0,
+  "destruction": 14.975,
   "members": [
    {
     "name": "Travel327",
@@ -291,12 +390,12 @@
    }
   ],
   "name": "Der Obstorden",
-  "stars": 6,
+  "stars": 17,
   "tag": "#2Q8QPCUCU"
  },
  "end": "20261129T084638.000Z",
  "opponent": {
-  "destruction": 3.475,
+  "destruction": 15.525,
   "members": [
    {
     "name": "Albert",
@@ -540,7 +639,7 @@
    }
   ],
   "name": "CLAN OF MON",
-  "stars": 4,
+  "stars": 17,
   "tag": "#2YQ2V92YC"
  },
  "start": "20261128T084638.000Z",

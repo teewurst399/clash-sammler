@@ -747,11 +747,55 @@
    "p": 95,
    "s": 2,
    "side": "clan"
+  },
+  {
+   "a": "#9CQLLYP8",
+   "ath": 19,
+   "d": "#9CGCUCPYL",
+   "dth": 19,
+   "dur": 167,
+   "o": 69,
+   "p": 97,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#9CQLLYP8",
+   "ath": 19,
+   "d": "#GGRC20908",
+   "dth": 19,
+   "dur": 180,
+   "o": 70,
+   "p": 75,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#Y09U0VPR8",
+   "ath": 19,
+   "d": "#G00PJJLYC",
+   "dth": 19,
+   "dur": 160,
+   "o": 71,
+   "p": 78,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#Y09U0VPR8",
+   "ath": 19,
+   "d": "#9LJPJQQPQ",
+   "dth": 19,
+   "dur": 158,
+   "o": 72,
+   "p": 83,
+   "s": 2,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 67.577774,
+  "destruction": 69.51111,
   "members": [
    {
     "name": "ROBINJO*ALIHAN",
@@ -1025,12 +1069,12 @@
    }
   ],
   "name": "Eiskalte Engel",
-  "stars": 84,
+  "stars": 87,
   "tag": "#9UCL90RP"
  },
  "end": "20261129T021440.000Z",
  "opponent": {
-  "destruction": 65.04444,
+  "destruction": 67.04444,
   "members": [
    {
     "name": "Tyler/Neo",
@@ -1304,7 +1348,7 @@
    }
   ],
   "name": "War Maniacs",
-  "stars": 84,
+  "stars": 86,
   "tag": "#9VVU2Q0V"
  },
  "start": "20261128T021440.000Z",
