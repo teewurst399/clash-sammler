@@ -626,11 +626,44 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#2082PU29V",
+   "ath": 18,
+   "d": "#GCYGULRQP",
+   "dth": 18,
+   "dur": 180,
+   "o": 58,
+   "p": 90,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#2082PU29V",
+   "ath": 18,
+   "d": "#9V82VJ8UL",
+   "dth": 18,
+   "dur": 180,
+   "o": 59,
+   "p": 76,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#R89R2VLG",
+   "ath": 19,
+   "d": "#8U8PCJU92",
+   "dth": 19,
+   "dur": 154,
+   "o": 60,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 78.175,
+  "destruction": 80.675,
   "members": [
    {
     "name": "Travel327",
@@ -874,12 +907,12 @@
    }
   ],
   "name": "Der Obstorden",
-  "stars": 88,
+  "stars": 91,
   "tag": "#2Q8QPCUCU"
  },
  "end": "20261129T084638.000Z",
  "opponent": {
-  "destruction": 49.65,
+  "destruction": 53.8,
   "members": [
    {
     "name": "Albert",
@@ -1123,7 +1156,7 @@
    }
   ],
   "name": "CLAN OF MON",
-  "stars": 55,
+  "stars": 59,
   "tag": "#2YQ2V92YC"
  },
  "start": "20261128T084638.000Z",

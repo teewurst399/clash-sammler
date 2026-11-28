@@ -461,6 +461,94 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#R2YR28CC9",
+   "ath": 8,
+   "d": "#QCJ090QRJ",
+   "dth": 7,
+   "dur": 54,
+   "o": 43,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#R2YR28CC9",
+   "ath": 8,
+   "d": "#QJV8QQ0UC",
+   "dth": 8,
+   "dur": 114,
+   "o": 44,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#R9P2CVGVQ",
+   "ath": 9,
+   "d": "#QGG0R9PRQ",
+   "dth": 8,
+   "dur": 22,
+   "o": 45,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#R9P2CVGVQ",
+   "ath": 9,
+   "d": "#QUQGLPG2J",
+   "dth": 9,
+   "dur": 92,
+   "o": 46,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#GPPQUQ90C",
+   "ath": 12,
+   "d": "#GYY8CV2VQ",
+   "dth": 13,
+   "dur": 83,
+   "o": 47,
+   "p": 87,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#GPPQUQ90C",
+   "ath": 12,
+   "d": "#802PR80C8",
+   "dth": 12,
+   "dur": 84,
+   "o": 48,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#GP8UYUG9J",
+   "ath": 13,
+   "d": "#GYY8CV2VQ",
+   "dth": 13,
+   "dur": 163,
+   "o": 49,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#GP8UYUG9J",
+   "ath": 13,
+   "d": "#GG2CQRRQ",
+   "dth": 12,
+   "dur": 168,
+   "o": 50,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -654,7 +742,7 @@
  },
  "end": "20261128T203556.000Z",
  "opponent": {
-  "destruction": 26.5,
+  "destruction": 49.833332,
   "members": [
    {
     "name": "Varun",
@@ -838,7 +926,7 @@
    }
   ],
   "name": "u n me",
-  "stars": 23,
+  "stars": 44,
   "tag": "#JC0829Y2"
  },
  "start": "20261127T203556.000Z",

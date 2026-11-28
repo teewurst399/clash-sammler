@@ -362,11 +362,121 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#LLGYRP0Q0",
+   "ath": 19,
+   "d": "#LLG9QG2CV",
+   "dth": 19,
+   "dur": 121,
+   "o": 34,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#LLGYRP0Q0",
+   "ath": 19,
+   "d": "#GU9CJ9Y9",
+   "dth": 19,
+   "dur": 97,
+   "o": 35,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#LQL20QJVV",
+   "ath": 19,
+   "d": "#LLG9QG2CV",
+   "dth": 19,
+   "dur": 156,
+   "o": 36,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#LQL20QJVV",
+   "ath": 19,
+   "d": "#GU9CJ9Y9",
+   "dth": 19,
+   "dur": 29,
+   "o": 37,
+   "p": 30,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#22VCURC2Q",
+   "ath": 19,
+   "d": "#GU9CJ9Y9",
+   "dth": 19,
+   "dur": 22,
+   "o": 38,
+   "p": 30,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#22VCURC2Q",
+   "ath": 19,
+   "d": "#Q2U9CUCYQ",
+   "dth": 19,
+   "dur": 104,
+   "o": 39,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#GU9CJ9Y9",
+   "ath": 19,
+   "d": "#22VCURC2Q",
+   "dth": 19,
+   "dur": 135,
+   "o": 40,
+   "p": 92,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#92QJYPCVG",
+   "ath": 19,
+   "d": "#22VCURC2Q",
+   "dth": 19,
+   "dur": 112,
+   "o": 41,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#92QJYPCVG",
+   "ath": 19,
+   "d": "#LQL20QJVV",
+   "dth": 19,
+   "dur": 122,
+   "o": 42,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#GU9CJ9Y9",
+   "ath": 19,
+   "d": "#LLGYRP0Q0",
+   "dth": 19,
+   "dur": 111,
+   "o": 43,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 24.15,
+  "destruction": 39.15,
   "members": [
    {
     "name": "Bozz⚡️Bandit",
@@ -490,7 +600,7 @@
    }
   ],
   "name": "Infructus",
-  "stars": 13,
+  "stars": 22,
   "tag": "#2QQJQ2CJP"
  },
  "end": "20261129T090819.000Z",

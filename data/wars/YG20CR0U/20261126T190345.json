@@ -1088,11 +1088,99 @@
    "p": 62,
    "s": 1,
    "side": "clan"
+  },
+  {
+   "a": "#2YRGJ208L",
+   "ath": 18,
+   "d": "#2LYUU9GYR",
+   "dth": 19,
+   "dur": 98,
+   "o": 100,
+   "p": 54,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#QJLJU2UYY",
+   "ath": 19,
+   "d": "#8YC08PJY9",
+   "dth": 19,
+   "dur": 155,
+   "o": 101,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#9Q9JJPL0U",
+   "ath": 19,
+   "d": "#G8PVYLJGP",
+   "dth": 19,
+   "dur": 173,
+   "o": 102,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#R8RC0Q2C",
+   "ath": 19,
+   "d": "#2LYUU9GYR",
+   "dth": 19,
+   "dur": 180,
+   "o": 103,
+   "p": 92,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#R8RC0Q2C",
+   "ath": 19,
+   "d": "#2JPY08V9",
+   "dth": 18,
+   "dur": 27,
+   "o": 104,
+   "p": 16,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#G8PVYLJGP",
+   "ath": 19,
+   "d": "#2LYUU9GYR",
+   "dth": 19,
+   "dur": 161,
+   "o": 105,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#G8RRPJ0UP",
+   "ath": 19,
+   "d": "#P0G99PC8Q",
+   "dth": 19,
+   "dur": 22,
+   "o": 106,
+   "p": 51,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#G8RRPJ0UP",
+   "ath": 19,
+   "d": "#289QY2J",
+   "dth": 19,
+   "dur": 22,
+   "o": 107,
+   "p": 63,
+   "s": 1,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 99.53333,
+  "destruction": 100.0,
   "members": [
    {
     "name": "Clash Joni",
@@ -1276,7 +1364,7 @@
    }
   ],
   "name": "Gammazone",
-  "stars": 88,
+  "stars": 90,
   "tag": "#YG20CR0U"
  },
  "end": "20261128T180345.000Z",
@@ -1469,7 +1557,7 @@
   "tag": "#2PLRY88C9"
  },
  "start": "20261127T180345.000Z",
- "state": "inWar",
+ "state": "warEnded",
  "teamSize": 30,
  "type": "krieg"
 }
