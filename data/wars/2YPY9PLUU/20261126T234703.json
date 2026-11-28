@@ -186,6 +186,105 @@
    "p": 72,
    "s": 2,
    "side": "gegner"
+  },
+  {
+   "a": "#998PJGU8",
+   "ath": 19,
+   "d": "#2Y8CCJQ0",
+   "dth": 19,
+   "dur": 180,
+   "o": 18,
+   "p": 65,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#9PQ9YLVPC",
+   "ath": 19,
+   "d": "#U0RC2QGV",
+   "dth": 19,
+   "dur": 135,
+   "o": 19,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#82YVR9L",
+   "ath": 19,
+   "d": "#2QV0QG8CU",
+   "dth": 19,
+   "dur": 180,
+   "o": 20,
+   "p": 93,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#9PQ9YLVPC",
+   "ath": 19,
+   "d": "#PUGJV8R8",
+   "dth": 19,
+   "dur": 91,
+   "o": 21,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#YCRRLP09",
+   "ath": 19,
+   "d": "#2YGV29JGR",
+   "dth": 19,
+   "dur": 114,
+   "o": 22,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#ULLJRJVJ",
+   "ath": 19,
+   "d": "#GY09JUL98",
+   "dth": 19,
+   "dur": 119,
+   "o": 23,
+   "p": 76,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#YCRRLP09",
+   "ath": 19,
+   "d": "#22YYQRQV9",
+   "dth": 19,
+   "dur": 89,
+   "o": 24,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#ULLJRJVJ",
+   "ath": 19,
+   "d": "#LURR922JY",
+   "dth": 19,
+   "dur": 120,
+   "o": 25,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#GGYJV8J9P",
+   "ath": 19,
+   "d": "#Y9Q2JUL9",
+   "dth": 19,
+   "dur": 115,
+   "o": 26,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -409,7 +508,7 @@
  },
  "end": "20261128T224703.000Z",
  "opponent": {
-  "destruction": 38.8,
+  "destruction": 60.771427,
   "members": [
    {
     "name": "爱意总模糊",
@@ -623,7 +722,7 @@
    }
   ],
   "name": "暗鳳馆★★★",
-  "stars": 40,
+  "stars": 61,
   "tag": "#P0LJQJRY"
  },
  "start": "20261127T224703.000Z",
