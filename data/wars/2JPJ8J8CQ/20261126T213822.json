@@ -494,11 +494,88 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#UL2RGLVQ",
+   "ath": 19,
+   "d": "#U0P2Y8YU",
+   "dth": 19,
+   "dur": 113,
+   "o": 46,
+   "p": 89,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#989QVL0Y",
+   "ath": 19,
+   "d": "#8PRV0Q0RU",
+   "dth": 19,
+   "dur": 130,
+   "o": 47,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#88U8PCUC",
+   "ath": 19,
+   "d": "#29VL00R8P",
+   "dth": 19,
+   "dur": 180,
+   "o": 48,
+   "p": 83,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#88U8PCUC",
+   "ath": 19,
+   "d": "#JU0QC0U0",
+   "dth": 19,
+   "dur": 152,
+   "o": 49,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#RLPJV8P",
+   "ath": 19,
+   "d": "#8GVLGCQ2C",
+   "dth": 19,
+   "dur": 180,
+   "o": 50,
+   "p": 69,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#2Y9CQJVJ9",
+   "ath": 19,
+   "d": "#L82CYVRVG",
+   "dth": 19,
+   "dur": 101,
+   "o": 51,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#RL9JYPP2",
+   "ath": 19,
+   "d": "#989QVL0Y",
+   "dth": 19,
+   "dur": 95,
+   "o": 52,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 53.4,
+  "destruction": 58.8,
   "members": [
    {
     "name": "Louis",
@@ -712,12 +789,12 @@
    }
   ],
   "name": "Pokerzone",
-  "stars": 53,
+  "stars": 58,
   "tag": "#2JPJ8J8CQ"
  },
  "end": "20261128T203822.000Z",
  "opponent": {
-  "destruction": 55.37143,
+  "destruction": 63.6,
   "members": [
    {
     "name": "ᐯᶠᴼᴿᐯＥＮＤＥＴＴＡ",
@@ -931,7 +1008,7 @@
    }
   ],
   "name": "SUPERBIA PkTr",
-  "stars": 52,
+  "stars": 61,
   "tag": "#VPLRRJUG"
  },
  "start": "20261127T203822.000Z",

@@ -472,6 +472,83 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#GP2P2Q0QU",
+   "ath": 16,
+   "d": "#GCJ89QJRQ",
+   "dth": 14,
+   "dur": 88,
+   "o": 44,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#GP2P2Q0QU",
+   "ath": 16,
+   "d": "#YRUGVP8JP",
+   "dth": 16,
+   "dur": 154,
+   "o": 45,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#GQRPPGLGQ",
+   "ath": 15,
+   "d": "#RPRPCJVUL",
+   "dth": 11,
+   "dur": 56,
+   "o": 46,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#GQRPPGLGQ",
+   "ath": 15,
+   "d": "#G9PP89L8R",
+   "dth": 16,
+   "dur": 102,
+   "o": 47,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#GR0VV8Y8Q",
+   "ath": 15,
+   "d": "#R0Y28GU8Q",
+   "dth": 18,
+   "dur": 100,
+   "o": 48,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#GR0VV8Y8Q",
+   "ath": 15,
+   "d": "#PLLLG2YRY",
+   "dth": 18,
+   "dur": 143,
+   "o": 49,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#QJURJJPV",
+   "ath": 19,
+   "d": "#PR8R0L29U",
+   "dth": 19,
+   "dur": 108,
+   "o": 50,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -665,7 +742,7 @@
  },
  "end": "20261128T193516.000Z",
  "opponent": {
-  "destruction": 51.033333,
+  "destruction": 72.166664,
   "members": [
    {
     "name": "mcc",
@@ -849,7 +926,7 @@
    }
   ],
   "name": "#KriegsElite",
-  "stars": 44,
+  "stars": 63,
   "tag": "#20G9PL2G"
  },
  "start": "20261127T193516.000Z",
