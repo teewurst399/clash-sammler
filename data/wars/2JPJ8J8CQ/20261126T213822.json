@@ -318,6 +318,39 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#9YUQVLQV",
+   "ath": 19,
+   "d": "#9UC9GL8Q8",
+   "dth": 19,
+   "dur": 133,
+   "o": 30,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#9YUQVLQV",
+   "ath": 19,
+   "d": "#PC98J0RVV",
+   "dth": 19,
+   "dur": 119,
+   "o": 31,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#9P2GGL29R",
+   "ath": 19,
+   "d": "#9CYRGRG9",
+   "dth": 19,
+   "dur": 138,
+   "o": 32,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -541,7 +574,7 @@
  },
  "end": "20261128T203822.000Z",
  "opponent": {
-  "destruction": 30.885714,
+  "destruction": 36.82857,
   "members": [
    {
     "name": "ᐯᶠᴼᴿᐯＥＮＤＥＴＴＡ",
@@ -755,7 +788,7 @@
    }
   ],
   "name": "SUPERBIA PkTr",
-  "stars": 29,
+  "stars": 37,
   "tag": "#VPLRRJUG"
  },
  "start": "20261127T203822.000Z",

@@ -384,6 +384,28 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#GRJ8R2CUY",
+   "ath": 19,
+   "d": "#2Y8CCJQ0",
+   "dth": 19,
+   "dur": 65,
+   "o": 36,
+   "p": 74,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#GRJ8R2CUY",
+   "ath": 19,
+   "d": "#2PVG9YG02",
+   "dth": 19,
+   "dur": 131,
+   "o": 37,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -607,7 +629,7 @@
  },
  "end": "20261128T224703.000Z",
  "opponent": {
-  "destruction": 69.74286,
+  "destruction": 70.2,
   "members": [
    {
     "name": "爱意总模糊",
@@ -821,7 +843,7 @@
    }
   ],
   "name": "暗鳳馆★★★",
-  "stars": 71,
+  "stars": 72,
   "tag": "#P0LJQJRY"
  },
  "start": "20261127T224703.000Z",
