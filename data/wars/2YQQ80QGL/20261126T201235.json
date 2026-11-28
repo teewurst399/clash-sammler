@@ -1231,11 +1231,77 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#J8G8LP0",
+   "ath": 19,
+   "d": "#28PP0G99",
+   "dth": 19,
+   "dur": 180,
+   "o": 113,
+   "p": 99,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#J8G8LP0",
+   "ath": 19,
+   "d": "#YQ28JU9PR",
+   "dth": 19,
+   "dur": 180,
+   "o": 114,
+   "p": 92,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#UJR8QRCY",
+   "ath": 19,
+   "d": "#J8G8LP0",
+   "dth": 19,
+   "dur": 153,
+   "o": 115,
+   "p": 87,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#L9P8RRQ2",
+   "ath": 19,
+   "d": "#J8G8LP0",
+   "dth": 19,
+   "dur": 119,
+   "o": 116,
+   "p": 81,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#L8JGQ0908",
+   "ath": 19,
+   "d": "#RVLR0VR8",
+   "dth": 19,
+   "dur": 131,
+   "o": 117,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#L8JGQ0908",
+   "ath": 19,
+   "d": "#8020G0PYC",
+   "dth": 19,
+   "dur": 163,
+   "o": 118,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 98.45,
+  "destruction": 99.025,
   "members": [
    {
     "name": "MOZ.ART",
@@ -1484,7 +1550,7 @@
  },
  "end": "20261128T191235.000Z",
  "opponent": {
-  "destruction": 99.1,
+  "destruction": 99.575,
   "members": [
    {
     "name": "Bhors23",
@@ -1728,7 +1794,7 @@
    }
   ],
   "name": "House of Elites",
-  "stars": 116,
+  "stars": 118,
   "tag": "#2YLR0J09Y"
  },
  "start": "20261127T191235.000Z",

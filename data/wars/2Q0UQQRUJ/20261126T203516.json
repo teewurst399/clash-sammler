@@ -934,11 +934,99 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#GRCLGPPG",
+   "ath": 17,
+   "d": "#R9900JGV",
+   "dth": 19,
+   "dur": 165,
+   "o": 86,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#GRCLGPPG",
+   "ath": 17,
+   "d": "#PRQRCG2Y",
+   "dth": 19,
+   "dur": 145,
+   "o": 87,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#PRQRCG2Y",
+   "ath": 19,
+   "d": "#208QGQY8R",
+   "dth": 19,
+   "dur": 25,
+   "o": 88,
+   "p": 5,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#PRQRCG2Y",
+   "ath": 19,
+   "d": "#Y9PU0RCGR",
+   "dth": 19,
+   "dur": 29,
+   "o": 89,
+   "p": 10,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#2RYGGYU9L",
+   "ath": 19,
+   "d": "#GY28UUUY9",
+   "dth": 19,
+   "dur": 126,
+   "o": 90,
+   "p": 68,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#2RYGGYU9L",
+   "ath": 19,
+   "d": "#GVCG02RQQ",
+   "dth": 18,
+   "dur": 129,
+   "o": 91,
+   "p": 78,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#VP8VLPVU",
+   "ath": 16,
+   "d": "#PR8R0L29U",
+   "dth": 19,
+   "dur": 180,
+   "o": 92,
+   "p": 63,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#VP8VLPVU",
+   "ath": 16,
+   "d": "#89RR0RCCV",
+   "dth": 19,
+   "dur": 125,
+   "o": 93,
+   "p": 73,
+   "s": 1,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 98.03333,
+  "destruction": 98.833336,
   "members": [
    {
     "name": "28",
@@ -1122,7 +1210,7 @@
    }
   ],
   "name": "Sigmazone",
-  "stars": 87,
+  "stars": 89,
   "tag": "#2Q0UQQRUJ"
  },
  "end": "20261128T193516.000Z",

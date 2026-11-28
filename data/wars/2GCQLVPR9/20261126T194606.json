@@ -516,11 +516,121 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#2PV220RY9",
+   "ath": 19,
+   "d": "#2UJ2JG9Y0",
+   "dth": 19,
+   "dur": 110,
+   "o": 48,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#Q8RQ9VYLL",
+   "ath": 19,
+   "d": "#G2V89JU00",
+   "dth": 19,
+   "dur": 132,
+   "o": 49,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#P00RVJ0LG",
+   "ath": 19,
+   "d": "#LY0LGR99G",
+   "dth": 19,
+   "dur": 146,
+   "o": 50,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#P00RVJ0LG",
+   "ath": 19,
+   "d": "#PVJR2UYVL",
+   "dth": 19,
+   "dur": 169,
+   "o": 51,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#2PV220RY9",
+   "ath": 19,
+   "d": "#8RVYPQCRG",
+   "dth": 19,
+   "dur": 112,
+   "o": 52,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#LL2U0UQPV",
+   "ath": 19,
+   "d": "#9J2PYLQC8",
+   "dth": 19,
+   "dur": 127,
+   "o": 53,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#LL2U0UQPV",
+   "ath": 19,
+   "d": "#8QVQ29YG0",
+   "dth": 19,
+   "dur": 112,
+   "o": 54,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#LQRUCQYGU",
+   "ath": 18,
+   "d": "#89PPGP8YC",
+   "dth": 18,
+   "dur": 92,
+   "o": 55,
+   "p": 87,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#9YJU88R2V",
+   "ath": 19,
+   "d": "#LQRUCQYGU",
+   "dth": 18,
+   "dur": 111,
+   "o": 56,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#9YJU88R2V",
+   "ath": 19,
+   "d": "#J2YQRQQ",
+   "dth": 19,
+   "dur": 171,
+   "o": 57,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 72.13333,
+  "destruction": 81.7,
   "members": [
    {
     "name": "×ºkͥyuͣuͫº×",
@@ -704,12 +814,12 @@
    }
   ],
   "name": "Thirdzone",
-  "stars": 61,
+  "stars": 69,
   "tag": "#2GCQLVPR9"
  },
  "end": "20261128T184606.000Z",
  "opponent": {
-  "destruction": 44.9,
+  "destruction": 57.366665,
   "members": [
    {
     "name": "WH❤TAKBIR 2",
@@ -893,7 +1003,7 @@
    }
   ],
   "name": "WaR HoUsE",
-  "stars": 35,
+  "stars": 49,
   "tag": "#PCCP8LQL"
  },
  "start": "20261127T184606.000Z",

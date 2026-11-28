@@ -890,11 +890,99 @@
    "p": 94,
    "s": 2,
    "side": "clan"
+  },
+  {
+   "a": "#29YUQPRCU",
+   "ath": 19,
+   "d": "#PRPP80CG",
+   "dth": 19,
+   "dur": 144,
+   "o": 82,
+   "p": 80,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#8L9G8QRRV",
+   "ath": 18,
+   "d": "#208LURYQ9",
+   "dth": 19,
+   "dur": 48,
+   "o": 83,
+   "p": 50,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#8L9G8QRRV",
+   "ath": 18,
+   "d": "#29YUQPRCU",
+   "dth": 19,
+   "dur": 42,
+   "o": 84,
+   "p": 51,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#GC9VGU0LL",
+   "ath": 18,
+   "d": "#20PJ90PC",
+   "dth": 18,
+   "dur": 179,
+   "o": 85,
+   "p": 89,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#LV0Y9RRG",
+   "ath": 16,
+   "d": "#GPRVGQQCJ",
+   "dth": 18,
+   "dur": 129,
+   "o": 86,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#GC9VGU0LL",
+   "ath": 18,
+   "d": "#2Q8U8RV2U",
+   "dth": 18,
+   "dur": 144,
+   "o": 87,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#YRYQ2V8R8",
+   "ath": 17,
+   "d": "#20PJ90PC",
+   "dth": 18,
+   "dur": 180,
+   "o": 88,
+   "p": 97,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#GV2PGJGP8",
+   "ath": 19,
+   "d": "#PGU8PRVUP",
+   "dth": 19,
+   "dur": 128,
+   "o": 89,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 88.166664,
+  "destruction": 95.8,
   "members": [
    {
     "name": "Dschini -L-",
@@ -1078,7 +1166,7 @@
    }
   ],
   "name": "FruchtLabor V",
-  "stars": 75,
+  "stars": 82,
   "tag": "#2RV89992C"
  },
  "end": "20261128T184056.000Z",

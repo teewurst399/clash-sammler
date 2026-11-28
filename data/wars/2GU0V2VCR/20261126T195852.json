@@ -1088,6 +1088,116 @@
    "p": 78,
    "s": 1,
    "side": "clan"
+  },
+  {
+   "a": "#82JUJYLV",
+   "ath": 19,
+   "d": "#G9UP2JY8Y",
+   "dth": 19,
+   "dur": 98,
+   "o": 100,
+   "p": 85,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#QRJJ8QQ2Q",
+   "ath": 19,
+   "d": "#QRC8C9YQ",
+   "dth": 19,
+   "dur": 180,
+   "o": 101,
+   "p": 88,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#QRJJ8QQ2Q",
+   "ath": 19,
+   "d": "#YVJ89PQP",
+   "dth": 19,
+   "dur": 180,
+   "o": 102,
+   "p": 86,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#G2PQGG29",
+   "ath": 19,
+   "d": "#PRR89P888",
+   "dth": 19,
+   "dur": 104,
+   "o": 103,
+   "p": 55,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#U8C2JPUV",
+   "ath": 19,
+   "d": "#PC8QLY8U",
+   "dth": 19,
+   "dur": 131,
+   "o": 104,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#PJUP9JUYL",
+   "ath": 19,
+   "d": "#G9UP2JY8Y",
+   "dth": 19,
+   "dur": 116,
+   "o": 105,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#82PUCPUR",
+   "ath": 19,
+   "d": "#PRR89P888",
+   "dth": 19,
+   "dur": 180,
+   "o": 106,
+   "p": 97,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#2Y20UPUJ",
+   "ath": 19,
+   "d": "#PRR89P888",
+   "dth": 19,
+   "dur": 97,
+   "o": 107,
+   "p": 68,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#QY29929J9",
+   "ath": 19,
+   "d": "#QRC8C9YQ",
+   "dth": 19,
+   "dur": 100,
+   "o": 108,
+   "p": 66,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#QY29929J9",
+   "ath": 19,
+   "d": "#Q0CUG2RVQ",
+   "dth": 19,
+   "dur": 14,
+   "o": 109,
+   "p": 3,
+   "s": 1,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
@@ -1311,7 +1421,7 @@
  },
  "end": "20261128T185852.000Z",
  "opponent": {
-  "destruction": 99.77143,
+  "destruction": 99.91428,
   "members": [
    {
     "name": "Danils",
@@ -1525,7 +1635,7 @@
    }
   ],
   "name": "\"WARRIORS\"",
-  "stars": 103,
+  "stars": 104,
   "tag": "#90CYJQ0G"
  },
  "start": "20261127T185852.000Z",

@@ -1044,11 +1044,55 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#YLQJVYJV0",
+   "ath": 19,
+   "d": "#9P2GGL29R",
+   "dth": 19,
+   "dur": 98,
+   "o": 96,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#Q90QJVPQC",
+   "ath": 19,
+   "d": "#PYLRVJVLG",
+   "dth": 19,
+   "dur": 142,
+   "o": 97,
+   "p": 93,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#YLQJVYJV0",
+   "ath": 19,
+   "d": "#LRGY980JP",
+   "dth": 19,
+   "dur": 156,
+   "o": 98,
+   "p": 98,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#Q90QJVPQC",
+   "ath": 19,
+   "d": "#202L2LG9G",
+   "dth": 19,
+   "dur": 135,
+   "o": 99,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 98.828575,
+  "destruction": 99.74286,
   "members": [
    {
     "name": "Louis",
@@ -1262,7 +1306,7 @@
    }
   ],
   "name": "Pokerzone",
-  "stars": 101,
+  "stars": 103,
   "tag": "#2JPJ8J8CQ"
  },
  "end": "20261128T203822.000Z",

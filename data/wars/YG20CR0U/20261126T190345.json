@@ -1000,11 +1000,99 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#2CGLPRGQU",
+   "ath": 19,
+   "d": "#8YQUU8LVV",
+   "dth": 19,
+   "dur": 142,
+   "o": 92,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#9Q9JJPL0U",
+   "ath": 19,
+   "d": "#2CGLPRGQU",
+   "dth": 19,
+   "dur": 148,
+   "o": 93,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#GLJCCRYG",
+   "ath": 19,
+   "d": "#2LYUU9GYR",
+   "dth": 19,
+   "dur": 180,
+   "o": 94,
+   "p": 97,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#YYYLYVL80",
+   "ath": 19,
+   "d": "#PL90L8PCY",
+   "dth": 18,
+   "dur": 135,
+   "o": 95,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#YYYLYVL80",
+   "ath": 19,
+   "d": "#LU0RRJQR",
+   "dth": 19,
+   "dur": 159,
+   "o": 96,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#Q9U2GRGRC",
+   "ath": 19,
+   "d": "#GRVGCCLQG",
+   "dth": 18,
+   "dur": 127,
+   "o": 97,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#Q9U2GRGRC",
+   "ath": 19,
+   "d": "#8YC08PJY9",
+   "dth": 19,
+   "dur": 95,
+   "o": 98,
+   "p": 73,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#2YRGJ208L",
+   "ath": 18,
+   "d": "#8YC08PJY9",
+   "dth": 19,
+   "dur": 85,
+   "o": 99,
+   "p": 62,
+   "s": 1,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 94.03333,
+  "destruction": 99.53333,
   "members": [
    {
     "name": "Clash Joni",
@@ -1188,7 +1276,7 @@
    }
   ],
   "name": "Gammazone",
-  "stars": 82,
+  "stars": 88,
   "tag": "#YG20CR0U"
  },
  "end": "20261128T180345.000Z",

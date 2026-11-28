@@ -285,6 +285,72 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#PPU99C0JL",
+   "ath": 17,
+   "d": "#YVYR82URC",
+   "dth": 17,
+   "dur": 180,
+   "o": 27,
+   "p": 79,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#QJRPR2G0Y",
+   "ath": 15,
+   "d": "#LGYRV2URL",
+   "dth": 17,
+   "dur": 141,
+   "o": 28,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#QJRPR2G0Y",
+   "ath": 15,
+   "d": "#2QPLG8RRQ",
+   "dth": 14,
+   "dur": 162,
+   "o": 29,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#G0VVLJ092",
+   "ath": 17,
+   "d": "#QQVL9QQG0",
+   "dth": 18,
+   "dur": 180,
+   "o": 30,
+   "p": 99,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#LLRLYCC9P",
+   "ath": 18,
+   "d": "#LQUP0RCL",
+   "dth": 18,
+   "dur": 138,
+   "o": 31,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#LLRLYCC9P",
+   "ath": 18,
+   "d": "#R2LQLJ0LR",
+   "dth": 19,
+   "dur": 180,
+   "o": 32,
+   "p": 94,
+   "s": 2,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -508,7 +574,7 @@
  },
  "end": "20261129T130346.000Z",
  "opponent": {
-  "destruction": 25.514286,
+  "destruction": 41.857143,
   "members": [
    {
     "name": "hema.❤",
@@ -722,7 +788,7 @@
    }
   ],
   "name": "Egypt",
-  "stars": 26,
+  "stars": 40,
   "tag": "#2QQ9C2PUJ"
  },
  "start": "20261128T130346.000Z",
