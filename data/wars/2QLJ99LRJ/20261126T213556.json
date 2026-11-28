@@ -549,6 +549,182 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#QJ2YJJQP2",
+   "ath": 14,
+   "d": "#22V9U90U",
+   "dth": 13,
+   "dur": 32,
+   "o": 51,
+   "p": 14,
+   "s": 0,
+   "side": "gegner"
+  },
+  {
+   "a": "#QJ2YJJQP2",
+   "ath": 14,
+   "d": "#QC82UYQCY",
+   "dth": 17,
+   "dur": 113,
+   "o": 52,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#Y9RUQJG9J",
+   "ath": 12,
+   "d": "#QP9Y8V98R",
+   "dth": 9,
+   "dur": 69,
+   "o": 53,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#Y9RUQJG9J",
+   "ath": 12,
+   "d": "#YJCL88UR0",
+   "dth": 11,
+   "dur": 124,
+   "o": 54,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#G9QYY2YV9",
+   "ath": 12,
+   "d": "#GJ98VJQQR",
+   "dth": 12,
+   "dur": 151,
+   "o": 55,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#G9QYY2YV9",
+   "ath": 12,
+   "d": "#LG29U0GJP",
+   "dth": 12,
+   "dur": 97,
+   "o": 56,
+   "p": 76,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#LV8JGUU8R",
+   "ath": 12,
+   "d": "#LG29U0GJP",
+   "dth": 12,
+   "dur": 107,
+   "o": 57,
+   "p": 59,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#LV8JGUU8R",
+   "ath": 12,
+   "d": "#GCJV0PY09",
+   "dth": 10,
+   "dur": 137,
+   "o": 58,
+   "p": 80,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#PVGUCRJQP",
+   "ath": 14,
+   "d": "#QUQGLVJ2J",
+   "dth": 17,
+   "dur": 114,
+   "o": 59,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#YYCCUCQ8J",
+   "ath": 14,
+   "d": "#22V9U90U",
+   "dth": 13,
+   "dur": 120,
+   "o": 60,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#PVGUCRJQP",
+   "ath": 14,
+   "d": "#QVLQ8P2PY",
+   "dth": 16,
+   "dur": 143,
+   "o": 61,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#YYCCUCQ8J",
+   "ath": 14,
+   "d": "#LG29U0GJP",
+   "dth": 12,
+   "dur": 127,
+   "o": 62,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#PCR8VC8J2",
+   "ath": 13,
+   "d": "#GCJV0PY09",
+   "dth": 10,
+   "dur": 113,
+   "o": 63,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#QYLYG8QLY",
+   "ath": 15,
+   "d": "#LRJJQU0Q9",
+   "dth": 19,
+   "dur": 145,
+   "o": 64,
+   "p": 81,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#PCR8VC8J2",
+   "ath": 13,
+   "d": "#QU0VUUVYG",
+   "dth": 17,
+   "dur": 158,
+   "o": 65,
+   "p": 82,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#QYLYG8QLY",
+   "ath": 15,
+   "d": "#QU0VUUVYG",
+   "dth": 17,
+   "dur": 162,
+   "o": 66,
+   "p": 84,
+   "s": 1,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -742,7 +918,7 @@
  },
  "end": "20261128T203556.000Z",
  "opponent": {
-  "destruction": 49.833332,
+  "destruction": 82.1,
   "members": [
    {
     "name": "Varun",
@@ -926,7 +1102,7 @@
    }
   ],
   "name": "u n me",
-  "stars": 44,
+  "stars": 73,
   "tag": "#JC0829Y2"
  },
  "start": "20261127T203556.000Z",

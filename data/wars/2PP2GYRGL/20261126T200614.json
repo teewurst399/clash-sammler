@@ -1385,6 +1385,116 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#Y898YJY",
+   "ath": 19,
+   "d": "#2LPG2V9QV",
+   "dth": 19,
+   "dur": 115,
+   "o": 127,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#UYVQ2800",
+   "ath": 19,
+   "d": "#Y898YJY",
+   "dth": 19,
+   "dur": 109,
+   "o": 128,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#YJ89VLYJ",
+   "ath": 19,
+   "d": "#2VJ29PPY",
+   "dth": 19,
+   "dur": 180,
+   "o": 129,
+   "p": 78,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#Y898YJY",
+   "ath": 19,
+   "d": "#UYVQ2800",
+   "dth": 19,
+   "dur": 139,
+   "o": 130,
+   "p": 84,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#UYVQ2800",
+   "ath": 19,
+   "d": "#2YPJGLCJV",
+   "dth": 19,
+   "dur": 104,
+   "o": 131,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#QVVP2C8YY",
+   "ath": 19,
+   "d": "#2LPG2V9QV",
+   "dth": 19,
+   "dur": 173,
+   "o": 132,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#RVVVRCY",
+   "ath": 19,
+   "d": "#2VJ29PPY",
+   "dth": 19,
+   "dur": 72,
+   "o": 133,
+   "p": 71,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#RVVVRCY",
+   "ath": 19,
+   "d": "#8UPCRRC9P",
+   "dth": 19,
+   "dur": 79,
+   "o": 134,
+   "p": 75,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#2JQCQJLC2",
+   "ath": 19,
+   "d": "#2LPG2V9QV",
+   "dth": 19,
+   "dur": 159,
+   "o": 135,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#2JQCQJLC2",
+   "ath": 19,
+   "d": "#UYVQ2800",
+   "dth": 19,
+   "dur": 155,
+   "o": 136,
+   "p": 88,
+   "s": 2,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
@@ -1886,7 +1996,7 @@
   "tag": "#2R8C0RG08"
  },
  "start": "20261127T190614.000Z",
- "state": "inWar",
+ "state": "warEnded",
  "teamSize": 40,
  "type": "krieg"
 }

@@ -1,0 +1,288 @@
+{
+ "attacks": [
+  {
+   "a": "#QL9GVQVGG",
+   "ath": 16,
+   "d": "#Q8U8PR0VJ",
+   "dth": 16,
+   "dur": 149,
+   "o": 1,
+   "p": 85,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#QL9GVQVGG",
+   "ath": 16,
+   "d": "#GPQJC209Y",
+   "dth": 16,
+   "dur": 144,
+   "o": 2,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  }
+ ],
+ "attacksPerMember": 2,
+ "clan": {
+  "destruction": 0.0,
+  "members": [
+   {
+    "name": "Mega |V",
+    "pos": 15,
+    "tag": "#LPJ2VC9C9",
+    "th": 14
+   },
+   {
+    "name": "BS Dirk8",
+    "pos": 18,
+    "tag": "#GG00LJRJ9",
+    "th": 14
+   },
+   {
+    "name": "Gorillapo",
+    "pos": 4,
+    "tag": "#8J982QVR8",
+    "th": 19
+   },
+   {
+    "name": "Pati",
+    "pos": 1,
+    "tag": "#UCPPUR0R",
+    "th": 19
+   },
+   {
+    "name": "MarGra",
+    "pos": 7,
+    "tag": "#GG8JRRYV",
+    "th": 17
+   },
+   {
+    "name": "Marcone",
+    "pos": 9,
+    "tag": "#200GGYCRV",
+    "th": 16
+   },
+   {
+    "name": "supersiedel",
+    "pos": 5,
+    "tag": "#YJLV9UU9",
+    "th": 19
+   },
+   {
+    "name": "Sinan |V",
+    "pos": 12,
+    "tag": "#GPQJC209Y",
+    "th": 16
+   },
+   {
+    "name": "ExCore",
+    "pos": 3,
+    "tag": "#2PLPQJQ80",
+    "th": 19
+   },
+   {
+    "name": "Zakko",
+    "pos": 8,
+    "tag": "#2PG9C2P0Q",
+    "th": 16
+   },
+   {
+    "name": "Mega V|",
+    "pos": 20,
+    "tag": "#QP8CU9RP2",
+    "th": 12
+   },
+   {
+    "name": "Lukas",
+    "pos": 14,
+    "tag": "#VQR2Q9L",
+    "th": 15
+   },
+   {
+    "name": "MRX",
+    "pos": 6,
+    "tag": "#808LGVRV8",
+    "th": 17
+   },
+   {
+    "name": "gandalf007",
+    "pos": 11,
+    "tag": "#Q8U8PR0VJ",
+    "th": 16
+   },
+   {
+    "name": "Mega V",
+    "pos": 17,
+    "tag": "#Q0L2GJ8CQ",
+    "th": 13
+   },
+   {
+    "name": "Jan",
+    "pos": 19,
+    "tag": "#QRJP8RV9J",
+    "th": 12
+   },
+   {
+    "name": "KoalakriegerVX",
+    "pos": 16,
+    "tag": "#LQGRJY9QP",
+    "th": 13
+   },
+   {
+    "name": "Pokspieler",
+    "pos": 2,
+    "tag": "#GQVRJRYVG",
+    "th": 19
+   },
+   {
+    "name": "Mega |||",
+    "pos": 13,
+    "tag": "#YPL2YPGUP",
+    "th": 15
+   },
+   {
+    "name": "CalvronVX",
+    "pos": 10,
+    "tag": "#YPL298Q02",
+    "th": 16
+   }
+  ],
+  "name": "#Black Stone# 6",
+  "stars": 0,
+  "tag": "#2G8ULRP8R"
+ },
+ "end": "20261129T185912.000Z",
+ "opponent": {
+  "destruction": 9.25,
+  "members": [
+   {
+    "name": "MMG_HULK",
+    "pos": 1,
+    "tag": "#89QU80V9Y",
+    "th": 19
+   },
+   {
+    "name": "sherkhan",
+    "pos": 12,
+    "tag": "#QL9GVQVGG",
+    "th": 16
+   },
+   {
+    "name": "『KTG』Fʟᴀɢᴀᴅᴀs༒3",
+    "pos": 18,
+    "tag": "#YUJ0JQGVQ",
+    "th": 13
+   },
+   {
+    "name": "ZoNa GaMe",
+    "pos": 4,
+    "tag": "#9U028YUPQ",
+    "th": 19
+   },
+   {
+    "name": "el Loco Flo",
+    "pos": 3,
+    "tag": "#JYUJYJQJ",
+    "th": 19
+   },
+   {
+    "name": "Izomias",
+    "pos": 6,
+    "tag": "#22V9YQ0LQ",
+    "th": 19
+   },
+   {
+    "name": "Kurama",
+    "pos": 16,
+    "tag": "#G0QGCUV22",
+    "th": 13
+   },
+   {
+    "name": "Kaguya",
+    "pos": 7,
+    "tag": "#PCGJ0JPCY",
+    "th": 17
+   },
+   {
+    "name": "Hulk esport",
+    "pos": 10,
+    "tag": "#YYLYVYPYQ",
+    "th": 16
+   },
+   {
+    "name": "Hulk ™",
+    "pos": 2,
+    "tag": "#R9Q008PR",
+    "th": 19
+   },
+   {
+    "name": "『KTG』Fʟᴀɢᴀᴅᴀs༒2",
+    "pos": 11,
+    "tag": "#2Y92V0VPV",
+    "th": 17
+   },
+   {
+    "name": "ZETSU",
+    "pos": 13,
+    "tag": "#RUPJ8088",
+    "th": 15
+   },
+   {
+    "name": "Nyx-esport",
+    "pos": 19,
+    "tag": "#R2QLR2VGC",
+    "th": 12
+   },
+   {
+    "name": "Yuyux",
+    "pos": 15,
+    "tag": "#QVUJG0VRL",
+    "th": 13
+   },
+   {
+    "name": "Petit Hulk",
+    "pos": 8,
+    "tag": "#PLVGUCPPV",
+    "th": 17
+   },
+   {
+    "name": "Hulk Le vrai",
+    "pos": 5,
+    "tag": "#Y8LQ0RLJ2",
+    "th": 18
+   },
+   {
+    "name": "madrik",
+    "pos": 9,
+    "tag": "#9JRQC02QJ",
+    "th": 17
+   },
+   {
+    "name": "stark",
+    "pos": 14,
+    "tag": "#P2V88C2",
+    "th": 15
+   },
+   {
+    "name": "radiateur",
+    "pos": 17,
+    "tag": "#29V0V9VUY",
+    "th": 13
+   },
+   {
+    "name": "louna",
+    "pos": 20,
+    "tag": "#GPVVJ99U0",
+    "th": 12
+   }
+  ],
+  "name": "MILLENIGHT",
+  "stars": 4,
+  "tag": "#J8Q8YP9"
+ },
+ "start": "20261128T185912.000Z",
+ "state": "inWar",
+ "teamSize": 20,
+ "type": "krieg"
+}

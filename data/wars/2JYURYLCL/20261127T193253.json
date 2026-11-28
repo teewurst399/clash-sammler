@@ -1,0 +1,85 @@
+{
+ "attacks": [],
+ "attacksPerMember": 2,
+ "clan": {
+  "destruction": 0.0,
+  "members": [
+   {
+    "name": "WB Teewurst₆",
+    "pos": 5,
+    "tag": "#RJLCQY9U",
+    "th": 13
+   },
+   {
+    "name": "WB Teewurst₃",
+    "pos": 2,
+    "tag": "#28CVLRLU",
+    "th": 19
+   },
+   {
+    "name": "domi2",
+    "pos": 3,
+    "tag": "#GP9R0PUQ8",
+    "th": 18
+   },
+   {
+    "name": "WB Teewurst₄",
+    "pos": 1,
+    "tag": "#GPCQPUQ0Q",
+    "th": 19
+   },
+   {
+    "name": "Pr3d4tor:97",
+    "pos": 4,
+    "tag": "#GV2GJLRVG",
+    "th": 19
+   }
+  ],
+  "name": "Würstchenbude",
+  "stars": 0,
+  "tag": "#2JYURYLCL"
+ },
+ "end": "20261129T183253.000Z",
+ "opponent": {
+  "destruction": 0.0,
+  "members": [
+   {
+    "name": "KURD POWER",
+    "pos": 1,
+    "tag": "#QG2RUYCR",
+    "th": 19
+   },
+   {
+    "name": "KURD ROYAL",
+    "pos": 5,
+    "tag": "#8C8JR22Y0",
+    "th": 12
+   },
+   {
+    "name": "KURD LEGEND",
+    "pos": 4,
+    "tag": "#8GJ2VJVVC",
+    "th": 18
+   },
+   {
+    "name": "KURD EMPIRE",
+    "pos": 2,
+    "tag": "#8PR0G9VPJ",
+    "th": 18
+   },
+   {
+    "name": "فهد",
+    "pos": 3,
+    "tag": "#LGUJ9J2YJ",
+    "th": 17
+   }
+  ],
+  "name": "OSCAR",
+  "stars": 0,
+  "tag": "#9VCJ0YP"
+ },
+ "start": "20261128T183253.000Z",
+ "state": "inWar",
+ "teamSize": 5,
+ "type": "krieg"
+}

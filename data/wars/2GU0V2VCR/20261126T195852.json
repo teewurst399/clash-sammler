@@ -1264,6 +1264,138 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#YPYL9P80V",
+   "ath": 19,
+   "d": "#L08PLV0GC",
+   "dth": 19,
+   "dur": 125,
+   "o": 116,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#YPYL9P80V",
+   "ath": 19,
+   "d": "#L90VPGG89",
+   "dth": 19,
+   "dur": 142,
+   "o": 117,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#PUYLLGQYP",
+   "ath": 18,
+   "d": "#PC8QLY8U",
+   "dth": 19,
+   "dur": 19,
+   "o": 118,
+   "p": 3,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#PUYLLGQYP",
+   "ath": 18,
+   "d": "#8URCRLC9",
+   "dth": 19,
+   "dur": 46,
+   "o": 119,
+   "p": 8,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#GYCLYGYVP",
+   "ath": 17,
+   "d": "#QUY28QLV",
+   "dth": 19,
+   "dur": 8,
+   "o": 120,
+   "p": 2,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#QJVCJY9UV",
+   "ath": 19,
+   "d": "#QRC8C9YQ",
+   "dth": 19,
+   "dur": 164,
+   "o": 121,
+   "p": 94,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#GP8JJ2QYU",
+   "ath": 18,
+   "d": "#PC8QLY8U",
+   "dth": 19,
+   "dur": 21,
+   "o": 122,
+   "p": 6,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#GP8JJ2QYU",
+   "ath": 18,
+   "d": "#8URCRLC9",
+   "dth": 19,
+   "dur": 17,
+   "o": 123,
+   "p": 11,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#GYCLYGYVP",
+   "ath": 17,
+   "d": "#URG8VYJV",
+   "dth": 19,
+   "dur": 42,
+   "o": 124,
+   "p": 2,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#QJVCJY9UV",
+   "ath": 19,
+   "d": "#PC8QLY8U",
+   "dth": 19,
+   "dur": 13,
+   "o": 125,
+   "p": 11,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#G8CP8GLC",
+   "ath": 17,
+   "d": "#GP8JJ2QYU",
+   "dth": 18,
+   "dur": 163,
+   "o": 126,
+   "p": 95,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#G8CP8GLC",
+   "ath": 17,
+   "d": "#PRR89P888",
+   "dth": 19,
+   "dur": 70,
+   "o": 127,
+   "p": 58,
+   "s": 1,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -1705,7 +1837,7 @@
   "tag": "#90CYJQ0G"
  },
  "start": "20261127T185852.000Z",
- "state": "inWar",
+ "state": "warEnded",
  "teamSize": 35,
  "type": "krieg"
 }

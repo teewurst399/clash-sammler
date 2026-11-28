@@ -1374,11 +1374,132 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#L9P8RRQ2",
+   "ath": 19,
+   "d": "#YJV9VC9PY",
+   "dth": 19,
+   "dur": 143,
+   "o": 126,
+   "p": 86,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#2YCQPJ0QU",
+   "ath": 19,
+   "d": "#YJV9VC9PY",
+   "dth": 19,
+   "dur": 180,
+   "o": 127,
+   "p": 84,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#CL0QYJLC",
+   "ath": 19,
+   "d": "#YJV9VC9PY",
+   "dth": 19,
+   "dur": 129,
+   "o": 128,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#9JYGYL0R",
+   "ath": 19,
+   "d": "#98899CP2P",
+   "dth": 19,
+   "dur": 152,
+   "o": 129,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#9209J8R9L",
+   "ath": 19,
+   "d": "#YYVPRPY8",
+   "dth": 19,
+   "dur": 180,
+   "o": 130,
+   "p": 96,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#2JGVVY8C",
+   "ath": 19,
+   "d": "#QLU90G9C",
+   "dth": 19,
+   "dur": 119,
+   "o": 131,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#CL0QYJLC",
+   "ath": 19,
+   "d": "#GPYJUPGU",
+   "dth": 19,
+   "dur": 148,
+   "o": 132,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#9JYGYL0R",
+   "ath": 19,
+   "d": "#YJV9VC9PY",
+   "dth": 19,
+   "dur": 166,
+   "o": 133,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#9209J8R9L",
+   "ath": 19,
+   "d": "#8LGVY2CLG",
+   "dth": 19,
+   "dur": 143,
+   "o": 134,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#PQCULPU90",
+   "ath": 19,
+   "d": "#YYVPRPY8",
+   "dth": 19,
+   "dur": 167,
+   "o": 135,
+   "p": 95,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#2JGVVY8C",
+   "ath": 19,
+   "d": "#YYVPRPY8",
+   "dth": 19,
+   "dur": 142,
+   "o": 136,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 99.375,
+  "destruction": 100.0,
   "members": [
    {
     "name": "MOZ.ART",
@@ -1622,7 +1743,7 @@
    }
   ],
   "name": "Firstzone",
-  "stars": 118,
+  "stars": 120,
   "tag": "#2YQQ80QGL"
  },
  "end": "20261128T191235.000Z",
@@ -1875,7 +1996,7 @@
   "tag": "#2YLR0J09Y"
  },
  "start": "20261127T191235.000Z",
- "state": "inWar",
+ "state": "warEnded",
  "teamSize": 40,
  "type": "krieg"
 }

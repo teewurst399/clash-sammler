@@ -362,11 +362,55 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#LQUP0RCL",
+   "ath": 18,
+   "d": "#9G820CL99",
+   "dth": 18,
+   "dur": 130,
+   "o": 34,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#PLYUJPLL2",
+   "ath": 19,
+   "d": "#RQYGYC0P",
+   "dth": 19,
+   "dur": 124,
+   "o": 35,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#9G820CL99",
+   "ath": 18,
+   "d": "#YR09QJQ2",
+   "dth": 19,
+   "dur": 109,
+   "o": 36,
+   "p": 87,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#PLYUJPLL2",
+   "ath": 19,
+   "d": "#P8URCGU9",
+   "dth": 19,
+   "dur": 120,
+   "o": 37,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 42.857143,
+  "destruction": 45.714287,
   "members": [
    {
     "name": "vllo",
@@ -580,12 +624,12 @@
    }
   ],
   "name": "Rising Phoenix",
-  "stars": 45,
+  "stars": 48,
   "tag": "#Y9VU09JL"
  },
  "end": "20261129T130346.000Z",
  "opponent": {
-  "destruction": 44.714287,
+  "destruction": 52.914288,
   "members": [
    {
     "name": "hema.❤",
@@ -799,7 +843,7 @@
    }
   ],
   "name": "Egypt",
-  "stars": 43,
+  "stars": 51,
   "tag": "#2QQ9C2PUJ"
  },
  "start": "20261128T130346.000Z",

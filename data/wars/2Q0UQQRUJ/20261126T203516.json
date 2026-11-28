@@ -1077,11 +1077,110 @@
    "p": 56,
    "s": 1,
    "side": "clan"
+  },
+  {
+   "a": "#GLCVJJP8G",
+   "ath": 19,
+   "d": "#88PUCVRJ",
+   "dth": 19,
+   "dur": 115,
+   "o": 99,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#GLCVJJP8G",
+   "ath": 19,
+   "d": "#V0C9VGYP",
+   "dth": 19,
+   "dur": 156,
+   "o": 100,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#GP92URVP0",
+   "ath": 17,
+   "d": "#R9900JGV",
+   "dth": 19,
+   "dur": 22,
+   "o": 101,
+   "p": 17,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#GP92URVP0",
+   "ath": 17,
+   "d": "#2VRRUVRU9",
+   "dth": 18,
+   "dur": 40,
+   "o": 102,
+   "p": 11,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#G282GL0C0",
+   "ath": 17,
+   "d": "#QJURJJPV",
+   "dth": 19,
+   "dur": 90,
+   "o": 103,
+   "p": 32,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#G282GL0C0",
+   "ath": 17,
+   "d": "#PRQRCG2Y",
+   "dth": 19,
+   "dur": 39,
+   "o": 104,
+   "p": 19,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#Y9PU0RCGR",
+   "ath": 19,
+   "d": "#QJURJJPV",
+   "dth": 19,
+   "dur": 27,
+   "o": 105,
+   "p": 8,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#G9GPGRQ00",
+   "ath": 19,
+   "d": "#QJURJJPV",
+   "dth": 19,
+   "dur": 38,
+   "o": 106,
+   "p": 26,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#G9GPGRQ00",
+   "ath": 19,
+   "d": "#2L00QP00",
+   "dth": 19,
+   "dur": 31,
+   "o": 107,
+   "p": 24,
+   "s": 1,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 99.933334,
+  "destruction": 100.0,
   "members": [
    {
     "name": "28",
@@ -1265,7 +1364,7 @@
    }
   ],
   "name": "Sigmazone",
-  "stars": 89,
+  "stars": 90,
   "tag": "#2Q0UQQRUJ"
  },
  "end": "20261128T193516.000Z",
@@ -1458,7 +1557,7 @@
   "tag": "#20G9PL2G"
  },
  "start": "20261127T193516.000Z",
- "state": "inWar",
+ "state": "warEnded",
  "teamSize": 30,
  "type": "krieg"
 }

@@ -1297,6 +1297,72 @@
    "p": 20,
    "s": 1,
    "side": "clan"
+  },
+  {
+   "a": "#9CGCUCPYL",
+   "ath": 19,
+   "d": "#L0VVV9C0Q",
+   "dth": 19,
+   "dur": 154,
+   "o": 119,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#9CGCUCPYL",
+   "ath": 19,
+   "d": "#98Y0RUP9",
+   "dth": 19,
+   "dur": 171,
+   "o": 120,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#2GCL8LRP",
+   "ath": 19,
+   "d": "#GJP2V9U2",
+   "dth": 19,
+   "dur": 157,
+   "o": 121,
+   "p": 88,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#CQGLJYLC",
+   "ath": 19,
+   "d": "#R08Q0G9R",
+   "dth": 19,
+   "dur": 88,
+   "o": 122,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#UP9GCCJJ",
+   "ath": 19,
+   "d": "#QCU8VPVR",
+   "dth": 19,
+   "dur": 8,
+   "o": 123,
+   "p": 2,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#UP9GCCJJ",
+   "ath": 19,
+   "d": "#CRRUVQ88",
+   "dth": 19,
+   "dur": 14,
+   "o": 124,
+   "p": 12,
+   "s": 1,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
@@ -1580,7 +1646,7 @@
  },
  "end": "20261129T021440.000Z",
  "opponent": {
-  "destruction": 91.333336,
+  "destruction": 94.066666,
   "members": [
    {
     "name": "Tyler/Neo",
@@ -1854,7 +1920,7 @@
    }
   ],
   "name": "War Maniacs",
-  "stars": 118,
+  "stars": 123,
   "tag": "#9VVU2Q0V"
  },
  "start": "20261128T021440.000Z",

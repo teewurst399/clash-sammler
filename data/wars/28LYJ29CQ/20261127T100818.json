@@ -945,11 +945,132 @@
    "p": 11,
    "s": 1,
    "side": "gegner"
+  },
+  {
+   "a": "#YLL080LG",
+   "ath": 19,
+   "d": "#RYJCU8UP",
+   "dth": 19,
+   "dur": 153,
+   "o": 87,
+   "p": 86,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#YLL080LG",
+   "ath": 19,
+   "d": "#U8P8989C",
+   "dth": 19,
+   "dur": 140,
+   "o": 88,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#GPY0LC9",
+   "ath": 19,
+   "d": "#RYJCU8UP",
+   "dth": 19,
+   "dur": 160,
+   "o": 89,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#2CQCUYGU",
+   "ath": 19,
+   "d": "#R9PYCLCQ",
+   "dth": 19,
+   "dur": 98,
+   "o": 90,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#2CQCUYGU",
+   "ath": 19,
+   "d": "#ULUJCRUC",
+   "dth": 19,
+   "dur": 141,
+   "o": 91,
+   "p": 73,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#PVVPQ8JR9",
+   "ath": 19,
+   "d": "#2P8Y8QUC",
+   "dth": 19,
+   "dur": 109,
+   "o": 92,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#PVVPQ8JR9",
+   "ath": 19,
+   "d": "#QVUQ9YPJC",
+   "dth": 19,
+   "dur": 100,
+   "o": 93,
+   "p": 87,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#LCQ2RJU2J",
+   "ath": 19,
+   "d": "#8VPP22U2",
+   "dth": 19,
+   "dur": 160,
+   "o": 94,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#LCQ2RJU2J",
+   "ath": 19,
+   "d": "#JCUJJ2P0",
+   "dth": 19,
+   "dur": 180,
+   "o": 95,
+   "p": 89,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#JCUJJ2P0",
+   "ath": 19,
+   "d": "#QJQV9YJGV",
+   "dth": 19,
+   "dur": 172,
+   "o": 96,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#JCUJJ2P0",
+   "ath": 19,
+   "d": "#YUVCLCCU0",
+   "dth": 19,
+   "dur": 175,
+   "o": 97,
+   "p": 94,
+   "s": 2,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 69.325,
+  "destruction": 85.85,
   "members": [
    {
     "name": "FL • SKINNYJIMM",
@@ -1193,7 +1314,7 @@
    }
   ],
   "name": "FruchtLabor",
-  "stars": 82,
+  "stars": 101,
   "tag": "#28LYJ29CQ"
  },
  "end": "20261129T090818.000Z",
