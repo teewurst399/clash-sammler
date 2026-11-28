@@ -835,11 +835,77 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#G8Y9VL2JY",
+   "ath": 19,
+   "d": "#8C00UYRYP",
+   "dth": 19,
+   "dur": 144,
+   "o": 77,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#Y0C98P2P0",
+   "ath": 19,
+   "d": "#29P2LU9GU",
+   "dth": 19,
+   "dur": 117,
+   "o": 78,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#RUGVJQQY",
+   "ath": 19,
+   "d": "#2YGPC8QVY",
+   "dth": 19,
+   "dur": 118,
+   "o": 79,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#Y0C98P2P0",
+   "ath": 19,
+   "d": "#8292UUL9Y",
+   "dth": 19,
+   "dur": 180,
+   "o": 80,
+   "p": 96,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#2VJ29PPY",
+   "ath": 19,
+   "d": "#8292UUL9Y",
+   "dth": 19,
+   "dur": 170,
+   "o": 81,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#V0CRQLVQ",
+   "ath": 19,
+   "d": "#2YPJGLCJV",
+   "dth": 19,
+   "dur": 92,
+   "o": 82,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 78.8,
+  "destruction": 83.8,
   "members": [
    {
     "name": "Salih",
@@ -1083,12 +1149,12 @@
    }
   ],
   "name": "Hoher Geheimrat",
-  "stars": 89,
+  "stars": 95,
   "tag": "#2PP2GYRGL"
  },
  "end": "20261128T190614.000Z",
  "opponent": {
-  "destruction": 64.1,
+  "destruction": 71.6,
   "members": [
    {
     "name": "- will+31 -",
@@ -1332,7 +1398,7 @@
    }
   ],
   "name": "+238 |||",
-  "stars": 73,
+  "stars": 82,
   "tag": "#2R8C0RG08"
  },
  "start": "20261127T190614.000Z",

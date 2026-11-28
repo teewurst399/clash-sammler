@@ -417,11 +417,110 @@
    "p": 97,
    "s": 2,
    "side": "gegner"
+  },
+  {
+   "a": "#L82L8LQC",
+   "ath": 19,
+   "d": "#Q9LCPJ0PR",
+   "dth": 19,
+   "dur": 151,
+   "o": 39,
+   "p": 95,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#VRVYYR88",
+   "ath": 19,
+   "d": "#9GYU9L9V2",
+   "dth": 19,
+   "dur": 119,
+   "o": 40,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#2LLQLUPGY",
+   "ath": 19,
+   "d": "#8829Y22U",
+   "dth": 19,
+   "dur": 110,
+   "o": 41,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#VRVYYR88",
+   "ath": 19,
+   "d": "#8RV20PQQ",
+   "dth": 19,
+   "dur": 153,
+   "o": 42,
+   "p": 81,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#VVQU92J9",
+   "ath": 19,
+   "d": "#Y0YC8G822",
+   "dth": 19,
+   "dur": 177,
+   "o": 43,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#VVQU92J9",
+   "ath": 19,
+   "d": "#QQUVV0PQP",
+   "dth": 19,
+   "dur": 180,
+   "o": 44,
+   "p": 90,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#29L8VGCG8",
+   "ath": 19,
+   "d": "#8RV20PQQ",
+   "dth": 19,
+   "dur": 106,
+   "o": 45,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#PYJJLUYRV",
+   "ath": 19,
+   "d": "#2YPJ8YCCP",
+   "dth": 19,
+   "dur": 180,
+   "o": 46,
+   "p": 99,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#28JPJCYUV",
+   "ath": 19,
+   "d": "#29URRPYQ",
+   "dth": 19,
+   "dur": 140,
+   "o": 47,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 17.688889,
+  "destruction": 22.11111,
   "members": [
    {
     "name": "Ben",
@@ -695,12 +794,12 @@
    }
   ],
   "name": "Confusion",
-  "stars": 23,
+  "stars": 28,
   "tag": "#2QU9JJYP"
  },
  "end": "20261129T083802.000Z",
  "opponent": {
-  "destruction": 55.488888,
+  "destruction": 66.37778,
   "members": [
    {
     "name": "nobnobnob",
@@ -974,7 +1073,7 @@
    }
   ],
   "name": "Heroes Korea",
-  "stars": 74,
+  "stars": 88,
   "tag": "#982JCPJU"
  },
  "start": "20261128T083802.000Z",

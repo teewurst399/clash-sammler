@@ -758,11 +758,110 @@
    "p": 78,
    "s": 2,
    "side": "gegner"
+  },
+  {
+   "a": "#URG8VYJV",
+   "ath": 19,
+   "d": "#28CJJC29U",
+   "dth": 19,
+   "dur": 90,
+   "o": 70,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#2Q9RPP9JU",
+   "ath": 17,
+   "d": "#QGRCVJVGJ",
+   "dth": 18,
+   "dur": 180,
+   "o": 71,
+   "p": 84,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#8PVGC8CP9",
+   "ath": 19,
+   "d": "#L08PLV0GC",
+   "dth": 19,
+   "dur": 100,
+   "o": 72,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#8GVVP8LLJ",
+   "ath": 19,
+   "d": "#8QQ280V28",
+   "dth": 19,
+   "dur": 153,
+   "o": 73,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#JQQLYP8V",
+   "ath": 19,
+   "d": "#URG8VYJV",
+   "dth": 19,
+   "dur": 155,
+   "o": 74,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#8GVVP8LLJ",
+   "ath": 19,
+   "d": "#YPYL9P80V",
+   "dth": 19,
+   "dur": 128,
+   "o": 75,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#JQQLYP8V",
+   "ath": 19,
+   "d": "#QRC8C9YQ",
+   "dth": 19,
+   "dur": 180,
+   "o": 76,
+   "p": 87,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#8PVGC8CP9",
+   "ath": 19,
+   "d": "#L90VPGG89",
+   "dth": 19,
+   "dur": 98,
+   "o": 77,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#QRC8C9YQ",
+   "ath": 19,
+   "d": "#QGRCVJVGJ",
+   "dth": 18,
+   "dur": 108,
+   "o": 78,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 75.91428,
+  "destruction": 84.48572,
   "members": [
    {
     "name": "Monkey D. Luffy",
@@ -976,12 +1075,12 @@
    }
   ],
   "name": "Fourthzone",
-  "stars": 77,
+  "stars": 86,
   "tag": "#2GU0V2VCR"
  },
  "end": "20261128T185852.000Z",
  "opponent": {
-  "destruction": 84.51428,
+  "destruction": 90.8,
   "members": [
    {
     "name": "Danils",
@@ -1195,7 +1294,7 @@
    }
   ],
   "name": "\"WARRIORS\"",
-  "stars": 87,
+  "stars": 95,
   "tag": "#90CYJQ0G"
  },
  "start": "20261127T185852.000Z",

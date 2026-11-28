@@ -945,11 +945,121 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#Q0VCULCUL",
+   "ath": 19,
+   "d": "#L8YQ8CQQU",
+   "dth": 19,
+   "dur": 141,
+   "o": 87,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#LQVCGC20",
+   "ath": 19,
+   "d": "#20U88Q2Q",
+   "dth": 19,
+   "dur": 174,
+   "o": 88,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#UVL8J0R9",
+   "ath": 19,
+   "d": "#UVRPG99",
+   "dth": 19,
+   "dur": 180,
+   "o": 89,
+   "p": 93,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#LQVYGYY0J",
+   "ath": 19,
+   "d": "#LLQUQQYC",
+   "dth": 19,
+   "dur": 123,
+   "o": 90,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#2PP82G80R",
+   "ath": 19,
+   "d": "#QGVLVLVVG",
+   "dth": 19,
+   "dur": 162,
+   "o": 91,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#UVL8J0R9",
+   "ath": 19,
+   "d": "#QU9G0C0G0",
+   "dth": 19,
+   "dur": 133,
+   "o": 92,
+   "p": 79,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#2PP82G80R",
+   "ath": 19,
+   "d": "#202RCYPU0",
+   "dth": 19,
+   "dur": 169,
+   "o": 93,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#LQVYGYY0J",
+   "ath": 19,
+   "d": "#P9JPV9J9P",
+   "dth": 19,
+   "dur": 130,
+   "o": 94,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#2QGUYLVU8",
+   "ath": 19,
+   "d": "#LQVYGYY0J",
+   "dth": 19,
+   "dur": 140,
+   "o": 95,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#2QGUYLVU8",
+   "ath": 19,
+   "d": "#YRL8PYGJQ",
+   "dth": 19,
+   "dur": 150,
+   "o": 96,
+   "p": 93,
+   "s": 2,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 73.25,
+  "destruction": 85.05,
   "members": [
    {
     "name": "THRON",
@@ -1193,12 +1303,12 @@
    }
   ],
   "name": "SteinFrucht",
-  "stars": 85,
+  "stars": 97,
   "tag": "#2JU9URU2L"
  },
  "end": "20261128T181214.000Z",
  "opponent": {
-  "destruction": 88.725,
+  "destruction": 96.85,
   "members": [
    {
     "name": "Absynthe",
@@ -1442,7 +1552,7 @@
    }
   ],
   "name": "EFSANE",
-  "stars": 105,
+  "stars": 115,
   "tag": "#2LGQYQJ2R"
  },
  "start": "20261127T181214.000Z",

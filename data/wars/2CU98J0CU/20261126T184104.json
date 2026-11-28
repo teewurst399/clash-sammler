@@ -901,11 +901,77 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#209JVLLJ",
+   "ath": 19,
+   "d": "#LJQ2QJ28V",
+   "dth": 19,
+   "dur": 93,
+   "o": 83,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#2PJ2LPJQ",
+   "ath": 19,
+   "d": "#280C802C2",
+   "dth": 19,
+   "dur": 136,
+   "o": 84,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#9UR0L8299",
+   "ath": 19,
+   "d": "#JG2029YU",
+   "dth": 19,
+   "dur": 124,
+   "o": 85,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#9UR0L8299",
+   "ath": 19,
+   "d": "#QUJ0LG9P2",
+   "dth": 19,
+   "dur": 130,
+   "o": 86,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#JG8JVQ2R",
+   "ath": 19,
+   "d": "#8GU09R",
+   "dth": 19,
+   "dur": 91,
+   "o": 87,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#JG8JVQ2R",
+   "ath": 19,
+   "d": "#98982YRPR",
+   "dth": 19,
+   "dur": 94,
+   "o": 88,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 72.5,
+  "destruction": 82.5,
   "members": [
    {
     "name": "Patrón",
@@ -1149,12 +1215,12 @@
    }
   ],
   "name": "Throne_of_SRG",
-  "stars": 87,
+  "stars": 99,
   "tag": "#2CU98J0CU"
  },
  "end": "20261128T174104.000Z",
  "opponent": {
-  "destruction": 95.0,
+  "destruction": 100.0,
   "members": [
    {
     "name": "☄️ SELÇUK ☄️",
@@ -1398,7 +1464,7 @@
    }
   ],
   "name": "BARLAS",
-  "stars": 114,
+  "stars": 120,
   "tag": "#9UYCPVU0"
  },
  "start": "20261127T174104.000Z",
