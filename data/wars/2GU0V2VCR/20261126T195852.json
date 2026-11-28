@@ -857,11 +857,66 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#Y202UL08",
+   "ath": 19,
+   "d": "#U8C2JPUV",
+   "dth": 19,
+   "dur": 122,
+   "o": 79,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#QGRCVJVGJ",
+   "ath": 18,
+   "d": "#U2YP0VYC",
+   "dth": 18,
+   "dur": 122,
+   "o": 80,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#J98PJV82",
+   "ath": 19,
+   "d": "#RQ00CPY",
+   "dth": 17,
+   "dur": 135,
+   "o": 81,
+   "p": 94,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#QGRCVJVGJ",
+   "ath": 18,
+   "d": "#2Q9RPP9JU",
+   "dth": 17,
+   "dur": 128,
+   "o": 82,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#2QV2YCLVG",
+   "ath": 18,
+   "d": "#82PUCPUR",
+   "dth": 19,
+   "dur": 130,
+   "o": 83,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 84.48572,
+  "destruction": 91.11429,
   "members": [
    {
     "name": "Monkey D. Luffy",
@@ -1075,12 +1130,12 @@
    }
   ],
   "name": "Fourthzone",
-  "stars": 86,
+  "stars": 93,
   "tag": "#2GU0V2VCR"
  },
  "end": "20261128T185852.000Z",
  "opponent": {
-  "destruction": 90.8,
+  "destruction": 94.11429,
   "members": [
    {
     "name": "Danils",
@@ -1294,7 +1349,7 @@
    }
   ],
   "name": "\"WARRIORS\"",
-  "stars": 95,
+  "stars": 98,
   "tag": "#90CYJQ0G"
  },
  "start": "20261127T185852.000Z",

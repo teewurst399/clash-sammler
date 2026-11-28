@@ -516,11 +516,143 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#PYJJLUYRV",
+   "ath": 19,
+   "d": "#GQV8RV229",
+   "dth": 19,
+   "dur": 143,
+   "o": 48,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#28JPJCYUV",
+   "ath": 19,
+   "d": "#29L8VGCG8",
+   "dth": 19,
+   "dur": 141,
+   "o": 49,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#JR8PYVYQ",
+   "ath": 19,
+   "d": "#QQUVV0PQP",
+   "dth": 19,
+   "dur": 126,
+   "o": 50,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#9RYY8P2Q",
+   "ath": 19,
+   "d": "#RYGJ8GPQ",
+   "dth": 19,
+   "dur": 126,
+   "o": 51,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#9RYY8P2Q",
+   "ath": 19,
+   "d": "#GL89CLYLV",
+   "dth": 19,
+   "dur": 152,
+   "o": 52,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#JR8PYVYQ",
+   "ath": 19,
+   "d": "#PVVYJLL9",
+   "dth": 19,
+   "dur": 148,
+   "o": 53,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#GQV8RV229",
+   "ath": 19,
+   "d": "#8L2RVPU9Y",
+   "dth": 19,
+   "dur": 171,
+   "o": 54,
+   "p": 70,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#JPCPLJYR",
+   "ath": 19,
+   "d": "#8L2RVPU9Y",
+   "dth": 19,
+   "dur": 160,
+   "o": 55,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#URVULUP9",
+   "ath": 19,
+   "d": "#YCLGPG2V",
+   "dth": 19,
+   "dur": 116,
+   "o": 56,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#JPCPLJYR",
+   "ath": 19,
+   "d": "#Y0RRYULL",
+   "dth": 19,
+   "dur": 170,
+   "o": 57,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#GQV8RV229",
+   "ath": 19,
+   "d": "#282Y20PQU",
+   "dth": 19,
+   "dur": 180,
+   "o": 58,
+   "p": 84,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#GLCCYGYVC",
+   "ath": 19,
+   "d": "#PQRUULJC",
+   "dth": 19,
+   "dur": 114,
+   "o": 59,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 22.11111,
+  "destruction": 31.0,
   "members": [
    {
     "name": "Ben",
@@ -794,12 +926,12 @@
    }
   ],
   "name": "Confusion",
-  "stars": 28,
+  "stars": 40,
   "tag": "#2QU9JJYP"
  },
  "end": "20261129T083802.000Z",
  "opponent": {
-  "destruction": 66.37778,
+  "destruction": 79.577774,
   "members": [
    {
     "name": "nobnobnob",
@@ -1073,7 +1205,7 @@
    }
   ],
   "name": "Heroes Korea",
-  "stars": 88,
+  "stars": 106,
   "tag": "#982JCPJU"
  },
  "start": "20261128T083802.000Z",

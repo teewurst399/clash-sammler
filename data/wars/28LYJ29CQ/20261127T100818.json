@@ -472,11 +472,154 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#2YVQ90GL",
+   "ath": 19,
+   "d": "#9CR8PCC",
+   "dth": 19,
+   "dur": 128,
+   "o": 44,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#RYJCU8UP",
+   "ath": 19,
+   "d": "#98G9RQLYG",
+   "dth": 19,
+   "dur": 163,
+   "o": 45,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#RYJCU8UP",
+   "ath": 19,
+   "d": "#G0RCVCC",
+   "dth": 19,
+   "dur": 114,
+   "o": 46,
+   "p": 80,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#2YVQ90GL",
+   "ath": 19,
+   "d": "#RR2YPP9R",
+   "dth": 19,
+   "dur": 167,
+   "o": 47,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#8C8RP02U",
+   "ath": 19,
+   "d": "#989C8LC28",
+   "dth": 19,
+   "dur": 138,
+   "o": 48,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#Q8UQUULP",
+   "ath": 19,
+   "d": "#QLR29JR0",
+   "dth": 19,
+   "dur": 180,
+   "o": 49,
+   "p": 80,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#8C8RP02U",
+   "ath": 19,
+   "d": "#99RJ8LL9",
+   "dth": 19,
+   "dur": 171,
+   "o": 50,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#QQYL9YYQQ",
+   "ath": 19,
+   "d": "#Q8UQUULP",
+   "dth": 19,
+   "dur": 166,
+   "o": 51,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#QQYL9YYQQ",
+   "ath": 19,
+   "d": "#GPY0LC9",
+   "dth": 19,
+   "dur": 152,
+   "o": 52,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#QLR29JR0",
+   "ath": 19,
+   "d": "#LQQJ9L9QY",
+   "dth": 19,
+   "dur": 109,
+   "o": 53,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#L989JUQ2L",
+   "ath": 19,
+   "d": "#2CQCUYGU",
+   "dth": 19,
+   "dur": 90,
+   "o": 54,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#L989JUQ2L",
+   "ath": 19,
+   "d": "#PGL8RJ00V",
+   "dth": 19,
+   "dur": 159,
+   "o": 55,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#8QU2V2Y",
+   "ath": 19,
+   "d": "#QRV8Q0JRR",
+   "dth": 19,
+   "dur": 143,
+   "o": 56,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 42.2,
+  "destruction": 54.325,
   "members": [
    {
     "name": "FL • SKINNYJIMM",
@@ -720,12 +863,12 @@
    }
   ],
   "name": "FruchtLabor",
-  "stars": 49,
+  "stars": 64,
   "tag": "#28LYJ29CQ"
  },
  "end": "20261129T090818.000Z",
  "opponent": {
-  "destruction": 47.45,
+  "destruction": 64.45,
   "members": [
    {
     "name": "雪菜肉絲",
@@ -969,7 +1112,7 @@
    }
   ],
   "name": "最强部落",
-  "stars": 56,
+  "stars": 76,
   "tag": "#22RR0PPUL"
  },
  "start": "20261128T090818.000Z",

@@ -758,6 +758,17 @@
    "p": 89,
    "s": 2,
    "side": "clan"
+  },
+  {
+   "a": "#V0C9VGYP",
+   "ath": 19,
+   "d": "#2RY9JRC9",
+   "dth": 19,
+   "dur": 142,
+   "o": 70,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -951,7 +962,7 @@
  },
  "end": "20261128T193516.000Z",
  "opponent": {
-  "destruction": 99.73333,
+  "destruction": 100.0,
   "members": [
    {
     "name": "mcc",
@@ -1135,7 +1146,7 @@
    }
   ],
   "name": "#KriegsElite",
-  "stars": 89,
+  "stars": 90,
   "tag": "#20G9PL2G"
  },
  "start": "20261127T193516.000Z",

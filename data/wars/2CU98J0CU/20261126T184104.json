@@ -967,11 +967,55 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#2PJ2LPJQ",
+   "ath": 19,
+   "d": "#90VJ20JJ9",
+   "dth": 19,
+   "dur": 138,
+   "o": 89,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#YPR88UGYJ",
+   "ath": 19,
+   "d": "#2G0CJUQ2J",
+   "dth": 19,
+   "dur": 145,
+   "o": 90,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#YPR88UGYJ",
+   "ath": 19,
+   "d": "#9JVU8VGU",
+   "dth": 19,
+   "dur": 146,
+   "o": 91,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#P2CQ0PV8",
+   "ath": 19,
+   "d": "#8R9CUV2G",
+   "dth": 19,
+   "dur": 162,
+   "o": 92,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 82.5,
+  "destruction": 90.0,
   "members": [
    {
     "name": "Patrón",
@@ -1215,7 +1259,7 @@
    }
   ],
   "name": "Throne_of_SRG",
-  "stars": 99,
+  "stars": 108,
   "tag": "#2CU98J0CU"
  },
  "end": "20261128T174104.000Z",

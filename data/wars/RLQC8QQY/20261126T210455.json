@@ -736,11 +736,110 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#GC9L2J0Q",
+   "ath": 19,
+   "d": "#R9088VPG",
+   "dth": 19,
+   "dur": 160,
+   "o": 68,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#GC9L2J0Q",
+   "ath": 19,
+   "d": "#2PGVQV22U",
+   "dth": 19,
+   "dur": 165,
+   "o": 69,
+   "p": 87,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#2P9VV8UJG",
+   "ath": 19,
+   "d": "#JR0RPUYG",
+   "dth": 18,
+   "dur": 149,
+   "o": 70,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#2P9VV8UJG",
+   "ath": 19,
+   "d": "#PCPLGURRQ",
+   "dth": 19,
+   "dur": 180,
+   "o": 71,
+   "p": 99,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#YLGPJGQ0Y",
+   "ath": 18,
+   "d": "#QQCRLCQ",
+   "dth": 19,
+   "dur": 149,
+   "o": 72,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#QVCQP9P",
+   "ath": 19,
+   "d": "#Y2C8PJVCR",
+   "dth": 19,
+   "dur": 153,
+   "o": 73,
+   "p": 91,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#YLGPJGQ0Y",
+   "ath": 18,
+   "d": "#Y2C8PJVCR",
+   "dth": 19,
+   "dur": 167,
+   "o": 74,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#CGV0902L",
+   "ath": 19,
+   "d": "#RPVQUR9V",
+   "dth": 19,
+   "dur": 136,
+   "o": 75,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#CGV0902L",
+   "ath": 19,
+   "d": "#G99QQRQR",
+   "dth": 19,
+   "dur": 92,
+   "o": 76,
+   "p": 76,
+   "s": 2,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 49.475,
+  "destruction": 49.525,
   "members": [
    {
     "name": "Gsälzbrot",
@@ -984,12 +1083,12 @@
    }
   ],
   "name": "headstart",
-  "stars": 56,
+  "stars": 57,
   "tag": "#RLQC8QQY"
  },
  "end": "20261128T200455.000Z",
  "opponent": {
-  "destruction": 90.4,
+  "destruction": 98.35,
   "members": [
    {
     "name": "michael",
@@ -1233,7 +1332,7 @@
    }
   ],
   "name": "Dutch Dignity",
-  "stars": 104,
+  "stars": 114,
   "tag": "#29PQV9L8R"
  },
  "start": "20261127T200455.000Z",

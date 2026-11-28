@@ -43,11 +43,55 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#G2PP298Q",
+   "ath": 19,
+   "d": "#CCRP2QUL",
+   "dth": 19,
+   "dur": 180,
+   "o": 5,
+   "p": 95,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#G2PP298Q",
+   "ath": 19,
+   "d": "#PUJRJPC22",
+   "dth": 19,
+   "dur": 180,
+   "o": 6,
+   "p": 88,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#2GL8LRUVV",
+   "ath": 18,
+   "d": "#PVLRVQPRR",
+   "dth": 19,
+   "dur": 91,
+   "o": 7,
+   "p": 40,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#2GL8LRUVV",
+   "ath": 18,
+   "d": "#GP98L00P9",
+   "dth": 19,
+   "dur": 79,
+   "o": 8,
+   "p": 61,
+   "s": 1,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 10.0,
+  "destruction": 19.15,
   "members": [
    {
     "name": "Bozz⚡️Bandit",
@@ -171,12 +215,12 @@
    }
   ],
   "name": "Infructus",
-  "stars": 6,
+  "stars": 10,
   "tag": "#2QQJQ2CJP"
  },
  "end": "20261129T090819.000Z",
  "opponent": {
-  "destruction": 3.6,
+  "destruction": 8.65,
   "members": [
    {
     "name": "닝기리",
@@ -300,7 +344,7 @@
    }
   ],
   "name": "낭만",
-  "stars": 2,
+  "stars": 4,
   "tag": "#2QGUUQ0PU"
  },
  "start": "20261128T090819.000Z",

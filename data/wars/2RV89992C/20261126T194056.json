@@ -648,11 +648,88 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#8U90V8JY",
+   "ath": 19,
+   "d": "#GRJVP9Q99",
+   "dth": 17,
+   "dur": 150,
+   "o": 60,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#20PJ90PC",
+   "ath": 18,
+   "d": "#Q2GUJ2Y88",
+   "dth": 17,
+   "dur": 83,
+   "o": 61,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#8U90V8JY",
+   "ath": 19,
+   "d": "#LQVQVR8QR",
+   "dth": 17,
+   "dur": 140,
+   "o": 62,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#Y2GGRCLVJ",
+   "ath": 19,
+   "d": "#YCCPLQV92",
+   "dth": 19,
+   "dur": 180,
+   "o": 63,
+   "p": 87,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#29RUYVV8U",
+   "ath": 19,
+   "d": "#PPYGCLUCU",
+   "dth": 19,
+   "dur": 141,
+   "o": 64,
+   "p": 74,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#Y2GGRCLVJ",
+   "ath": 19,
+   "d": "#JRLQU89P",
+   "dth": 19,
+   "dur": 167,
+   "o": 65,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#29RUYVV8U",
+   "ath": 19,
+   "d": "#LV0Y9RRG",
+   "dth": 16,
+   "dur": 121,
+   "o": 66,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 71.6,
+  "destruction": 77.833336,
   "members": [
    {
     "name": "Dschini -L-",
@@ -836,12 +913,12 @@
    }
   ],
   "name": "FruchtLabor V",
-  "stars": 58,
+  "stars": 63,
   "tag": "#2RV89992C"
  },
  "end": "20261128T184056.000Z",
  "opponent": {
-  "destruction": 82.833336,
+  "destruction": 96.166664,
   "members": [
    {
     "name": "Pinguina",
@@ -1025,7 +1102,7 @@
    }
   ],
   "name": "Anteiku.",
-  "stars": 72,
+  "stars": 84,
   "tag": "#22RUCUPJV"
  },
  "start": "20261127T184056.000Z",
