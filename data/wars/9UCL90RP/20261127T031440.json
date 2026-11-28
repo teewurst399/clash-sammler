@@ -263,6 +263,28 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#98Q22GPUP",
+   "ath": 19,
+   "d": "#8Y09UQYLU",
+   "dth": 19,
+   "dur": 142,
+   "o": 25,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#98Q22GPUP",
+   "ath": 19,
+   "d": "#C9YPYYVQ",
+   "dth": 19,
+   "dur": 132,
+   "o": 26,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -546,7 +568,7 @@
  },
  "end": "20261129T021440.000Z",
  "opponent": {
-  "destruction": 37.044445,
+  "destruction": 41.488888,
   "members": [
    {
     "name": "Tyler/Neo",
@@ -820,7 +842,7 @@
    }
   ],
   "name": "War Maniacs",
-  "stars": 48,
+  "stars": 54,
   "tag": "#9VVU2Q0V"
  },
  "start": "20261128T021440.000Z",

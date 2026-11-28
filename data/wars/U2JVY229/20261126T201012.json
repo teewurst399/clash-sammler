@@ -505,6 +505,28 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#80PRY0JQU",
+   "ath": 19,
+   "d": "#PV99LUR8",
+   "dth": 19,
+   "dur": 153,
+   "o": 47,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#20L8290J2",
+   "ath": 19,
+   "d": "#QYC9VY8YY",
+   "dth": 19,
+   "dur": 148,
+   "o": 48,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -728,7 +750,7 @@
  },
  "end": "20261128T191012.000Z",
  "opponent": {
-  "destruction": 37.142857,
+  "destruction": 42.857143,
   "members": [
    {
     "name": "AQL Moon",
@@ -942,7 +964,7 @@
    }
   ],
   "name": "AQUILA",
-  "stars": 39,
+  "stars": 45,
   "tag": "#2C2JYY220"
  },
  "start": "20261127T191012.000Z",

@@ -692,6 +692,39 @@
    "p": 74,
    "s": 1,
    "side": "gegner"
+  },
+  {
+   "a": "#2PGG8VLY8",
+   "ath": 19,
+   "d": "#9LL82P00R",
+   "dth": 19,
+   "dur": 180,
+   "o": 64,
+   "p": 78,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#2PGG8VLY8",
+   "ath": 19,
+   "d": "#JYJC9YR8",
+   "dth": 18,
+   "dur": 160,
+   "o": 65,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#G2Y08QUC",
+   "ath": 19,
+   "d": "#2JGVVY8C",
+   "dth": 19,
+   "dur": 180,
+   "o": 66,
+   "p": 99,
+   "s": 2,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -945,7 +978,7 @@
  },
  "end": "20261128T191235.000Z",
  "opponent": {
-  "destruction": 66.175,
+  "destruction": 73.1,
   "members": [
    {
     "name": "Bhors23",
@@ -1189,7 +1222,7 @@
    }
   ],
   "name": "House of Elites",
-  "stars": 76,
+  "stars": 83,
   "tag": "#2YLR0J09Y"
  },
  "start": "20261127T191235.000Z",

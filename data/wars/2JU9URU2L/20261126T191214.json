@@ -758,6 +758,17 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#LJ0YVGP88",
+   "ath": 19,
+   "d": "#8R2GU0892",
+   "dth": 19,
+   "dur": 141,
+   "o": 70,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -1011,7 +1022,7 @@
  },
  "end": "20261128T181214.000Z",
  "opponent": {
-  "destruction": 78.1,
+  "destruction": 78.625,
   "members": [
    {
     "name": "Absynthe",
@@ -1255,7 +1266,7 @@
    }
   ],
   "name": "EFSANE",
-  "stars": 89,
+  "stars": 90,
   "tag": "#2LGQYQJ2R"
  },
  "start": "20261127T181214.000Z",
