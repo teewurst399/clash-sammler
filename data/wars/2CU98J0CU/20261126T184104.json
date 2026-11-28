@@ -692,6 +692,17 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#UVPLJ9QP",
+   "ath": 19,
+   "d": "#9V9VJR0CC",
+   "dth": 19,
+   "dur": 170,
+   "o": 64,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -945,7 +956,7 @@
  },
  "end": "20261128T174104.000Z",
  "opponent": {
-  "destruction": 70.0,
+  "destruction": 72.5,
   "members": [
    {
     "name": "☄️ SELÇUK ☄️",
@@ -1189,7 +1200,7 @@
    }
   ],
   "name": "BARLAS",
-  "stars": 84,
+  "stars": 87,
   "tag": "#9UYCPVU0"
  },
  "start": "20261127T174104.000Z",

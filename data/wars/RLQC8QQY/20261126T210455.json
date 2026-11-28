@@ -351,6 +351,61 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#2LPPV8RV",
+   "ath": 19,
+   "d": "#9GUPL9JL2",
+   "dth": 19,
+   "dur": 156,
+   "o": 33,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#2L02JUC8",
+   "ath": 19,
+   "d": "#PCPLGURRQ",
+   "dth": 19,
+   "dur": 180,
+   "o": 34,
+   "p": 90,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#QVCQP9P",
+   "ath": 19,
+   "d": "#8V0V92Q22",
+   "dth": 19,
+   "dur": 130,
+   "o": 35,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#2L02JUC8",
+   "ath": 19,
+   "d": "#LG8JJV20G",
+   "dth": 19,
+   "dur": 142,
+   "o": 36,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#2GC0CR2QV",
+   "ath": 19,
+   "d": "#Y9VRUCJLQ",
+   "dth": 19,
+   "dur": 172,
+   "o": 37,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -604,7 +659,7 @@
  },
  "end": "20261128T200455.000Z",
  "opponent": {
-  "destruction": 36.025,
+  "destruction": 43.75,
   "members": [
    {
     "name": "michael",
@@ -848,7 +903,7 @@
    }
   ],
   "name": "Dutch Dignity",
-  "stars": 40,
+  "stars": 51,
   "tag": "#29PQV9L8R"
  },
  "start": "20261127T200455.000Z",

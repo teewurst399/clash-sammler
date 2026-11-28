@@ -483,6 +483,39 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#22PVVLRLJ",
+   "ath": 19,
+   "d": "#PGG800ULQ",
+   "dth": 19,
+   "dur": 156,
+   "o": 45,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#22PVVLRLJ",
+   "ath": 19,
+   "d": "#2PGPUGJG9",
+   "dth": 19,
+   "dur": 180,
+   "o": 46,
+   "p": 87,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#J2CJUJGR",
+   "ath": 19,
+   "d": "#YPVGJ8QQ0",
+   "dth": 19,
+   "dur": 161,
+   "o": 47,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -706,7 +739,7 @@
  },
  "end": "20261128T201052.000Z",
  "opponent": {
-  "destruction": 56.42857,
+  "destruction": 64.62857,
   "members": [
    {
     "name": "SRG⭐️Warden",
@@ -920,7 +953,7 @@
    }
   ],
   "name": "SRG GAMING I",
-  "stars": 54,
+  "stars": 62,
   "tag": "#28Y2U099L"
  },
  "start": "20261127T201052.000Z",

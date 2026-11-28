@@ -527,11 +527,22 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#890V898QP",
+   "ath": 19,
+   "d": "#QCLPPR9UG",
+   "dth": 19,
+   "dur": 163,
+   "o": 49,
+   "p": 69,
+   "s": 2,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 62.857143,
+  "destruction": 64.828575,
   "members": [
    {
     "name": "GL™ ReViX",
@@ -745,7 +756,7 @@
    }
   ],
   "name": "GNADENLOS™",
-  "stars": 66,
+  "stars": 68,
   "tag": "#U2JVY229"
  },
  "end": "20261128T191012.000Z",

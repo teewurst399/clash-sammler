@@ -648,6 +648,50 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#8Q9QRV9V9",
+   "ath": 19,
+   "d": "#P0UQR9YU",
+   "dth": 19,
+   "dur": 152,
+   "o": 60,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#8Q9QRV9V9",
+   "ath": 19,
+   "d": "#8UPCRRC9P",
+   "dth": 19,
+   "dur": 180,
+   "o": 61,
+   "p": 89,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#G2UGU29VV",
+   "ath": 19,
+   "d": "#9C2JGVUV",
+   "dth": 19,
+   "dur": 166,
+   "o": 62,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#G2UGU29VV",
+   "ath": 19,
+   "d": "#LJ8CJ8QJ",
+   "dth": 19,
+   "dur": 169,
+   "o": 63,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -901,7 +945,7 @@
  },
  "end": "20261128T190614.000Z",
  "opponent": {
-  "destruction": 56.625,
+  "destruction": 61.5,
   "members": [
    {
     "name": "- will+31 -",
@@ -1145,7 +1189,7 @@
    }
   ],
   "name": "+238 |||",
-  "stars": 61,
+  "stars": 69,
   "tag": "#2R8C0RG08"
  },
  "start": "20261127T190614.000Z",
