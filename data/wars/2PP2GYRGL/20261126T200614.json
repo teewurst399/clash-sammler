@@ -1209,11 +1209,132 @@
    "p": 28,
    "s": 0,
    "side": "gegner"
+  },
+  {
+   "a": "#8GLVLU0QQ",
+   "ath": 19,
+   "d": "#CR0RYYYQ",
+   "dth": 19,
+   "dur": 89,
+   "o": 111,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#8GLVLU0QQ",
+   "ath": 19,
+   "d": "#9JU2JVG9",
+   "dth": 19,
+   "dur": 112,
+   "o": 112,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#8RRP80VUL",
+   "ath": 19,
+   "d": "#QVVP2C8YY",
+   "dth": 19,
+   "dur": 153,
+   "o": 113,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#8VY980PVL",
+   "ath": 19,
+   "d": "#YRRR2L90P",
+   "dth": 17,
+   "dur": 106,
+   "o": 114,
+   "p": 95,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#8VY980PVL",
+   "ath": 19,
+   "d": "#9GCG8QYJJ",
+   "dth": 19,
+   "dur": 97,
+   "o": 115,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#8RRP80VUL",
+   "ath": 19,
+   "d": "#LC9U9YVVP",
+   "dth": 19,
+   "dur": 121,
+   "o": 116,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#RQLL8QV",
+   "ath": 19,
+   "d": "#29QGC0YJ",
+   "dth": 19,
+   "dur": 162,
+   "o": 117,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#QVVP2C8YY",
+   "ath": 19,
+   "d": "#P8QPGUL9",
+   "dth": 19,
+   "dur": 116,
+   "o": 118,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#RQLL8QV",
+   "ath": 19,
+   "d": "#2Y9JJ2289",
+   "dth": 19,
+   "dur": 179,
+   "o": 119,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#JCQRYJYJ",
+   "ath": 19,
+   "d": "#8Q9QRV9V9",
+   "dth": 19,
+   "dur": 126,
+   "o": 120,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#JCQRYJYJ",
+   "ath": 19,
+   "d": "#JLV9Q022",
+   "dth": 19,
+   "dur": 143,
+   "o": 121,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 98.6,
+  "destruction": 100.0,
   "members": [
    {
     "name": "Salih",
@@ -1457,12 +1578,12 @@
    }
   ],
   "name": "Hoher Geheimrat",
-  "stars": 116,
+  "stars": 120,
   "tag": "#2PP2GYRGL"
  },
  "end": "20261128T190614.000Z",
  "opponent": {
-  "destruction": 89.85,
+  "destruction": 99.8,
   "members": [
    {
     "name": "- will+31 -",
@@ -1706,7 +1827,7 @@
    }
   ],
   "name": "+238 |||",
-  "stars": 105,
+  "stars": 118,
   "tag": "#2R8C0RG08"
  },
  "start": "20261127T190614.000Z",

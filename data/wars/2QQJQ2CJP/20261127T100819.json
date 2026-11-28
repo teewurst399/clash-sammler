@@ -230,6 +230,28 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#GJ8YQRYC2",
+   "ath": 19,
+   "d": "#2LQUCL28Y",
+   "dth": 19,
+   "dur": 132,
+   "o": 22,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#GJ8YQRYC2",
+   "ath": 19,
+   "d": "#88RJJLG9J",
+   "dth": 19,
+   "dur": 122,
+   "o": 23,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -363,7 +385,7 @@
  },
  "end": "20261129T090819.000Z",
  "opponent": {
-  "destruction": 53.6,
+  "destruction": 63.6,
   "members": [
    {
     "name": "닝기리",
@@ -487,7 +509,7 @@
    }
   ],
   "name": "낭만",
-  "stars": 32,
+  "stars": 38,
   "tag": "#2QGUUQ0PU"
  },
  "start": "20261128T090819.000Z",

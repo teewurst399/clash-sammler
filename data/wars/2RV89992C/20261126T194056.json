@@ -791,11 +791,110 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#89Q9VU29G",
+   "ath": 16,
+   "d": "#UV2L88J0",
+   "dth": 16,
+   "dur": 131,
+   "o": 73,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#GV2PGJGP8",
+   "ath": 19,
+   "d": "#8U90V8JY",
+   "dth": 19,
+   "dur": 133,
+   "o": 74,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#89Q9VU29G",
+   "ath": 16,
+   "d": "#GV9QPPPJG",
+   "dth": 15,
+   "dur": 111,
+   "o": 75,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#UV2L88J0",
+   "ath": 16,
+   "d": "#QQ80LPPUG",
+   "dth": 17,
+   "dur": 180,
+   "o": 76,
+   "p": 93,
+   "s": 1,
+   "side": "clan"
+  },
+  {
+   "a": "#JR00G2PR",
+   "ath": 19,
+   "d": "#29YUQPRCU",
+   "dth": 19,
+   "dur": 96,
+   "o": 77,
+   "p": 78,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#JR00G2PR",
+   "ath": 19,
+   "d": "#208LURYQ9",
+   "dth": 19,
+   "dur": 43,
+   "o": 78,
+   "p": 51,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#GVVYRULYV",
+   "ath": 16,
+   "d": "#QQ80LPPUG",
+   "dth": 17,
+   "dur": 134,
+   "o": 79,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#29YUQPRCU",
+   "ath": 19,
+   "d": "#LUUYR8QCP",
+   "dth": 19,
+   "dur": 180,
+   "o": 80,
+   "p": 94,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#GVVYRULYV",
+   "ath": 16,
+   "d": "#2Q8U8RV2U",
+   "dth": 18,
+   "dur": 177,
+   "o": 81,
+   "p": 94,
+   "s": 2,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 84.5,
+  "destruction": 88.166664,
   "members": [
    {
     "name": "Dschini -L-",
@@ -979,12 +1078,12 @@
    }
   ],
   "name": "FruchtLabor V",
-  "stars": 69,
+  "stars": 75,
   "tag": "#2RV89992C"
  },
  "end": "20261128T184056.000Z",
  "opponent": {
-  "destruction": 99.0,
+  "destruction": 100.0,
   "members": [
    {
     "name": "Pinguina",
@@ -1168,7 +1267,7 @@
    }
   ],
   "name": "Anteiku.",
-  "stars": 87,
+  "stars": 90,
   "tag": "#22RUCUPJV"
  },
  "start": "20261127T184056.000Z",

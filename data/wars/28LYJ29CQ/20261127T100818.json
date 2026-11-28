@@ -890,11 +890,66 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#Q8UQUULP",
+   "ath": 19,
+   "d": "#GYLC2JC08",
+   "dth": 19,
+   "dur": 170,
+   "o": 82,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#8JUY22JGP",
+   "ath": 19,
+   "d": "#8VPP22U2",
+   "dth": 19,
+   "dur": 135,
+   "o": 83,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#8JUY22JGP",
+   "ath": 19,
+   "d": "#JCUJJ2P0",
+   "dth": 19,
+   "dur": 161,
+   "o": 84,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#GJQ0VP0V8",
+   "ath": 19,
+   "d": "#8VPP22U2",
+   "dth": 19,
+   "dur": 8,
+   "o": 85,
+   "p": 16,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#GJQ0VP0V8",
+   "ath": 19,
+   "d": "#GCQYC8QL",
+   "dth": 19,
+   "dur": 5,
+   "o": 86,
+   "p": 11,
+   "s": 1,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 66.825,
+  "destruction": 69.325,
   "members": [
    {
     "name": "FL • SKINNYJIMM",
@@ -1138,7 +1193,7 @@
    }
   ],
   "name": "FruchtLabor",
-  "stars": 79,
+  "stars": 82,
   "tag": "#28LYJ29CQ"
  },
  "end": "20261129T090818.000Z",

@@ -461,6 +461,61 @@
    "p": 81,
    "s": 1,
    "side": "clan"
+  },
+  {
+   "a": "#99V2YR8Q",
+   "ath": 19,
+   "d": "#LL2U0UQPV",
+   "dth": 19,
+   "dur": 180,
+   "o": 43,
+   "p": 89,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#8QYV29282",
+   "ath": 19,
+   "d": "#L2UUC9G82",
+   "dth": 19,
+   "dur": 96,
+   "o": 44,
+   "p": 57,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#8QYV29282",
+   "ath": 19,
+   "d": "#8RVYPQCRG",
+   "dth": 19,
+   "dur": 105,
+   "o": 45,
+   "p": 75,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#99V2YR8Q",
+   "ath": 19,
+   "d": "#L2UUC9G82",
+   "dth": 19,
+   "dur": 150,
+   "o": 46,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#8Q2999929",
+   "ath": 19,
+   "d": "#LL2U0UQPV",
+   "dth": 19,
+   "dur": 127,
+   "o": 47,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -654,7 +709,7 @@
  },
  "end": "20261128T184606.000Z",
  "opponent": {
-  "destruction": 39.033333,
+  "destruction": 44.9,
   "members": [
    {
     "name": "WH❤TAKBIR 2",
@@ -838,7 +893,7 @@
    }
   ],
   "name": "WaR HoUsE",
-  "stars": 29,
+  "stars": 35,
   "tag": "#PCCP8LQL"
  },
  "start": "20261127T184606.000Z",

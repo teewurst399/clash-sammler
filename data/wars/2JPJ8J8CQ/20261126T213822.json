@@ -934,11 +934,121 @@
    "p": 68,
    "s": 2,
    "side": "gegner"
+  },
+  {
+   "a": "#8JRJP8JV",
+   "ath": 19,
+   "d": "#Q9UU9UYQ",
+   "dth": 19,
+   "dur": 91,
+   "o": 86,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#J00G9GC",
+   "ath": 19,
+   "d": "#PC2YRL82",
+   "dth": 19,
+   "dur": 115,
+   "o": 87,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#9P2GGL29R",
+   "ath": 19,
+   "d": "#8QY08ULP",
+   "dth": 19,
+   "dur": 180,
+   "o": 88,
+   "p": 88,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#8JRJP8JV",
+   "ath": 19,
+   "d": "#202L2LG9G",
+   "dth": 19,
+   "dur": 139,
+   "o": 89,
+   "p": 99,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#228R88GRP",
+   "ath": 19,
+   "d": "#PJYQGV00",
+   "dth": 19,
+   "dur": 148,
+   "o": 90,
+   "p": 99,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#PJYQGV00",
+   "ath": 19,
+   "d": "#2PG2JQCLV",
+   "dth": 19,
+   "dur": 100,
+   "o": 91,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#PJYQGV00",
+   "ath": 19,
+   "d": "#LJ99UV8Y",
+   "dth": 19,
+   "dur": 117,
+   "o": 92,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#2P8G9YQV",
+   "ath": 19,
+   "d": "#22V9GUQ9Y",
+   "dth": 19,
+   "dur": 169,
+   "o": 93,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#2PGYCPVPC",
+   "ath": 19,
+   "d": "#LYYU8G8LP",
+   "dth": 19,
+   "dur": 155,
+   "o": 94,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#2PGYCPVPC",
+   "ath": 19,
+   "d": "#VVYJ9YLQ",
+   "dth": 19,
+   "dur": 135,
+   "o": 95,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 90.11429,
+  "destruction": 98.828575,
   "members": [
    {
     "name": "Louis",
@@ -1152,12 +1262,12 @@
    }
   ],
   "name": "Pokerzone",
-  "stars": 91,
+  "stars": 101,
   "tag": "#2JPJ8J8CQ"
  },
  "end": "20261128T203822.000Z",
  "opponent": {
-  "destruction": 90.65714,
+  "destruction": 96.37143,
   "members": [
    {
     "name": "ᐯᶠᴼᴿᐯＥＮＤＥＴＴＡ",
@@ -1371,7 +1481,7 @@
    }
   ],
   "name": "SUPERBIA PkTr",
-  "stars": 87,
+  "stars": 94,
   "tag": "#VPLRRJUG"
  },
  "start": "20261127T203822.000Z",
