@@ -846,11 +846,99 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#CQC9CYY0",
+   "ath": 19,
+   "d": "#YY90Y2L8G",
+   "dth": 19,
+   "dur": 164,
+   "o": 78,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#PLJ29CRUG",
+   "ath": 19,
+   "d": "#8UVPUJLQ",
+   "dth": 19,
+   "dur": 115,
+   "o": 79,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#82VLRVG9J",
+   "ath": 18,
+   "d": "#8L20LVCUL",
+   "dth": 19,
+   "dur": 159,
+   "o": 80,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#LPJYR2288",
+   "ath": 19,
+   "d": "#8GYV0YLGJ",
+   "dth": 19,
+   "dur": 139,
+   "o": 81,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#Q2VV80GU2",
+   "ath": 19,
+   "d": "#2CGRJYUPC",
+   "dth": 18,
+   "dur": 155,
+   "o": 82,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#Q2VV80GU2",
+   "ath": 19,
+   "d": "#99C880R09",
+   "dth": 19,
+   "dur": 125,
+   "o": 83,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#82VLRVG9J",
+   "ath": 18,
+   "d": "#LYPV8J8CY",
+   "dth": 19,
+   "dur": 136,
+   "o": 84,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#9089LJR",
+   "ath": 19,
+   "d": "#20U2P99JP",
+   "dth": 19,
+   "dur": 180,
+   "o": 85,
+   "p": 85,
+   "s": 2,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 85.22857,
+  "destruction": 93.942856,
   "members": [
    {
     "name": "GL™ ReViX",
@@ -1064,12 +1152,12 @@
    }
   ],
   "name": "GNADENLOS™",
-  "stars": 86,
+  "stars": 97,
   "tag": "#U2JVY229"
  },
  "end": "20261128T191012.000Z",
  "opponent": {
-  "destruction": 87.37143,
+  "destruction": 96.314285,
   "members": [
    {
     "name": "AQL Moon",
@@ -1283,7 +1371,7 @@
    }
   ],
   "name": "AQUILA",
-  "stars": 90,
+  "stars": 100,
   "tag": "#2C2JYY220"
  },
  "start": "20261127T191012.000Z",

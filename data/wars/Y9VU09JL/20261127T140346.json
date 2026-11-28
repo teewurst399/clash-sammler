@@ -21,11 +21,165 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#8PLVR82QC",
+   "ath": 19,
+   "d": "#YG2R8PJYL",
+   "dth": 19,
+   "dur": 109,
+   "o": 3,
+   "p": 95,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#YU92LVVC",
+   "ath": 19,
+   "d": "#YG2R8PJYL",
+   "dth": 19,
+   "dur": 82,
+   "o": 4,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#YU92LVVC",
+   "ath": 19,
+   "d": "#2G89VUVC0",
+   "dth": 19,
+   "dur": 92,
+   "o": 5,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#8PLVR82QC",
+   "ath": 19,
+   "d": "#CPUJGQQC",
+   "dth": 19,
+   "dur": 65,
+   "o": 6,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#2CRP0P2Q8",
+   "ath": 19,
+   "d": "#LY9VJVPG9",
+   "dth": 19,
+   "dur": 107,
+   "o": 7,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#LJP8JL880",
+   "ath": 19,
+   "d": "#92R9G80Y",
+   "dth": 19,
+   "dur": 164,
+   "o": 8,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#2CRP0P2Q8",
+   "ath": 19,
+   "d": "#Q9CJY9ULL",
+   "dth": 19,
+   "dur": 89,
+   "o": 9,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#LJP8JL880",
+   "ath": 19,
+   "d": "#LCV2JGG82",
+   "dth": 19,
+   "dur": 167,
+   "o": 10,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#2P2V02GC9",
+   "ath": 19,
+   "d": "#LC0C88GPU",
+   "dth": 19,
+   "dur": 135,
+   "o": 11,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#2P2V02GC9",
+   "ath": 19,
+   "d": "#L9J09VCLR",
+   "dth": 19,
+   "dur": 180,
+   "o": 12,
+   "p": 99,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#2UCVU9YY9",
+   "ath": 19,
+   "d": "#9GR8JRQCU",
+   "dth": 19,
+   "dur": 169,
+   "o": 13,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#P8URCGU9",
+   "ath": 19,
+   "d": "#L9J09VCLR",
+   "dth": 19,
+   "dur": 94,
+   "o": 14,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#LY9VJVPG9",
+   "ath": 19,
+   "d": "#C0LGVRRL",
+   "dth": 19,
+   "dur": 131,
+   "o": 15,
+   "p": 93,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#P8URCGU9",
+   "ath": 19,
+   "d": "#PY9GL0GGL",
+   "dth": 19,
+   "dur": 97,
+   "o": 16,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 2.857143,
+  "destruction": 34.285713,
   "members": [
    {
     "name": "vllo",
@@ -239,12 +393,12 @@
    }
   ],
   "name": "Rising Phoenix",
-  "stars": 3,
+  "stars": 36,
   "tag": "#Y9VU09JL"
  },
  "end": "20261129T130346.000Z",
  "opponent": {
-  "destruction": 2.857143,
+  "destruction": 5.5142856,
   "members": [
    {
     "name": "hema.❤",
@@ -458,7 +612,7 @@
    }
   ],
   "name": "Egypt",
-  "stars": 3,
+  "stars": 5,
   "tag": "#2QQ9C2PUJ"
  },
  "start": "20261128T130346.000Z",

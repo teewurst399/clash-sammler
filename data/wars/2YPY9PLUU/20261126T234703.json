@@ -769,11 +769,33 @@
    "p": 99,
    "s": 2,
    "side": "clan"
+  },
+  {
+   "a": "#LJPCRGPPG",
+   "ath": 19,
+   "d": "#20VPVC80Y",
+   "dth": 19,
+   "dur": 135,
+   "o": 71,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#LJPCRGPPG",
+   "ath": 19,
+   "d": "#22LQ8QY88",
+   "dth": 19,
+   "dur": 128,
+   "o": 72,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 37.085712,
+  "destruction": 37.142857,
   "members": [
    {
     "name": "xXStelioXx",
@@ -987,7 +1009,7 @@
    }
   ],
   "name": "Endzone",
-  "stars": 37,
+  "stars": 39,
   "tag": "#2YPY9PLUU"
  },
  "end": "20261128T224703.000Z",

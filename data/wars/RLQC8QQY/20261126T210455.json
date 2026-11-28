@@ -1066,11 +1066,132 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#8UPR9JCQV",
+   "ath": 19,
+   "d": "#G99QQRQR",
+   "dth": 19,
+   "dur": 152,
+   "o": 98,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#8UPR9JCQV",
+   "ath": 19,
+   "d": "#JCRPGYCP",
+   "dth": 19,
+   "dur": 151,
+   "o": 99,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#8V0V92Q22",
+   "ath": 19,
+   "d": "#89RC2CJ28",
+   "dth": 19,
+   "dur": 130,
+   "o": 100,
+   "p": 91,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#PCPLGURRQ",
+   "ath": 19,
+   "d": "#QVCQP9P",
+   "dth": 19,
+   "dur": 135,
+   "o": 101,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#PCPLGURRQ",
+   "ath": 19,
+   "d": "#89RC2CJ28",
+   "dth": 19,
+   "dur": 127,
+   "o": 102,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#2U2QQUURP",
+   "ath": 19,
+   "d": "#QRLV8UV00",
+   "dth": 19,
+   "dur": 148,
+   "o": 103,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#R9088VPG",
+   "ath": 19,
+   "d": "#9P9PGLL9",
+   "dth": 19,
+   "dur": 120,
+   "o": 104,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#Y02GPRG8",
+   "ath": 19,
+   "d": "#L8RCRC2G",
+   "dth": 19,
+   "dur": 118,
+   "o": 105,
+   "p": 89,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#2U2QQUURP",
+   "ath": 19,
+   "d": "#CYL88RJ8",
+   "dth": 19,
+   "dur": 135,
+   "o": 106,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#R9088VPG",
+   "ath": 19,
+   "d": "#JVL8UJ8J",
+   "dth": 18,
+   "dur": 124,
+   "o": 107,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#G0CG8GRL",
+   "ath": 19,
+   "d": "#PLJP0VUL",
+   "dth": 18,
+   "dur": 152,
+   "o": 108,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 81.025,
+  "destruction": 95.0,
   "members": [
    {
     "name": "Gsälzbrot",
@@ -1314,7 +1435,7 @@
    }
   ],
   "name": "headstart",
-  "stars": 95,
+  "stars": 114,
   "tag": "#RLQC8QQY"
  },
  "end": "20261128T200455.000Z",

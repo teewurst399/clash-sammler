@@ -1176,11 +1176,66 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#LUGGC9JV",
+   "ath": 19,
+   "d": "#8YVL020",
+   "dth": 19,
+   "dur": 96,
+   "o": 108,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#L0RY82VR",
+   "ath": 19,
+   "d": "#2P9Q2UPG0",
+   "dth": 19,
+   "dur": 180,
+   "o": 109,
+   "p": 94,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#L0RY82VR",
+   "ath": 19,
+   "d": "#9RCPP82G",
+   "dth": 19,
+   "dur": 133,
+   "o": 110,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#9LPV8Q0L",
+   "ath": 19,
+   "d": "#9C89V89U",
+   "dth": 19,
+   "dur": 123,
+   "o": 111,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#9LPV8Q0L",
+   "ath": 19,
+   "d": "#2VQ0P9Q90",
+   "dth": 19,
+   "dur": 96,
+   "o": 112,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 92.9,
+  "destruction": 97.9,
   "members": [
    {
     "name": "THRON",
@@ -1424,7 +1479,7 @@
    }
   ],
   "name": "SteinFrucht",
-  "stars": 108,
+  "stars": 114,
   "tag": "#2JU9URU2L"
  },
  "end": "20261128T181214.000Z",

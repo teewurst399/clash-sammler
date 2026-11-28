@@ -1099,11 +1099,99 @@
    "p": 62,
    "s": 2,
    "side": "gegner"
+  },
+  {
+   "a": "#8C9J90RY9",
+   "ath": 19,
+   "d": "#22R8UVVUC",
+   "dth": 19,
+   "dur": 163,
+   "o": 101,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#2LQ20QPRU",
+   "ath": 19,
+   "d": "#LPYYY2VUL",
+   "dth": 19,
+   "dur": 110,
+   "o": 102,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#Q2QCQ200",
+   "ath": 19,
+   "d": "#22UR9QVGV",
+   "dth": 19,
+   "dur": 155,
+   "o": 103,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#8C9J90RY9",
+   "ath": 19,
+   "d": "#JVPR08LR",
+   "dth": 19,
+   "dur": 141,
+   "o": 104,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#2LQ20QPRU",
+   "ath": 19,
+   "d": "#9LL82P00R",
+   "dth": 19,
+   "dur": 113,
+   "o": 105,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#9LL82P00R",
+   "ath": 19,
+   "d": "#2RV0R0JP9",
+   "dth": 19,
+   "dur": 127,
+   "o": 106,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#9LL82P00R",
+   "ath": 19,
+   "d": "#8C9J90RY9",
+   "dth": 19,
+   "dur": 151,
+   "o": 107,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#JJRC0CRC",
+   "ath": 19,
+   "d": "#YYVPRPY8",
+   "dth": 19,
+   "dur": 180,
+   "o": 108,
+   "p": 92,
+   "s": 2,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 92.65,
+  "destruction": 98.45,
   "members": [
    {
     "name": "MOZ.ART",
@@ -1347,12 +1435,12 @@
    }
   ],
   "name": "Firstzone",
-  "stars": 108,
+  "stars": 115,
   "tag": "#2YQQ80QGL"
  },
  "end": "20261128T191235.000Z",
  "opponent": {
-  "destruction": 95.375,
+  "destruction": 97.425,
   "members": [
    {
     "name": "Bhors23",
@@ -1596,7 +1684,7 @@
    }
   ],
   "name": "House of Elites",
-  "stars": 109,
+  "stars": 113,
   "tag": "#2YLR0J09Y"
  },
  "start": "20261127T191235.000Z",

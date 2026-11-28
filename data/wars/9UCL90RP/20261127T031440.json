@@ -1000,11 +1000,121 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#9RYVQCY02",
+   "ath": 19,
+   "d": "#9CGCUCPYL",
+   "dth": 19,
+   "dur": 164,
+   "o": 92,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#9RYVQCY02",
+   "ath": 19,
+   "d": "#GJQ0VLG8",
+   "dth": 19,
+   "dur": 180,
+   "o": 93,
+   "p": 98,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#8CVRGCR8",
+   "ath": 19,
+   "d": "#PPQY8UVPR",
+   "dth": 19,
+   "dur": 136,
+   "o": 94,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#8CVRGCR8",
+   "ath": 19,
+   "d": "#PJ0YRPC22",
+   "dth": 19,
+   "dur": 107,
+   "o": 95,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#9LJPJQQPQ",
+   "ath": 19,
+   "d": "#YJGYP289",
+   "dth": 19,
+   "dur": 77,
+   "o": 96,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#9LJPJQQPQ",
+   "ath": 19,
+   "d": "#JUQUPU8C",
+   "dth": 19,
+   "dur": 115,
+   "o": 97,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#QCLC2CVL",
+   "ath": 19,
+   "d": "#2YVGGYYG8",
+   "dth": 19,
+   "dur": 158,
+   "o": 98,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#98YR8QL0",
+   "ath": 19,
+   "d": "#9YQQQGJ8",
+   "dth": 19,
+   "dur": 131,
+   "o": 99,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#2QRVC092",
+   "ath": 19,
+   "d": "#GJQ0VLG8",
+   "dth": 19,
+   "dur": 130,
+   "o": 100,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#2QRVC092",
+   "ath": 19,
+   "d": "#GGRC20908",
+   "dth": 19,
+   "dur": 129,
+   "o": 101,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 91.86667,
+  "destruction": 99.666664,
   "members": [
    {
     "name": "ROBINJO*ALIHAN",
@@ -1278,12 +1388,12 @@
    }
   ],
   "name": "Eiskalte Engel",
-  "stars": 117,
+  "stars": 132,
   "tag": "#9UCL90RP"
  },
  "end": "20261129T021440.000Z",
  "opponent": {
-  "destruction": 82.8,
+  "destruction": 82.933334,
   "members": [
    {
     "name": "Tyler/Neo",
@@ -1557,7 +1667,7 @@
    }
   ],
   "name": "War Maniacs",
-  "stars": 106,
+  "stars": 107,
   "tag": "#9VVU2Q0V"
  },
  "start": "20261128T021440.000Z",

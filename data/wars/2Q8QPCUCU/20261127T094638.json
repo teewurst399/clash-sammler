@@ -439,11 +439,121 @@
    "p": 100,
    "s": 3,
    "side": "gegner"
+  },
+  {
+   "a": "#QUL2VY20",
+   "ath": 19,
+   "d": "#8LYPLYJV0",
+   "dth": 19,
+   "dur": 137,
+   "o": 41,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#QUL2VY20",
+   "ath": 19,
+   "d": "#GU89GVQC",
+   "dth": 19,
+   "dur": 136,
+   "o": 42,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#22PJ0PLYR",
+   "ath": 19,
+   "d": "#Q28R980VJ",
+   "dth": 19,
+   "dur": 89,
+   "o": 43,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#8CQLRCP2",
+   "ath": 19,
+   "d": "#9QUL8CVCL",
+   "dth": 19,
+   "dur": 145,
+   "o": 44,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#8CQLRCP2",
+   "ath": 19,
+   "d": "#QQY08C9Y9",
+   "dth": 19,
+   "dur": 138,
+   "o": 45,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#22PJ0PLYR",
+   "ath": 19,
+   "d": "#8CQU8QRPC",
+   "dth": 19,
+   "dur": 155,
+   "o": 46,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#8U8PCJU92",
+   "ath": 19,
+   "d": "#G8VVCUV",
+   "dth": 19,
+   "dur": 82,
+   "o": 47,
+   "p": 70,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#2Q8P8P9J0",
+   "ath": 19,
+   "d": "#90J8R9R9V",
+   "dth": 19,
+   "dur": 114,
+   "o": 48,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#2Q8P8P9J0",
+   "ath": 19,
+   "d": "#2UV0GPRCC",
+   "dth": 19,
+   "dur": 116,
+   "o": 49,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#89LVV8QP",
+   "ath": 19,
+   "d": "#QPPLCLYY",
+   "dth": 19,
+   "dur": 178,
+   "o": 50,
+   "p": 84,
+   "s": 2,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 53.725,
+  "destruction": 73.725,
   "members": [
    {
     "name": "Travel327",
@@ -687,12 +797,12 @@
    }
   ],
   "name": "Der Obstorden",
-  "stars": 60,
+  "stars": 84,
   "tag": "#2Q8QPCUCU"
  },
  "end": "20261129T084638.000Z",
  "opponent": {
-  "destruction": 36.775,
+  "destruction": 40.625,
   "members": [
    {
     "name": "Albert",
@@ -936,7 +1046,7 @@
    }
   ],
   "name": "CLAN OF MON",
-  "stars": 42,
+  "stars": 46,
   "tag": "#2YQ2V92YC"
  },
  "start": "20261128T084638.000Z",
