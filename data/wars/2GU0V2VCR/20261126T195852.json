@@ -978,6 +978,28 @@
    "p": 78,
    "s": 1,
    "side": "clan"
+  },
+  {
+   "a": "#9R2UUG8L",
+   "ath": 19,
+   "d": "#G9UP2JY8Y",
+   "dth": 19,
+   "dur": 157,
+   "o": 90,
+   "p": 95,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#JVU8YCYP",
+   "ath": 19,
+   "d": "#PRR89P888",
+   "dth": 19,
+   "dur": 120,
+   "o": 91,
+   "p": 86,
+   "s": 2,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -1201,7 +1223,7 @@
  },
  "end": "20261128T185852.000Z",
  "opponent": {
-  "destruction": 94.11429,
+  "destruction": 99.28571,
   "members": [
    {
     "name": "Danils",
@@ -1415,7 +1437,7 @@
    }
   ],
   "name": "\"WARRIORS\"",
-  "stars": 98,
+  "stars": 102,
   "tag": "#90CYJQ0G"
  },
  "start": "20261127T185852.000Z",

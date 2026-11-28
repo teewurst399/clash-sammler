@@ -791,11 +791,55 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#2YPCLR2QQ",
+   "ath": 19,
+   "d": "#22PUVQU29",
+   "dth": 19,
+   "dur": 128,
+   "o": 73,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#9QLYQPP2",
+   "ath": 19,
+   "d": "#2Y2YG288Y",
+   "dth": 19,
+   "dur": 144,
+   "o": 74,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#9QLYQPP2",
+   "ath": 19,
+   "d": "#QUP0RUQGL",
+   "dth": 19,
+   "dur": 151,
+   "o": 75,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#U0RC2QGV",
+   "ath": 19,
+   "d": "#QUYPG8ULR",
+   "dth": 19,
+   "dur": 113,
+   "o": 76,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 37.142857,
+  "destruction": 45.714287,
   "members": [
    {
     "name": "xXStelioXx",
@@ -1009,7 +1053,7 @@
    }
   ],
   "name": "Endzone",
-  "stars": 39,
+  "stars": 48,
   "tag": "#2YPY9PLUU"
  },
  "end": "20261128T224703.000Z",

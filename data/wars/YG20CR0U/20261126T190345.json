@@ -890,6 +890,17 @@
    "p": 84,
    "s": 2,
    "side": "clan"
+  },
+  {
+   "a": "#GGLC900V",
+   "ath": 19,
+   "d": "#L8CVRL8C",
+   "dth": 19,
+   "dur": 149,
+   "o": 82,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,

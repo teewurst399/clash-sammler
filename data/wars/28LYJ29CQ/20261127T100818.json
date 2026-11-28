@@ -857,6 +857,39 @@
    "p": 96,
    "s": 2,
    "side": "gegner"
+  },
+  {
+   "a": "#QJQV9YJGV",
+   "ath": 19,
+   "d": "#8C8RP02U",
+   "dth": 19,
+   "dur": 101,
+   "o": 79,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#LPLR9YY8J",
+   "ath": 19,
+   "d": "#GCJV29VY",
+   "dth": 19,
+   "dur": 111,
+   "o": 80,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#LPLR9YY8J",
+   "ath": 19,
+   "d": "#GCQYC8QL",
+   "dth": 19,
+   "dur": 172,
+   "o": 81,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -1110,7 +1143,7 @@
  },
  "end": "20261129T090818.000Z",
  "opponent": {
-  "destruction": 97.4,
+  "destruction": 100.0,
   "members": [
    {
     "name": "雪菜肉絲",
@@ -1354,7 +1387,7 @@
    }
   ],
   "name": "最强部落",
-  "stars": 116,
+  "stars": 120,
   "tag": "#22RR0PPUL"
  },
  "start": "20261128T090818.000Z",

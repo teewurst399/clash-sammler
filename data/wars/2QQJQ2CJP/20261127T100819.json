@@ -186,6 +186,50 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#GQRUL2UC2",
+   "ath": 19,
+   "d": "#QUQJUVP9",
+   "dth": 19,
+   "dur": 103,
+   "o": 18,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#GQRUL2UC2",
+   "ath": 19,
+   "d": "#GP98L00P9",
+   "dth": 19,
+   "dur": 115,
+   "o": 19,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#GL8PRV98R",
+   "ath": 19,
+   "d": "#PVLRVQPRR",
+   "dth": 19,
+   "dur": 118,
+   "o": 20,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
+  },
+  {
+   "a": "#GL8PRV98R",
+   "ath": 19,
+   "d": "#8L8PL2CJU",
+   "dth": 19,
+   "dur": 127,
+   "o": 21,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -319,7 +363,7 @@
  },
  "end": "20261129T090819.000Z",
  "opponent": {
-  "destruction": 42.25,
+  "destruction": 53.6,
   "members": [
    {
     "name": "닝기리",
@@ -443,7 +487,7 @@
    }
   ],
   "name": "낭만",
-  "stars": 24,
+  "stars": 32,
   "tag": "#2QGUUQ0PU"
  },
  "start": "20261128T090819.000Z",

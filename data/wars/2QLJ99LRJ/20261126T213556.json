@@ -285,11 +285,77 @@
    "p": 100,
    "s": 3,
    "side": "clan"
+  },
+  {
+   "a": "#9U0PJLVVY",
+   "ath": 19,
+   "d": "#8JRLUPCGC",
+   "dth": 18,
+   "dur": 180,
+   "o": 27,
+   "p": 71,
+   "s": 1,
+   "side": "gegner"
+  },
+  {
+   "a": "#9U0PJLVVY",
+   "ath": 19,
+   "d": "#L8GCGYJ",
+   "dth": 18,
+   "dur": 180,
+   "o": 28,
+   "p": 95,
+   "s": 2,
+   "side": "gegner"
+  },
+  {
+   "a": "#GJ98VJQQR",
+   "ath": 12,
+   "d": "#QJ8CLU8GU",
+   "dth": 12,
+   "dur": 110,
+   "o": 29,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#GJ98VJQQR",
+   "ath": 12,
+   "d": "#LV8JGUU8R",
+   "dth": 12,
+   "dur": 86,
+   "o": 30,
+   "p": 100,
+   "s": 3,
+   "side": "clan"
+  },
+  {
+   "a": "#982RQ9L8",
+   "ath": 17,
+   "d": "#P29PGQJLL",
+   "dth": 16,
+   "dur": 178,
+   "o": 31,
+   "p": 93,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#982RQ9L8",
+   "ath": 17,
+   "d": "#P8VR02G9C",
+   "dth": 17,
+   "dur": 170,
+   "o": 32,
+   "p": 96,
+   "s": 2,
+   "side": "clan"
   }
  ],
  "attacksPerMember": 2,
  "clan": {
-  "destruction": 56.6,
+  "destruction": 69.566666,
   "members": [
    {
     "name": "❗️B༏g BaསG❗️",
@@ -473,12 +539,12 @@
    }
   ],
   "name": "Betazone",
-  "stars": 50,
+  "stars": 60,
   "tag": "#2QLJ99LRJ"
  },
  "end": "20261128T203556.000Z",
  "opponent": {
-  "destruction": 19.833334,
+  "destruction": 25.366667,
   "members": [
    {
     "name": "Varun",
@@ -662,7 +728,7 @@
    }
   ],
   "name": "u n me",
-  "stars": 17,
+  "stars": 20,
   "tag": "#JC0829Y2"
  },
  "start": "20261127T203556.000Z",

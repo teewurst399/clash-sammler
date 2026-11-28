@@ -1187,6 +1187,28 @@
    "p": 92,
    "s": 2,
    "side": "clan"
+  },
+  {
+   "a": "#2U2C0PJUU",
+   "ath": 19,
+   "d": "#9UG0JLPLP",
+   "dth": 19,
+   "dur": 136,
+   "o": 109,
+   "p": 82,
+   "s": 2,
+   "side": "clan"
+  },
+  {
+   "a": "#JGQ0Q9J8",
+   "ath": 19,
+   "d": "#2JGVVY8C",
+   "dth": 19,
+   "dur": 145,
+   "o": 110,
+   "p": 100,
+   "s": 3,
+   "side": "gegner"
   }
  ],
  "attacksPerMember": 2,
@@ -1440,7 +1462,7 @@
  },
  "end": "20261128T191235.000Z",
  "opponent": {
-  "destruction": 97.425,
+  "destruction": 97.45,
   "members": [
    {
     "name": "Bhors23",
@@ -1684,7 +1706,7 @@
    }
   ],
   "name": "House of Elites",
-  "stars": 113,
+  "stars": 114,
   "tag": "#2YLR0J09Y"
  },
  "start": "20261127T191235.000Z",
